@@ -391,13 +391,13 @@ Sumantra ne Raja Dasharath se kaha:
 “Maharaj, Sanatkumara ne kaha tha ki — ‘Ikshvaku vansh me ek dharmic aur satya-premi (<span style="color:#FF5733;">truth-loving</span>) raja hoga, jiska naam Dasaratha hoga. Vah Anga ke Raja Lomapada se mitrata karega.
 
 Raja Dasaratha apne mitra Lomapada ke paas jaakar unse anurodh karega ki Rishyasringa, Rajkumari Shanta ka pati, uski sahayata kare ek vishesh yajna (<span style="color:#FF5733;">sacrifice</span>) me, taaki usko putra prapt ho. Lomapada raja soch-vichar ke baad Rishyasringa ko Dasaratha ke saath jaane ki anumati (<span style="color:#FF5733;">permission</span>) dega.
-
-Is yajna ke dwara, Raja Dasaratha ke chaar putra honge, jo apaar veerta (<span style="color:#FF5733;">valour</span>) wale honge aur poore vishwa me prasiddh honge, aur unke vansh ki mahima ko badhaenge.’ Sanatkumara ne ye katha Satya-Yuga ke prarambh me sunayi.
         """
         create_image_text_layout("attached_assets/chapter1/1.11.1.jpg", text1, layout="side", image_position="left")
 
 
         text2 = """
+Is yajna ke dwara, Raja Dasaratha ke chaar putra honge, jo apaar veerta (<span style="color:#FF5733;">valour</span>) wale honge aur poore vishwa me prasiddh honge, aur unke vansh ki mahima ko badhaenge.’ Sanatkumara ne ye katha Satya-Yuga ke prarambh me sunayi.
+
 Raja Dasharath ne apne mantri Sumantra ki salah ko maana aur turant Guru Vasishtha ko is yojna ke baare me bataya. Vasishtha ne bhi is yojna me sahmati di. Phir raja, apni raniyon, mantriyon aur purohits (<span style="color:#FF5733;">priests</span>) ke saath, Rishyasringa ke rajya ke liye nikal padhe. Kai van aur nadiyon ko paar karte hue, ve Raja Lomapada ke rajya pahunch gaye.
 
 Wahan unhone Rishyasringa ko dekha — chamak rahe the, jaise agni (<span style="color:#FF5733;">fire</span>) me ujala. Raja Lomapada ne mitrata aur samman dikhate hue Dasharath ka pranam kiya aur Rishyasringa ko unki sahmati batayi. Saat din tak Dasharath ne Lomapada ke rajya me atithi seva (<span style="color:#FF5733;">hospitality</span>) ka anand liya. Fir raja ne kaha,
@@ -484,14 +484,13 @@ Vasishtha ne Raja Dasharath ko kaha:
 Saal bhar ghoomne ke baad, ghoda (<span style="color:#FF5733;">horse</span>) wapas aaya aur Sarayu nadi ke kinare Raja Dasharath ka yajna jaari raha. Rishyasringa aur anya purohits (<span style="color:#FF5733;">priests</span>) ne sabhi kriyaayein sahi dhang se poori ki. Pravargya aur Upasada jaise vishesh karm (<span style="color:#FF5733;">special rites</span>) poore kiye gaye. Brahmins ne devtaon ki pooja ki aur Indra ko yajna ka hissa arpit kiya. Sabne soma-ras (<span style="color:#FF5733;">sacred juice</span>) piya, jo paap ko door karta hai.
 
 Yajna me sab kuch shastra ke anusar aur sahi dhang se hua. Brahmins, sevak, aur anya log sabhi ko aahar (<span style="color:#FF5733;">food</span>) aur seva (<span style="color:#FF5733;">hospitality</span>) di gayi. Buzurg, bachche aur mahilayein bhi sampoorna suvidha prapt kar rahe the. Raja ne vastu, sona (<span style="color:#FF5733;">gold</span>), aur dhan sabko bakshe, aur khana-pina har kisi ke liye prabandhit tha.
-
-Beech-beech me pundit (<span style="color:#FF5733;">scholars</span>) bhi gyaan-vivad karte rahe. Yajna ke sthaan par 18 khambhe (<span style="color:#FF5733;">pillars</span>) lagaye gaye, har ek alag lakdi ka, sone se sajaya gaya aur phool aur chandan se sajaaya gaya. Fire pits aur yajna ke samagriyon ka dhyaan brahmins aur masons ne rakha.
-
         """
         create_image_text_layout("attached_assets/chapter1/1.14.1.jpg", text1, layout="side", image_position="left")
 
 
         text2 = """
+Beech-beech me pundit (<span style="color:#FF5733;">scholars</span>) bhi gyaan-vivad karte rahe. Yajna ke sthaan par 18 khambhe (<span style="color:#FF5733;">pillars</span>) lagaye gaye, har ek alag lakdi ka, sone se sajaya gaya aur phool aur chandan se sajaaya gaya. Fire pits aur yajna ke samagriyon ka dhyaan brahmins aur masons ne rakha.
+
 Ghoda aur anya pashu yajna ke niyam ke anusar bandh diye gaye. Queen Kaushalya ne ghode ko teen talwar ke vaar se arpit kiya aur raat bhar uske paas rehti rahi. Brahmins ne ghode ka charbi aag me arpit kiya aur King Dasharath ne paap ka prashaman kiya.  Yajna ke teen din me Agnishtoma, Uktha aur Atiratra jaise rites hue. Jyotishtoma, Vishnajit, Abhijit jaise maha-yajna bhi kiye gaye.
 
 Yajna ke ant me Raja Dasharath ne chaur pradesh (<span style="color:#FF5733;">four parts</span>) apne raja ke daakshina (<span style="color:#FF5733;">charity</span>) me diye aur bade dharmik udaharan ke roop me bhoomi aur dhan brahmins ko arpit kiya. Brahmins ne kaha: “O Raja, hum itni badi bhoomi aur rajya sambhal nahi sakte, kripya humko kuch chhota uphaar dein.” Raja ne 1 crore (<span style="color:#FF5733;">100 million</span>) sona aur 4 crore (<span style="color:#FF5733;">400 million</span>) chandi diye. Har ek ko uska nyayik hissa mila. Dusre brahmins aur yajna dekhne aaye logon ko bhi dhan aur uphaar diye gaye. Ek bhikshuk ne raja ki diamond ki kangan maangi aur raja ne bina hichkichaye de diya.
@@ -534,6 +533,309 @@ Phir Vishnu ne nishchay kiya ki wo Raja Dasaratha ke ghar chaar putron ke roop m
 “Hey Lord, duniya se is buraai ko mita do aur phir apne divya ghar (<span style="color:#FF5733;">heaven</span>) me wapas chalo.”
         """
         create_image_text_layout("attached_assets/chapter1/1.15.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter16
+    with st.expander("Chapter 1.16 - Vishnu plans to be born as Dasaratha’s four sons"):        
+
+        text1 = """
+Sab devtaon ki prarthana (<span style="color:#FF5733;">prayer</span>) sun kar Shri Narayana (Lord Vishnu) muskuraye aur pyar se bole —
+“Hey Devtaon, batao to sahi, woh dusht (<span style="color:#FF5733;">evil</span>) Ravana ko kaise maara jaa sakta hai?” Sab devta ek sur me bole, “Hey Prabhu, aap hi insaan (<span style="color:#FF5733;">human</span>) roop me janm lijiye aur usse yudh (<span style="color:#FF5733;">battle</span>) me maar dijiye! Ravana ne Brahma ji se varadan (<span style="color:#FF5733;">boon</span>) paaya hai ki use koi devta, daanav (<span style="color:#FF5733;">demon</span>) ya gandharva nahi maar sakta. Lekin usne insaan se suraksha nahi maangi, kyunki use laga insaan kamzor hai.” Vishnu ji ne haan me sir hilaaya aur kaha,
+“Thik hai — main insaan roop me prithvi (<span style="color:#FF5733;">earth</span>) par jaunga. Aur Ravana ka ant (<span style="color:#FF5733;">end</span>) karunga.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.16.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Us samay Raja Dasharatha Ayodhya me ek putra prapti yagya (<span style="color:#FF5733;">sacrifice for a son</span>) kar rahe the. Vishnu ji ne socha,
+“Main isi mahaan aur nyaypriya (<span style="color:#FF5733;">just</span>) raja ke ghar janm lunga.” Tabhi agni (<span style="color:#FF5733;">fire</span>) ke beech se ek divya purush (<span style="color:#FF5733;">heavenly being</span>) nikle — unka roop sooraj jaisa chamak raha tha, unke haath me ek sunehra patra (<span style="color:#FF5733;">golden bowl</span>) tha, jisme payasa (<span style="color:#FF5733;">sweet rice pudding</span>) tha — devtaon dwara banaaya gaya.
+
+Wo bola, “Hey Raja Dasharatha, ye payasa Prajapati ne bheja hai. Isse apni raaniyon ko khilao — tumhe chaar putra milenge.” Raja Dasharatha ne us patra ko shraddha se apne mastak (<span style="color:#FF5733;">forehead</span>) se lagaya aur dil se khushi me bhar gaye — jaise koi garib aadmi khazana paale! Phir Dasharatha ne payasa apni teen raaniyon me baanta — Aadha Rani Kaushalya ko diya,
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ek-teehaai Rani Sumitra ko, Aur ek-hissa Rani Kaikeyi ko. Baad me jo thoda bacha, wo bhi Sumitra ko de diya. Sab raaniyan bahut khush ho gayin aur bhagwan ka dhanyavaad kiya. Kuch samay baad, unke garbh (<span style="color:#FF5733;">wombs</span>) me prakash chamakne laga — jaise sooraj ki roshni. Raja Dasharatha ka mann khushi se bhar gaya — ab unka sabse bada sapna poora hone wala tha! 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.16.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter17
+    with st.expander("Chapter 1.17 - Gods take birth as monkey warriors"):
+
+        text1 = """
+Ab jab Bhagwan Vishnu Raja Dasharatha ke ghar chaar putron ke roop me aane wale the, tab Brahma ji ne sab devtaon se kaha — “Hey Devtaon! Bhagwan Vishnu ab manav (<span style="color:#FF5733;">human</span>) roop me dharti par janm lene wale hain. Unki madad karne ke liye tum sab bhi vanar kul (<span style="color:#FF5733;">monkey tribe</span>) me janm lo. Tum sab shaktishaali, buddhimaan (<span style="color:#FF5733;">wise</span>), aur yudh-vidya (<span style="color:#FF5733;">warfare</span>) me nipun (<span style="color:#FF5733;">skilled</span>) yoddha ban kar unka saath do.” 
+
+Brahma ji ne aur kaha — “Tumme se kuch log apsara (<span style="color:#FF5733;">nymphs</span>), gandharva, aur tapasiya (<span style="color:#FF5733;">female ascetics</span>) ke roop me bhi janm lo, jisse ve sab shaktishaali vanar putron ko janm dein.” Phir Brahma ji muskuraaye aur bole, “Yaad hai? Jab maine kabhi jamhai (<span style="color:#FF5733;">yawn</span>) li thi, tab ek mahaan bhalu (<span style="color:#FF5733;">bear</span>) Jambavan janma tha!” To sab devta apni apni shakti se vanar yoddhaon ko janm dene lage —
+        """
+        create_image_text_layout("attached_assets/chapter1/1.18.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Indra ne Bali ko utpann kiya, Surya dev (<span style="color:#FF5733;">Sun god</span>) ne Sugriva ko, Brihaspati ne buddhimaan Tara ko, Kubera ne Gandhamadana ko, Vishwakarma ne shaktishaali Nala ko, Agni dev (<span style="color:#FF5733;">Fire god</span>) ne tejesvi Nila ko,
+Ashwini Kumars ne Minda aur Dvivida ko, Varuna ne Suchena ko,
+Pavana dev (<span style="color:#FF5733;">Wind god</span>) ne ek anokhe aur balwan putra Hanuman ko janm diya! Hanuman ka sharir vajra (<span style="color:#FF5733;">diamond</span>) jaisa kathin tha aur unki gati (<span style="color:#FF5733;">speed</span>) garud (eagle) jaisi tez!
+Buddhi aur shakti me unka koi sammaan (<span style="color:#FF5733;">equal</span>) nahi tha. Dheere dheere, hazaaron vanar, bhalu aur kapi (<span style="color:#FF5733;">chimpanzee</span>) janm lene lage. Sabke andar apne devta jaise guna (<span style="color:#FF5733;">qualities</span>) the — shaktishaali, veer (<span style="color:#FF5733;">brave</span>), aur nirmal hriday (<span style="color:#FF5733;">pure-hearted</span>). 
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ye sab vanar parvat (<span style="color:#FF5733;">mountain</span>) tod sakte the, bade bade ped ukhaad sakte the, aur bijli (<span style="color:#FF5733;">lightning</span>) ki tarah tezi se udh sakte the! 
+Unki dahad (<span style="color:#FF5733;">roar</span>) se jungle ghoom uthta tha, aur panchhi (<span style="color:#FF5733;">birds</span>) bhi aasman se gir jaate the! Unke neta (<span style="color:#FF5733;">leaders</span>) the Bali aur Sugriva, aur unke saathi the Hanuman, Nala, aur Nila jaise mahan yoddha.
+Ye sab vanar veer ban kar jungle aur parvaton me rehne lage, prakriti (<span style="color:#FF5733;">nature</span>) ke rakshak aur dharti ke veer putra! Aur sabhi ka ek hi lakshya tha —
+Bhagwan Vishnu ke roop Shri Ram ki sahayata karna, aur dusht (<span style="color:#FF5733;">evil</span>) Ravana ka vinash (<span style="color:#FF5733;">destruction</span>) karna! 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.18.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter18
+    with st.expander("Chapter 1.18 - Dasaratha’s sons are born and grow up"):
+
+        text1 = """
+Raja Dasharatha ka yagya (<span style="color:#FF5733;">sacrifice</span>) safalta se poora hua. Sab devta (<span style="color:#FF5733;">gods</span>) apna hissa lekar apne-apne lok (<span style="color:#FF5733;">abodes</span>) wapas chale gaye.
+Raja ne bhi apni patniyon (<span style="color:#FF5733;">queens</span>), sena (<span style="color:#FF5733;">army</span>), aur sab logon ke saath Ayodhya wapas aakar apne rajya me sukh se rehna shuru kiya. Kuch samay baad — chh (<span style="color:#FF5733;">six</span>) ritu beet gayi. Chaitra mahina ke navami tithi (<span style="color:#FF5733;">ninth day</span>) ko, jab Punarvasu nakshatra chal raha tha aur sab grah (<span style="color:#FF5733;">planets</span>) shubh sthiti me the, tab ek adbhut (<span style="color:#FF5733;">wonderful</span>) ghatna hui 
+
+Queen Kaushalya ke garbh se janm hua Bhagwan Shri Ramachandra ka!
+Unka janm hote hi poora mahal prakashit (<span style="color:#FF5733;">glowing</span>) ho gaya, aur Kaushalya maa Aditi devi ki tarah chamak rahi thi. Phir Queen Kaikeyi ke garbh se Bharat janme — vinamra (<span style="color:#FF5733;">humble</span>), sundar aur dharmic (<span style="color:#FF5733;">righteous</span>).
+Aur Queen Sumitra ne janm diya Lakshman aur Shatrughna ko — dono veer (<span style="color:#FF5733;">brave</span>) aur dhanur-vidya (<span style="color:#FF5733;">archery</span>) me nipun (<span style="color:#FF5733;">skilled</span>). 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.18.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jab chaaron rajkumar janme, aasman me gandharv (<span style="color:#FF5733;">celestial singers</span>) geet gaane lage, apsara (<span style="color:#FF5733;">celestial nymphs</span>) nritya (<span style="color:#FF5733;">dance</span>) karne lagi, aur devtaon ne pushpon (<span style="color:#FF5733;">flowers</span>) ki varsha (<span style="color:#FF5733;">rain</span>) kar di. Ayodhya ke galiyon me utsav (<span style="color:#FF5733;">celebration</span>) chha gaya —
+sab jagah dhol, shehnai aur nritya ke madhur swar gunj uthe
+Raja Dasharatha ne brahmino ko daan (<span style="color:#FF5733;">donations</span>), sona, gaaye (<span style="color:#FF5733;">cows</span>) aur vastra (<span style="color:#FF5733;">clothes</span>) diye.
+
+Barahve din (<span style="color:#FF5733;">12th day</span>) par Sage Vasishtha ne naamkaran (<span style="color:#FF5733;">naming ceremony</span>) kiya — Kaushalya ke putra ka naam rakha gaya Ramachandra, Kaikeyi ke putra ka naam Bharata, Sumitra ke dono putron ke naam Lakshmana aur Shatrughna. Sab chaaron putr sundar, veer aur vidya (<span style="color:#FF5733;">knowledge</span>) me pratibhashali (<span style="color:#FF5733;">brilliant</span>) the.
+Par Shri Ram sabse alag chamak rahe the —
+satya (<span style="color:#FF5733;">truth</span>), daya (<span style="color:#FF5733;">kindness</span>), aur maryada (<span style="color:#FF5733;">nobility</span>) ke moorti (<span style="color:#FF5733;">embodiment</span>). 
+
+Ram aur Lakshman ek dusre ke bina kabhi na khate na sote the.
+Jab bhi Ram shikar (<span style="color:#FF5733;">hunt</span>) par jaate, Lakshman dhanush-baan (<span style="color:#FF5733;">bow and arrows</span>) lekar unke saath hote. Wahi prem (<span style="color:#FF5733;">love</span>) Bharata aur Shatrughna ke beech bhi tha. Raja Dasharatha apne chaaron putron se utna hi khush the jitna Brahma ji chaar Vedaon se. 
+Sab rajkumar Veda padhte, guru ko samman dete aur shastra-vidya (<span style="color:#FF5733;">weapon training</span>) me niptai dikhate.
+
+Ek din, jab Raja Dasharatha apne mantriyon aur purohito ke saath baithak (<span style="color:#FF5733;">council</span>) me the, tab ek mahan rishi aaye —
+Rishi Vishwamitra! Darban (<span style="color:#FF5733;">doorkeeper</span>) turant jaa kar bola —
+“Prabhu, Gadhi putra Vishwamitra Muni, aapke dwar (<span style="color:#FF5733;">gate</span>) par aaye hain!” Raja Dasharatha aur Guru Vasishtha turant unka swagat (<span style="color:#FF5733;">welcome</span>) karne gaye.
+Jaise Brahma ji Indra ka satkar karte hain, waise hi raja ne Vishwamitra ji ka abhinandan (<span style="color:#FF5733;">greeting</span>) kiya,
+unhe arghya (<span style="color:#FF5733;">welcome water</span>) diya aur poorn samman se rajmahal me bulaya.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Vishwamitra ne rajya aur praja (<span style="color:#FF5733;">subjects</span>) ki khair-khabar li —
+“Raja Dasharatha, kya sab praja sukh me hai? Kya sab yajna (<span style="color:#FF5733;">sacrifices</span>) dharm ke anusaar chal rahe hain? Kya aapke senapati wafadar hain? Kya mehmano ka satkar hota hai?”
+
+Raja Dasharatha ne vinamrata (<span style="color:#FF5733;">humility</span>) se kaha —
+“Hey Muniwar (<span style="color:#FF5733;">great sage</span>), aapka aana mere liye amrit (<span style="color:#FF5733;">nectar</span>) paane jaisa hai.
+Aap mere liye devata tulya (<span style="color:#FF5733;">equal to gods</span>) hain. Kripya apna uddeshya (<span style="color:#FF5733;">purpose</span>) batayein.
+Main aapki seva (<span style="color:#FF5733;">service</span>) ke liye sada taiyaar hoon.” Raja ke in madhur (<span style="color:#FF5733;">sweet</span>) aur dharmik shabdon ko sun kar Vishwamitra ji prasann (<span style="color:#FF5733;">pleased</span>) hue.
+Aur tab shuru hui wo kahani jahan se Ram ke jeevan ka asli adhyay (<span style="color:#FF5733;">chapter</span>) aarambh hota hai…
+        """
+        create_image_text_layout("attached_assets/chapter1/1.18.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter19
+    with st.expander("Chapter 1.19 - Sage Vishvamitra asks for help"):
+
+        text1 = """
+Ek din jab Rishi Vishvamitra Ayodhya aaye, Raja Dasharatha ne unka poora satkar (<span style="color:#FF5733;">respect</span>) kiya. Vishvamitra ne vinamr (<span style="color:#FF5733;">humble</span>) tareeke se bola:
+“Hey Maharaj, aapke shabdon se mujhe bada anand (<span style="color:#FF5733;">joy</span>) hua. Ab main apni baat bataunga — aap ise pura kijiye.”
+
+Vishvamitra ne bataya ki jab bhi wo yajna (<span style="color:#FF5733;">sacrifice</span>) karte hain, do bade rakshas (<span style="color:#FF5733;">demons</span>) — Maricha aur Suvahu — aake us pooja ko bigaad dete hain. Ye dono bahut chalak (<span style="color:#FF5733;">clever</span>) aur bhayankar (<span style="color:#FF5733;">fearsome</span>) hain: jab yajna poorn hone wali hoti hai, ye aate hain aur agni ko lahu (<span style="color:#FF5733;">blood</span>) aur maans (<span style="color:#FF5733;">flesh</span>) se gandha (<span style="color:#FF5733;">defile</span>) kar dete hain. Isse Vishvamitra ke pavitra karya (<span style="color:#FF5733;">holy work</span>) fail ho jaate hain.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.19.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Vishvamitra ne kaha:
+“Main krodh me aakar inko shraap nahin de sakta, kyunki yajna ke samay gussa dikhana sahi nahi. Isliye mujhe aapke ek veer putra ki zaroorat hai — Shri Ramacandra. Aap apna putra mujhe dein — main use apni raksha me rakhunga. Ram in rakshason ko hara dega aur main usse vidya (<span style="color:#FF5733;">knowledge</span>) sikhaunga. Usse teenon lok (<span style="color:#FF5733;">three worlds</span>) me prasiddhi (<span style="color:#FF5733;">fame</span>) milegi.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Bas 10 din ke liye Rama ko mujhe de dijiyega — is dauran main apna yajna pura kar dunga. Vasishtha aur anya rishiyon ko bhi aap se salaah leni chahiye. Ye kaarya shubh (<span style="color:#FF5733;">auspicious</span>) hai, dukh mat karo.”
+
+Vishvamitra ki baat sun kar Raja Dasharatha ka dil bhar aaya. Usko apne priye putra ko dena mushkil laga. Raja itna ashant hua ki wo dar ke maare behosh (<span style="color:#FF5733;">fainted</span>) ho gaya.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.19.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter20
+    with st.expander("Chapter 1.20 - Dasaratha is unsure but thinks"):
+        text1 = """
+
+Raja Dasharatha behosh hone ke baad jaag uthe. Unhone turant kaha,
+“Mera Rama abhi sirf pandrah saal ka hai — wo jawaan nahi hua. Kaise main apne pyare beta ko rakshason (<span style="color:#FF5733;">demons</span>) se ladne bhej doon? Main khud apni sena lekar jaunga. Mere anubhav (<span style="color:#FF5733;">experience</span>) wale yoddha aur sainik (<span style="color:#FF5733;">soldiers</span>) hi in dushmanon se ladein — Rama bachpan ka ladka hai!” Raja ne darate hue kaha, “Main kabhi nahi chahunga ki mera beta akela jaaye. Agar aap chahen toh mera pura sena aapke saath chale, par Rama ko mat le jaaiye. Main unhe apni jaan se bhi zyada pyara maanta hoon.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.20.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+
+
+Tab Rishi Vishvamitra (sage) ne samjhaya:
+“Raja, ye rakshas bahut shaktishaali hain. Ravana aur uske saathi—Marica aur Suvahu—atyant chalak (<span style="color:#FF5733;">crafty</span>) aur maharathi (<span style="color:#FF5733;">great warriors</span>) hain. Unhe sirf insaan hara sakta hai, kyunki unhone devtaon se aise varadan (<span style="color:#FF5733;">boons</span>) liye the jo devtaon ko bhi nahi harne dete. Sirf ek sachcha, dharmik aur veer manav — jaise Rama — hi inka vinash (<span style="color:#FF5733;">destruction</span>) kar sakta hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Raja Dasharatha ye sab sun kar aur pareshan ho gaya. Uska dil bhar aaya aur wo gusse se hil gaya—kyunki apne beta ko dena uske liye bahut kathin tha.
+Vishvamitra ko Raja ke in shabdon se krodh aa gaya — unhone socha ki samay zaya ho raha hai aur yajna (<span style="color:#FF5733;">sacrifice</span>) ruk nahi sakti.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.20.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter21
+    with st.expander("Chapter 1.21 - Dasaratha finally agrees"):
+
+        text1 = """
+Jab Raja Dasharatha ne apne beta Rama ke liye chinta (<span style="color:#FF5733;">concern</span>) se bhare shabd kahe, tab Maharishi Vishvamitra kuch naraaz ho gaye.  
+Unhone kaha, “Hey Raja, tum Raghu vansh me paida hue ho — jahan vachan (<span style="color:#FF5733;">promise</span>) todna shobha nahi deta! Tumne jo kaha, usse badalne ka yeh iraada (<span style="color:#FF5733;">intention</span>) tumhare kul ke layak nahi hai. Agar tum apna vachan todna chahte ho, to main yahan se chala jaata hoon. Tum apne mitron aur parivar ke saath sukh se raho, hey ‘vachan-bhang karne wale Raja’!”  
+
+Vishvamitra ke krodh (<span style="color:#FF5733;">anger</span>) se dharti kaap uthi, aur devta bhi dar gaye.  
+Tab Rishi Vasishtha — jo bahut gyaani aur dhairyavaan the — beech me aaye aur Raja ko shaant karte hue bole:
+        """
+        create_image_text_layout("attached_assets/chapter1/1.21.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Hey Dasharatha, tum Ikshvaku vansh ke ho — tumhara dharma (<span style="color:#FF5733;">righteousness</span>) sab log jaante hain. Tum sachai aur dhairya ke prateek (<span style="color:#FF5733;">symbol</span>) ho. Tumhe apna vachan nibhana chahiye, kyunki jo apna vaada todta hai, uska punya (<span style="color:#FF5733;">merit</span>) chala jaata hai.”  
+
+Rishi Vasishtha ne aur samjhaya: “Tumhara beta Rama yuddh (<span style="color:#FF5733;">battle</span>) me naya hai, lekin use darne ki zarurat nahi. Jab tak Maharishi Vishvamitra uske saath hain, koi bhi rakshas (<span style="color:#FF5733;">demon</span>) uska kuch nahi bigaad sakta. Vishvamitra swayam ek mahaan yogi, tapasvi (<span style="color:#FF5733;">ascetic</span>) aur shastron ke maharathi (<span style="color:#FF5733;">master of weapons</span>) hain. Unhone apni tapasya aur gyaan se hazaron astra-shastra (<span style="color:#FF5733;">divine weapons</span>) prapt kiye hain. Unke samne koi asur, devta, ya manav tik nahi sakta.”  
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rishi Vasishtha ne kaha, “Tumhe apna vachan nibhana chahiye, aur Rama ko Vishvamitra ke saath bhejna chahiye. Wo surakshit rahega aur bahut kuch seekhega bhi.”   Yeh sab sun kar, Raja Dasharatha ne apna dil mazboot kiya aur Rama ko Vishvamitra ke saath bhejne ke liye haan kar di.  Unhone khushi aur vishwas ke saath apna vachan nibhaya — jaise ek sachcha Raghuvanshi Raja karta hai.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.21.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter22
+    with st.expander("Chapter 1.22 - Rama and Lakshmana go with Vishvamitra"):
+
+        text1 = """
+Subah ka samay tha. Rishi Vasishtha ke kehne par, Raja Dasharatha ne khushi ke saath apne dono bete — Rama aur Lakshmana — ko bulaya. Raja ne unke liye shanti paath (<span style="color:#FF5733;">peace chant</span>) karvaya, aur Rishi Vasishtha ne aashirvaad (<span style="color:#FF5733;">blessing</span>) diya. Uske baad Dasharatha ne pyaar se dono beto ke sir ko soongha (<span style="color:#FF5733;">traditional gesture of affection</span>) aur kaha, “Tum dono meri shaan ho, dhairya rakho aur Rishi Vishvamitra ki seva me sada nishtha (<span style="color:#FF5733;">devotion</span>) se raho.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.22.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Rama aur Lakshmana ne pranam karke raja se vida li. Jaise hi ve mahal se nikle, pawan dev (<span style="color:#FF5733;">Vayu</span>) ne thandi, sugandhit hawa behai. Upar se devtaon ne phool barsaye, shankh (<span style="color:#FF5733;">conch</span>) bajne lage aur dhol nagade gunj uthe — jaise swarg bhi in dono yuvraaj ka swagat kar raha ho. 
+
+Vishvamitra aage-aage chal rahe the, unke peeche Rama, aur uske baad Lakshmana, haath me dhanush (<span style="color:#FF5733;">bow</span>) aur peeth par tarqush (<span style="color:#FF5733;">quiver</span>) liye hue. Unka roop itna tejasvi (<span style="color:#FF5733;">radiant</span>) tha ki dishaayein chamak uthi — jaise do surya prakash de rahe ho. Ve dono aise lag rahe the jaise Kartikeya aur Ganesh, Bhagwan Shiva ke shaurya (<span style="color:#FF5733;">valor</span>) ke do roop ho.
+
+Thodi door chalne ke baad, ve Sarayu nadi ke kinare pahuche. Wahan Rishi Vishvamitra ne pyar se kaha, “Hey Rama beta, ab apna sharir is pavitra paani se shuddh (<span style="color:#FF5733;">purify</span>) karo. Main tumhe do mahan vidya (<span style="color:#FF5733;">knowledge</span>) sikhana chahta hoon — Bala aur Atibala. In dono vidyaon se tumhe kabhi thakaan, bimari, ya budhapa (<span style="color:#FF5733;">old age</span>) nahi chhuega. Koi bhi rakshas (<span style="color:#FF5733;">demon</span>) tumhe nuksaan nahi pahucha sakega. Tumhara gyaan, tej (<span style="color:#FF5733;">brilliance</span>) aur samajh (<span style="color:#FF5733;">wisdom</span>) teenon lokon me sabse alag hoga.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Vishvamitra ne aur kaha, “Yeh dono vidyaen, Bala aur Atibala, sabhi vidyaon ki maa hain. Inke dwara tum apni bhukh aur pyaas par niyantran (<span style="color:#FF5733;">control</span>) kar sakoge. Yeh vidya Brahma ki betiyan hain, aur main tumhe yeh sikhane ke layak samajhta hoon.”
+
+Rama ne nadi ka paani apne sharir par dala aur kaha, “Hey Mahaan Rishi, main aapka sevak hoon, kripya mujhe yeh vidya sikhaiye.” Tab Vishvamitra ne Rama ko dono vidya sikhai. Jaise hi Rama ne Bala aur Atibala me siddhi (<span style="color:#FF5733;">mastery</span>) paayi, uska tej surya ke saman chamak utha.
+
+Us raat dono bhai — Rama aur Lakshmana — Rishi Vishvamitra ke charanon (<span style="color:#FF5733;">feet</span>) ki seva karke, Sarayu ke tat par ek aasan (<span style="color:#FF5733;">bed</span>) ghans (<span style="color:#FF5733;">grass</span>) ka bana kar so gaye.  
+Rama dharti par sone ke aadat nahi the, par fir bhi apne guru ke shant shabdon ko sunte hue neend me chale gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.22.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter23
+    with st.expander("Chapter 1.23 - They reach the hermitage of Sage Kama"):
+
+        text1 = """
+Subah hone se thoda pehle, Rishi Vishvamitra ne apne ghaas ke aasan (<span style="color:#FF5733;">grass bed</span>) par baith kar pyaar se kaha,  “Hey Rama, Kaushalya ke putra (<span style="color:#FF5733;">son of Queen Kaushalya</span>), subah hone wali hai, uth kar apne snan aur prarthana (<span style="color:#FF5733;">morning devotions</span>) karo.”
+
+Rama aur Lakshmana turant jaag gaye, nadi ka paani le kar achman (<span style="color:#FF5733;">purification</span>) kiya, Surya dev ko jal chadhaya (<span style="color:#FF5733;">offered water to the rising sun</span>), apne pitron (<span style="color:#FF5733;">ancestors</span>) ko shraddha se yaad kiya, aur fir Gayatri mantra ka uchcharan (<span style="color:#FF5733;">recitation</span>) karne lage. Apni pooja-pooja karke, dono bhai ne Rishi Vishvamitra ko namaskar kiya aur agle safar ke liye taiyaar ho gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.23.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Thodi der baad ve us sthal (<span style="color:#FF5733;">place</span>) par pahuche jahan Ganga aur Sarayu nadi ek saath milti thi —  
+yeh drishya itna pavitra tha ki dono bhai ke chehre khushi se chamak uthe. Unhone dekha ki wahan kai sant (<span style="color:#FF5733;">holy sages</span>) apne ashram me dhyaan aur yog (<span style="color:#FF5733;">meditation</span>) me lage hue the. Unka chehra shaant aur man pavitra tha. Rama ne muskurate hue pucha, “Hey Mahaan Rishi, yeh sundar ashram kis ka hai? Kaun rehta hai yahan? Hum janna chahte hain.”
+
+Rishi Vishvamitra muskuraaye aur bole, “Hey Rama, suno beta — bahut samay pehle Kandarpa, jise sab Kama Dev kehte hain, yahan dhyaan lagakar Bhagwan Shiva ki aradhana (<span style="color:#FF5733;">worship</span>) karte the. Ek din jab Bhagwan Shiva apni nav-vivahit patni (<span style="color:#FF5733;">newly wedded wife</span>) ke saath guzar rahe the, tab Kama Dev ne unke man me prem jagane ki koshish ki. Lekin Bhagwan Shiva to sab par niyantran (<span style="color:#FF5733;">control</span>) rakhne wale hain — unhe yeh koshish achhi nahi lagi aur unhone krodh (<span style="color:#FF5733;">anger</span>) me apni teesri aankh (<span style="color:#FF5733;">third eye</span>) khol di. Us tej (<span style="color:#FF5733;">flame</span>) se Kama Dev ka sharir bhasm (<span style="color:#FF5733;">turned to ashes</span>) ho gaya.
+
+Tab se, usse Ananga (jiska koi sharir nahi, <span style="color:#FF5733;">bodiless</span>) kaha jaane laga. Aur jahan-jahan uske ang (<span style="color:#FF5733;">limbs</span>) gire, us desh ko Anga kehte hain.” Rishi Vishvamitra ne fir kaha,  “Yeh ashram Bhagwan Shiva ka pavitra sthaan hai. Yahan ke sant log unke bhakt hain — pavitra aur paap se pare. Aaj hum yahan raat guzarayenge. Subah hum is pavitra nadi ko paar karke apni yatra aage badhaenge. Ab tum dono snan (<span style="color:#FF5733;">bath</span>) karo, Gayatri ka jap (<span style="color:#FF5733;">chant</span>) karo aur havan (<span style="color:#FF5733;">fire offering</span>) karke yahan shaant raat bitao.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Jab Rama aur Vishvamitra baatcheet kar rahe the, toh ashram ke rishi log apne yog bal (<span style="color:#FF5733;">power of meditation</span>) se samajh gaye ki bade mahan atithi (<span style="color:#FF5733;">great guests</span>) aa rahe hain. Unhone turant paani aur phool se arghya (<span style="color:#FF5733;">welcome offering</span>) diya, aur dono rajkumaron ka swagat kiya.
+
+Unhone unhe ashram me bulaya, kahaniyaan sunayi, purani parampara (<span style="color:#FF5733;">traditions</span>) aur dharmik gyaan (<span style="color:#FF5733;">spiritual wisdom</span>) bataya. Sabne mil kar shaam ki pooja ki aur Rama, Lakshmana aur Vishvamitra ne us pavitra Kama ke ashram me raat sukoon se bitai.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.23.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter24
+    with st.expander("Chapter 1.24 - The scary dark forest of Taraka"):
+
+        text1 = """
+Subah ke samay, jab suraj ugta hai, do rajkumar — Rama aur Lakshmana, apni daily pooja (<span style="color:#FF5733;">worship</span>) kar ke Rishi Vishvamitra ke saath nikalte hain. Ashram ke sab tapasvi (<span style="color:#FF5733;">saints</span>) unke saath nadi tak jaate hain aur unke liye ek sundar nauka (<span style="color:#FF5733;">boat</span>) laate hain.
+
+Sab kehte hain — “Hey Mahaan Rishi, der mat kijiye, iss nauka me baith jaiye taaki dhoop (<span style="color:#FF5733;">sunlight</span>) tez hone se pehle hum paar ho jayein.” Vishvamitra ji sabko pranam karte hain aur dono rajkumar ke saath nadi paar karne lagte hain. Jab nauka beech nadi me hoti hai, to Rama aur Lakshmana ek zor ka shor (roar of water) sunte hain. Rama puchte hain, “Hey Gurudev, ye paani itna zor se kyun goonj raha hai?”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.24.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Vishvamitra muskura kar samjhate hain — “Rama, ye awaaz tab hoti hai jab Sarayu nadi aur Ganga nadi ek dusre se milti hain. Sarayu ka janm Manasarovar (Lake of the Mind) se hua tha, jo Kailash Parvat par hai — wahi jahan Brahma ji ne apne man (mind) se ek pavitra sarovar banaya tha. Jab ye dono pavitra nadiyan milti hain, to yahi dhwani (sound) hoti hai. Ab dono ko pranam karo.” Dono bhai haath jod kar nadiyon ko namaskar karte hain, aur jab kinare pahuchte hain, tab apni yatra aage badhate hain.
+
+Thodi der chalne ke baad unhe ek andhera aur bhayanak van (dark and scary forest) dikhta hai. Rama kehte hain —
+“Gurudev, ye van to bahut daravana (<span style="color:#FF5733;">terrifying</span>) lag raha hai! Idhar har jagah ajeeb awaazein aa rahi hain — jangli janwar (wild animals) dahad rahe hain, pakshi (birds) cheekh rahe hain. Dekhiye! Idhar suar (boars), sher (lions), bagh (tigers), aur haathi (elephants) sab hain. Van me Dhara, Patala, Tinduka jaise ped (trees) hain — ye sach me bhayankar jagah lagti hai.”
+
+Vishvamitra dhairya se kehte hain — “Putra Rama, is van ki kahani suno. Pehle yahan do shahar the — Malava aur Karusha. Dono swarg jaise samruddh (<span style="color:#FF5733;">prosperous</span>) aur khushhaal the. Jab Indra devta ne dusht Vritrasura ko maara, to unhe ek paap (sin) laga kyunki unhone ek brahmin ka vadh kiya tha. Devta aur rishi ne Indra ko Ganga ke pavitra jal se snan karaya, taaki unka paap dhul jaye.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Indra ne in dono shahron ko vardaan diya —
+‘Yeh shahar sadaa samruddh aur prasiddh (<span style="color:#FF5733;">famous</span>) rahenge.’” Lekin samay ke saath, yahan ek dusht yakshini (female demon) paida hui — jiska naam tha Taraka. Uske paas 1000 haathiyon jitni shakti (<span style="color:#FF5733;">strength</span>) thi! Uska pati tha Sunda, aur beta Maricha, jo Indra jitna balwaan (<span style="color:#FF5733;">powerful</span>) tha.
+
+Vishvamitra ne kaha —
+“Rama, ye Taraka bahut hi bhayanak aur krur (<span style="color:#FF5733;">cruel</span>) hai. Ye raste band karti hai aur logon ko darta rakhti hai. Ab hum uske van me ja rahe hain. Mera aadesh hai — tum us dusht Taraka ka vadh (<span style="color:#FF5733;">defeat</span>) karo aur is desh ko mukt (<span style="color:#FF5733;">free</span>) karao. Uske dar se yahan koi nahi aata — lekin tum, Rama, is van me phir se jeevan laa sakte ho.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.24.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter25
+    with st.expander("Chapter 1.25 - Vishvamitra convinces Rama to fight evil"):
+
+        text1 = """
+Rama ne ghabrakar pucha,
+“Guruji, yakshini (<span style="color:#FF5733;">female spirit/demon</span>) to kamzor hoti hain — phir Taraka ko itni shakti (<span style="color:#FF5733;">strength</span>) kaise mili? Uske haath kitne majboot hain — hazaar haathi jaisi!”
+
+Vishvamitra ne pyar se muskuraake kaha,
+“Beta, sab kuch kaaran ke saath hota hai. Suno iska poora kissa.
+Ek samay ek yaksha (<span style="color:#FF5733;">nature-spirit</span>) tha jiska naam Suketu tha. Wo bahut punya (<span style="color:#FF5733;">virtuous</span>) tha par uske koi santaan (<span style="color:#FF5733;">child</span>) nahi the. Usne itni tapasya (<span style="color:#FF5733;">penance</span>) ki ki Brahma usse prasann (<span style="color:#FF5733;">pleased</span>) huye. Brahma ne usse ek beti dene ka vachan diya — uska naam Taraka rakha gaya. Brahma ne usme hazaar haathi jaisi shakti (<span style="color:#FF5733;">strength of a thousand elephants</span>) bhi de di.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.25.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Taraka jab badi hui to uska vivaah Sunda se hua, aur unka beta hua — uska naam Marica. Marica bahut balwaan (<span style="color:#FF5733;">powerful</span>) ho gaya. Lekin kismet me kuch aur likha tha — jab Rishi Agastya ne Sunda par shraap (<span style="color:#FF5733;">curse</span>) diya, to Marica ko bhi shraap laga aur wo ek rakshasa (<span style="color:#FF5733;">demon</span>) ban gaya. Taraka par bhi shraap pada — uska saundarya (<span style="color:#FF5733;">beauty</span>) chala gaya, aur wo ek bhayankar rakshasi (<span style="color:#FF5733;">female demon</span>) ban gayi jo manushyon ko kha jaati (<span style="color:#FF5733;">devours</span>) thi.”
+
+Vishvamitra ne aage bataya,
+“Rama, jab Agastya ne use sanshodhit (<span style="color:#FF5733;">cursed</span>) kiya, Tab se Taraka ne is zameen ko barbaad kar diya — gaon loot liye, raste rok diye, aur logon ko dara diya. Uska beta Marica bhi bahut khatarnak hai — vah Indra jaisa majboot hua. Isiliye ye jungle aur desh ajib aur andhera ho gaya.” 
+
+Phir Vishvamitra ne bade bhav se kaha,
+“Beta, yeh tumhara kartavya (<span style="color:#FF5733;">duty</span>) hai — ek yodha (<span style="color:#FF5733;">warrior</span>) aur rajkumar ko apni praja (<span style="color:#FF5733;">people</span>) ki raksha (<span style="color:#FF5733;">protection</span>) karni chahiye. Jo rajyadharma (<span style="color:#FF5733;">kingly duty</span>) hai, usme kabhi-kabhi kathor (<span style="color:#FF5733;">tough</span>) kaam karne padte hain — jinse logo ko bachaya ja sake. Purane raje aur devta bhi kabhi kathor nirnay le chuke hain jab duniya ka hit (<span style="color:#FF5733;">welfare</span>) zaruri tha.”
+
+Vishvamitra ne misal di,
+“Dekho, Indra ne Manthara jaisi auraton ko saza di jab unhone anyaay kiya; Vishnu ne bhi kuch kathor nirnay liye jab usse duniya bachani thi. Isliye ab tumhe dar kar peeche nahi hatna. Taraka bilkul dusht (<span style="color:#FF5733;">evil</span>) hai — use turant samapt (<span style="color:#FF5733;">destroy</span>) karna hoga.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rama ne gahra saans li aur vinamr (<span style="color:#FF5733;">humble</span>) ho kar bola,
+“Guruji, aapne jo bataya, main samajh gaya. Jo bhi karna hai, main karunga — desh aur rishiyon (<span style="color:#FF5733;">sages</span>) ki raksha ke liye.”
+
+Vishvamitra ne khush hokar uska ashirwad (<span style="color:#FF5733;">blessing</span>) diya aur kaha,
+“Ab chalo — us andhere van (<span style="color:#FF5733;">dark forest</span>) ki ore. Tumhe mahan kaushalon (<span style="color:#FF5733;">skills</span>) aur aashirwad milenge. Ab tum apna himmat (<span style="color:#FF5733;">courage</span>) dikhao.” 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.25.2.jpg", text3, layout="side", image_position="right")
+
+
+
+
+
 
 
     create_image_text_layout("attached_assets/chapter1/chapter11.jpg", layout="full")
