@@ -832,6 +832,281 @@ Vishvamitra ne khush hokar uska ashirwad (<span style="color:#FF5733;">blessing<
         """
         create_image_text_layout("attached_assets/chapter1/1.25.2.jpg", text3, layout="side", image_position="right")
 
+    # Chapter26
+    with st.expander("Chapter 1.26 - How Rama defeats the demon Taraka"):
+
+        text1 = """
+Rama dhyaan se Vishvamitra ke shabd sun rahe the. Unke mann me himmat aur utsaah (<span style="color:#FF5733;">courage and excitement</span>) bhar gaya. Namrata se haath jod kar unhone kaha —
+“Guruji, pitaji Dasharatha ne mujhe aapki seva (<span style="color:#FF5733;">service</span>) ke liye bheja hai. Aap jo kahenge, main bina sankoch (<span style="color:#FF5733;">hesitation</span>) ke karunga. Isse rishiyon (<span style="color:#FF5733;">sages</span>), raja aur janata (<span style="color:#FF5733;">people</span>) — sabka bhala (<span style="color:#FF5733;">good</span>) hoga.”
+
+Yeh kehkar Rama ne apna dhanush (<span style="color:#FF5733;">bow</span>) uthaya aur taar (<span style="color:#FF5733;">string</span>) khinch kar chhoda — TWANG! Poora jungle us awaz se goonj utha. Pedon ke peeche chipi prani (<span style="color:#FF5733;">creatures</span>) ghabra gaye. Taraka ne bhi woh dahad (<span style="color:#FF5733;">sound</span>) suni — aur uska gussa aasman chhoo gaya! 
+
+Gusse se bhar kar, Taraka dhaad kar Rama ki or bhagi. Jab Rama ne use dekha — to wo ek bhayankar (<span style="color:#FF5733;">terrifying</span>) rakshasi thi — vishaal (<span style="color:#FF5733;">huge</span>) sharir, bhaddaa (<span style="color:#FF5733;">ugly</span>) chehra aur aankhon me agni jaisi chamak!
+Rama ne Lakshmana se kaha, “Bhai, dekho! Ye hai Taraka! Iska roop hi logon ke dil me bhay (<span style="color:#FF5733;">fear</span>) bhar deta hai. Par main ise nahi maarunga — kyunki stri (<span style="color:#FF5733;">woman</span>) ko maarna uchit nahi. Main bas ise rok dunga — taaki ye aur nuksaan na kare.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.26.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Lekin Taraka ne joru se cheekh kar mitti (<span style="color:#FF5733;">dust</span>) ka badal utha diya! Poora van andhera ho gaya. Fir usne apne jadui bal (<span style="color:#FF5733;">magic powers</span>) se pathar (<span style="color:#FF5733;">rocks</span>) barsa diye! Rama ne apni teer-dhanu (<span style="color:#FF5733;">bow and arrows</span>) se un sab ko roka aur aage badhkar uske dono haath kaat diye. Lakshmana ne bhi turant uske kaan aur naak kaat diye — ab Taraka cheekhne lagi, roop badalne lagi, kabhi gayab hoti, kabhi door se pathar barsati.
+
+Vishvamitra ne zor se pukara,
+“Rama! Ab aur daya (<span style="color:#FF5733;">mercy</span>) mat dikhao! Agar ye bachi, to fir se yagna (<span style="color:#FF5733;">holy rituals</span>) bigaad degi. Surya (<span style="color:#FF5733;">sun</span>) dhal raha hai — abhi maaro ise!” Rama ne turant Vishvamitra ke sanket (signal) par dhyaan diya. Unhone apne turant lakshya paane wale teer (arrows that follow sound) nikale, aur Taraka ke chaaro taraf chhode. Ek teer uske hriday (<span style="color:#FF5733;">heart</span>) me ghus gaya — aur wo zameen par girkar pran tyag kar gayi (<span style="color:#FF5733;">gave up her life</span>).
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Asmaan se devta (<span style="color:#FF5733;">gods</span>) khush hokar bole —
+“Shabash, Shabash Shri Rama!” Indra ne bhi prarthana ki — “Hey Vishvamitra, ise apne divya astra (<span style="color:#FF5733;">divine weapons</span>) sikhao — ye dono bhai mahan kaam karenge!” 
+
+Devta pranam karke apne lok (<span style="color:#FF5733;">heavens</span>) laut gaye.
+Vishvamitra ne Rama ke sir par haath rakha aur kaha,
+“Beta Rama, aaj raat yahin araam karo. Kal hum mere ashram (<span style="color:#FF5733;">hermitage</span>) chalenge.” 
+
+Rama muskuraaye aur shaant man se so gaye. Jungle, jo pehle andhera aur bhayanak tha, ab phir se khushhaal (<span style="color:#FF5733;">beautiful</span>) ho gaya — champa, ashok, aur aam ke pedon se saja hua. Aur us raat, Rama ka naam — “Taraka-vijayi” (<span style="color:#FF5733;">slayer of Taraka</span>) — asmaan tak gunj utha. 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.26.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter27
+    with st.expander("Chapter 1.27 - Rama gets special divine weapons"):
+
+        text1 = """
+Subah ka suraj uga tha. Jungle me pichli raat jaise shaanti thi, waisa sukoon kahin aur nahi. Sage Vishvamitra muskuraaye aur pyar bhare swar me bole — “Hey Rama, Raghu vansh ke veer putra! Main tumse bahut prasann (<span style="color:#FF5733;">happy</span>) hoon. Tumne apna kartavya (<span style="color:#FF5733;">duty</span>) bahut imaandari se nibhaya hai. Aaj main tumhe kuch aise divya astra (<span style="color:#FF5733;">celestial weapons</span>) dene ja raha hoon, jinse tum devtaon (<span style="color:#FF5733;">gods</span>), asuron (<span style="color:#FF5733;">demons</span>) aur nagon (<span style="color:#FF5733;">serpents</span>) sab par vijay (<span style="color:#FF5733;">victory</span>) pa sakte ho.” Rama ne vinamr (<span style="color:#FF5733;">humble</span>) bhaav se haath jode. Tab Vishvamitra ne kaha —
+        """
+        create_image_text_layout("attached_assets/chapter1/1.27.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Yeh lo Rama — Sudarsana Chakra aur Danda Astra, Vishnu Chakra, Indra Astra, aur Kala Astra (<span style="color:#FF5733;">weapon of time</span>), Mahendra ka Gada (<span style="color:#FF5733;">mace</span>) aur Brahma-Shira Astra, Shankara Astra, aur dono maha-gade — Kaumodaki aur Lohitamukhi, Dharmapasha, Kalapasha, Varunapasha (yeh teeno jaadu jaisi rassi hain jo dushman ko baandh deti hain), Agneya Astra (<span style="color:#FF5733;">fire weapon</span>) aur Vayuvya Astra (<span style="color:#FF5733;">wind weapon</span>), Hayashira Astra (<span style="color:#FF5733;">horse-headed weapon</span>), Krauncha Astra (<span style="color:#FF5733;">crane weapon</span>), aur aur bhi kai shaktiyaan.” Fir unhone Rama ko Gandharva Astra, Manava Astra, aur Madana Astra (<span style="color:#FF5733;">love weapon</span>) bhi diye — jisse manushya ka man lalach aur moh (<span style="color:#FF5733;">desire</span>) me ulajh jaata hai.
+
+Vishvamitra ne haste hue kaha, “Hey Veer Rama! Ab tum sab astron ke raaz (<span style="color:#FF5733;">secrets</span>) jaante ho. In sab ko dhyaan se sikh lo. Tumhe ab duniya me koi hara nahi sakta.” Phir Rishi Vishvamitra ne purificatory mantr (<span style="color:#FF5733;">holy chants</span>) padhe, aur jab Rama ne apne mantr kahe, to sab astra-devata (<span style="color:#FF5733;">weapon deities</span>) Rama ke samne prakat hue.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Haath jod kar bole — “Hey Raghuvanshi Rama, hum aapke sevak hain. Jab bulaoge, tab turant prakat honge.” Rama ne vinamrta se kaha —
+“Thik hai, main jab tumhe pukarunga, tum meri sahayata (<span style="color:#FF5733;">help</span>) karna.” Vishvamitra muskuraaye. Jungle me ek pavitra hawa behi. Rama ne guru ko pranam kiya aur bola — “Gurudev, ab chaliye. Agla yatra (<span style="color:#FF5733;">journey</span>) humare intezaar me hai.” Aur is tarah, Shri Rama divya shastron ke saath, Vishvamitra ke saath, apni adhyatmik aur veerta bhari yatra par aage badhe.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.27.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter28
+    with st.expander("Chapter 1.28 - Rama learns how to use them"):
+
+        text1 = """
+Subah ke baad, jab Rama ne sab divya astra (<span style="color:#FF5733;">celestial weapons</span>) aur unke mantr (<span style="color:#FF5733;">chants</span>) le liye, to Vishvamitra haste hue aage chalne laga aur Rama se bola:
+“O beta, tumne aise astra paaye hain jo devta aur asur bhi aasani se nahi paa sakte. Ab main tumhe sikhaunga ki inhen kaise chhoda (<span style="color:#FF5733;">release</span>) karte hain aur kaise wapas bulaate (<span style="color:#FF5733;">withdraw</span>) hain.” Rama vinamrata se poochha:
+“Guruji, jab main koi astra chhod doon to use wapas kaise bulaoon? Aur in sabka upyog kaise karoon?”
+
+Tab Vishvamitra ne dhairya se sikhaaya — aur bahut si vidya (<span style="color:#FF5733;">techniques</span>) aur mantr diye. Unhone kuch astraon ke naam bole — jaise Satyavana, Satyakirti, Dhrishta, Raphasa, Parangmukha, Lakshya, Jyotisha, Vimala — aur aur bhi anek shaktishaali astra (<span style="color:#FF5733;">weapons</span>) diye — kuch aise jo aag jaise chamakte the, kuch dhuan (<span style="color:#FF5733;">smoke</span>) jaise, aur kuch surya-chandrama ki tarah tej (<span style="color:#FF5733;">bright</span>) the.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.28.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Vishvamitra ne samjhaya ki har astra ka ek niyamit mantra (<span style="color:#FF5733;">specific chant</span>) hota hai, aur jab wo mantra ucharit (<span style="color:#FF5733;">recited</span>) kiya jaata hai to astra ki devata (<span style="color:#FF5733;">weapon-deity</span>) prakat (<span style="color:#FF5733;">appear</span>) ho jaati hai. Jab devata prakat hoti, woh vinamr hokar kehti:
+“O Raja-vanshi Rama, hum tumhaare sevak hain — jab bulao, hum turant madad karenge.”
+
+Rama ne sab astra-devtaon ko namaskar (<span style="color:#FF5733;">salute</span>) kiya aur kaha, “Jab awashyakta ho, tab aao aur meri sahayata karo. Ab tum sab wapas chala jao.” Sab devta vinamrata se chale gaye aur Rama ne Vishvamitra ko pranam karke bola: “Gurudev, ab hum aage badhein.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Rama ne dekha ki paas hi pahaad ke paas ek ghaana (<span style="color:#FF5733;">thick</span>) van aur ek sundar jhadi jaisi jagah dikh rahi hai — ek chhota sa grove jahan hiran (<span style="color:#FF5733;">deer</span>) ghoom rahe the aur pakshi (<span style="color:#FF5733;">birds</span>) madhur ga rahe the. Woh hairan hua aur puchha:
+“Guruji, yeh kaun sa ashram (<span style="color:#FF5733;">hermitage</span>) hai? Kya hum ab us bhayanak forest ko paar kar chuke hain jahan rakshas (<span style="color:#FF5733;">demons</span>) aate the? Kya yeh aapka hi ashram hai jahan apne yajna (<span style="color:#FF5733;">sacrifice</span>) ki raksha ke liye aap aaye the? Bataiye, main turant taiyaar hoon—main un rakshason ka nasht (<span style="color:#FF5733;">destroy</span>) kar dunga.”
+
+Vishvamitra muskura ke bola:
+“Thoda aage badhte hain — main tumhe sab ghatnaon ka vivaran (<span style="color:#FF5733;">story</span>) bataunga aur phir aage ka marg (<span style="color:#FF5733;">path</span>) chunenge.” Aur is tarah, Rama ne shastron ki vidya aur unke mantra seekh liye, aur dono aage badh kar us shant aur hare-bhare sthaan par aaram (<span style="color:#FF5733;">rest</span>) karne lage — kyunki ab unke paas gyan (<span style="color:#FF5733;">knowledge</span>) aur shakti (<span style="color:#FF5733;">power</span>) dono the, jo unhe aane wale kathin kaamon ke liye taiyaar karte the.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.28.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter29
+    with st.expander("Chapter 1.29 - Vishvamitra tells the story of his hermitage"):
+
+        text1 = """
+Jab Shri Rama ne apne guru Vishvamitra se poocha, “Guruji, yeh kaunsa van (<span style="color:#FF5733;">forest</span>) hai? Yahaan kitni shanti aur pavitrata (<span style="color:#FF5733;">purity</span>) hai!” Tab Vishvamitra muskuraaye aur kaha:  
+
+“Rama, yeh wahi pavitra (<span style="color:#FF5733;">holy</span>) sthal hai jahan Bhagwan Vishnu ne kabhi apni kathin tapasya (<span style="color:#FF5733;">penance</span>) ki thi.  Isse Siddha-Ashram kaha jaata hai — kyunki yahan bade-bade rishi aur devta apni tapasya mein safal (<span style="color:#FF5733;">successful</span>) hue the.” Phir Vishvamitra ne ek sundar kahani sunaai:  
+        """
+        create_image_text_layout("attached_assets/chapter1/1.29.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Bahut saal pehle, Raja Bali, jo Virochana ka beta tha, itna shaktishaali (<span style="color:#FF5733;">powerful</span>) ho gaya tha ki usne Indra aur anya devtaon ko hara diya tha, aur teenon lokon (<span style="color:#FF5733;">three worlds</span>) par raaj karne laga. Tab sab devta bhay (<span style="color:#FF5733;">fear</span>) se bhar gaye aur Agni ke saath milkar Vishnu Bhagwan ke paas aaye. Unhone kaha, ‘Prabhu, Raja Bali ek maha-yajna (<span style="color:#FF5733;">great sacrifice</span>) kar raha hai. Jab tak wo poora na ho, tab tak humein bachaiye (<span style="color:#FF5733;">protect</span>). Aap apne Yog-shakti (<span style="color:#FF5733;">divine power</span>) se ek Vamana roop (<span style="color:#FF5733;">dwarf form</span>) lijiye aur usse rokiye.’” Us samay Rishi Kashyapa aur unki patni Aditi bhi hazaar varshon (<span style="color:#FF5733;">thousand years</span>) se tapasya kar rahe the.  
+Unhone Vishnu ko prarthana (<span style="color:#FF5733;">pray</span>) ki:   “Prabhu, aap hi sabke karta aur data ho (<span style="color:#FF5733;">the giver of all</span>). Aap humare putra (<span style="color:#FF5733;">son</span>) bankar janm lijiye aur devtaon ki raksha kijiye.”
+
+Bhagwan Vishnu prasann (<span style="color:#FF5733;">pleased</span>) hue aur bole:  “Kashyapa, tumhe var milta hai — main tumhara putra bankar janm loonga.” Aur fir Bhagwan Vishnu ne Aditi ke garbh se janm liya —  Vamana avatar (<span style="color:#FF5733;">dwarf form</span>) ke roop mein.  Wo Raja Bali ke paas gaye aur vinamrata se bola: “Mujhe bas utni zameen (<span style="color:#FF5733;">land</span>) de do jitni main apne teen kadam (<span style="color:#FF5733;">three steps</span>) mein naap sakoon.”
+
+Bali ne haan kar di —  aur tab Vamana Bhagwan ne apne teen kadamon mein poora brahmand (<span style="color:#FF5733;">whole universe</span>) naap liya! Vishvamitra ne kaha: “Rama, wahi Vamana Bhagwan ka ashram ab mera tapasya sthal (<span style="color:#FF5733;">hermitage</span>) hai. Lekin yahaan kuch rakshas (<span style="color:#FF5733;">demons</span>) aake yajna (<span style="color:#FF5733;">sacrifice</span>) ko bigaadte hain. Ab tum yahaan rukkar unka ant (<span style="color:#FF5733;">end</span>) karoge. Aaj hum milkar is Siddha-Ashram mein pravesh karte hain.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Rama aur Lakshmana apne guru ke saath ashram mein pravesh kiye. Ashram chandrama ki roshni jaise chamak raha tha (<span style="color:#FF5733;">shining like the moon</span>). Wahan ke sab rishi Vishvamitra ko dekh kar khush hue, pranam kiya, aur dono rajkumaron ka swagat (<span style="color:#FF5733;">welcome</span>) kiya. Thoda aaram karne ke baad, Rama aur Lakshmana ne kaha:  “Gurudev, ab aapka yajna aarambh (<span style="color:#FF5733;">begin</span>) kijiye. Hum dono poori raat jagkar (<span style="color:#FF5733;">stay awake</span>) iski raksha karenge.” Aur phir Vishvamitra ne man mein dhyaan lagakar yajna prarambh kiya — Rama aur Lakshmana ne shastron ke paas baithkar apne guru ke dharm karya ki raksha ka sankalp (<span style="color:#FF5733;">vow</span>) liya. 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.29.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter30
+    with st.expander("Chapter 1.30 - Rama defeats Maricha and Suvahu who disturb the yajna"):
+
+        text1 = """
+Rama aur Lakshman, dono Rajkumar, samay aur jagah ke hisaab se sab jaante the. Unhone Rishi Vishvamitra se poocha — “Guruji, ye do raakshas (<span style="color:#FF5733;">demons</span>) kab aate hain? Humein pehle se taiyaar rehna hoga.” Ashram ke log khush hue aur bole —
+“Rajkumaro, agle 6 din tak yagya (<span style="color:#FF5733;">sacrifice</span>) chalta rahega. Rishi Vishvamitra is dauraan maun (<span style="color:#FF5733;">silent</span>) rahenge. Tum dono ko poori raksha (<span style="color:#FF5733;">protection</span>) karni hogi.”
+
+Tab Rama aur Lakshman ne apne dhanush (<span style="color:#FF5733;">bow</span>) aur baan (<span style="color:#FF5733;">arrows</span>) le liye aur bina soye 6 din tak yagya ki rakhwali ki. Pehle 5 din shanti se bita gaye, par 6th din, Rama ne kaha — “Lakshman, aaj kuch hone wala hai. Taiyaar ho jao.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.30.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jaise hi Rama ne ye kaha, yagya ki agni (<span style="color:#FF5733;">fire</span>) achanak zor se bhadak uthi. Brahmin aur Vishvamitra ne dekha ki yagya ke saare saman (<span style="color:#FF5733;">items</span>) jalne lage. Tab achanak aasman se ek bhayanak (<span style="color:#FF5733;">terrifying</span>) shabd hua — jaise bijli ki garaj (<span style="color:#FF5733;">thunder</span>)! Maricha aur Suvahu apne saathi raakshason (<span style="color:#FF5733;">demons</span>) ke saath hawa mein dikhai diye, aur unhone yagya pe laal khoon (<span style="color:#FF5733;">blood</span>) barsana shuru kar diya! Rama aur Lakshman ka gussa badh gaya.  
+Rama bola —  “Lakshman, dekho in rakshason ko! Aaj main inhe Manava Astra (<span style="color:#FF5733;">divine weapon</span>) se mita dunga, jaise hawa badalon ko uda deti hai.”
+
+Rama ne chamakta hua Manava Astra chalaya — woh seedha Maricha ke seene (<span style="color:#FF5733;">chest</span>) mein laga!  
+Maricha hawa mein ude aur samundar mein jaake gire — poore 100 miles door! Rama bola —  “Dekho Lakshman! Ye Astra ki shakti (<span style="color:#FF5733;">power</span>) hai. Maricha behosh ho gaya, par abhi zinda hai. Ab main Suvahu aur baaki raakshason ka anth karunga!” Phir Rama ne Agni Astra (<span style="color:#FF5733;">fire weapon</span>) chalaya — woh Suvahu ke seene (<span style="color:#FF5733;">chest</span>) mein laga, aur Suvahu wahin girkar mar gaya. Baaki raakshason ko Rama ne Vayu Astra (<span style="color:#FF5733;">wind weapon</span>) se uda diya.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sab raakshas mar gaye, aur yagya shanti se poora hua. Rishiyon ne khushi se kaha —  “Rama, tumne hamare yagya ko bacha liya! Tum sach mein Indra jaise vijayi (<span style="color:#FF5733;">victorious</span>) ho.” Vishvamitra muskuraaye aur bole — “Rama, aaj mera uddeshya (<span style="color:#FF5733;">purpose</span>) poora hua. Tumne apne Guru ka aadesh (<span style="color:#FF5733;">command</span>) poori shraddha se maana. Ab ye Siddha Ashram apne naam ke layak (<span style="color:#FF5733;">worthy</span>) ban gaya hai.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.30.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter31
+    with st.expander("Chapter 1.31 - Vishvamitra starts his journey"):
+
+        text1 = """
+Rama aur Lakshman ne Rishi Vishvamitra ka yagya safalta se poora karwa diya tha. Us raat dono Rishi ke ashram (<span style="color:#FF5733;">hermitage</span>) mein shaanti se soye. Subah, suraj ugte hi, dono ne snan (<span style="color:#FF5733;">bath</span>) kiya aur Rishi Vishvamitra ke paas gaye. Namaskar karke bole — “Guruji, hum dono aapke sevak (<span style="color:#FF5733;">servants</span>) hain. Ab hume kya karna hai? Aapka agla aadesh (<span style="color:#FF5733;">command</span>) kya hai?” Vishvamitra aur anya rishiyon ne muskurakar kaha —
+        """
+        create_image_text_layout("attached_assets/chapter1/1.31.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Rama aur Lakshman, Raja Janaka, Mithila ke raja, ek maha yagya (<span style="color:#FF5733;">great sacrifice</span>) kar rahe hain. Hum sab wahan ja rahe hain. Tum dono bhi humare saath chalo.Wahan tumhe ek adbhut dhanush (<span style="color:#FF5733;">amazing bow</span>) dikhega — ye dhanush Devtaon (<span style="color:#FF5733;">gods</span>) ne Raja Janaka ko diya tha. Ye itna bhari (<span style="color:#FF5733;">heavy</span>) hai ki na Asur (<span style="color:#FF5733;">demons</span>), na Gandharv (<span style="color:#FF5733;">celestial beings</span>), koi ise tod ya jod (<span style="color:#FF5733;">bend or string</span>) nahi paaya! Bahut se mahan raja aaye, par sab asafal rahe.” Vishvamitra ne bataya —
+“Raja Janaka ne ek purane yagya ke dauran ye dhanush Devtaon se paaya tha. Unhone kaha tha — ‘Is dhanush ko mandir (<span style="color:#FF5733;">temple</span>) mein rakho, aur dhup, deep aur phoolon se puja (<span style="color:#FF5733;">worship</span>) karo.’”
+
+Phir Vishvamitra bole —
+“Ab mera yagya safal (<span style="color:#FF5733;">successful</span>) ho gaya hai. Main Siddha Ashram chhod kar Ganga ke kinare, Himalaya ke paas, Mithila ki or ja raha hoon.” Ye kehkar Rishi Vishvamitra ne ashram ka parikrama (<span style="color:#FF5733;">circumambulation</span>) kiya aur apni yatra (<span style="color:#FF5733;">journey</span>) shuru ki. Saare rishi unke saath chal diye — unke saaman (<span style="color:#FF5733;">belongings</span>) ratho (<span style="color:#FF5733;">wagons</span>) mein rakhe gaye. Ashram ke pakshi (<span style="color:#FF5733;">birds</span>) aur jaanwar bhi unke peeche chal pade, jab tak Rishi ne pyar se unhe wapas nahi bhej diya.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Suraj dhalte samay sab log Shona nadi ke kinare pahunche. Wahan sabne snan karke sandhya prarthana (<span style="color:#FF5733;">evening prayers</span>) aur agni puja (<span style="color:#FF5733;">fire ritual</span>) ki.
+
+Uske baad Rama aur Lakshman ne Rishi Vishvamitra ko pranam kiya aur unke paas baith gaye. Rama ne muskurakar poocha —
+“Guruji, ye jagah bahut sundar hai, hare-bhare ped aur van (<span style="color:#FF5733;">forest</span>) se bhari hui! Kripya batayein, ye kaunsi bhoomi (<span style="color:#FF5733;">land</span>) hai?” Vishvamitra prasann (<span style="color:#FF5733;">pleased</span>) hue aur bole — “Rama, suno, main tumhe is desh (<span style="color:#FF5733;">country</span>) ki puri kahani batata hoon…”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.31.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter32
+    with st.expander("Chapter 1.32 - Vishvamitra talks about his ancestors and King Kusha"):
+
+        text1 = """
+Vishvamitra ne Shri Rama se kaha — “Rama, purane samay mein ek raja tha jiska naam Kusha tha. Vah ek brahmin ka putra tha, tapasvi (<span style="color:#FF5733;">ascetic</span>), dharm-nishth (<span style="color:#FF5733;">righteous</span>), aur sada satvik (<span style="color:#FF5733;">virtuous</span>) logon mein prasiddh. Vah ek sundar aur uchch kul ki mahila Bhidharvi se vivaah kiya aur unke chaar putra hue, sab apne pita jaise shaktishaali aur guni (<span style="color:#FF5733;">virtuous</span>) the. Unke naam the: Kushamba, Kushanabha, Umuritarajasa aur Basu. Ye chaar rajkumar shaktishaali aur kriyashil (<span style="color:#FF5733;">active</span>) the. Raja Kusha ne unhe kshatriya dharma sikhate hue kaha:
+
+‘Mere putron, apne praja (<span style="color:#FF5733;">subjects</span>) ki raksha aur palan karo; isme maha punya (<span style="color:#FF5733;">great merit</span>) hai.’ In adeshon ko poora karne ke liye, chaaron putron ne apne-apne sheher banaye aur unka naam rakha. Kushamba ne apne sheher ka naam Kaushambi rakha.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.32.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Kushanabha ne sheher ka naam Mahodaya rakha. Umuritarajasa ne sheher ka naam Dharmaranya rakha. Basu ne sheher ka naam Giribrat ya Basumati rakha, jo paanch parvaton (<span style="color:#FF5733;">mountains</span>) se ghera hua tha, aur beech se Magadhi nadi (<span style="color:#FF5733;">Shona</span>) bah rahi thi, jaise sundar haar (<span style="color:#FF5733;">garland</span>). Rama, Kushanabha ne ek apsara (<span style="color:#FF5733;">nymph</span>) Ghritaci se vivaah kiya aur unke ek sau sundar putriyan (<span style="color:#FF5733;">daughters</span>) hui. Jab ve bade hue, to bahut sundar dikhti thi. Ek din, ve sundar vastron mein saja-kar bagiche mein ghoom rahi thi, ga rahi, naach rahi aur vadya bajaa rahi thi — jaise deviyon ka roop dharti par utar aaya ho, ya jaise taare akash mein chamak rahe ho.
+
+In sundar rajkumariyon ko dekhkar, Vayu devta (<span style="color:#FF5733;">wind god</span>) ne kaha: ‘Main tumhe apni patni banaana chahta hoon; apni mrityu-may roop chhod do, main tumhe amar bana dunga. Yuvaavastha (<span style="color:#FF5733;">youth</span>) jaldi guzar jaati hai; mere saath vivaah karke tum sada sundar rahogi.’ Par rajkumariyon ne uska vaaky (<span style="color:#FF5733;">speech</span>) sunkar hans kar kaha:
+
+‘O Vayu, tum manushyon ke dil ki baat jaante ho, par hum jaanti hain tumhare dil ki baat. Tum hume apmaan (<span style="color:#FF5733;">insult</span>) kyon karte ho? Hum apne tapasya aur niyantran (<span style="color:#FF5733;">self-control</span>) ke bal se tumhe hara sakti hain, par dharm aur maryada ke anusar, hum apne pitaji ki ichha se hi pati chunenge. Ve hi hamare liye dev jaise hain.’
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Vayu devta krodhit (<span style="color:#FF5733;">angry</span>) hua aur unke sharir mein pravesh karke unka roop badal diya. Dukhit rajkumariyan apne pitaji ke paas aayi aur unhe sab bataya. Raja dukhit hoke bola: ‘Betao, kya hua? Kisne tumhe aisa avaid (<span style="color:#FF5733;">unjust</span>) prabhav diya? Sab sach batao.’ Raja ka dil dukh aur chinta se bhara ho gaya.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.32.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter33
+    with st.expander("Chapter 1.33 - King Kushanabha’s 100 daughters"):
+
+        text1 = """
+Jab Raja Kushanabha ne apni sau rajkumariyon se poocha ki kya hua, to ve apne sir unke charanon par rakh kar boli: “Pitaji, Vayu Devta, jo har jagah hai, ne bura raasta apnaya aur humein dharm ka palan chhodne ke liye majboor kiya. Humne use kaha ki hum apne jeevan ka marg khud nahi chun sakte kyunki aap abhi jeevit hain, aur agar use humse vivaah karna ho to aap se poochna chahiye. Par ye paap kaari devta hamari baat ko nafrat karte hue humara sharir tod-dal diya.”
+
+Raja ne apni betiyon ki baat suni aur kaha: “Tumne sahansheelta (<span style="color:#FF5733;">forbearance</span>) dikhakar uchit vyavhaar kiya. Jo log vinamr (<span style="color:#FF5733;">humble</span>) aur dharm-nishth (<span style="color:#FF5733;">righteous</span>) hote hain, ve mahan hote hain. Sahansheelta purush aur stri dono ka shobha hai. Tumne kuchh aisa kiya jo sab nahi kar sakte. Betiyon, sahansheelta hi daan (<span style="color:#FF5733;">gift</span>) hai, sahansheelta hi satya (<span style="color:#FF5733;">truth</span>) hai, sahansheelta hi yajna (<span style="color:#FF5733;">sacrifice</span>) hai. Insaan ki asli shobha sahansheelta mein hai; yahi dharma hai. Sansaar sahansheelta par sthapit hai.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.33.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+
+Raja ki baat sun kar rajkumariyon ka dukh kam hua aur unhe chhoda diya. Phir Raja Kushanabha ne apne mantriyon ko bulaya aur unse poochha ki betiyon ka vivaah sahi samay aur sahi kul se kaise ho. Us samay, ek mahan muni Chuli, jo tapasvi (<span style="color:#FF5733;">ascetic</span>) aur atyant dharm-nishth (<span style="color:#FF5733;">righteous</span>) tha, apni mukti ke liye tapasya mein laga hua tha.
+
+Wahi par nymph Urmila ki ek kumari beti Somada, muni ki seva mein lagi hui thi. Ve uske guru ki seva lagan aur shraddha (<span style="color:#FF5733;">devotion</span>) ke saath karti thi. Guru ne dekha aur khush hoke kaha: “Main tumse prasanna hoon, tumhari ichha kya hai jo main poori karu?” Somada ne madhur swar mein kaha: “O Rajaon ke Raja, main ek putra chahati hoon, jo divya shakti (<span style="color:#FF5733;">divine power</span>) se yukt ho, dharm aur bhagwan ke bhakt (<span style="color:#FF5733;">devotee</span>) ho. Mera koi pati nahi hai aur na hi main kisi ki patni banna chahti hoon, kyunki main brahmacarini (<span style="color:#FF5733;">celibate female</span>) hoon. Aap apni yog shakti (<span style="color:#FF5733;">divine energy</span>) se mujhe putra pradan kijiye.” Muni Chuli ne uski baat sunkar khushi se apna man ka bal pradarshit kiya aur usko ek putra diya, jiska naam Brahmadatta rakha. Brahmadatta Kampila ka raja bana aur Indra ke samaan samriddh (<span style="color:#FF5733;">prosperous</span>) hua.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Raja Kushanabha ne tay kiya ki wo apni betiyon ka vivaah Raja Brahmadatta se karenge. Kushanabha ne Brahmadatta ko apne paas bulaya aur khushi khushi apni betiyon ka vivaah diya. Raja Brahmadatta, jo Indra ke samaan mahan tha, ek-ek karke rajkumariyon ke haath le kar vivaah kiya. Jaise hi usne unke haath liye, rajkumariyon ka sharir phir se sundar aur saakarik (<span style="color:#FF5733;">restored</span>) ho gaya. Raja Kushanabha apni betiyon ko sundar aur swasth dekh kar atyant khush hua.
+
+Is tarah, Raja Kushanabha ne apni betiyon ka vivaah Raja Brahmadatta se kar diya aur unke guruon ko unke saath saath nyaay (<span style="color:#FF5733;">justice</span>) aur maryada (<span style="color:#FF5733;">dignity</span>) ke saath unke naya ghar le jaane ka aadesh diya. Somada apne putra ke vivaah aur rajkumariyon ke saath khush hui aur Raja Kushanabha ki punya (<span style="color:#FF5733;">virtue</span>) aur dharmik pravritti (<span style="color:#FF5733;">righteous conduct</span>) ki prashansa ki.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.33.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter34
+    with st.expander("Chapter 1.34 - Gadhi, father of Vishvamitra"):
+
+        text1 = """
+“O Ramaji, apni betiyon ke vivaah ke baad, paap-mukt (<span style="color:#FF5733;">sin-free</span>) Raja Kushanabha ne ek yajna (<span style="color:#FF5733;">sacrifice/ritual</span>) karne ka nischay kiya, jisse use ek putra prapt ho. Yajna ke samay, Maharaja Kusha, jo Shri Brahma ke putra the, Raja Kushanabha se bole: ‘Mere beta, tumhe ek putra hoga jo tum jaisa dharm-nishth (<span style="color:#FF5733;">righteous</span>) aur satyavadi (<span style="color:#FF5733;">truthful</span>) hoga, uska naam Gadhi rakha jaega, aur vah tumhe amar prasiddhi (<span style="color:#FF5733;">immortal fame</span>) dega.’
+
+Kuch samay baad, Raja Kushanabha ko ek putra hua, jo dharm aur sadachar (<span style="color:#FF5733;">virtue</span>) ka premi tha, aur uska naam Gadhi rakha gaya. “Yahi Gadhi, O Rama, mera dharm-nishth pita tha. Aur main Kusha vansh (<span style="color:#FF5733;">lineage</span>) me janma hua, isliye mujhe Kaushika kaha gaya.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.34.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Meri ek badi behen thi, Satyavati, jo sachche bhartiya pati Richika ki patni bani. Jab uske pati ka dehaant (<span style="color:#FF5733;">demise</span>) hua, to vah swarg ko chali gayi aur Kaushiki nadi ka roop dharan kar liya. Ye nadi pavitra (<span style="color:#FF5733;">holy</span>) aur sundar hai, aur iska jal manushyon ko punya (<span style="color:#FF5733;">merit/blessing</span>) deta hai. Duniya ko aashirvaad dene ke liye meri behen Satyavati Himalaya ke paas Kaushiki nadi ban gayi. “O Rama, apne pati ke prem mein sthapit, sachchai aur dharm ke saath meri behen Satyavati aaj Kaushiki nadi hai, nadiyon mein mahan aur bahut shubh (<span style="color:#FF5733;">auspicious</span>) hai.
+
+“O Rama, yajna karne ke liye, main Siddha-Ashrama aaya aur apna uddeshya (<span style="color:#FF5733;">purpose</span>) pura kiya. “O Rama, tumhare prashn par, maine apne parivaar aur vansh (<span style="color:#FF5733;">lineage/family</span>) ka varnan kiya; raat kaafi beet gayi, ab vishraam (<span style="color:#FF5733;">rest</span>) karo, taki kal taaza hokar yatra (<span style="color:#FF5733;">journey</span>) jaari rakhein. Shanti (<span style="color:#FF5733;">peace/blessing</span>) ho tum par!
+
+“Pedon ki patiyan shant hain, pakshi aur jaanwar chup hain, aur andhera chhaya hua hai. Raat kaise beet gayi, pata bhi nahi chala. Aakash sitaron se chamak raha hai, jaise hazaron aankhen hum par nazar rakh rahi ho. “Ujjwal chaand apni thandi kirno ke saath dheere-dheere upar uth raha hai, andhera door kar raha hai. Raat ke vandhak (<span style="color:#FF5733;">obstacles</span>) aur bhayankar maans-hari yaksh (<span style="color:#FF5733;">terrifying flesh-eating spirits</span>) yahan-wahan ghoom rahe hain.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+In baaton ke baad, mahaan Rishi Vishvamitra shant ho gaye. Anya muniyon ne unki prashansa ki aur kaha: “Shabash, shabash, O Rishi! Kusha vansh ne hamesha dharm ka palan kiya aur is vansh ke raja dharm-nishth aur mahan the. Is vansh mein, aap Vishvamitra, ati-prashansaniya (<span style="color:#FF5733;">highly admirable</span>) hain, aur sundar Kaushiki nadi se is rajasv ka gaurav aur badh gaya hai.”
+
+Is tarah mahaan muniyon ne Rishi Vishvamitra ki prashansa ki. Surya ke pashchim (<span style="color:#FF5733;">west</span>) doobne par, unhone vishraam liya. Shri Ramacandra aur unke bhai Lakshmana, jo hairan the, ne bhi Rishi ko pranam kiya aur vishraam ke liye chale gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.34.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter35
+    with st.expander("Chapter 1.35 - The holy river Ganga is born"):
+
+        text1 = """
+Raat ko Shona nadi ke kinare anya muniyon ke saath bitane ke baad, Shri Vishvamitra ne Rama se subah kaha: “Utho, O Rajkumar, din ki shuruat ho gayi hai, tum par shubh (<span style="color:#FF5733;">auspicious</span>) ho! Apni prabhat pooja (<span style="color:#FF5733;">morning prayer</span>) karo aur yatra (<span style="color:#FF5733;">journey</span>) ke liye taiyaar ho jao.”
+
+Shri Rama ne mahaan Rishi ki baat mani, apni prabhat pooja ki aur taiyaar hue. Unhone kaha: “O Bhagwan ko jaanne wale, Shona nadi ke jal (<span style="color:#FF5733;">waters</span>) bahut shallow (<span style="color:#FF5733;">uphla</span>) aur retile bed (<span style="color:#FF5733;">sand bed</span>) par hain, kripya humein bataiye ki ise kaise paar karna chahiye.” Rishi ne uttar diya:
+        """
+        create_image_text_layout("attached_assets/chapter1/1.35.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“O Rajkumar, main tumhe dikhaunga ki mahaan rishiyon ne ise kaise paar kiya tha.” Phir ve nadi paar kar gaye aur sundar vanon (<span style="color:#FF5733;">forests</span>) aur jangalon ke beech yatra karte rahe. Der shaam tak, ve pavitra Ganga nadi ke kinare pahunch gaye, jo rishiyon ki priya (<span style="color:#FF5733;">beloved</span>) thi. Sundar swans aur cranes ke saath nadi aur bhi manohar (<span style="color:#FF5733;">beautiful</span>) lag rahi thi, jise dekh kar Rama, Lakshmana aur rishiyon ko anand (<span style="color:#FF5733;">joy</span>) hua.
+
+Ve kinare ruk kar nadi me snan (<span style="color:#FF5733;">bath</span>) kiya, apni yajna ki agni (<span style="color:#FF5733;">sacrificial fire</span>) prajvalit ki aur baliyon ka bhojan kiya. Parampara (<span style="color:#FF5733;">tradition</span>) ke anusar, unhone apne purvajon (<span style="color:#FF5733;">ancestors</span>) ko jal arpan (<span style="color:#FF5733;">offering of water</span>) kiya aur vastr bicha kar Ganga ke kinare baith gaye.
+
+Muniyon ke beech baith kar, Shri Rama ne Vishvamitra se poocha: “O Maharishi, main is pavitra nadi ka katha (<span style="color:#FF5733;">story</span>) sunna chahta hoon, jo teen lokon (<span style="color:#FF5733;">three worlds</span>) se guzar kar ant me sagar me milti hai. Kaise Shri Gunga teen lokon se guzar kar sagar me pravesh karti hai?” Is prashn par, Shri Vishvamitra ne Ganga nadi ki utpatti (<span style="color:#FF5733;">origin</span>) aur katha sunani shuru ki:
+
+“O Rama, mahaan Himavat, Himalaya ke Maharaja aur saare ratno ke khazane ke adhikari, ke do betiyan thi, jo prithvi par apaar sundar (<span style="color:#FF5733;">extremely beautiful</span>) thi. Unki mata Mena, Himachala ki patni, Mount Meru ki putri thi. Badi beti ka naam Gunga aur chhoti beti ka naam Uma tha. “Devas, kuch pavitra kriyaayein (<span style="color:#FF5733;">holy acts</span>) karne ke ichhuk (<span style="color:#FF5733;">willing</span>) the, unhone Shri Gunga ko apne saath le liya aur uske pita ki ijazat se uska upyog kiya.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+“Himachala, samajhdaar (<span style="color:#FF5733;">wise</span>) aur sabhi jeevon ke hit ko dhyan me rakhte hue, apni beti Gunga ko devas ko de diye, jo duniya ko shuddh (<span style="color:#FF5733;">pure</span>) karne wali thi. Devas uske krutagn (<span style="color:#FF5733;">grateful</span>) hokar le gaye aur sab par aashirvaad (<span style="color:#FF5733;">blessing</span>) diya. “O Raghu vansh ke Rajkumar, Himachala ki doosri beti Uma, apne aasan (<span style="color:#FF5733;">seat/meditation spot</span>) aur tapasya me lag gayi, aur unka vivaah Shri Mahadeva se hua, kyunki Himachala ne socha ki vah ek uchit pati (<span style="color:#FF5733;">suitable husband</span>) hain.”
+
+“O Rama, maine tumhe bataya Himachala ki do betiyon ke bare me, jo poore jagat me venerated (<span style="color:#FF5733;">respected</span>) hain: nadi Gunga aur Uma Devi. “O mere putra, O shishyon ke mukhya, maine tumhe bataya ki Shri Gunga devas ke saath swarg gayi aur vah pavitra nadi ban gayi, jiska jal sab paap (<span style="color:#FF5733;">sins</span>) ko nasht (<span style="color:#FF5733;">destroys</span>) karta hai.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.35.2.jpg", text3, layout="side", image_position="right")
 
 
 
