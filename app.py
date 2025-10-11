@@ -72,13 +72,13 @@ def display_home(chapter_names):
         <style>
         @import url('https://fonts.googleapis.com/css2?family=UnifrakturCook:wght@700&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
         h2 {
             font-family: 'Bungee Spice', cursive !important;
             font-size: 25px !important;
             color: #e7b66c !important;
         }
-
 
         </style>
         """,
@@ -111,7 +111,7 @@ def display_home(chapter_names):
     col1, col2, col3 = st.columns([1, 3, 1])
 
     with col1:
-        img_path = "attached_assets/generated_images/1.jpg"
+        img_path = "attached_assets/chapter1/chapter1.jpg"
         if os.path.exists(img_path):
             st.image(img_path, use_container_width=True)
         else:
@@ -128,7 +128,7 @@ def display_home(chapter_names):
             unsafe_allow_html=True
         )
 
-     
+    st.markdown("🛠️ Working on it...")
 
 def main():
     # Page configuration
@@ -180,7 +180,7 @@ def main():
     # Sidebar styling + nav
     # -----------------------
     # Load PNG and convert to base64
-    with open("peacock.png", "rb") as f:
+    with open("bow.png", "rb") as f:
         img_bytes = f.read()
     b64_cursor = base64.b64encode(img_bytes).decode()
 
@@ -215,7 +215,7 @@ def main():
     }
     [data-testid="stSidebar"] .stButton > button[kind="primary"]{
         background: #0D0B1A !important;
-        color: #e7b66c !important;
+        color: #f3a900 !important;
         border: 2px solid #e7b66c !important;
                     
         
@@ -266,9 +266,9 @@ def main():
         target = "_self"  # change to "_blank" if you want new tab
         base = "display:block;width:100%;padding:10px 12px;border-radius:10px;text-decoration:none;margin-bottom:8px;"
         if active:
-            style = base + "background:#0D0B1A;color:oldlace;border:2px solid #e7b66c;"
+            style = base + "background:#0D0B1A;color:#f3a900;border:2px solid #f3a900; "
         else:
-            style = base + "background:transparent;color:oldlace;border:1px solid #444;"
+            style = base + "background:transparent;color:#f3a900;border:1px solid rgb(68, 68, 68) ; "
         st.sidebar.markdown(
             f'<a href="?chapter={i}#top" target="{target}" style="{style}">Chapter {i}: {chapter_names[i]}</a>',
             unsafe_allow_html=True
@@ -282,12 +282,12 @@ def main():
     st.markdown("""
         <style>
         @import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
-        @import url('https://fonts.googleapis.com/css2?family=Beth+Ellen&display=swap');
+        @import url('https://fonts.googleapis.com/css2?famiily=Beth+Ellen&display=swap');
 
         .stApp h1 {
-            font-family: 'Bungee Spice', cursive !important;
+            font-family: 'Bungee Spice' !important;
             font-size: 100px !important;
-            color: #dca65b !important;
+            color: #fc7423 !important;
             text-align: center !important;
             letter-spacing: 2px !important;
         }
@@ -299,10 +299,10 @@ def main():
             color: oldlace;
         }
         .beth {
-            font-family: 'Beth Ellen', cursive !important;
+            font-family: 'Beth Ellen' !important;
             font-size: 20px;
             text-align: center;
-            color: #77BEDA !important;
+            color: lightslategray !important;
             margin-top: 0.2em;
         }
 
@@ -314,7 +314,8 @@ def main():
         /* -------- Responsive font sizes -------- */
         @media (max-width: 768px) {   /* tablets & small devices */
             .stApp h1 {
-                font-size: 50px !important;
+                font-size: 45px !important;
+                text-align: center !important;
             }
             .beth {
                 font-size: 18px !important;
@@ -323,7 +324,8 @@ def main():
 
         @media (max-width: 480px) {   /* mobile phones */
             .stApp h1 {
-                font-size: 50px !important;
+                font-size: 45px !important;
+                text-align: center !important;
             }
 
             .beth {
@@ -334,7 +336,7 @@ def main():
     """, unsafe_allow_html=True)
 
 
-    st.title("Valmiki Ramayana")
+    st.title("Ramayana")
     st.markdown("<div class='beth' >- Tushar Arora Edition<br><br></div>", unsafe_allow_html=True)
 
     # -----------------------
@@ -453,9 +455,10 @@ def main():
         text-decoration:none !important;
         transition: all 0.3s ease;
     }
+
     .scroll-btn:hover {
-        background:orange !important;
-        color:orange !important;
+        # background:orange !important;
+        # color:orange !important;
     }
     .scroll-btn svg {
         width:24px;

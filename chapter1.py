@@ -14,6 +14,8 @@ def display_content():
         text-align: center;
         color: #e7b66c !important;
     }
+    .stMainBlockContainer{
+        padding-top: 0rem; !important}
     p, li { 
         font-size: 18px !important;
         # line-height: 1.6 !important;
@@ -1108,10 +1110,136 @@ Muniyon ke beech baith kar, Shri Rama ne Vishvamitra se poocha: “O Maharishi, 
         """
         create_image_text_layout("attached_assets/chapter1/1.35.2.jpg", text3, layout="side", image_position="right")
 
+    # Chapter36
+    with st.expander("Chapter 1.36 - The story of Uma, daughter of Himalaya"):
+
+        text1 = """
+Rama aur Lakshmana ne Vishvamitra ki kahani bahut dhyan se suni aur bole, “Guruji, bahut hi pavitra (<span style="color:#FF5733;">holy</span>) kahani sunayi. Ab bataiye — Himalaya ke Raja ki chhoti beti Uma ka kya hua? Aur Ganga (Tripathaga) kaise zameen par aayi?”
+
+Vishvamitra ne muskurake kahani shuru ki: “Sunlo, Rama. Mahadeva (Lord Shiva) ne Parvati se vivah (<span style="color:#FF5733;">marriage</span>) kiya. Dono ne sau saal tak saath bitaya, par unka koi santaan (<span style="color:#FF5733;">child</span>) nahi hua. Devta (<span style="color:#FF5733;">gods</span>) ghabra gaye aur Brahma se bole —  ‘Agar in dono ka putra paida hua, to uski shakti (<span style="color:#FF5733;">power</span>) kaun jhel payega?’  
+        """
+        create_image_text_layout("attached_assets/chapter1/1.36.1.jpg", text1, layout="side", image_position="left")
 
 
+        text2 = """
+Phir Mahadeva ne apni urja dharti par chhod di. Wo urja pahaadon, samundaron aur vanon (<span style="color:#FF5733;">forests</span>) mein chhayi. Par jab dharti us tej (<span style="color:#FF5733;">radiance</span>) ko jhel na payi, to devtaon ne Vayu (<span style="color:#FF5733;">wind god</span>) aur Agni (<span style="color:#FF5733;">fire god</span>) se kaha ki milkar is urja ka roop badal dein. Us milan se ek ujla (<span style="color:#FF5733;">bright</span>) pahaad aur ek tejomay (<span style="color:#FF5733;">brilliant</span>) van bana —  aur us tej se Karttikeya (Skanda), devon ka yodha-putra (<span style="color:#FF5733;">warrior son of the gods</span>), janma hua.
+
+Sab devta aur rishi khush hue aur Mahadev aur Uma ki stuti (<span style="color:#FF5733;">praise</span>) ki. Lekin Uma krodhit (<span style="color:#FF5733;">angry</span>) ho gayi — usne devtaon ko shikayat ki ki unhone use maa banne se roka. Gusse mein Uma ne haath mein paani lekar devtaon par shraap (<span style="color:#FF5733;">curse</span>) diya: “Tum sab nishchit roop se santaan-heen (<span style="color:#FF5733;">childless</span>) rahoge.”  
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir usne dharti ko bhi shraap diya: “Dharti! Tum hamesha badalti rahogi, kai rajaon ke adheen rahogi, aur tum bhi kabhi apna putra nahi paayegi.” Mahadev ne jab devtaon ko dukh bhara dekha, to Uma ke saath Himalaya ke upar ek shikhar (<span style="color:#FF5733;">peak</span>) — Himavatprabhava — par jakar aur bhi gehri yog aur tapasya mein lag gaye. Ab, Rama — maine Uma ki kahani bata di. Agla hissa Ganga ki utpatti (<span style="color:#FF5733;">origin</span>) ka hai, jise main aage bataunga.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.36.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter37
+    with st.expander("Chapter 1.37 - Ganga, the elder daughter of the king"):
+
+        text1 = """
+Jab Mahadev ji aur Mata Uma Himalaya ke shikhar (<span style="color:#FF5733;">peak</span>) par gehri tapasya (<span style="color:#FF5733;">deep meditation</span>) kar rahe the, tab devata (<span style="color:#FF5733;">gods</span>) pareshaan ho gaye. Unke leader Mahadev ji to tapasya mein the, to sab devata — Indra aur Agni ke saath — Brahma ji ke paas gaye. Sabne vinamrata se kaha, “Hey Brahma ji, Mahadev ji hamare neta (<span style="color:#FF5733;">leader</span>) hain, par ab wo tapasya mein chale gaye hain. Kripya kuch aisa kijiye jisse sansaar ka bhala (<span style="color:#FF5733;">good</span>) ho sake.”
+
+Brahma ji ne shaant swar (<span style="color:#FF5733;">gentle voice</span>) mein kaha, “Uma Devi ka shraap (<span style="color:#FF5733;">curse</span>) badla nahi ja sakta. Par chinta mat karo — Agni dev Ganga se ek putra (<span style="color:#FF5733;">son</span>) paida karenge jo devtaon ke dushmanon (<span style="color:#FF5733;">enemies</span>) ka vinaash (<span style="color:#FF5733;">destruction</span>) karega. aur Uma Devi apni behan ke is bachche ko apna samjhenge.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.37.1.jpg", text1, layout="side", image_position="left")
+        text2 = """
+
+Yeh sunkar sab devata prasann (<span style="color:#FF5733;">happy</span>) ho gaye aur Agni dev se kaha — “Hey Agni, humari madad karo aur ek shaktishaali putra paida karo.” Agni dev Ganga Devi ke paas gaye aur bole, “Hey Devi, devta chahte hain ki hum milkar ek balwaan (<span style="color:#FF5733;">powerful</span>) putra janmen.” Ganga Devi ne apna roop badla aur ek sundar apsara (<span style="color:#FF5733;">celestial nymph</span>) ban gayin. Agni dev ne apna tej (<span style="color:#FF5733;">divine energy</span>) unmein sthapit kiya. Par kuch samay baad Ganga Devi ne kaha, “Hey Agni dev, main is tej ko zyada der tak nahi sambhal sakti. Mera sharir (<span style="color:#FF5733;">body</span>) jal raha hai jaise aag lag gayi ho!”
+
+Agni dev bole, “Toh is tej ko Himalaya ke paas rakh do.” Tab Ganga Devi ne wo tej (<span style="color:#FF5733;">divine energy</span>) dharti par chhoda. Jahan wo gira, wahan se sona (<span style="color:#FF5733;">gold</span>) utpann hua —  itna chamakdaar ki aas-paas ki mitti (<span style="color:#FF5733;">soil</span>) chandi (<span style="color:#FF5733;">silver</span>) aur tamba (<span style="color:#FF5733;">copper</span>) ban gayi! Isi liye sona ko “Jatarupa” (<span style="color:#FF5733;">fire-born</span>) kaha gaya. Us tej se ek divya (<span style="color:#FF5733;">divine</span>) shishu (<span style="color:#FF5733;">child</span>) janma hua —  Kumara, jise sabne pyaar se Karttikeya kaha.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Krittika naam ki deviyan (<span style="color:#FF5733;">goddesses</span>) us bachche ki maa ban gayin. Bachcha bahut tejomayi (<span style="color:#FF5733;">radiant</span>) tha —  uske chhe mukh (<span style="color:#FF5733;">six faces</span>) the, aur wo ek saath chheon deviyon ka doodh pita tha! Jaise-jaise wo bada hua, usne asuron (<span style="color:#FF5733;">demons</span>) ko yudh (<span style="color:#FF5733;">battle</span>) ke liye chunauti di. Devataon ne use apna senapati (<span style="color:#FF5733;">commander-in-chief</span>) bana diya. Sab devata aur Agni dev ne uska aashirvaad (<span style="color:#FF5733;">blessing</span>) diya.
+
+Vishvamitra ji ne kaha —  “Hey Rama, yeh thi Ganga aur Karttikeya ki adbhut (<span style="color:#FF5733;">wonderful</span>) kahani. Jo koi shraddha (<span style="color:#FF5733;">faith</span>) aur bhakti (<span style="color:#FF5733;">devotion</span>) se is kahani ko sunega, use lambi aayu (<span style="color:#FF5733;">long life</span>), santaan (<span style="color:#FF5733;">children</span>) aur param sukh (<span style="color:#FF5733;">great joy</span>) prapt hoga.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.37.2.jpg", text3, layout="side", image_position="right")
+    
+    # Chapter38
+    with st.expander("Chapter 1.38 - The story of King Sagara, Rama’s ancestor"):
+
+        text1 = """
+Ek samay ki baat hai, Ayodhya mein ek mahaan aur dayalu raja rehta tha — Raja Sagara. Woh bahadur (<span style="color:#FF5733;">brave</span>), nyay-priya (<span style="color:#FF5733;">justice-loving</span>), aur apne praja (<span style="color:#FF5733;">people</span>) se bahut prem karne wale the. Lekin unke jeevan mein ek dukh tha — unke koi santaan (<span style="color:#FF5733;">children</span>) nahi the. Unki do patniyan thi —  Rani Keshini, Raja Vidharba ki beti, jo satya (<span style="color:#FF5733;">truthful</span>) aur dharmik thi, aur Rani Sumati, Raja Arishtanemi ki beti, jo bahut sundar aur komal (<span style="color:#FF5733;">gentle</span>) thi.  
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.38.1.jpg", text1, layout="side", image_position="left")
 
 
+        text2 = """
+Raja Sagara ne ek din faisla kiya ki woh Himalaya jaakar kathin tapasya (<span style="color:#FF5733;">penance</span>) karenge. Poore 100 saal tak unhone van (<span style="color:#FF5733;">forest</span>) mein rahkar dhyaan aur tapasya ki. Unki tapasya se prasann (<span style="color:#FF5733;">pleased</span>) hokar Maharishi Bhrigu unke saamne prakat hue aur bole:  “Hey rajan (<span style="color:#FF5733;">king</span>), tumhare ghar mein bahut putra (<span style="color:#FF5733;">sons</span>) honge. Tumhara naam teenon lokon (<span style="color:#FF5733;">three worlds</span>) mein mashhoor hoga. Tumhari ek rani se ek putra hoga aur doosri se 60,000 putra janm lenge!”  
 
-    create_image_text_layout("attached_assets/chapter1/chapter11.jpg", layout="full")
+Yeh sunkar dono raniyan rishi ke paas gayin aur puchha: “Hey maharishi, bataiye hum mein se kiske kitne putra honge?” Rishi muskuraaye aur bole: “Yeh tumhari iccha (<span style="color:#FF5733;">wish</span>) par nirbhar karta hai. Ek tum mein se rajvansh (<span style="color:#FF5733;">dynasty</span>) ka vaanshaj (<span style="color:#FF5733;">heir</span>) janmega, aur doosri mein 60,000 tejasvi (<span style="color:#FF5733;">radiant</span>) putra honge.”  Rani Keshini ne kaha — “Mujhe ek putra chahiye jo mahan bane.”  Aur Rani Sumati ne kaha — “Mujhe 60,000 veer (<span style="color:#FF5733;">brave</span>) putra chahiye.”  
 
+Kuch samay baad, Rani Keshini ne ek putra ko janm diya — uska naam rakha gaya Asamanjasa. Aur Rani Sumati ke garbh se ek bada sa lauki (<span style="color:#FF5733;">gourd</span>) nikla! ab use khola gaya, to usme se 60,000 chhote shishu (<span style="color:#FF5733;">babies</span>) nikle! Unhe makhan (<span style="color:#FF5733;">butter</span>) ke ghado (<span style="color:#FF5733;">pots</span>) mein rakha gaya aur sambhala gaya, aur dheere-dheere woh bade hoke veer yuva (<span style="color:#FF5733;">young warriors</span>) ban gaye.  
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Lekin Asamanjasa ek ajeeb ladka nikla — woh nadi Sarayu ke paas jaakar chhote bachchon ko pakad kar pani mein phenka karta tha! Aur jab bachche doob jaate, to woh hans kar khush hota. Uske bure kaamon se praja dukhi ho gayi aur usse rajya se nikal diya gaya. Uska ek beta tha — Amshuman, jo bahadur, vinamra (<span style="color:#FF5733;">polite</span>), aur sabka priya (<span style="color:#FF5733;">beloved</span>) tha. kuch varsh baad, Raja Sagara ne socha — “Ab mujhe ek mahaan yajna (<span style="color:#FF5733;">sacrifice</span>) karna chahiye.” Unhone apne purohit (<span style="color:#FF5733;">priests</span>) ko bula kar yajna ki tayyari shuru ki.  Aur isi se shuru hoti hai Raja Sagara aur unke vansh ki adbhut kahani — jisme Ganga ka prithvi par aana likha gaya hai.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.38.2.jpg", text3, layout="side", image_position="right")
+    
+    # Chapter39
+    with st.expander("Chapter 1.39 - Sagara’s horse is stolen during a yajna"):
+
+        text1 = """
+Jab Shri Rama ne Raja Sagara ki purani kahani suni, to unhone muskurate hue Vishvamitra Muni se kaha —
+“Hey Muni, aap hamesha sukhi (<span style="color:#FF5733;">prosperous</span>) rahen! Mujhe batayein, mere poorvaj (<span style="color:#FF5733;">ancestor</span>) Raja Sagara ne yajna (<span style="color:#FF5733;">sacrifice</span>) kaise kiya tha?”
+
+Rishi Vishvamitra, Rama ki utsukta (<span style="color:#FF5733;">curiosity</span>) dekh kar prasann (<span style="color:#FF5733;">happy</span>) hue aur bole —
+“Suno Rama! Himalaya aur Vindhya parvat ke beech ek pavitra bhoomi (<span style="color:#FF5733;">holy land</span>) hai. Wahi jagah Raja Sagara ne apna maha-yajna kiya tha.
+Us yajna ke liye ek pavitra ghoda (<span style="color:#FF5733;">sacrificial horse</span>) chhoda gaya tha, jiska raksha (<span style="color:#FF5733;">protection</span>) karne ka kaam Raja Sagara ne Amshuman, apne veer (<span style="color:#FF5733;">brave</span>) pothay (<span style="color:#FF5733;">grandson</span>), ko diya tha.” Lekin kuch samay baad, ek rakshas (<span style="color:#FF5733;">demon</span>) bhesh (<span style="color:#FF5733;">disguise</span>) badal kar aaya aur yajna wala ghoda chura le gaya! 🐎💨
+        """
+        create_image_text_layout("attached_assets/chapter1/1.39.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jab purohit (<span style="color:#FF5733;">priests</span>) ne dekha ki ghoda gayab ho gaya hai, to woh ghabra kar raja ke paas daudte hue aaye aur bole —
+“Hey Maharaj! Koi dusht (<span style="color:#FF5733;">wicked</span>) chaur (<span style="color:#FF5733;">thief</span>) ghoda le gaya hai! Kripya turant use dhoondh kar wapas layein!” Raja Sagara ne apne 60,000 putron ko bulaya aur kaha —
+“Mere veer putro! Ek rakshas (<span style="color:#FF5733;">demon</span>) ne hamara yajna (<span style="color:#FF5733;">sacrifice</span>) ka ghoda chura liya hai.
+Tum sab usse dhoondo aur dharti (<span style="color:#FF5733;">earth</span>) ke chaaro taraf talash karo. Main yajna (<span style="color:#FF5733;">sacrifice</span>) se uth nahi sakta, isliye tum sab jao aur tab tak khoj (<span style="color:#FF5733;">search</span>) karo jab tak ghoda mil na jaye!”
+
+Raja Sagara ke putron ne apne pita ka aadesh (<span style="color:#FF5733;">command</span>) suna aur bade utsah (<span style="color:#FF5733;">enthusiasm</span>) se puri dharti (<span style="color:#FF5733;">earth</span>) par khoj (<span style="color:#FF5733;">search</span>) shuru ki. Lekin jab ghoda kahin nahi mila, to unhone apne nakhun (<span style="color:#FF5733;">nails</span>) — jo vajra (<span style="color:#FF5733;">diamond</span>) jaise sakht the — se dharti (<span style="color:#FF5733;">earth</span>) ko khodna (<span style="color:#FF5733;">dig</span>) shuru kar diya! Jab unhone zameen khodni shuru ki, to poori dharti (<span style="color:#FF5733;">earth</span>) kaanp uthi! Unhone hal (<span style="color:#FF5733;">ploughs</span>), kodal (<span style="color:#FF5733;">spades</span>), aur anya auzaar (<span style="color:#FF5733;">tools</span>) se zameen ko ukhad diya. Is prakriya (<span style="color:#FF5733;">process</span>) mein kai naag (<span style="color:#FF5733;">serpents</span>), rakshas (<span style="color:#FF5733;">demons</span>), aur asur (<span style="color:#FF5733;">evil beings</span>) mare gaye.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ve dharti (<span style="color:#FF5733;">earth</span>) ko 60,000 yojan (<span style="color:#FF5733;">miles</span>) tak khodte gaye!
+Unhone parvaton (<span style="color:#FF5733;">mountains</span>) ko cheer diya, samudron (<span style="color:#FF5733;">oceans</span>) ko hilaa diya, aur Jambudweep (<span style="color:#FF5733;">earth’s realm</span>) tak pahunch gaye.
+
+Itni tabahi (<span style="color:#FF5733;">destruction</span>) dekh kar sab devta (<span style="color:#FF5733;">gods</span>), gandharva (<span style="color:#FF5733;">celestial musicians</span>), aur naag (<span style="color:#FF5733;">serpent beings</span>) dare hue Brahma ji ke paas gaye aur vinamr (<span style="color:#FF5733;">humbly</span>) hokar bole —
+“Hey Prabhu! Raja Sagara ke putra poori dharti (<span style="color:#FF5733;">earth</span>) ko khod kar bigaad rahe hain!
+Jo bhi unhe rokta hai, use ve turant maar kar kehte hain — ‘Tu chor (<span style="color:#FF5733;">thief</span>) hai! Tu hi ghoda chura kar le gaya!’” Aise Raja Sagara ke putron ki talash (<span style="color:#FF5733;">search</span>) ab ek bade rahasya (<span style="color:#FF5733;">mystery</span>) ki taraf badh rahi thi —
+ghoda kaha gaya tha, aur kisne chura liya tha? 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.39.2.jpg", text3, layout="side", image_position="right")
+    
+    # Chapter40 
+    with st.expander("Chapter 1.40 - Sagara’s sons search for the horse"):
+
+        text1 = """
+Jab Raja Sagara ke putron ne dharti (<span style="color:#FF5733;">earth</span>) khodna shuru kiya, to us shor-sharabe (<span style="color:#FF5733;">uproar</span>) se poori dharti gungunane lagi, jaise bijli (<span style="color:#FF5733;">thunder</span>) gir rahi ho! Raja Sagara ke veer putron ne duniya ka chakkar lagaya, devtaon (<span style="color:#FF5733;">gods</span>), rakshas (<span style="color:#FF5733;">demons</span>), aur naag (<span style="color:#FF5733;">serpents</span>) ko haraya, lekin yajna ka ghoda ya chor (<span style="color:#FF5733;">thief</span>) kahin nahi mila.
+
+Ve laut kar apne pita ke paas aaye aur bole — “Hey Pita! Humne poori dharti ghoom li, lekin ghoda kahin nahi mila. Kripya humein aadesh dein ki kya karein.” Raja Sagara ne krodh (<span style="color:#FF5733;">anger</span>) se kaha —
+“Jaao! Dharti ko phir se khodo, ghoda pakdo, apna kaam poora karo aur wapas aao!”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.40.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Dharti ke Rahasyamay (<span style="color:#FF5733;">mysterious</span>) Jeev Sagara ke putron ne phir se khodna shuru kiya aur pehli baar ek mahan haathi (<span style="color:#FF5733;">giant elephant</span>) dekha, jo parvat (<span style="color:#FF5733;">mountain</span>) jaise bada tha! Naam tha Vimpaksha, aur uski har chaal (<span style="color:#FF5733;">step</span>) se poori dharti kaanp jaati thi! Ve putra uske saamne jhuke aur uska dhyan se samman (<span style="color:#FF5733;">salutations</span>) kiya.
+
+Phir ve dusre haathi Mahapadma ko dekhe, jo dharti ke doosre hisse ko sambhal raha tha.
+Aur Hima-Pandara, ek safed (<span style="color:#FF5733;">white</span>) haathi, jo uttari (<span style="color:#FF5733;">northern</span>) bhag ko sambhal raha tha, usse bhi unhone pooja (<span style="color:#FF5733;">worship</span>) ki.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Kapila Muni aur Ghoda Ant me, ve poore utsah (<span style="color:#FF5733;">zeal</span>) ke saath khodte hue Shri Kapila ke paas pahunch gaye, jahan ghoda char raha tha.
+Soch kar ki Kapila ne ghoda chura liya, ve krodhit (<span style="color:#FF5733;">angry</span>) hue aur ploughs, ped (<span style="color:#FF5733;">trees</span>), pathar (<span style="color:#FF5733;">rocks</span>) utha kar unke paas bhaage, chillate hue —
+“Tu ghoda churaane wala chor (<span style="color:#FF5733;">thief</span>) hai! Hum Sagara ke putra tumhe pakad lenge!” Lekin Shri Kapila, jo anant shakti (<span style="color:#FF5733;">immeasurable power</span>) wale the, sirf ek ‘H’m’ ki aawaz se ve sab raakh (<span style="color:#FF5733;">ashes</span>) ho gaye! 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.40.2.jpg", text3, layout="side", image_position="right")
+ 
