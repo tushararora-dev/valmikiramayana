@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Ping Streamlit app
         run: |
-          curl -s https://bhagavadgita-tushar-arora-edition.onrender.com/ > /dev/null
+          curl -s https://valmikiramayana-tushar-arora-edition.onrender.com/ > /dev/null

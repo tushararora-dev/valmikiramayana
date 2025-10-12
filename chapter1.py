@@ -1242,4 +1242,3 @@ Soch kar ki Kapila ne ghoda chura liya, ve krodhit (<span style="color:#FF5733;"
 “Tu ghoda churaane wala chor (<span style="color:#FF5733;">thief</span>) hai! Hum Sagara ke putra tumhe pakad lenge!” Lekin Shri Kapila, jo anant shakti (<span style="color:#FF5733;">immeasurable power</span>) wale the, sirf ek ‘H’m’ ki aawaz se ve sab raakh (<span style="color:#FF5733;">ashes</span>) ho gaye! 
         """
         create_image_text_layout("attached_assets/chapter1/1.40.2.jpg", text3, layout="side", image_position="right")
- 
