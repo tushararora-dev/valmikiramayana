@@ -1242,3 +1242,132 @@ Soch kar ki Kapila ne ghoda chura liya, ve krodhit (<span style="color:#FF5733;"
 “Tu ghoda churaane wala chor (<span style="color:#FF5733;">thief</span>) hai! Hum Sagara ke putra tumhe pakad lenge!” Lekin Shri Kapila, jo anant shakti (<span style="color:#FF5733;">immeasurable power</span>) wale the, sirf ek ‘H’m’ ki aawaz se ve sab raakh (<span style="color:#FF5733;">ashes</span>) ho gaye! 
         """
         create_image_text_layout("attached_assets/chapter1/1.40.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter41
+    with st.expander("Chapter 1.41 - Amshuman finds the horse and his uncle’s ashes"):
+
+        text1 = """
+Raja Sagara ko bahut din beet gaye lage the. Uske bete ghaayab (<span style="color:#FF5733;">missing</span>) the aur yajna (<span style="color:#FF5733;">sacrifice</span>) bhi adhoora tha. Tab usne apne pyaare pota, Amshuman (<span style="color:#FF5733;">grandson</span>) ko bulaya.
+“Beta,” bola raja, “tu bahadur (<span style="color:#FF5733;">brave</span>) aur samajhdaar hai. Jaake mere bhaiyon ko aur us ghode (<span style="color:#FF5733;">horse</span>) ko dhoondh la. Sambhal ke ja — talwar, dhanush (<span style="color:#FF5733;">bow</span>) aur teer le.”
+
+Amshuman ne turant taiyaari ki. Raste mein usko devta (<span style="color:#FF5733;">gods</span>), naag (<span style="color:#FF5733;">serpents</span>), aur anya praani milke samman (<span style="color:#FF5733;">respect</span>) diye. Woh sab kah rahe the — “Aage badh, tera kaam safal hoga.”
+
+
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.41.1.jpg", text1, layout="side", image_position="left")
+
+        text2 = """
+Woh pahunchta gaya — aur pahle us bade haathi (<span style="color:#FF5733;">elephant</span>) se mila, jo zameen ko sambhalte the. Haathi ne kaha, “Beta, aage ja — tera uddeshya poora hoga.” Amshuman ne sab haathiyon ko pranam (<span style="color:#FF5733;">bowed</span>) kiya aur aage chala. Phir ek bhayanak jagah par Amshuman ko kuch dikhayi pada — zameen mein badi badi raakh (<span style="color:#FF5733;">ashes</span>) ki ek bhari chita si padi thi. Wo dekhta hi rona shuru kar diya. Ye raakh uske chachaon (<span style="color:#FF5733;">uncles</span>) ki thi — jo kapila muni ke samne gusse mein jal kar khatam ho gaye the.
+
+Tabhi uska nazar ek bada sa garud (<span style="color:#FF5733;">eagle</span>) par pada — jo uska mamu (<span style="color:#FF5733;">maternal uncle</span>) tha. Garud ne kaha:
+“Hey veer (<span style="color:#FF5733;">hero</span>) Amshuman, in putron ka nash (<span style="color:#FF5733;">destruction</span>) Kapila muni ke gusse se hua — yeh unki kismet thi. Ab jo tyohaar (<span style="color:#FF5733;">funeral rite</span>) karna hai woh seedha nahi kiya ja sakta. Inki antya-kriya (<span style="color:#FF5733;">last rites</span>) tabhi safal hogi jab inki raakh par Ganga (<span style="color:#FF5733;">the holy river</span>) ka pavitra paani (<span style="color:#FF5733;">sacred water</span>) chhodega.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Amshuman ne turant ghoda pakda aur wapas Ayodhya gaya. Usne raja ko sab kuch bataya — raakh, Garud ki baat aur Ganga ki maang. Raja Sagara ne socha, bahut prayas kiye — par Ganga ko dharti par laana aasaan nahi tha.
+
+Aise bahut saal beet gaye. Raja Sagara ne bahut rajya kiya, par jab tak Ganga zameen par nahi utari, uske parivaar ki shanti (<span style="color:#FF5733;">peace</span>) adhuri rahi. Aakhirkaar, Raja Sagara apne dharm (<span style="color:#FF5733;">duty</span>) poore karne ke baad is jagah se chale gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.41.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter42
+    with st.expander("Chapter 1.42 - Bhagiratha does penance to bring Ganga down"):
+
+        text1 = """
+Raja Amshuman ke baad, uske mantri (<span style="color:#FF5733;">ministers</span>) ne rajya (<span style="color:#FF5733;">kingdom</span>) sambhal liya aur Amshuman ke putra Dilipa ko raja bana diya. Amshuman ne Himalaya ki unchaiyon (<span style="color:#FF5733;">peaks</span>) par jaake kathin yogic tapasya (<span style="color:#FF5733;">meditation & penance</span>) ki. 32,000 saal tak tapasya karne ke baad bhi pavitra nadi (<span style="color:#FF5733;">holy river</span>) Ganga zameen par nahi aayi, aur Amshuman ne apni atma (<span style="color:#FF5733;">soul</span>) ko mukti (<span style="color:#FF5733;">released</span>) de di.
+
+Raja Dilipa, apne purvajon (<span style="color:#FF5733;">ancestors</span>) ki stithi dekh kar bahut dukhi (<span style="color:#FF5733;">grieved</span>) tha. Usne roz socha ki Ganga ko kaise dharti par laya jaaye aur apne purvajon ki antya-kriya (<span style="color:#FF5733;">funeral rites</span>) poori ho. Tabhi uske ghar mein ek santan (<span style="color:#FF5733;">child</span>) ka janm hua — Bhagiratha. Bhagiratha bada hoke ek dharmic (<span style="color:#FF5733;">righteous</span>) aur shaktishaali (<span style="color:#FF5733;">powerful</span>) raja bana. Lekin uska mann tha ki woh apne purvajon ki aatmaon ko mukti de aur Ganga ko dharti par laye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.42.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Bhagiratha ne rajya apne mantriyon ko de diya aur Gokama ke pavitra sthal (<span style="color:#FF5733;">holy place</span>) par jaake kathin tapasya karne laga. Usne apne haath upar karke, indriyon (<span style="color:#FF5733;">senses</span>) ko niyantrit (<span style="color:#FF5733;">controlled</span>) karke paanch agniyon (<span style="color:#FF5733;">fires</span>) ke beech khade hokar, sirf mahine mein ek baar bhojan (<span style="color:#FF5733;">food</span>) liya. Ye tapasya hazaar saal tak chalti rahi!
+
+Akhirkaar, Shri Brahma, sabke bhagwan (<span style="color:#FF5733;">Lord of the world</span>), Bhagiratha ki tapasya se prasanna (<span style="color:#FF5733;">pleased</span>) hue. Unhone kaha:
+“Bhagiratha beta, tumhari tapasya bahut shubh hai. Kuch bhi mangho (<span style="color:#FF5733;">ask</span>) aur tumhari iccha poori ho.”Bhagiratha ne vinamrata (<span style="color:#FF5733;">humble</span>) se kaha:
+“Hey Bhagwan, meri tapasya ka phal (<span style="color:#FF5733;">fruit</span>) ye ho ki mai apne purvajon ki aatmaon ko mukti de sakun — unki antya-kriya Ganga ke pavitra paani (<span style="color:#FF5733;">holy water</span>) se ho. Aur kripya mujhe santan (<span style="color:#FF5733;">heir</span>) bhi de do, taaki Ikshvaku vansh (<span style="color:#FF5733;">dynasty</span>) bana rahe.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Shri Brahma ne kaha:
+“Bhagiratha, tumne maha mangal (<span style="color:#FF5733;">great wish</span>) maangi hai. Tumhara santan hoga. Lekin Ganga, Himalaya ki sabse badi beti, jab dharti par aayegi, dharti use nahi sambhal paayegi. Sirf Shiv hi is shakti ko sambhal sakte hain.” Phir Shri Brahma aur devta apni sthaan (<span style="color:#FF5733;">region</span>) par wapas chale gaye aur Bhagiratha ki tapasya ka fal dene ke liye tayari ho gayi.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.42.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter43
+    with st.expander("Chapter 1.43 - Lord Shiva lets the sacred river flow"):
+
+        text1 = """
+Raja Bhagiratha ne apni tapasya (<span style="color:#FF5733;">austerities / hard meditation</span>) bahut hi shiddat (<span style="color:#FF5733;">intensity</span>) se ki. Ek saal tak, sirf ek ungli (<span style="color:#FF5733;">toe</span>) par khade hokar, haath upar karke, hawa par tairte hue, Bhagiratha ne Shri Shiva ki pooja (<span style="color:#FF5733;">adoration</span>) ki.
+
+Akhirkaar, Shri Mahadeva (<span style="color:#FF5733;">Shiva</span>), jo sabko poojya (<span style="color:#FF5733;">adored</span>) hai, Bhagiratha se bole:
+“Hey Bhagiratha, mai khush hoon. Jo tum chahte ho, mai poora karunga — mai Ganga ko apne sir par grahan (<span style="color:#FF5733;">receive</span>) karunga.”
+
+Fir, Himalaya ki sabse badi beti, Ganga Devi, ek maha-nadi (<span style="color:#FF5733;">mighty river</span>) ban kar Shiva ke sir par utarni lagi. Usne socha ki yeh itni shakti se aayegi ki Shiva ko dharti se utha de.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.43.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+
+Shiva ne ye socha aur gusse (<span style="color:#FF5733;">anger</span>) mein aakar, apne baalon (<span style="color:#FF5733;">locks of hair</span>) mein Ganga ko rok liya. Itni saalon tak Ganga Shiva ke baalon mein phasi rahi aur zameen tak nahi pahunchi. Fir Bhagiratha ne phir se apni tapasya shuru ki. Shiva, Bhagiratha ki tapasya dekh kar, Ganga ko Brindusara jheel (<span style="color:#FF5733;">lake</span>) mein bahne diya. Aur wahan se Ganga 7 nadiyon (<span style="color:#FF5733;">streams</span>) mein bat gayi: Hladini, Pavani, Nalini — east ki taraf Sucakshu, Sita, Sindhav — west ki taraf 7th stream — Bhagiratha ke chariot (<span style="color:#FF5733;">divine cart</span>) ke peeche
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Raja Bhagiratha apne shahi rath (<span style="color:#FF5733;">royal chariot</span>) mein aage badhe aur Ganga Devi unke peeche chal rahi thi. Jab Ganga ne dharti par paani (<span style="color:#FF5733;">water</span>) giraya, tab devta, rishi, yaksha, aur swarg ke saare log (<span style="color:#FF5733;">celestial beings</span>) aaye aur us pavitra nadi ko dekha. Paani ki jhalak (<span style="color:#FF5733;">sparkle</span>) itni sundar thi ki jaise bijli chamak rahi ho ya hans (<span style="color:#FF5733;">swans</span>) ud rahe ho.
+
+Fir Bhagiratha Ganga ke paani se apne purvajon (<span style="color:#FF5733;">ancestors</span>) ki antya-kriya (<span style="color:#FF5733;">funeral rites</span>) poori karne laga. Jaise hi pavitra Ganga ne unke ashes (<span style="color:#FF5733;">raakh</span>) ko chhua, King Sagara ke 60,000 putraon ki atmaen pavitra ho gayi aur ve swarg (<span style="color:#FF5733;">heaven</span>) ko chali gayi.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.43.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter44
+    with st.expander("Chapter 1.44 - Bhagiratha completes the funeral rites"):
+
+        text1 = """
+Raja Bhagiratha, pavitra Ganga Devi ke saath, samundar ke kinare (<span style="color:#FF5733;">seashore</span>) pahunch gaye. Wahan unhone Zameen ke neeche ke kshetra (<span style="color:#FF5733;">subterranean region</span>) mein jaakar dekha ki King Sagara ke 60,000 putra raakh (<span style="color:#FF5733;">ashes</span>) mein badal chuke the.
+
+Jab Ganga ka paani un ashes par gira, tab Shri Brahma, jo sabhi jagat ke prabhu (<span style="color:#FF5733;">Lord of the Worlds</span>) hain, Bhagiratha se bole: “Hey Bhagiratha, tumne King Sagara ke 60,000 putron ki atmaon ko mukti (<span style="color:#FF5733;">redeem / free</span>) dilayi. Ve ab swarg (<span style="color:#FF5733;">heaven</span>) mein sukh se baste hain. Jab tak samundar ka paani dharti par rahega, tab tak ye putra swarg mein sukh paate rahenge.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.44.1.jpg", text1, layout="side", image_position="left")
+
+        text3 = """
+Ab se, Ganga Devi tumhari badi beti (<span style="color:#FF5733;">eldest daughter</span>) ke roop mein jaani jayengi aur duniya bhar mein tumhare naam se pavitra nadi ke roop mein prasiddh (<span style="color:#FF5733;">famous</span>) rahengi. Is nadi ko Shri Ganga, Tripathaga aur Bhagirathi kaha jayega.”
+
+Brahma ne aage kaha:  
+“Bhagiratha, apne purvajon ke funeral rites poore karna tumhara kartavya (<span style="color:#FF5733;">duty</span>) hai. Pehle King Sagara, King Amshuman, aur tumhare pita Dilipa bhi ye kaam nahi kar paaye the. Par tumne hi is maha-kaarya (<span style="color:#FF5733;">great task</span>) ko poora kiya. Tumne apna dharma (<span style="color:#FF5733;">sacred duty</span>) sampurn kiya aur duniya mein amar (<span style="color:#FF5733;">undying</span>) naam kamaya.”
+
+Phir Bhagiratha ne Ganga ke paani se apne purvajon ki antya-kriya ki aur unke ashes ko pavitra (<span style="color:#FF5733;">holy</span>) kar diya. Uske baad ve apne rajya (<span style="color:#FF5733;">kingdom</span>) wapas gaye. Log khushi se jhoom uthe, sabko sukh-shanti mili, aur desh mein dhani, samruddh aur prasannata aayi.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.44.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter45 
+    with st.expander("Chapter 1.45 - The city of Vishala and the churning of the ocean"):
+
+        text1 = """
+Shri Rama aur Lakshmana, Shri Vishvamitra ki kahani sun kar hairan ho gaye. Dono ne kaha: “Wow, Maharishi! King Sagara aur Ganga Devi ki kahani sach mein adbhut hai!” Raat guzar gayi aur dono raja-mahraj ne socha ki kaise ye pavitra nadi dharti par aayi. Subah, Shri Rama ne apni pooja karke Vishvamitra se poocha: “Maharishi, ab humein Ganga ke is pavitra aur adbhut janm ki aur yatra ka pata chala hai. Chaliye is nadi ko paar karte hain aur sages se milte hain.” Shri Vishvamitra ne ferryman bulaya aur sabko nadi ke paar pahunchaya. Wahan se unhone door ek shandar Vishala City dekhi, jo Indra ke sheher jaise sukhad aur shobha se bhara tha. Rama ne poochha: “Maharishi, ye shandar sheher kaun chalata hai? Mujhe iska itihas sunaiye.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.45.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Vishvamitra ne shuru kiya: “O Rama! Suno! Ye kahani maine Indra se suni hai. Satya Yuga mein, Diti ne ek balwaan beta paida kiya, jo Daitya / Asura (<span style="color:#FF5733;">Daitya / Asura</span>) ban gaya. Aur Aditi ne ek dharmik aur shaktishaali beta paida kiya, jo Deva (<span style="color:#FF5733;">Deva</span>) bana. Ye dono chahte the ki ve amar aur swasth rahein. Sochne ke baad, unhone decide kiya ki Kshiroda (<span style="color:#FF5733;">ocean of milk</span>) ko churn kar Amrit (<span style="color:#FF5733;">nectar of immortality</span>) prapt karenge.
+
+Is ke liye unhone Vasuki (<span style="color:#FF5733;">snake</span>) ko rassi banaya aur Mandara Mountain ko churn karne ke liye use kiya. Saalon tak churning ke baad, Vasuki ne zeher udaya, jo duniya ko khatam kar sakta tha. Devas ne Lord Shiva ke paas jaakar prarthana ki:  
+“Hey Mahadeva! Humein bachaiye!” Shri Shiva ne us zeher ko apni gardan se rok liya aur duniya ko bachaya.
+
+Phir churning jaari raha. Lekin Mandara Mountain dhansne laga. Devas aur gandharvas ne Shri Vishnu se madad maangi. Vishnu ne Kachhua (<span style="color:#FF5733;">tortoise</span>) ka roop dharan kiya aur pahaad ko samarthan diya. Kayi saal baad, Shri Dhanvantari prakat hua, jiske saath bahut saari sundar Apsaras (<span style="color:#FF5733;">jal se nikalne wali devi</span>) bhi aayi.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Iske baad Varuni, Varuna ki beti, janmi. Devas ne use nahi liya, par Asuras ne khushi se swikar kiya. Phir Uccaihshravas (<span style="color:#FF5733;">divine horse</span>) aur Kaustubha (<span style="color:#FF5733;">jewel</span>) samudra se nikal aaye. Ant mein, Amrit (<span style="color:#FF5733;">nectar of immortality</span>) bhi samundar se prapt hua.
+
+Devas aur Daityas ke beech ladai hui, par Shri Vishnu ne Mohini ka roop dharan (<span style="color:#FF5733;">taking the form of Mohini</span>) karke Amrit (<span style="color:#FF5733;">nectar of immortality</span>) ko bachaya. Jin logon ne Vishnu ka virodh kiya, ve vinash ho gaye. Iske baad, Indra devas ka raja bana aur dharmik tareeke se rajya karne laga.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.45.2.jpg", text3, layout="side", image_position="right")
