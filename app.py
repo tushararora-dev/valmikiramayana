@@ -266,9 +266,9 @@ def main():
         target = "_self"  # change to "_blank" if you want new tab
         base = "display:block;width:100%;padding:10px 12px;border-radius:10px;text-decoration:none;margin-bottom:8px;"
         if active:
-            style = base + "background:#0D0B1A;color:#f3a900;border:2px solid #f3a900; "
+            style = base + "background:#0D0B1A;color:seashell;border:2px solid #f3a900; "
         else:
-            style = base + "background:transparent;color:#f3a900;border:1px solid rgb(68, 68, 68) ; "
+            style = base + "background:transparent;color:seashell;border:1px solid rgb(68, 68, 68) ; "
         st.sidebar.markdown(
             f'<a href="?chapter={i}#top" target="{target}" style="{style}">Chapter {i}: {chapter_names[i]}</a>',
             unsafe_allow_html=True
