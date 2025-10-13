@@ -1371,3 +1371,143 @@ Iske baad Varuni, Varuna ki beti, janmi. Devas ne use nahi liya, par Asuras ne k
 Devas aur Daityas ke beech ladai hui, par Shri Vishnu ne Mohini ka roop dharan (<span style="color:#FF5733;">taking the form of Mohini</span>) karke Amrit (<span style="color:#FF5733;">nectar of immortality</span>) ko bachaya. Jin logon ne Vishnu ka virodh kiya, ve vinash ho gaye. Iske baad, Indra devas ka raja bana aur dharmik tareeke se rajya karne laga.”
         """
         create_image_text_layout("attached_assets/chapter1/1.45.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter46 
+    with st.expander("Chapter 1.46 - Diti does penance to have a powerful son"):
+
+        text1 = """
+Ek samay ki baat hai, O Rama, jab Diti bahut dukhi thi. Uske bachche, jo shaktishaali the, Indra ne maar diye the. Diti ka dil to toot gaya. Vo apne pati Rishi Kashyapa ke paas gayi aur boli,
+“Prabhu, aapke shaktishaali putron ne mere bachche le liye. Main chahti hoon ek aisa beta jo Indra ko hara sake. Main chahe kitna bhi kathin (<span style="color:#FF5733;">hard</span>) tap karna pade, main karungi — bas aap mujhe aisa putra dena jo balvaan (<span style="color:#FF5733;">strong</span>), veer (<span style="color:#FF5733;">brave</span>) aur dridh sankalp wala ho.”
+
+Rishi Kashyapa ne shaant mann se kaha,
+“Be it so! Agar tum ek hazaar saal tak pavitra (<span style="color:#FF5733;">pure</span>) raho aur kathin tap karo, to tumhe ek beta milega jo Indra ko hara sakta hai. Mere ashirwad se tumhara beta teenon lok (<span style="color:#FF5733;">worlds</span>) ka raja hoga.” Diti ko santosh mila aur vo Kushaplava van (<span style="color:#FF5733;">forest</span>) mein chali gayi. Wahaan usne kathin tapasya (<span style="color:#FF5733;">penance</span>) shuru ki.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.46.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Indra ne ye sab dekha aur samjha — “Agar ye beta paida ho gaya, to mera vinash (<span style="color:#FF5733;">destruction</span>) nischit hai.”
+To Indra ne chalaki se Diti ki seva karni shuru ki. Har din vo use aag, kusha grass aur sab zaroori cheezein laakar deta, aur jab Diti thak jaati, to uske pair dabaata. Aise hi Indra ne ek hazaar saal minus das din tak seva ki. Phir Diti khush hokar boli,
+“Indra, tumhara pita ne mujhe vachan diya hai. Ab bas das din baaki hain, fir tumhara bhai janm lega — jo tumhe hara sakta hai, par main chahti hoon tum dono milkar teenon lok sambhalo.”
+
+Lekin, ek dopahar Diti thak gayi aur galti se ulte pair rakhkar so gayi — jo tapasya mein ashuddh (<span style="color:#FF5733;">impure</span>) mana jata hai. Indra ne ye dekha aur hans pada. Usne socha, “Ab mauka mil gaya!”
+Woh Diti ke shareer mein apni shakti se ghus gaya aur uske garbh (<span style="color:#FF5733;">womb</span>) mein bachche ko apne gadha (<span style="color:#FF5733;">mace</span>) se saat tukdon mein kaat diya.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Tab Diti ne dard se chillakar kaha,
+“Mat maaro, mat maaro!”
+Par Indra ne har baar bola, “Rud mat karo (<span style="color:#FF5733;">Don’t weep</span>), rud mat karo,” aur fir bhi tukde kar diye.
+
+Jab sab khatam hua, Indra ne vinamr (<span style="color:#FF5733;">humble</span>) hokar kaha,
+“Hey Devi, maaf kardo. Tumne apne pair usi disha mein rakhe jahan sir hona chahiye tha — ye ashuddh kriya thi. Tumhara beta mera vinaash banne wala tha, isliye mujhe ye karna pada. Mujhe kshama karo (<span style="color:#FF5733;">forgive me</span>).” Aur is tarah Diti ka kathin tap ek kathin ant tak pahucha, jahan se ek nayi katha ki shuruaat hoti hai — Marut devtaon ki.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.46.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter47 
+    with st.expander("Chapter 1.47 - The sages and princes reach Vishala"):
+
+        text1 = """
+Diti, jo apne foetus ko saat parts me divide hone ke baad pareshaan (<span style="color:#FF5733;">worried/upset</span>) thi, Indra se boli:
+“Ye sab meri galti (<span style="color:#FF5733;">fault/mistake</span>) se hua, O Indra, aap bilkul dosh-mukt (<span style="color:#FF5733;">blameless</span>) hain. Ye saat parts ab forty-nine winds ke protector (<span style="color:#FF5733;">guardian/defender</span>) banenge. Ye saat divine appearance (<span style="color:#FF5733;">god-like appearance</span>) wale beta Bala-kanda winds ke naam se jane jayenge. Ek Brahma ke region me ghoome, ek Indra ke region me, ek space me, aur baaki chaar aapke instructions (<span style="color:#FF5733;">orders/directions</span>) ke hisaab se kahin bhi jaayein. Ye sab Maruts ke naam se jane jayenge.”
+
+Indra, jiski aankhen thousand-eyed (<span style="color:#FF5733;">having a thousand eyes / all-seeing</span>) thi, ne kaha:
+“O Devi (<span style="color:#FF5733;">goddess/mother</span>), aapki ichha (<span style="color:#FF5733;">wish/desire</span>) poori hogi. Aapke beta Tapovana forest me devas (<span style="color:#FF5733;">divine beings/gods</span>) ke roop me ghoomenge.” Phir maa aur beta khushi se heaven (<span style="color:#FF5733;">swarg</span>) me chale gaye.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.47.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yahi wahi Tapovana forest hai jahan Indra pehle Diti ki seva (<span style="color:#FF5733;">service/help</span>) karta tha. Yahan ek great city Vishala banayi gayi, jo righteous (<span style="color:#FF5733;">pious/virtuous</span>) Prince Vishala (King Ikswaku aur Alambusa ka beta) ne establish ki. Vishala ke vanshaj (<span style="color:#FF5733;">descendants</span>): Vishala ka beta: Hemacandra, Hemacandra ka beta: Sucandra, Sucandra ka beta: Dhumrashva, Dhumrashva ka beta: Srinjaya, Srinjaya ka beta: Sahadeva, Sahadeva ka beta: Krishashva, Krishashva ka beta: Somadatta, Somadatta ka beta: Kakustha, Kakustha ka beta: King Pramati (Vishala ke present ruler, illustrious (<span style="color:#FF5733;">famous/glorious</span>) aur invincible (<span style="color:#FF5733;">unbeatable</span>)), Sab rulers, King Ikswaku ki kripa (<span style="color:#FF5733;">grace/blessing</span>) se, long-lived, virtuous (<span style="color:#FF5733;">good/pious</span>) aur mighty (<span style="color:#FF5733;">strong/powerful</span>) the.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rama ne kaha: “Chalo yahan raat guzaarte hain, aur kal King Janaka se milte hain.” Jab King Pramati ne Shri Vishvamitra ke aane ki khabar suni, to wo apne spiritual preceptor (<span style="color:#FF5733;">teacher/guide</span>) aur relatives ke saath unhe welcome (<span style="color:#FF5733;">greet/honor</span>) karne aaye.
+Unhone joined palms se due worship (<span style="color:#FF5733;">respectful prayer</span>) diya aur Shri Vishvamitra ki well-being poochi. King ne kaha:
+“O Muni (<span style="color:#FF5733;">sage/holy man</span>), aaj mai bahut lucky hoon ki aapne mere kingdom me aane ki kripa ki. Mai sabse blessed (<span style="color:#FF5733;">fortunate</span>) hoon.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.47.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter48 
+    with st.expander("Chapter 1.48 - Sage Gautama’s hermitage"):
+
+        text1 = """
+King Pramati ne Shri Vishvamitra se poocha: “O Muni, ye dono yuva (<span style="color:#FF5733;">youth</span>) kaun hain? Ye devtaon (<span style="color:#FF5733;">god</span>) ke barabar shaktiwale lagte hain, haathi ki tarah chal rahe hain (<span style="color:#FF5733;">gait</span>), sher aur bail ki tarah bahadur hain, unki aankhen kamal jaise hain. Inke haath me talwar, dhanush aur baan (<span style="color:#FF5733;">quiver</span>) hain. Ye sundar hain, jaise swarg ke Asvins (<span style="color:#FF5733;">Asvin</span>). Ye paidal kyun aa rahe hain? Inke pita kaun hain?”
+
+Shri Vishvamitra ne raja ko poori kahani batai ki kaise ye Siddha Ashram (<span style="color:#FF5733;">hermitage</span>) gaye aur asuron (<span style="color:#FF5733;">demon</span>) ka vadh kiya. Raja bahut khush hua aur in dono ko izzat (<span style="color:#FF5733;">respect</span>) se rakha. Shri Rama aur Lakshmana ko mehmaan nawazi (<span style="color:#FF5733;">hospitality</span>) mili aur raat yahi ruke. Agle din ve Mithilapuri, King Janaka ke rajdhani ke liye chale. Jab unhone shahar ko door se dekha, to bole: “Kitna sundar hai!” Phir unhone ek khubsurat aur khali (<span style="color:#FF5733;">uninhabited</span>) hermitage dekhi. Rama ne Vishvamitra se poocha: “O Muni, ye sundar hermitage kiski hai? Ye khali kyun hai?”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.48.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Shri Vishvamitra ne jawab diya: “O Rama, suno. Ye Ashram Rishi Gautama ka tha aur bahut adbhut (<span style="color:#FF5733;">wonder</span>) tha, devtaon ke liye bhi. Yahan unki patni Ahalya ke saath ve yoga (<span style="color:#FF5733;">spiritual</span>) karte the, hazaaron saal tak. Ek din, jab Gautama door gaye, Indra ne Ahalya ko akela (<span style="color:#FF5733;">alone</span>) paaya. Usne apni shakl (<span style="color:#FF5733;">form</span>) Gautama ki le li aur kaha: ‘O Ahalya, main tumse prerit (<span style="color:#FF5733;">desire</span>) hoon, apna kartavya poora karein (<span style="color:#FF5733;">duty</span>).’
+
+Ahalya ne pehchaana par haan kar di. Fir usne Indra se kaha: ‘O Indra, main khush hoon, ab chhupke jao. Gautama se bachao khud ko aur mujhe.’ Indra hans diya aur bola: ‘O sundar patni, main khush hoon. Ab jaata hoon.’ Tabhi Gautama wapas aaye. Gautama ko dekh kar Indra dar gaya. Gautama shakti se bhara (<span style="color:#FF5733;">powerful</span>), aag ki tarah chamak raha tha, haath me pavitra (<span style="color:#FF5733;">sacred</span>) fuel aur kusha ghas (<span style="color:#FF5733;">grass</span>) tha. Indra safed (<span style="color:#FF5733;">pale</span>) ho gaya. Gautama ne dekha aur usse shraap (<span style="color:#FF5733;">curse</span>) diya:
+‘O burra, meri shakl lekar paap (<span style="color:#FF5733;">sin</span>) kiya. Ab tum shaktheen (<span style="color:#FF5733;">impotent</span>) ho jao.’
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+
+Indra turant apni purush (<span style="color:#FF5733;">manhood</span>) shakti kho baitha. Phir Gautama ne Ahalya ko shraap diya:
+‘Tum yahan sthir (<span style="color:#FF5733;">immovable</span>) rahogi hazaaron saal. Tumhara bhojan (<span style="color:#FF5733;">food</span>) sirf hawa hoga. Tum dhool jaise (<span style="color:#FF5733;">invisible</span>) dikhoongi. Jab Rama, Dasaratha ke putra, aayenge, tab tumhare paap dur honge. Use seva (<span style="color:#FF5733;">service</span>) karo bina swarth ke, tab tum apni asli roop me lautogi.’
+
+Is tarah Gautama ne Ahalya ko shraap diya aur apna ashram chhod diya. Ve Himalaya (<span style="color:#FF5733;">mountains</span>) ki choti par jaake yoga (<span style="color:#FF5733;">practice</span>) karne lage, jahan siddh (<span style="color:#FF5733;">sage</span>) baste the.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.48.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter49 
+    with st.expander("Chapter 1.49 - Rama frees Ahalya from the curse"):
+
+        text1 = """
+Indra, apni purush shakti (<span style="color:#FF5733;">virility</span>) kho dene ke baad, udaas (<span style="color:#FF5733;">melancholy</span>) ho gaya aur Agni aur doosre devtaon (<span style="color:#FF5733;">gods</span>) se bola: “Gautama Maharishi ke tapasya (<span style="color:#FF5733;">ascetic practices</span>) me badha daal kar, jinhone meri shakti (<span style="color:#FF5733;">power</span>) par kabza (<span style="color:#FF5733;">usurp</span>) karne ki koshish ki, maine devtaon ka kaam poora kiya. Unka krodh (<span style="color:#FF5733;">wrath</span>) bhadka kar, maine unka shraap (<span style="color:#FF5733;">curse</span>) apne upar bulaya aur Ahalya ko ninda (<span style="color:#FF5733;">denounce</span>) kiya. Ab mujhe meri shakti (<span style="color:#FF5733;">manhood</span>) wapas chahiye. O Devtaon, madad karo!” Phir devta, Agni ke netritva (<span style="color:#FF5733;">head</span>) me, pitris (<span style="color:#FF5733;">ancestors</span>), kavyavahanas aur doosre jeev (<span style="color:#FF5733;">beings</span>) ke paas gaye aur bole:
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.49.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Indra apni purush shakti kho chuke hain. Is ram (<span style="color:#FF5733;">male Sheep</span>) ki shakti (<span style="color:#FF5733;">power</span>) ko Indra me graft karne do. Ram ko hum badle me puraskrit (<span style="color:#FF5733;">compensate</span>) karenge. Aaj se jo log aapko propitiate (<span style="color:#FF5733;">please</span>) karna chahenge, ve kastrated ram ka bali (<span style="color:#FF5733;">sacrifice</span>) dein aur bada punya (<span style="color:#FF5733;">merit</span>) prapt karein.” Pitris ne Agni ki baat maani aur ram ke testicles Indra me graft kiye. Tab se, logon ne hamesha gelded ram ka bali (<span style="color:#FF5733;">sacrifice</span>) dena shuru kiya. Ye ghatna (<span style="color:#FF5733;">event</span>) dikhaati hai ki Mahatma ki tapasya (<span style="color:#FF5733;">practice</span>) kitni apar (<span style="color:#FF5733;">immeasurable</span>) shaktiwali (<span style="color:#FF5733;">powerful</span>) hai.
+
+Ab Shri Rama ne aadesh (<span style="color:#FF5733;">command</span>) maana aur hermitage me gaye, pehle Vishvamitra ke saath. Wahan unhone dekha Ahalya ko, jo apni yogic (<span style="color:#FF5733;">spiritual</span>) practice se shaktishaali (<span style="color:#FF5733;">powerful</span>) bani thi. Devas, asuras ya manushya (<span style="color:#FF5733;">men</span>) use nahi dekh sakte the. Ahalya itni sundar (<span style="color:#FF5733;">beautiful</span>) thi jaise Brahma ne khud banayi ho — ek nymph ki tarah, mist me chhupi hui, aur Rishi Gautama ke shraap (<span style="color:#FF5733;">curse</span>) ki wajah se invisible (<span style="color:#FF5733;">dikhai nahi dene wali</span>) rahi. Ye tab tak rahegi jab tak Shri Ramacandra use nahi dekhte.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Shri Rama aur Lakshmana ne Ahalya ke pair chume (<span style="color:#FF5733;">reverence</span>) aur Ahalya ne Gautama ke shraap ki baatein yaad karke unke samne shraddha (<span style="color:#FF5733;">devotion</span>) me gir gayi. Fir Ahalya ne unhe mehmaan nawazi (<span style="color:#FF5733;">hospitality</span>) di jaise shastra (<span style="color:#FF5733;">scriptures</span>) me likha hai. Rama aur Lakshmana ne bhi unki izzat (<span style="color:#FF5733;">honour</span>) sweekar ki. Tabhi swarg se phoolon (<span style="color:#FF5733;">flowers</span>) ki barish hui, devtaon ne baje, celestial nymphs (<span style="color:#FF5733;">swargiya pari</span>) ne naach kiya aur sab khush hue.
+
+Gautama Maharishi, apni divya shakti (<span style="color:#FF5733;">divine power</span>) se sab jaan gaye aur hermitage aaye. Unhone dekha ki Ahalya apni asli roop (<span style="color:#FF5733;">form</span>) me laut gayi hai. Dono, Gautama aur Ahalya, Shri Rama ki pooja (<span style="color:#FF5733;">worship</span>) ki aur fir apni tapasya (<span style="color:#FF5733;">spiritual life</span>) continue ki. Shri Rama ne sabki vandana (<span style="color:#FF5733;">homage</span>) sweekar ki aur Mithila ke liye chale gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.49.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter50
+    with st.expander("Chapter 1.50 - King Janaka’s place of sacrifice"):
+
+        text1 = """
+Shri Rama aur Lakshmana, Sage Vishvamitra ke saath, King Janaka ke yagna (<span style="color:#FF5733;">sacrifice</span>) ke jagah par aaye. Unhone bada sundar mandap (<span style="color:#FF5733;">pavilion</span>) dekha aur bole: “King Janaka ne badi acchi taiyari (<span style="color:#FF5733;">preparation</span>) ki hai!”
+
+Wahan hazaaron brahmins (<span style="color:#FF5733;">priests</span>) aaye hue the, Veda padhne waale, aur bahut saari gaadiyaan (<span style="color:#FF5733;">carts</span>) bhi thi. Rama aur Lakshmana ne Vishvamitra se kaha ki ek shaant jagah chun lo jahan woh aaram (<span style="color:#FF5733;">rest</span>) kar saken. Vishvamitra ne ek alag aur paani wali jagah chuni.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.50.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+King Janaka ko jab pata chala ki Vishvamitra aa gaye hain, to woh apne purohit (<span style="color:#FF5733;">priest</span>) Shatananda aur mantrimandal (<span style="color:#FF5733;">ministers</span>) ke saath unko welcome karne aaya. Usne Vishvamitra ko honey-wala paani (<span style="color:#FF5733;">water with honey</span>) diya — yeh unki parampara (<span style="color:#FF5733;">tradition</span>). Janaka ne poocha ki sab kuch theek chal raha hai kya, aur poore samuh ka haal-chaal liya.
+
+Phir Janaka ne pucha, “Ye dono jawaan veer (<span style="color:#FF5733;">princes</span>) kaun hain? Inki chal-dhal (<span style="color:#FF5733;">bearing</span>) aur shakti (<span style="color:#FF5733;">strength</span>) devta jaise hai. Kaun hain ye?”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+
+Vishvamitra ne bataya: “Ye King Dasaratha ke putra (<span style="color:#FF5733;">sons</span>) hain.” Aur phir unhone unki purani kahani (<span style="color:#FF5733;">story</span>) sunayi — kaise woh Siddha-Ashrama gaye, asuron (<span style="color:#FF5733;">demons</span>) se lade, Ahalya ko bachaya, aur Gautama rishi se mile.
+
+Ant mein Vishvamitra ne kaha ki ab woh sab mil kar bada dhanush (<span style="color:#FF5733;">bow</span>) dekhne jayenge — jo King Janaka ke paas rakha hua hai. Sab chup ho gaye aur aage ka safar tay hua.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.50.2.jpg", text3, layout="side", image_position="right")
