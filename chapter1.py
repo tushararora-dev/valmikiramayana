@@ -1511,3 +1511,161 @@ Vishvamitra ne bataya: “Ye King Dasaratha ke putra (<span style="color:#FF5733
 Ant mein Vishvamitra ne kaha ki ab woh sab mil kar bada dhanush (<span style="color:#FF5733;">bow</span>) dekhne jayenge — jo King Janaka ke paas rakha hua hai. Sab chup ho gaye aur aage ka safar tay hua.
         """
         create_image_text_layout("attached_assets/chapter1/1.50.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter51
+    with st.expander("Chapter 1.51 - Gautama’s son Shatananda"):
+
+        text1 = """
+Jab Mahatma Vishvamitra ne apni baatein samapt ki, tab Rishi Gautama ke putra (<span style="color:#FF5733;">son</span>) Shatananda, jo yog (<span style="color:#FF5733;">meditation and self-control</span>) ke bal se tejasvi (<span style="color:#FF5733;">radiant</span>) the, Shri Rama ko dekh kar adbhut (<span style="color:#FF5733;">wonder</span>) aur anand (<span style="color:#FF5733;">delight</span>) se bhar gaye.
+
+Unhone Vishvamitra se pucha, “Hey Maharishi, kya meri maa Ahalya, jo itne saalon se tapasya (<span style="color:#FF5733;">austerity</span>) kar rahi thi, unhe aapne Shri Rama ko dikhaya? Kya meri maa ne in do veer (<span style="color:#FF5733;">brave</span>) Rajkumaron ka atithya (<span style="color:#FF5733;">hospitality</span>) phalon aur jo kuchh ashram mein mila, usse kiya? Kya aapne meri maa ko Indra ke dhokhe (<span style="color:#FF5733;">deception</span>) ki kahani bhi batayi? Kya Rama ke darshan (<span style="color:#FF5733;">sight</span>) se meri maa ko mere pita (<span style="color:#FF5733;">father</span>) ka kshama (<span style="color:#FF5733;">forgiveness</span>) mila? Aur kya mere pita ne Rama ka sammaan (<span style="color:#FF5733;">honour</span>) kiya?”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.51.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Vishvamitra ne muskurate hue kaha, “Hey Mahamuni (<span style="color:#FF5733;">great sage</span>), maine wahi kiya jo samay aur dharm (<span style="color:#FF5733;">duty</span>) ke anusar uchit (<span style="color:#FF5733;">proper</span>) tha. Jaise Rishi Jamadagni ne apni patni Renuka ko shraap (<span style="color:#FF5733;">curse</span>) diya tha aur baad mein use kshama kiya, waise hi tumhare pita Gautama ne bhi Ahalya ko apne paas wapas swikar (<span style="color:#FF5733;">accept</span>) kiya.”
+
+Ye sunkar Shatananda ne Shri Rama se kaha, “Hey Mahaan Purush (<span style="color:#FF5733;">great being</span>), aapka aagaman (<span style="color:#FF5733;">arrival</span>) sabke liye shubh (<span style="color:#FF5733;">auspicious</span>) hai. Aapne meri maa ko unke purane roop (<span style="color:#FF5733;">form</span>) mein lauta diya, ye bada punyakarya (<span style="color:#FF5733;">virtuous act</span>) hai. Kaun hai jo Vishvamitra jaise maharishi ki mahima (<span style="color:#FF5733;">glory</span>) ko poora varnan (<span style="color:#FF5733;">describe</span>) kar sake? Unhone rajrishi (<span style="color:#FF5733;">royal sage</span>) se brahmarishi (<span style="color:#FF5733;">highest sage</span>) tak ka safar tapasya aur gyaan se tay (<span style="color:#FF5733;">complete</span>) kiya. Unke jaise aur koi nahi.”
+
+Phir Shatananda ne Rama se kaha, “Hey Rama, suno, main aapko Vishvamitra ka itihas (<span style="color:#FF5733;">story</span>) sunata hoon. Puraane samay mein ye bade dharmik (<span style="color:#FF5733;">virtuous</span>) aur gyaani (<span style="color:#FF5733;">wise</span>) raja the. Raja Kusha, jo Prajapati ke putra the, unka putra (<span style="color:#FF5733;">son</span>) tha Gadhi, aur Vishvamitra Gadhi ke putra (<span style="color:#FF5733;">son</span>) the.
+
+Jab Vishvamitra ne rajya (<span style="color:#FF5733;">kingdom</span>) sambhala, to unhone hazaron saal tak dharm aur nyay (<span style="color:#FF5733;">justice</span>) se praja (<span style="color:#FF5733;">people</span>) ka palan (<span style="color:#FF5733;">govern</span>) kiya. Ek din unhone apni sena (<span style="color:#FF5733;">army</span>) ke saath duniya bhraman (<span style="color:#FF5733;">travel</span>) karne ka faisla kiya. Bahut se nagar (<span style="color:#FF5733;">cities</span>), nadiyan (<span style="color:#FF5733;">rivers</span>), pahaad (<span style="color:#FF5733;">mountains</span>) aur van (<span style="color:#FF5733;">forests</span>) paar karte hue, wo Rishi Vasishtha ke ashram (<span style="color:#FF5733;">hermitage</span>) tak pahuche.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Wo ashram ek swarg (<span style="color:#FF5733;">heaven</span>) jaisa tha — har tarah ke pedon, phoolon, aur pakshiyon (<span style="color:#FF5733;">birds</span>) se bhara hua. Shant mriga (<span style="color:#FF5733;">deer</span>) idhar-udhar ghoom rahe the, aur devata (<span style="color:#FF5733;">gods</span>), gandharva (<span style="color:#FF5733;">celestial musicians</span>) aur siddha (<span style="color:#FF5733;">perfected beings</span>) wahan aate the. Bahut se brahmin aur yogi (<span style="color:#FF5733;">sages</span>) wahan tap kar rahe the — kuchh hawa pe jeete, kuchh paani pe, aur kuchh fal-mool (<span style="color:#FF5733;">fruits and roots</span>) pe.
+
+Sab apni pratha (<span style="color:#FF5733;">tradition</span>) ke anusar snan (<span style="color:#FF5733;">bath</span>), japa (<span style="color:#FF5733;">chanting</span>), aur pitri-tarpan (<span style="color:#FF5733;">ancestor offering</span>) karte the. Kai grihastha (<span style="color:#FF5733;">householders</span>) apni patniyon ke saath yoga karte the. Sach mein, wo ashram Brahma ke lok (<span style="color:#FF5733;">abode</span>) jaisa lagta tha. Vishvamitra ne jab use dekha, unka man khushi aur adbhut (<span style="color:#FF5733;">wonder</span>) se bhar gaya.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.51.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter52
+    with st.expander("Chapter 1.52 - King Vishvamitra visits Sage Vasishtha"):
+
+        text1 = """
+Ek din, jab Raja Vishvamitra ne Rishi Vasishtha ke ashram (<span style="color:#FF5733;">hermitage</span>) ko dekha, toh unka dil khushi se bhar gaya. Unhone namrata (<span style="color:#FF5733;">humility</span>) se Rishi ko pranam (<span style="color:#FF5733;">bow</span>) kiya. Rishi Vasishtha ne unka pyaar se swagat kiya aur bola, “Raja Vishvamitra, aap baithiye.” Phir unhone unhe ashram mein mile fal (<span style="color:#FF5733;">fruits</span>) aur jad (<span style="color:#FF5733;">roots</span>) khilaye.
+
+Raja Vishvamitra ne bhi bade vinamra (<span style="color:#FF5733;">humble</span>) tareeke se unse poocha, “Hey Muni, sab theek hai na? Aapka yagna (<span style="color:#FF5733;">sacrifice</span>), tapasya (<span style="color:#FF5733;">meditation</span>) aur shishya (<span style="color:#FF5733;">disciples</span>) sab sukh se hain?”
+
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.52.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rishi Vasishtha muskura kar bole, “Sab achha hai, Raja! Batao, tumhara rajya (<span style="color:#FF5733;">kingdom</span>) kaisa chal raha hai? Praja (<span style="color:#FF5733;">people</span>) khush hain? Tum apne sipahiyon (<span style="color:#FF5733;">soldiers</span>) aur mitron (<span style="color:#FF5733;">friends</span>) ka dhyan rakhte ho na? Tumhara khazana (<span style="color:#FF5733;">treasury</span>) aur parivar sab theek hain?” Raja Vishvamitra bole, “Sab bhagwan ke kripa (<span style="color:#FF5733;">blessing</span>) se theek hai, Maharishi.”
+
+Dono kuch der tak purani baatein (<span style="color:#FF5733;">ancient stories</span>) karte rahe, aur apas mein bahut khush hue. Thodi der baad, Rishi Vasishtha bole, “Hey Raja, tum apni sena (<span style="color:#FF5733;">army</span>) ke saath aaye ho. Mujhe tumhe aur tumhare logon ko bhoj (<span style="color:#FF5733;">feast</span>) dena hai. Kripya mera nimantran (<span style="color:#FF5733;">invitation</span>) swikaar karo.” Raja Vishvamitra bole, “Maharishi, aapke madhur (<span style="color:#FF5733;">sweet</span>) shabd hi mere liye sabse bada satkar (<span style="color:#FF5733;">honour</span>) hain. Aapne mujhe fal aur pavitra (<span style="color:#FF5733;">pure</span>) jal (<span style="color:#FF5733;">water</span>) diya, ye mere liye kafi hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+
+Par Rishi Vasishtha ne kaha, “Nahi Raja, mehmaan (<span style="color:#FF5733;">guest</span>) ke roop mein tumhara bhojan karana mera kartavya (<span style="color:#FF5733;">duty</span>) hai.” Tab Raja Vishvamitra ne kaha, “Theek hai Maharishi, jaise aap chahein.”
+
+Phir Rishi Vasishtha ne apni chamatkari (<span style="color:#FF5733;">magical</span>) gai (<span style="color:#FF5733;">cow</span>) Kamadhenu, jise Shabala bhi kehte hain, ko bulaya. Unhone kaha,
+“Hey Shabale, meri baat suno. Raja Vishvamitra aur unki sena ko bhojan karana hai. Tum to ichchha-purti (<span style="color:#FF5733;">wish-fulfilling</span>) gai ho, tum sab kuch kar sakti ho. Isliye unke liye turant swadisht (<span style="color:#FF5733;">tasty</span>) bhojan banao — har prakar ke, jo khaya, piya, chata aur choosa ja sakta hai!”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.52.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter53
+    with st.expander("Chapter 1.53 - Vishvamitra wants Shabala"):
+
+        text1 = """
+Shabala, jo ki ek ichchha-purti (<span style="color:#FF5733;">wish-fulfilling</span>) gai (<span style="color:#FF5733;">cow</span>) thi, Shri Vasishtha ke hukum (<span style="color:#FF5733;">instruction</span>) ke mutabik sabko bhojan (<span style="color:#FF5733;">food</span>) deti thi. Ganne (<span style="color:#FF5733;">sugar cane</span>), alag-alag prakar ke mithai (<span style="color:#FF5733;">sweets</span>), shahad (<span style="color:#FF5733;">honey</span>), peesa hua jau (<span style="color:#FF5733;">crushed barley</span>), madira (<span style="color:#FF5733;">wine</span>) aur anya drinks, garam chawal (<span style="color:#FF5733;">hot rice</span>) pahaadon jitna, doodh (<span style="color:#FF5733;">milk</span>), sabzi (<span style="color:#FF5733;">curry</span>) aur chhe ras (<span style="color:#FF5733;">six tastes</span>) wale bhojan, saath hi jaggery ki mithai, sabko milte aur sab khush (<span style="color:#FF5733;">delighted</span>) ho gaye. Sabne Rishi Vasishtha ke atithya (<span style="color:#FF5733;">hospitality</span>) ka poora anand liya.
+
+Raja Vishvamitra apne pariwar ke purohit (<span style="color:#FF5733;">family priests</span>), mantri (<span style="color:#FF5733;">ministers</span>) aur sevak (<span style="color:#FF5733;">attendants</span>) ke saath bhojan karte hue bahut prasanna (<span style="color:#FF5733;">pleased</span>) hue.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.53.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jab sabko bhojan mil gaya, Raja ne Shri Vasishtha se kaha,
+“O Maharishi, aapne mujhe rajsi (<span style="color:#FF5733;">royal</span>) bhojan diya, ab meri baat suno. Hey Mahaan Rishi, mujhe Shabala do. Main tumhe 1 lakh (<span style="color:#FF5733;">hundred thousand</span>) behad acchi gaayen (<span style="color:#FF5733;">cows</span>) de dunga. Shabala ek ratna (<span style="color:#FF5733;">jewel</span>) hai aur raja ko ratna milna chahiye—prakritik niyam (<span style="color:#FF5733;">natural law</span>) ke mutabik, yeh mere adhikar (<span style="color:#FF5733;">right</span>) mein hai.”
+
+Shri Vasishtha ne vinamrata (<span style="color:#FF5733;">humility</span>) se jawab diya,
+“O Raja, main Shabala ko dene ke liye taiyaar nahi hoon, chahe aap mujhe 1 crore (<span style="color:#FF5733;">ten million</span>) gaayen kyon na dein. Chahe aap pahaad (<span style="color:#FF5733;">mountains</span>) bhar chandi (<span style="color:#FF5733;">silver</span>) bhi dein, main Shabala nahi dunga, kyunki woh mera ashram ki rakshak (<span style="color:#FF5733;">protector</span>) hai.
+
+“Jaise ek dharmic (<span style="color:#FF5733;">righteous</span>) vyakti apni izzat (<span style="color:#FF5733;">good name</span>) ka dhyan rakhta hai, waise hi main Shabala ka dhyan rakhta hoon. Wo mujhe devas (<span style="color:#FF5733;">gods</span>), pitris (<span style="color:#FF5733;">ancestors</span>) aur anya jeevon (<span style="color:#FF5733;">beings</span>) ko santusht (<span style="color:#FF5733;">satisfy</span>) karne mein madad karti hai. Mera pavitra (<span style="color:#FF5733;">sacred</span>) yagna (<span style="color:#FF5733;">sacrifice</span>) aur anya Vedic kriya (<span style="color:#FF5733;">rituals</span>), saath hi gyaan (<span style="color:#FF5733;">learning</span>) ke kaam, Shabala par nirbhar (<span style="color:#FF5733;">depend</span>) karte hain. Isliye main use kabhi nahi dunga. Shabala meri sabse badi sampatti (<span style="color:#FF5733;">wealth</span>) aur jeevan hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+
+Lekin Shri Vasishtha ke ye shabd (<span style="color:#FF5733;">words</span>) Raja ki iccha ko aur badha (<span style="color:#FF5733;">increase</span>) diye. Raja, bade jazbe (<span style="color:#FF5733;">emotion</span>) mein, bola:
+“O Mahaan Muni, main aapko 14,000 hathi (<span style="color:#FF5733;">elephants</span>) sunehre (<span style="color:#FF5733;">golden</span>) alankaar (<span style="color:#FF5733;">trappings</span>) ke saath, 108 sunehre (<span style="color:#FF5733;">gold</span>) rath (<span style="color:#FF5733;">chariots</span>), har rath mein 4 safed ghode (<span style="color:#FF5733;">white horses</span>), 11,000 ghode (<span style="color:#FF5733;">horses</span>) sunehre laghu (<span style="color:#FF5733;">golden harness</span>) ke saath aur 1 crore (<span style="color:#FF5733;">ten million</span>) gaayen, har rang ki, yuva (<span style="color:#FF5733;">young</span>) aur swasth (<span style="color:#FF5733;">healthy</span>), de dunga. Hey Rishi, bas mujhe Shabala do, main jitna chaaho sona (<span style="color:#FF5733;">gold</span>) bhi dunga. Kripya Shabala do aur mere uphaar (<span style="color:#FF5733;">gifts</span>) swikaar karo.”
+
+Phir Rishi Vasishtha ne sachchai se kaha,
+“O Raja, kisi bhi haalat (<span style="color:#FF5733;">condition</span>) mein main Shabala ko nahi dunga. Wo meri ratna (<span style="color:#FF5733;">jewel</span>) hai, meri sampatti (<span style="color:#FF5733;">wealth</span>) hai, meri jeevan shakti (<span style="color:#FF5733;">life force</span>) hai, aur yeh mujhe yagna aur anya zarurat (<span style="color:#FF5733;">needs</span>) poora karne mein madad karti hai. Isliye main Shabala kabhi nahi dunga.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.53.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter54
+    with st.expander("Chapter 1.54 - Vishvamitra tries to take Shabala by force"):
+
+        text1 = """
+O Rama, jaante hue ki Shri Vasishtha apni ichha se Shabala ko nahi denge, Raja Vishvamitra ne socha ki use zabardasti (<span style="color:#FF5733;">by force</span>) le jaaya jaye. O Raghava, jab Shabala ko zabardasti le jaaya ja raha tha, udaas (<span style="color:#FF5733;">sad</span>) aur pareshan (<span style="color:#FF5733;">distressed</span>), wo soch rahi thi:
+“Hey, Vasishtha ne mujhe kyun chhod diya? Maine unka kya bura kiya? Raja ke sevak (<span style="color:#FF5733;">servants</span>) mujhe hermitage se kyun le ja rahe hain? Main to nirdosh (<span style="color:#FF5733;">innocent</span>) aur dayalu (<span style="color:#FF5733;">docile</span>) hoon, Mahatma Vasishtha mujhe priya (<span style="color:#FF5733;">dear</span>) hain; maine kya paap (<span style="color:#FF5733;">fault</span>) kiya jo unhone mujhe chhod diya?”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.54.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Baar-baar sigh karte hue, Shabala, raja ke sevakon ke haathon se chutkar, tezi se bhaagi aur apna sir (<span style="color:#FF5733;">head</span>) pavitra Rishi ke paon (<span style="color:#FF5733;">feet</span>) par rakh diya. Shri Vasishtha ke saamne khadi, aansu (<span style="color:#FF5733;">tears</span>) bahate hue, zor se cheekhti (<span style="color:#FF5733;">crying</span>) boli:
+“O Lord, O Brahma ke putra, kya aapne sach mein mujhe chhod diya? Raja ke sevak mujhe aapke saamne se zabardasti kyon le ja rahe hain?”
+
+Dukhi Shabala ko dekh kar, Shri Vasishtha ne kaha jaise apni behen se baat karte,
+“O Shabala, yeh meri ichha (<span style="color:#FF5733;">will</span>) se nahi ho raha, na hi tumne mujhe kuch bura kiya. Raja apne lalach (<span style="color:#FF5733;">desire</span>) mein mujhe tumse le ja raha hai. Mere paas tumhe bachane ki shakti (<span style="color:#FF5733;">power</span>) nahi hai. Raja yoddha (<span style="color:#FF5733;">warrior</span>) hai aur uska saath ek bada sena (<span style="color:#FF5733;">army</span>) hai, ghode (<span style="color:#FF5733;">horses</span>), hathi (<span style="color:#FF5733;">elephants</span>) aur rath (<span style="color:#FF5733;">chariots</span>) ke saath; sach mein wo mujhse zyada shaktishaali (<span style="color:#FF5733;">mighty</span>) hai.”
+
+Shabala, jo tark (<span style="color:#FF5733;">argument</span>) mein nipun (<span style="color:#FF5733;">skilled</span>) thi, Shri Vasishtha ki baatein sun kar boli,
+“O Mahaan Rishi, yoddha ki shakti (<span style="color:#FF5733;">power</span>) ek pavitra muni (<span style="color:#FF5733;">holy sage</span>) ke saamne kuch bhi nahi hai. O Mahaan Lord, ek muni ki shakti divya (<span style="color:#FF5733;">divine</span>) hai aur dhyan aur tapasya (<span style="color:#FF5733;">spiritual practices</span>) par adharit (<span style="color:#FF5733;">based</span>) hai, isliye woh seema rahit (<span style="color:#FF5733;">limitless</span>) hai; aap, O Lord, Vishvamitra se hazaar guna (<span style="color:#FF5733;">immeasurably</span>) zyada shaktishaali ho. Raja ki shakti to bahut hai, par wo aapke barabar nahi aa sakta. O Lord, apni shakti se mujhe is dusht (<span style="color:#FF5733;">wicked</span>) ke garv (<span style="color:#FF5733;">pride</span>) aur shakti ko nasht (<span style="color:#FF5733;">destroy</span>) karne do. Shri Vasishtha ne kaha: “Thik hai! Apni adhyatmik (<span style="color:#FF5733;">spiritual</span>) shakti se ek sena (<span style="color:#FF5733;">army</span>) banao jo raja ki sena ko hara de.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+
+Bhalaan (lowing) karte hue, Shabala ne turant (<span style="color:#FF5733;">instantly</span>) apni shakti se sauyon videshi (<span style="color:#FF5733;">foreign</span>) sainik (<span style="color:#FF5733;">soldiers</span>) bana diye, jo Raja Vishvamitra ki sena ko nasht (<span style="color:#FF5733;">destroy</span>) karne lage. Apni sena ko haarte dekh, Raja Vishvamitra gusse mein (<span style="color:#FF5733;">angry</span>) chadhkar apne rath (<span style="color:#FF5733;">chariot</span>) par chadh gaya aur haathiyar (<span style="color:#FF5733;">weapons</span>) se hazaaron logon ko maara.
+
+Shabala ne, apni banayi hui sena ko nasht dekh kar, ajeeb prani (<span style="color:#FF5733;">strange beings</span>) shakas banaye, itni sankhya mein ki poori dharti (<span style="color:#FF5733;">earth</span>) bhar gayi. Ve bahut veer (<span style="color:#FF5733;">valorous</span>) the, unki twacha (<span style="color:#FF5733;">skins</span>) sone jaise chamak rahe the, peele (<span style="color:#FF5733;">yellow</span>) kavach (<span style="color:#FF5733;">armor</span>) pehne, talwar (<span style="color:#FF5733;">scimitar</span>) aur gada (<span style="color:#FF5733;">mace</span>) le kar Raja ki sena ko aag ki tarah nasht karne lage. Phir mahaan Vishvamitra ne yogic haathiyar (<span style="color:#FF5733;">weapons</span>) ka upayog (<span style="color:#FF5733;">use</span>) karke Shabala ki sena mein afra-tafri (<span style="color:#FF5733;">disorder</span>) paida ki.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.54.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter55
+    with st.expander("Chapter 1.55 - Shabala makes an army and defeats Vishvamitra’s men"):
+
+        text1 = """
+Jab mahaan yoddha (<span style="color:#FF5733;">warriors</span>) gir rahe the, Vishvamitra ki sena ke haathiyar (<span style="color:#FF5733;">weapons</span>) se, Shri Vasishtha ne Shabala se kaha:
+“O Shabala, apni Yoga (<span style="color:#FF5733;">spiritual power</span>) se aur yoddha banao (<span style="color:#FF5733;">create warriors</span>).”
+
+Shabala ne zor se bhalaan (low) kiya aur apne pair (<span style="color:#FF5733;">feet</span>) aur udders se shaktishaali sainik (<span style="color:#FF5733;">well-armed soldiers</span>) bana diye, aur apne baalon (<span style="color:#FF5733;">hair</span>) aur jaanghon (<span style="color:#FF5733;">thighs</span>) se adbhut yoddha Harita aur Kirata janme. Inke dwara, Vishvamitra ki poori sena – hathi (<span style="color:#FF5733;">elephants</span>), ghode (<span style="color:#FF5733;">horses</span>) aur rath (<span style="color:#FF5733;">chariots</span>) – turant nasht (<span style="color:#FF5733;">destroyed</span>) ho gayi.
+
+Apni poori sena ko Shri Vasishtha ki shakti se nasht dekh kar, Raja Vishvamitra ke sau putra (<span style="color:#FF5733;">sons</span>), shaktishaali aur vichaar se chalne wale (<span style="color:#FF5733;">thought-propelled</span>) haathiyar lekar, gusse mein Vasishtha ki taraf bhaage. Shri Vasishtha ne sirf “H’m!” ki dhvani (<span style="color:#FF5733;">sound</span>) di aur ve sab turant khatam ho gaye. Mahaan Rishi Vasishtha ke dwara, peshwari sena (<span style="color:#FF5733;">infantry</span>), ghode aur rath, saath hi Vishvamitra ke putra, turant raakh (<span style="color:#FF5733;">ashes</span>) ho gaye.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.55.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir mahaan Raja Vishvamitra, jinki sena aur putra nasht ho chuke the, sharm (<span style="color:#FF5733;">shame</span>) aur chinta (<span style="color:#FF5733;">dismay</span>) se bhare ho gaye. Apni mahima (<span style="color:#FF5733;">glory</span>) se vanchit (<span style="color:#FF5733;">deprived</span>), wo bina lehron wale samundar (<span style="color:#FF5733;">waveless ocean</span>) ya bina daanton wale saap (<span style="color:#FF5733;">snake bereft of fangs</span>) jaise dikh rahe the. Jaise pankh (<span style="color:#FF5733;">wings</span>) bina pakshi (<span style="color:#FF5733;">bird</span>), unka atma-vishwas (<span style="color:#FF5733;">confidence</span>) toot gaya, garv (<span style="color:#FF5733;">pride</span>) nimna (<span style="color:#FF5733;">humbled</span>) ho gaya, aur wo chinta (<span style="color:#FF5733;">anxiety</span>) se bhare ho gaye. Apna rajya (<span style="color:#FF5733;">kingdom</span>) keval apne ek shesh (<span style="color:#FF5733;">remaining</span>) putra ko samarpit (<span style="color:#FF5733;">bestowed</span>) karke, van me tapasya (<span style="color:#FF5733;">asceticism</span>) karne chale gaye.
+
+Kuch samay baad, unhe Shri Mahadeva, dayaalu (<span style="color:#FF5733;">magnanimous</span>) vardaan (<span style="color:#FF5733;">boon</span>) dene wale, ka ashirvad (<span style="color:#FF5733;">favour</span>) mila. Mahadeva ne Vishvamitra se poocha:
+“O Raja, aap tapasya kyon kar rahe ho? Aapki ichha (<span style="color:#FF5733;">desire</span>) kya hai? Main jo chaho tumhe de dunga.” Shri Vishvamitra ne pranam (<span style="color:#FF5733;">obeisance</span>) karte hue kaha:
+“O Mahaan Bhagwan, agar aap mujhe ashirvad dete ho, to Upanishad aur anya shiksha (<span style="color:#FF5733;">learning</span>) sikhaiye. Archery (<span style="color:#FF5733;">dhanurvidya</span>) aur sabhi haathiyar (<span style="color:#FF5733;">weapons</span>) ka gyaan do, jo danava, yaksha, asura aur anya prani (<span style="color:#FF5733;">beings</span>) jaante hain, ve mujhe prapt ho.” Mahadeva ne kaha:
+“Thik hai” aur apne ghar (<span style="color:#FF5733;">abode</span>) ko wapas chale gaye.
+
+Raja Vishvamitra, Mahadeva se haathiyar (<span style="color:#FF5733;">weapons</span>) prapt kar, chaand ke poore (<span style="color:#FF5733;">full moon</span>) samay ke samundar (<span style="color:#FF5733;">sea</span>) jaise khush ho gaye. Ab unhone Vasishtha ko jeetne (<span style="color:#FF5733;">subdue</span>) ka sankalp (<span style="color:#FF5733;">resolve</span>) kar liya aur usse apna bandi (<span style="color:#FF5733;">captive</span>) samjha. Apne hermitage jaate hue, unhone apne mahan haathiyar (<span style="color:#FF5733;">great weapons</span>) barish (<span style="color:#FF5733;">rain</span>) ki tarah chhode, Tapovan ke van (<span style="color:#FF5733;">forest</span>) ko aag (<span style="color:#FF5733;">blaze</span>) lag gayi. In bhayankar (<span style="color:#FF5733;">dreadful</span>) haathiyar se, sab Rishi (<span style="color:#FF5733;">sages</span>) chaaron taraf bhag gaye; Vasishtha ke shishya (<span style="color:#FF5733;">disciples</span>) aur anek pakshi (<span style="color:#FF5733;">birds</span>) aur prani (<span style="color:#FF5733;">beasts</span>) bhi bhag gaye. Shri Vasishtha ka hermitage suna (<span style="color:#FF5733;">deserted</span>) ho gaya aur gahra (<span style="color:#FF5733;">deep</span>) sannata (<span style="color:#FF5733;">silence</span>) chha gaya, jaise banjar (<span style="color:#FF5733;">barren</span>) khet ho.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Shri Vasishtha baar-baar bolte:
+“Darro mat, darro mat, main Vishvamitra ko nasht (<span style="color:#FF5733;">destroy</span>) kar dunga jaise surya (<span style="color:#FF5733;">sun</span>) subah ki dhund (<span style="color:#FF5733;">morning mist</span>) mita deta hai.” Phir mahaan Rishi Vasishtha, jo silent prayer (<span style="color:#FF5733;">japa</span>) mein pratham (<span style="color:#FF5733;">foremost</span>) hain, Vishvamitra se gusse mein bole:
+“Tumne mera purana aur shubh (<span style="color:#FF5733;">auspicious</span>) hermitage nasht kar diya, O Dusht (<span style="color:#FF5733;">wicked</span>) aur bhramit (<span style="color:#FF5733;">deluded</span>) vyakti, tum khud nasht ho jao.” Apni danda (<span style="color:#FF5733;">staff</span>), jo Yama ke danda jaise (<span style="color:#FF5733;">rod of Yama</span>) thi, utha kar, ve nangi aag (<span style="color:#FF5733;">naked flame</span>) jaise aage bade.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.55.2.jpg", text3, layout="side", image_position="right")
