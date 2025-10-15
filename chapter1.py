@@ -1669,3 +1669,138 @@ Shri Vasishtha baar-baar bolte:
 “Tumne mera purana aur shubh (<span style="color:#FF5733;">auspicious</span>) hermitage nasht kar diya, O Dusht (<span style="color:#FF5733;">wicked</span>) aur bhramit (<span style="color:#FF5733;">deluded</span>) vyakti, tum khud nasht ho jao.” Apni danda (<span style="color:#FF5733;">staff</span>), jo Yama ke danda jaise (<span style="color:#FF5733;">rod of Yama</span>) thi, utha kar, ve nangi aag (<span style="color:#FF5733;">naked flame</span>) jaise aage bade.
         """
         create_image_text_layout("attached_assets/chapter1/1.55.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter56
+    with st.expander("Chapter 1.56 - Sage Vasishtha defeats Vishvamitra"):
+
+        text1 = """
+Jab Shri Vasishtha ne kathor (<span style="color:#FF5733;">harsh</span>) shabd kahe, tab Vishvamitra ne apna agni astra (<span style="color:#FF5733;">fire weapon</span>) uthaya aur bola, “Ruko! Savdhan (<span style="color:#FF5733;">beware</span>)!” Tab Shri Vasishtha ne krodh (<span style="color:#FF5733;">anger</span>) mein apna Brahma dand (<span style="color:#FF5733;">staff</span>) uthaya aur kaha, “O sabse nich yoddha (<span style="color:#FF5733;">vilest warrior</span>), main yahan hoon! Apne sabhi astra (<span style="color:#FF5733;">weapons</span>) chhodo, un sab ko bhi jo tumhe Bhagwan Shiv se mile hain. Aaj main tumhe in sab se vanchit (<span style="color:#FF5733;">deprive</span>) kar dunga. Tumhara yuddh bal (<span style="color:#FF5733;">war power</span>) ek divya rishi (<span style="color:#FF5733;">divine sage</span>) ke samne kya hai? O murkh (<span style="color:#FF5733;">foolish</span>) insaan, ab meri divya shakti (<span style="color:#FF5733;">divine power</span>) dekho!” Aisa kehkar Shri Vasishtha ne Vishvamitra ke agni astra ko bujha diya, jaise paani aag ko bujhata hai.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.56.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Vishvamitra ne aur bhayanak (<span style="color:#FF5733;">dangerous</span>) astra chhode—Varuna astra, Rudra astra, Indra astra, Pashupata astra, Ishika astra, aur kai anya jaise Manava, Mohana, Gandharva, Swapana, Jrimbhana, Viadana, Santapana, Vilapana, Shoshana, Darana, Vatra, aur Brahmapasha, Kalapasha, Varunapasha, aur Pinaka astra bhi. Usne Shushka, Ardra, Danda, Pisacha, Krouncha, Dharmachakra, Kala chakra (<span style="color:#FF5733;">discus</span>), Vishnu chakra, aur Vayuvya, Mathana, Haya-shira, Kankala, Mushala, Vidyadhara, Kala, Trishul (<span style="color:#FF5733;">trident</span>) Kapala aur Kankana bhi chhode.
+
+Par Shri Vasishtha ne sirf apne dand (<span style="color:#FF5733;">staff</span>) se hi sab astra ko naash (<span style="color:#FF5733;">destroy</span>) kar diya. Jab Vishvamitra ne dekha ki uske sab astra bekaar ho gaye, to usne Brahmastra (<span style="color:#FF5733;">supreme weapon</span>) uthaya. Tab Agni dev, devta (<span style="color:#FF5733;">gods</span>), aur sab lok (<span style="color:#FF5733;">worlds</span>) dar gaye. Teenon lok kamp uthe (<span style="color:#FF5733;">trembled</span>).
+
+Par Shri Vasishtha ne apni Brahma vidya (<span style="color:#FF5733;">divine knowledge</span>) aur tapasya (<span style="color:#FF5733;">penance</span>) ke bal se us Brahmastra ko bhi shaant (<span style="color:#FF5733;">subdue</span>) kar diya. Jab usne is bhayanak astra ko roka, uska roop bhayankar (<span style="color:#FF5733;">terrible</span>) ban gaya. Uske sharir ke har rom (<span style="color:#FF5733;">pore</span>) se prakash (<span style="color:#FF5733;">light</span>) nikalne laga, aur uska dand (<span style="color:#FF5733;">staff</span>) aag ki tarah jalne laga.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sab rishi log Shri Vasishtha ki stuti (<span style="color:#FF5733;">praise</span>) karne lage: “Aapki shakti (<span style="color:#FF5733;">power</span>) anupam (<span style="color:#FF5733;">unequalled</span>) hai. Apni yoga shakti se Brahmastra ko shaant kijiye. O mahan tapasvi (<span style="color:#FF5733;">great ascetic</span>), aapne Vishvamitra ka ahankar (<span style="color:#FF5733;">pride</span>) tod diya hai, ab kripya shaant ho jaiye.”
+
+Rishiyon ke kehne par Shri Vasishtha ne apna shaant swabhav (<span style="color:#FF5733;">calm nature</span>) wapas le liya. Vishvamitra, haar kar, gahri saans lete hue bola, “Haye! Yoddha ki shakti kuch bhi nahi. Asli shakti to adhyatma (<span style="color:#FF5733;">spiritual power</span>) ki hoti hai. Shri Vasishtha ne apni tapasya se mujhe poori tarah hara diya. Ab main yuddh ko tyag (<span style="color:#FF5733;">abandon</span>) kar, brahm-rishi banne ka marg (<span style="color:#FF5733;">path</span>) apnaunga.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.56.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter57
+    with st.expander("Chapter 1.57 - Vasishtha refuses to help King Trishanku"):
+
+        text1 = """
+
+Vishvamitra ka mann bhari (<span style="color:#FF5733;">heavy</span>) tha, kyunki use apni haar (<span style="color:#FF5733;">defeat</span>) aur apmaan (<span style="color:#FF5733;">insult</span>) yaad aa rahi thi. Uske dil mein pachtava (<span style="color:#FF5733;">remorse</span>) tha ki usne Shri Vasishtha se dushmani (<span style="color:#FF5733;">enmity</span>) kyon ki. O Rama, apni patni ke saath Vishvamitra dakshin disha (<span style="color:#FF5733;">south direction</span>) gaya aur wahan kathin tapasya (<span style="color:#FF5733;">penance</span>) karne laga.
+
+Kai saalon ke baad uske chaar putra (<span style="color:#FF5733;">sons</span>) hue — sabhi satya ke bhakt (<span style="color:#FF5733;">devotee of truth</span>) aur shaktishaali (<span style="color:#FF5733;">powerful</span>) yoddha (<span style="color:#FF5733;">warriors</span>) the. Unke naam the — Havishyanda, Madhushyanda, Drirha-netra, aur Maharatha.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.57.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Hazaron saal ki tapasya ke baad, Brahma dev (<span style="color:#FF5733;">creator god</span>) unke saamne prakat (<span style="color:#FF5733;">appeared</span>) hue aur bole,
+“O Kaushik putra (<span style="color:#FF5733;">son of Kaushika</span>), tumne rajrishiyon (<span style="color:#FF5733;">royal sages</span>) se bhi adhik tapasya ki hai, isliye tum ab unke samaan (<span style="color:#FF5733;">equal</span>) ganye jaoge.”
+Aisa kehkar Brahma dev aur sab devta (<span style="color:#FF5733;">gods</span>) Brahmalok (<span style="color:#FF5733;">heavenly abode</span>) chale gaye. Ye sun kar Vishvamitra ko sharam (<span style="color:#FF5733;">shame</span>) aur dukh (<span style="color:#FF5733;">grief</span>) hua. Usne sir jhuka kar kaha,
+“Haye! Itni lambi tapasya ke baad bhi devta mujhe sirf rajrishi (<span style="color:#FF5733;">royal sage</span>) hi maante hain. Ye mere prayas (<span style="color:#FF5733;">effort</span>) ka uchit phal (<span style="color:#FF5733;">proper reward</span>) nahi hai.” Phir Vishvamitra ne aur dridh sankalp (<span style="color:#FF5733;">firm resolve</span>) liya aur naye utsah (<span style="color:#FF5733;">renewed energy</span>) ke saath fir tapasya shuru ki.
+
+Isi samay, Raja Trishanku, jo Ikshvaku vansh (<span style="color:#FF5733;">dynasty</span>) se tha, ek satyavaadi (<span style="color:#FF5733;">truthful</span>) aur sanyami (<span style="color:#FF5733;">self-controlled</span>) raja tha. Usne socha ki wo ek maha yagna (<span style="color:#FF5733;">great sacrifice</span>) kare, jisse wo apne sharir (<span style="color:#FF5733;">physical body</span>) ke saath swarg (<span style="color:#FF5733;">heaven</span>) ja sake. Raja Trishanku ne Shri Vasishtha ko bulaya aur apni ichha batayi. Par Vasishtha ne vichar (<span style="color:#FF5733;">consideration</span>) karke kaha,
+“O Raja, ye sambhav (<span style="color:#FF5733;">possible</span>) nahi hai.” Is baat se Trishanku udaas (<span style="color:#FF5733;">sad</span>) ho gaya. Apni ichha puri (<span style="color:#FF5733;">fulfil</span>) karne ke liye wo dakshin disha gaya jahan Shri Vasishtha ke putra (<span style="color:#FF5733;">sons</span>) rehte the, jo pavitra (<span style="color:#FF5733;">pure</span>) aur tapasvi (<span style="color:#FF5733;">ascetic</span>) jeevan jeete the.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Jab Raja Trishanku ne apne guru (<span style="color:#FF5733;">teacher</span>) ke putron ko dekha, to use bahut sharam (<span style="color:#FF5733;">shame</span>) hui. Usne jhuk kar pranam (<span style="color:#FF5733;">bow</span>) kiya aur vinamr (<span style="color:#FF5733;">humble</span>) bhaav se bola:
+“O sharan lene walon ke rakshak (<span style="color:#FF5733;">protector</span>), main aapki sahayata (<span style="color:#FF5733;">help</span>) ke liye aaya hoon. Maine aapke pita Vasishtha ji se apne yagna mein sahayata maangi thi, par unhone mana kar diya. Isliye main aap sab ke paas aaya hoon.
+
+O mere guru ke putro, main baar-baar pranam karta hoon. Kripya mujhe is yagna mein sahayata kijiye, jisse main apne sharir ke saath swarg ja sakoon. Agar aapne bhi mana kar diya, to mere paas koi aur nahi jisse main sharan (<span style="color:#FF5733;">refuge</span>) le sakoon.
+
+Ikshvaku vansh ke raja hamesha apne guru se margdarshan (<span style="color:#FF5733;">guidance</span>) paate rahe hain, aur Vasishtha ji ne hamesha hamare vansh ki raksha (<span style="color:#FF5733;">protection</span>) ki hai. Ab aap bhi unke anuyayi (<span style="color:#FF5733;">followers</span>) ho, isliye aap hi meri asha (<span style="color:#FF5733;">hope</span>) ho.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.57.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter58
+    with st.expander("Chapter 1.58 - Vasishtha’s sons curse Trishanku"):
+
+        text1 = """
+O Rama, jab Raja Trishanku ne apni baat kahi, to Shri Vasishtha ke sau putra (<span style="color:#FF5733;">hundred sons</span>) gusse (<span style="color:#FF5733;">anger</span>) se bhar gaye. Unhone kaha, “O dusht buddhi (<span style="color:#FF5733;">evil-minded</span>) raja! Jab tumhe tumhare Guru ne mana (<span style="color:#FF5733;">discouraged</span>) kar diya, to tumhari himmat kaise hui humse sahayata (<span style="color:#FF5733;">help</span>) maangne ki? Tum ek agyani (<span style="color:#FF5733;">ignorant</span>) vyakti ho! Hamare pita Vasishtha to teenon lokon (<span style="color:#FF5733;">three worlds</span>) ke yagna (<span style="color:#FF5733;">sacrifices</span>) sambhal sakte hain. 
+
+Tum jaise shishya (<span style="color:#FF5733;">disciple</span>) unke layak nahi ho. Kya hum apne pita ke vachan (<span style="color:#FF5733;">words</span>) ko jhootha kar dein?” Raja Trishanku ne shaant (<span style="color:#FF5733;">calm</span>) man se kaha, “Jab mere Guru ne bhi mana kar diya aur ab aap sab bhi, to main kisi aur jagah sahayata khojunga (<span style="color:#FF5733;">seek</span>). Aap sabka bhala ho.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.58.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Ye baat sunkar Vasishtha ke putre aur adhik krodhit (<span style="color:#FF5733;">angry</span>) ho gaye. Unhone kaha, “Raja Trishanku! Tum ab shudra (<span style="color:#FF5733;">low-born</span>) jaati ke ho jao!” Aisa kehkar unhone raja ko shraap (<span style="color:#FF5733;">curse</span>) diya aur apne ashram (<span style="color:#FF5733;">hermitage</span>) laut gaye. Raat khatam hote hi, Trishanku ka roop (<span style="color:#FF5733;">form</span>) badal gaya. Uska rang kaala (<span style="color:#FF5733;">dark</span>) ho gaya, shareer patla (<span style="color:#FF5733;">thin</span>) aur sir mund (<span style="color:#FF5733;">shaven head</span>) gaya. Uska pura shareer shamshaan (<span style="color:#FF5733;">cremation ground</span>) ki raakh (<span style="color:#FF5733;">ashes</span>) se lipta hua tha, aur uske sone ke gehne (<span style="color:#FF5733;">gold ornaments</span>) ab saste dhatu (<span style="color:#FF5733;">lead</span>) ke ban gaye the. Jab rajya ke logon ne apne raja ko is roop mein dekha, to sab dar kar bhag gaye. Bechara Trishanku dukh (<span style="color:#FF5733;">sorrow</span>) se bhara hua tha aur akela reh gaya. Dukh bhare din aur raaton ke baad, usne Shri Vishvamitra ke paas sharan (<span style="color:#FF5733;">refuge</span>) li.
+
+Vishvamitra ne jab raja ko dekha — bina rajya ke, aur neeche jaati (<span style="color:#FF5733;">low caste</span>) ke roop mein — to unke dil mein daya (<span style="color:#FF5733;">compassion</span>) jag gayi. Unhone kaha, “O mahaan (<span style="color:#FF5733;">great</span>) raja, tum par kripa (<span style="color:#FF5733;">blessing</span>) ho! Tum yahan kis dukh (<span style="color:#FF5733;">sorrow</span>) ke saath aaye ho? Main jaanta hoon tum Ayodhya ke raja the, par ab shraap (<span style="color:#FF5733;">curse</span>) ke kaaran tum is avastha (<span style="color:#FF5733;">state</span>) mein ho.” Tab Raja Trishanku ne haath jod kar vinamr (<span style="color:#FF5733;">humble</span>) awaaz mein kaha, “O maharshi (<span style="color:#FF5733;">great sage</span>), mujhe mere Guru aur unke putron ne mana kar diya jab main apne sharir ke saath swarg (<span style="color:#FF5733;">heaven</span>) jaana chahta tha. Unhone mujhe chandala (<span style="color:#FF5733;">outcast</span>) bana diya. Ab mujhe sharam (<span style="color:#FF5733;">shame</span>) aati hai kisi ke saamne jaane mein.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Maine anek (<span style="color:#FF5733;">many</span>) yagna (<span style="color:#FF5733;">sacrifices</span>) kiye, kabhi jhooth (<span style="color:#FF5733;">lie</span>) nahi bola, aur apne praja (<span style="color:#FF5733;">people</span>) ko nyay (<span style="color:#FF5733;">justice</span>) aur dharma (<span style="color:#FF5733;">righteousness</span>) se chalaya. Main apne Guru aur sab rishiyon (<span style="color:#FF5733;">sages</span>) ko hamesha santusht (<span style="color:#FF5733;">pleased</span>) rakhta tha. Par ab mera bhagya (<span style="color:#FF5733;">destiny</span>) kharab ho gaya hai. Bhagya ko koi nahi badal sakta (<span style="color:#FF5733;">change</span>).
+
+O Vishvamitra, aap hi mujhe is dukh (<span style="color:#FF5733;">suffering</span>) se bachaiye (<span style="color:#FF5733;">save</span>). Aapke alawa (<span style="color:#FF5733;">besides</span>) mera koi sahara (<span style="color:#FF5733;">support</span>) nahi hai. Apni tapasya (<span style="color:#FF5733;">spiritual power</span>) se meri ye durgati (<span style="color:#FF5733;">bad fate</span>) mita dijiye.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.58.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter59
+    with st.expander("Chapter 1.59 - Vishvamitra asks Vasishtha’s sons and Mahodeva for help"):
+
+        text1 = """
+Raja Trishanku ne Vishvamitra se madad maangi. Vishvamitra ne pyar se kaha, “O Raja, daro mat. Tum bilkul sachche ho. Main tumhara sahara (<span style="color:#FF5733;">refuge</span>) banunga. Main brahmanon (<span style="color:#FF5733;">priests</span>) ko bulaunga jo tumhari yagna (<span style="color:#FF5733;">sacrifice</span>) mein madad karenge. Tumhara lakshya pura ho jayega — tum usi roop (<span style="color:#FF5733;">form</span>) mein swarg (<span style="color:#FF5733;">heaven</span>) jaa paoge jaisa tumhare Guru ne bataya tha.”
+
+Phir Vishvamitra ne apne putron se kaha ki sab taiyyariyan karo. Usne apne shishyon (<span style="color:#FF5733;">disciples</span>) ko bheja ki desh ke pavitra (<span style="color:#FF5733;">pious</span>) aur gyani (<span style="color:#FF5733;">learned</span>) brahmanon (<span style="color:#FF5733;">priests</span>) ko bulao — Vasishtha ke putron ko bhi bulao. Agar koi aana mana kare to batana.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.59.1.jpg", text1, layout="side", image_position="left")
+
+
+
+
+        text3 = """
+Thode dino mein sab log zahir hue. Lekin Vasishtha ke putron ne gusse (<span style="color:#FF5733;">anger</span>) se jawab diya. Unhone kaha: “Kaise hum us yagna (<span style="color:#FF5733;">sacrifice</span>) mein bhaag lein jahan chandala (<span style="color:#FF5733;">outcast</span>) ne adhikar (<span style="color:#FF5733;">officiate</span>) kiya ho? Kaise woh brahman (<span style="color:#FF5733;">priests</span>) unka khana khayenge aur phir swarg ja sakenge? Yeh asambhav (<span style="color:#FF5733;">impossible</span>) hai.”
+
+Vishvamitra ka gussa bhadak utha. Usne zor se kaha:
+“Jo log mujhe nazarandaz (<span style="color:#FF5733;">ignore</span>) karenge, unke liye nyay hoga. Aaj main un sabko shraap (<span style="color:#FF5733;">curse</span>) dunga. Jo bure bole woh raakh (<span style="color:#FF5733;">ashes</span>) ban jayenge. Jo zinda rehkar dusron ka bura karenge, unhe kutto ka bhojan (<span style="color:#FF5733;">eat dogs' flesh</span>) karna padega aur woh log Musthika (<span style="color:#FF5733;">outcasts</span>) jaise gina jayenge. Aur Mahodeva ko bhi main shraap (<span style="color:#FF5733;">curse</span>) dunga ki woh ek fowler (<span style="color:#FF5733;">bird-catcher</span>) ki tarah paida ho aur lambi museebat jhele.” Vishvamitra ne shraap (<span style="color:#FF5733;">curse</span>) bol diya. Phir vah shaant ho gaya aur sab log chup ho gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.59.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter60
+    with st.expander("Chapter 1.60 - King Trishanku goes to a special heaven"):
+
+        text1 = """
+Vishvamitra ne apne tapasya (<span style="color:#FF5733;">asceticism</span>) ke dam par Vasishtha ke putron ko saza di. Phir unhone sab rishiyon (<span style="color:#FF5733;">sages</span>) ke beech baith kar kaha: “Raja Trishanku, Ikshvaku vansh ka mahan aur dharmik raja, mere paas sharan (<span style="color:#FF5733;">refuge</span>) mein aaya hai. Vah apni sharirik roop (<span style="color:#FF5733;">embodied form</span>) mein swarg (<span style="color:#FF5733;">heaven</span>) jaana chahta hai. Mujhe hi ise pura karna hai. O Rishiyo, aap sab milkar is yagna (<span style="color:#FF5733;">sacrifice</span>) mein madad karo.” Rishiyon ne socha, “Vishvamitra krodhit (<span style="color:#FF5733;">angry</span>) hain. Agar hum madad nahi karenge, to unka shraap (<span style="color:#FF5733;">curse</span>) ham par padega. Chalo, yagna mein madad karte hain taaki raja apne sharir ke saath swarg ja sake.”
+
+Yagna prarambh hua. Vishvamitra mukhya purohit (<span style="color:#FF5733;">chief priest</span>) bane, aur anya brahman (<span style="color:#FF5733;">priests</span>) unke adheen (<span style="color:#FF5733;">subordinate</span>) the. Bahut din tak yagna chala. Phir Vishvamitra ne Trishanku ko kaha: “O Raja, meri tapasya ke bal se, tum apne sharir ke saath swarg ja rahe ho. Yeh asambhav (<span style="color:#FF5733;">impossible</span>) maana jata hai, lekin ab main kehta hoon, ‘Heaven mein jao’.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.60.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Trishanku turant swarg mein chadh gaya. Lekin Indra aur devta (<span style="color:#FF5733;">gods</span>) bole: “O Trishanku, tumhara swarg mein koi sthan (<span style="color:#FF5733;">place</span>) nahi hai. Tum gir rahe ho!” Trishanku girne laga aur Vishvamitra se pukara: “Bachao mujhe! Bachao mujhe!" Vishvamitra gusse mein bole: “Ruko! Ruko!”  Phir unhone apne tapasya se naya swarg (<span style="color:#FF5733;">heaven</span>) banaya, jisme saat grah (<span style="color:#FF5733;">seven planets</span>) aur Ashvini aur 27 nakshatra (<span style="color:#FF5733;">stars</span>) the.
+
+Vishvamitra socha: “Main ya to naya Indra (<span style="color:#FF5733;">king of gods</span>) banaunga ya is swarg ko bina Indra ke chhod dunga. Trishanku is swarg ka prabhu (<span style="color:#FF5733;">Lord</span>) hoga.” Devta aur rishiyan hairan (<span style="color:#FF5733;">bewildered</span>) ho kar bole:  
+“O Mahaan Rishi, yeh raja apne Guru ke shraap (<span style="color:#FF5733;">curse</span>) se aswachh (<span style="color:#FF5733;">unworthy</span>) hai.”
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Vishvamitra ne jawab diya: “Yeh raja apne sharir ke saath swarg jaayega. Maine pratigya (<span style="color:#FF5733;">pledge</span>) li hai, ise pura karna hoga. Maine swarg aur grah (<span style="color:#FF5733;">planets</span>) banaye hain, yeh sthayi (<span style="color:#FF5733;">enduring</span>) hoga.” Devta dare hue bole: “Thik hai, O Mahaan Rishi, tumhara banaya swarg sthayi rahe. Trishanku ulta latka (<span style="color:#FF5733;">head down</span>) rahe aur amar (<span style="color:#FF5733;">immortal</span>) jaise chamakte taare (<span style="color:#FF5733;">shining stars</span>) ke beech rahe.” Phir Vishvamitra ko devtaon ne sammanit (<span style="color:#FF5733;">extolled</span>) kiya aur yagna khatam hua. Sab apne-apne sthanon (<span style="color:#FF5733;">regions</span>) ko laut gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.60.2.jpg", text3, layout="side", image_position="right")
