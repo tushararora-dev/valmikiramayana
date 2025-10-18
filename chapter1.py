@@ -1804,3 +1804,161 @@ Vishvamitra socha: “Main ya to naya Indra (<span style="color:#FF5733;">king o
 Vishvamitra ne jawab diya: “Yeh raja apne sharir ke saath swarg jaayega. Maine pratigya (<span style="color:#FF5733;">pledge</span>) li hai, ise pura karna hoga. Maine swarg aur grah (<span style="color:#FF5733;">planets</span>) banaye hain, yeh sthayi (<span style="color:#FF5733;">enduring</span>) hoga.” Devta dare hue bole: “Thik hai, O Mahaan Rishi, tumhara banaya swarg sthayi rahe. Trishanku ulta latka (<span style="color:#FF5733;">head down</span>) rahe aur amar (<span style="color:#FF5733;">immortal</span>) jaise chamakte taare (<span style="color:#FF5733;">shining stars</span>) ke beech rahe.” Phir Vishvamitra ko devtaon ne sammanit (<span style="color:#FF5733;">extolled</span>) kiya aur yagna khatam hua. Sab apne-apne sthanon (<span style="color:#FF5733;">regions</span>) ko laut gaye.
         """
         create_image_text_layout("attached_assets/chapter1/1.60.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter61
+    with st.expander("Chapter 1.61 - King Ambarisha’s sacrificial horse is lost"):
+
+        text1 = """
+Jab Vishvamitra ne dekha ki sab rishi (<span style="color:#FF5733;">sages</span>) apne apne ghar laut rahe hain, to unhone Tapovan ke logon se kaha:
+“Dakshin disha (<span style="color:#FF5733;">south direction</span>) mein mere tapasya (<span style="color:#FF5733;">penance</span>) mein bahut badhayein (<span style="color:#FF5733;">obstacles</span>) aayi hain. Main ab paschim disha (<span style="color:#FF5733;">west direction</span>) ke Pushkar naam ke pavitra sthal (<span style="color:#FF5733;">holy place</span>) jaunga, jahan main bina kisi rukavat (<span style="color:#FF5733;">disturbance</span>) ke apni tapasya kar sakta hoon.”
+
+Phir Vishvamitra Pushkar ke van (<span style="color:#FF5733;">forest</span>) mein gaye, jahan woh fal aur jad (<span style="color:#FF5733;">roots</span>) khakar apni tapasya karne lage.
+
+Us samay, Ayodhya ke Raja Ambarisha ne ek Ashvamedha Yagna (<span style="color:#FF5733;">horse sacrifice</span>) shuru kiya. Lekin Indra ne unka yagna ka ghoda (<span style="color:#FF5733;">sacrificial horse</span>) chura liya!
+        """
+        create_image_text_layout("attached_assets/chapter1/1.61.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Purohit (<span style="color:#FF5733;">priest</span>) ne Raja se kaha:
+“O Raja, yeh aapki zimmedari (<span style="color:#FF5733;">responsibility</span>) thi ghode ki raksha karna. Ab jab ghoda chala gaya, yagna poora nahi hoga. Ya to doosra ghoda lao, ya kisi manav bali (<span style="color:#FF5733;">human offering</span>) ko lao taaki yagna ruk na jaye.”
+
+Yeh sunkar Raja Ambarisha dukhi hue, lekin unhone kaha:
+“Jo bhi mujhe ghoda ya manav bali dilayega, use main hazaaron gaayein (<span style="color:#FF5733;">thousands of cows</span>) dunga.”
+
+Phir Raja ne apna yatra (<span style="color:#FF5733;">journey</span>) shuru kiya — gaon, nagar, van aur ashram (<span style="color:#FF5733;">hermitages</span>) sab jagah dhoondha.
+
+Ant mein, Raja Ambarisha pahunch gaye ek pahaad (<span style="color:#FF5733;">mountain</span>) par, jiska naam tha Bhrigutunga, jahan Rishi Richika apni patni aur teen putron ke saath rehte the.
+
+Raja ne Rishi ko pranam kiya (<span style="color:#FF5733;">bowed respectfully</span>), unka satkar (<span style="color:#FF5733;">honor</span>) kiya, aur bola:
+“O Maharishi, agar aap suikar karein, to mujhe apne putron mein se ek putra de dijiye. Main aapko uske badle mein ek lakh (<span style="color:#FF5733;">100,000</span>) gaayein (<span style="color:#FF5733;">cows</span>) dunga. Maine bahut jagah dhoondha, lekin na ghoda mila, na manav bali.”
+
+Rishi Richika bole:
+“O Raja, main apna bada beta kabhi nahi dunga.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Tab unki patni boli:
+“Hamare sabse chhote putra Shunaka se mujhe sabse zyada prem hai, main use nahi dungi. Mera pati apne bade putra ko nahi dena chahta, aur main chhote ko nahi dungi.”
+
+Yeh sunkar beech wala beta Shunashepa bola:
+“Pitaji bade bhai ko nahi dena chahte, aur mataji chhote ko nahi. To mujhe le jaaiye, O Raja.”
+
+Raja Ambarisha ne Rishi Richika ko ek lakh gaayein di, aur Shunashepa ko saath lekar apni rath (<span style="color:#FF5733;">chariot</span>) mein baith gaye aur lautne lage.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.61.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter62
+    with st.expander("Chapter 1.62 - Shunashepha gets help from Vishvamitra"):
+
+        text1 = """
+O Rama, mahan Raja Ambarisha apne saath Shunashepha le kar, dopahar ko Pushkara pahuche aur wahan aaram kiya. Jab raja aaram kar rahe the, Shunashepha ek jagah gaya aur wahan dekha Shri Vishvamitra, uske maternal uncle, dusre rishiyon (<span style="color:#FF5733;">sages</span>) ke saath tapasya (<span style="color:#FF5733;">spiritual practices/penance</span>) kar rahe hain. Thaka hua, pyaasa aur dukhi Shunashepha unke charanon (<span style="color:#FF5733;">feet</span>) mein gir gaya aur bola:
+“O Maharishi, mere liye na koi pita hai, na maa, na rishtedaar, na jaati (<span style="color:#FF5733;">caste</span>). Shant (<span style="color:#FF5733;">peaceful</span>) Rishi, tapasviyon ka prabhu (<span style="color:#FF5733;">sovereign</span>), main aapki sharan (<span style="color:#FF5733;">refuge</span>) leta hoon; dharma (<span style="color:#FF5733;">righteousness</span>) ke naam par mujhe bachaiye. Aap poore sansar (<span style="color:#FF5733;">world</span>) ko surakshit (<span style="color:#FF5733;">protect</span>) kar sakte hain, to ek chhota sa insaan jaise main, kaise bacha sakte hain. Kripya raja ki yagna (<span style="color:#FF5733;">sacrifice</span>) ko bina kisi rukawat ke poora karne mein madad kijiye, aur mujhe jeevan dijiye taki main apni tapasya se swarg (<span style="color:#FF5733;">heaven</span>) prapt kar sakoon. Aap hi mere guru (<span style="color:#FF5733;">master</span>) hain, main niraash (<span style="color:#FF5733;">masterless</span>) hoon. Mujhe bachaiye jaise pita apne bachche ko bachata hai.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.62.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Shri Vishvamitra ne Shunashepha ke dukhi shabdon ko suna aur apne putron se kaha:
+“O mere putro, jis sansar ke liye pita apne bachche ko janm dete hain, vo ab paas hai. Ye bachcha Rishi Richika ka putra hai aur meri sharan mein aaya hai, chalo iski raksha karte hain. Tum sab dharmik (<span style="color:#FF5733;">virtuous</span>) aur daani (<span style="color:#FF5733;">charitable</span>) ho, koi ek tumme se yagna ke bali (<span style="color:#FF5733;">sacrificial victim</span>) ka sthaan le, aur Agni Devta ko prasann (<span style="color:#FF5733;">pleased</span>) kare. Isse hum Shunashepha ko bacha sakte hain. Mera sahyog kijiye aur raja ke yagna ko poora kijiye, devtaon ko prasann kijiye, aur mujhe apne vachan (<span style="color:#FF5733;">promise</span>) ka sachcha rakhne mein madad kijiye.”
+
+Ye sunkar Madhusyanda aur dusre putra udaas (<span style="color:#FF5733;">sullen</span>) hoke bole:
+“O Maharishi, kya aap apne hi putron ko chhod kar kisi aur ka bachcha bachayenge? Ye to aisa hai jaise swadisht bhojan (<span style="color:#FF5733;">tasty dish</span>) chhod kar kutte ka maans khaya jaaye.”
+
+Ye sunkar Vishvamitra gusse se bhadak gaye aur unki aankhen (<span style="color:#FF5733;">eyes</span>) laal ho gayi. Unhone kaha:
+“Tumhari baat ahankari (<span style="color:#FF5733;">arrogant</span>) aur dharm ke virudh hai. Main tumhe avinashi (<span style="color:#FF5733;">insubordinate</span>) manta hoon, isliye main tumhe shraap (<span style="color:#FF5733;">curse</span>) deta hoon. Shri Vasishtha ke putron ki tarah, tum apni ucchi jaati se gir jao, aur kutte ka maans khate hue, hazaar saal duniya mein bhatakte raho!”
+
+Apne putron ko shraap dene ke baad, muni ne Shunashepha ko apni raksha (<span style="color:#FF5733;">protection</span>) dete hue kaha:
+“O Rishi ka putra, Raja Ambarisha ke yagna mein, apne aap ko baandh do, lal haar (<span style="color:#FF5733;">red garland</span>) pehno, chandan (<span style="color:#FF5733;">sandalwood</span>) laga lo aur bali ke post se baandh do. Main tumhe do mantrams sikhaunga, jo dohrane (<span style="color:#FF5733;">repeat</span>) par tumhe suraksha (<span style="color:#FF5733;">deliver</span>) karenge.” Pavitra (<span style="color:#FF5733;">holy</span>) rishi ne dhyan se mantrams sikhaye. Phir Shunashepha Raja ke paas gaya aur bola:
+“O Maharaja, ab bina deri ke yagna ki shuruaat kijiye aur apna yagna poora kijiye.”
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Raja khushi se bhara, turant yagna mandap (<span style="color:#FF5733;">sacrificial pavilion</span>) gaya. Purohit (<span style="color:#FF5733;">priest</span>) ki sahmati se, Raja ne Shunashepha ko lal vastra (<span style="color:#FF5733;">red attire</span>) pehna kar post se baandh diya, jaise bali ke liye tayyar kiya jata hai. Baandhne ke baad, Shunashepha Upendra (<span style="color:#FF5733;">Indra</span>) ki stuti (<span style="color:#FF5733;">praise</span>) karne laga aur Vishvamitra ke diye mantrams dohrane laga.
+
+Indra, Shunashepha ki puja se prasann hoke, use lambi umar ka ashirwad (<span style="color:#FF5733;">blessing</span>) diya. O Rama, tab Raja ne apna yagna poora kiya aur Indra se icchit phal (<span style="color:#FF5733;">desired fruit</span>) prapt kiya. Uske baad, dharmic Vishvamitra ne Pushkara mein apni tapasya (<span style="color:#FF5733;">yogic penance</span>) ko hazaar saal tak dobara shuru kiya.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.62.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter63
+    with st.expander("Chapter 1.63 - Vishvamitra becomes a great Maharishi"):
+
+        text1 = """
+Shri Vishvamitra ne hazaar saal tak tapasya (<span style="color:#FF5733;">mortification/penance</span>) ki, tab devta (<span style="color:#FF5733;">gods</span>) uske paas aaye aur uske tapasya ka phal (<span style="color:#FF5733;">fruits</span>) dene lage. Mahaan Brahma ne pyare shabdon mein kaha: “O Pavitra (<span style="color:#FF5733;">Holy One</span>), tum samriddh (<span style="color:#FF5733;">prosperous</span>) ho, tum ab rishi (<span style="color:#FF5733;">sage</span>) ban gaye ho apni mahan tapasya ke karan.”
+Phir Shri Brahma aur dusre swargiya (<span style="color:#FF5733;">celestial</span>) prani apne-apne sthanon (<span style="color:#FF5733;">spheres</span>) ko chale gaye.
+
+Vishvamitra ne phir se kathin tapasya shuru ki aur kai saal guzar gaye. Tab Pushkara ke talab (<span style="color:#FF5733;">lake</span>) mein swargiya apsara (<span style="color:#FF5733;">celestial nymph</span>) Menaka snan (<span style="color:#FF5733;">bath</span>) karne aayi. Bijli (<span style="color:#FF5733;">lightning</span>) jaise chamakte hue, uski sundarta Vishvamitra ke mann (<span style="color:#FF5733;">mind</span>) ko mohit (<span style="color:#FF5733;">stirred/passion</span>) kar gayi aur Vishvamitra ne kaha: “Mere liye kripya dayalu raho, kyunki main tumhare liye bahut prem (<span style="color:#FF5733;">love</span>) se bhara hoon.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.63.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Ye sundar apsara Menaka rishi ke ashram (<span style="color:#FF5733;">hermitage</span>) mein rehne ko tayyar ho gayi. Menaka ki upasthiti se Vishvamitra ki tapasya thodi khatam ho gayi. O Rama, Menaka ne wahan das (<span style="color:#FF5733;">10</span>) saal bitaye. Uske baad, Vishvamitra ne mehsoos kiya ki vo dhoka (<span style="color:#FF5733;">deluded</span>) khaya aur sharm se bhara. Usne socha ki is prem (<span style="color:#FF5733;">infatuation</span>) ka kaaran kya hai. Usne faisla kiya ki devtaon ne is yojana (<span style="color:#FF5733;">plan</span>) ko banaya, taki uski tapasya bekaar ho jaye. Usne cheekh kar kaha: “Arre! Main ne das saal is mahila ke saath, jaise ek raat (<span style="color:#FF5733;">night</span>), guzar diye. Ah! Meri mahan tapasya is prem ke karan barbaad ho gayi.”
+
+Gehri saans lete hue aur pachhtava (<span style="color:#FF5733;">remorse</span>) se bhare, Vishvamitra ne dekha Menaka dare hue khadi hai, lekin Vishvamitra ne usse shant (<span style="color:#FF5733;">reassuring</span>) shabdon mein alvida (<span style="color:#FF5733;">farewell</span>) kaha. Apne vashnaon (<span style="color:#FF5733;">passions</span>) ko niyantrit karte hue, Shri Vishvamitra uttar (<span style="color:#FF5733;">northern</span>) parvaton (<span style="color:#FF5733;">mountains</span>) ki taraf gaya aur Himalaya ke Kaushiki nadi ke kinare tapasya shuru ki. O Rama, Vishvamitra ki Himalaya mein tapasya dekh kar devta dar gaye. Ve Shri Brahma ke paas gaye aur bole: “O Pitamah (<span style="color:#FF5733;">Grandsire</span>), ab Shri Vishvamitra ko maharishi ka title (<span style="color:#FF5733;">name</span>) dijiye.”
+
+Shri Brahma Vishvamitra ke samne prakat hue aur pyare shabdon mein bole: “Pranam (<span style="color:#FF5733;">Hail</span>) tumhe, O Rishi, main tumhari tapasya se prasann hoon. Main tumhe rishiyon ka pramukh (<span style="color:#FF5733;">chief</span>) ghoshit karta hoon.” Vishvamitra ne Shri Brahma ke charanon mein pranam (<span style="color:#FF5733;">obeisance</span>) kiya aur vinamrata se bola: “O Prabhu (<span style="color:#FF5733;">Lord</span>), ye tapasya maine isliye ki, taki main brahmarishi (<span style="color:#FF5733;">highest sage</span>) ban sakoon. Ab bhi aap mujhe maharishi bol rahe hain, iska matlab hai main abhi apne aap ko poori tarah niyantrit (<span style="color:#FF5733;">self-subdued</span>) nahi kar paaya hoon.” Shri Brahma ne jawab diya: “Yeh sach hai, tumne abhi apni indriyon (<span style="color:#FF5733;">senses</span>) par poori mastery nahi paayi. O Mahaan Muni, aur tapasya karo.” Ye shabd kehkar Shri Brahma apne swargiya sthanon ko chale gaye.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Vishvamitra ne atyant kathin tapasya shuru ki: Hath (arms) uthaye khade rehna, sirf hawa (<span style="color:#FF5733;">air</span>) par jeena. Garmiyon mein paanch aag (<span style="color:#FF5733;">fires</span>) ke beech khade rehna. Barsaat (<span style="color:#FF5733;">rainy season</span>) mein bina chhat ke soya. Sardiyon mein paani mein tapasya karna. Is tarah Vishvamitra ne hazaar saal bitaye. Vishvamitra ki ye kathin tapasya dekh kar devta chintit ho gaye. Ant mein Indra ne apsara Rambha ke paas jaake kaha ki uska dhyan (<span style="color:#FF5733;">interest</span>) Vishvamitra ko nuksan (<span style="color:#FF5733;">harm</span>) pahunchaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.63.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter64
+    with st.expander("Chapter 1.64 - Indra sends Rambha to distract him"):
+
+        text1 = """
+Indra ne Rambha se kaha: “O Rambha, ye kaam tumhara hai. Vishvamitra jaise mahan rishi ki icchaon (<span style="color:#FF5733;">passions</span>) ko jagao, taki uski tapasya (<span style="color:#FF5733;">spiritual practices</span>) bekaar ho jaye.” O Rama, Rambha, Indra ke shabdon ko sun kar, darr se bhari, vinamrata se boli: “O Indra, Rishi Vishvamitra bahut jaldi gussa ho jaate hain. Agar main unke samne jaungi to wo mujhe shraap (<span style="color:#FF5733;">curse</span>) de denge. Main unke samne jane se darti hoon, isliye mujhe ye kaam mat dijiye.” Darre hue Rambha ke samne, haath jod kar khadi, Indra ne jawab diya: “O Rambha, daro mat, mera iccha poori kijiye, safalta tumhare saath ho!
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.64.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Bas basant (<span style="color:#FF5733;">spring</span>) ke mausam mein, main ek cuckoo (<span style="color:#FF5733;">kokila</span>) ki shakal mein, madhur (<span style="color:#FF5733;">sweet</span>) aawaz nikalta hua, tumhare paas ek phoolon se bhare ped par baithunga. O Rambha, sundar vastra pehenkar, rishi ka mann (<span style="color:#FF5733;">mind</span>) tapasya se hata do.” Indra ke kehne par, wo sundar apsara Rambha, pyari muskaan ke saath, Vishvamitra ka mann apne taraf kheenchne ke liye gayi. Tab cuckoo ki madhur dhun (<span style="color:#FF5733;">liquid notes</span>) rishi ko bhayi aur usne Rambha ko dekha. Cuckoo ki dhun aur Rambha ke sundar geet se, Vishvamitra, apni pehle ki galti (<span style="color:#FF5733;">fall</span>) ko yaad karke, Indra ki yojana (<span style="color:#FF5733;">plan</span>) samajh gaya aur gusse se bhar kar Rambha ko shraap (<span style="color:#FF5733;">curse</span>) diya:
+
+“O Rambha, o durbhagyawati (<span style="color:#FF5733;">Unfortunate One</span>), tum yahan aayi ho mujhe apni tapasya se hataane ke liye. Main jo kaam kam (<span style="color:#FF5733;">lust</span>) aur krodh (<span style="color:#FF5733;">anger</span>) par vijay pa chuka hoon. Tum pathar (<span style="color:#FF5733;">rock</span>) ban jao aur das hazaar (<span style="color:#FF5733;">10,000</span>) saal wahan raho. Ek brahmin, jo yoga mein nipun (<span style="color:#FF5733;">perfected</span>) hoga, ek din tumhe is shraap se mukt karega.” Ye shraap dene ke baad, rishi ko pachhtava (<span style="color:#FF5733;">remorse</span>) hua, kyunki gusse mein aakar usne apni sari yogic tapasya ka phal (<span style="color:#FF5733;">fruits</span>) kho diya. Rambha turant pathar ban gayi, Indra aur Kama ne, rishi ka gussa dekh kar, darr se bhaag gaye.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Shri Vishvamitra, apni tapasya ka phal khone ke baad, shanti nahi paa sake; uske vashna (<span style="color:#FF5733;">passions</span>) abhi bhi niyantrit nahi the. Usne mann banaya: “Main kisi se baat nahi karunga aur gussa nahi dikhunga. Hazaar saal tak main saans bhi nahi lunga. Apne sharir (<span style="color:#FF5733;">body</span>) ko antim seema tak kam karte hue, indriyon (<span style="color:#FF5733;">senses</span>) ko niyantrit karte hue, main apni tapasya se brahmanhood prapt karunga. Apar (<span style="color:#FF5733;">measureless</span>) saalon tak, main khada rahunga, na khata, na saans leta, chahe mere ang (<span style="color:#FF5733;">limbs</span>) sukha (<span style="color:#FF5733;">atrophied</span>) ho jayein.” O Rama, Vishvamitra ne tay kiya ki wo ye kathin tapasya hazaar saal tak karega.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.64.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter65
+    with st.expander("Chapter 1.65 - Vishvamitra does another 1000 years of penance"):
+
+        text1 = """
+Iske baad mahan Rishi Vishvamitra, uttar disha (<span style="color:#FF5733;">north</span>) chhodkar purab (<span style="color:#FF5733;">east</span>) gaye aur atyant kathin tapasya (<span style="color:#FF5733;">austerities</span>) shuru ki. Hazaar saal tak ekant (<span style="color:#FF5733;">silence</span>) mein, aisi tapasya ki jo karna bahut mushkil tha. Hazaar saal ke baad, unka sharir (<span style="color:#FF5733;">body</span>) lakdi (<span style="color:#FF5733;">wood</span>) jaisa ho gaya, par mahan rishi, jab bhi bada parikshan (<span style="color:#FF5733;">provocation</span>) aaya, gussa (<span style="color:#FF5733;">anger</span>) nahi hue. O Rama, jab Vishvamitra ko laga ki unhone krodh par vijay pa li hai, to unka hazaar saal ka vrat (<span style="color:#FF5733;">mortification</span>) poora hua aur wo bhojan (<span style="color:#FF5733;">eat</span>) karne baithe.
+
+Tab Indra brahmin (<span style="color:#FF5733;">sage</span>) ke roop mein aaya aur rishi ke liye rakha bhojan manga. Vishvamitra ne, usse bhi poora bhojan de diya aur shantipurn (<span style="color:#FF5733;">silent</span>) raha, shabda (<span style="color:#FF5733;">word</span>) nahi bola. Mahan rishi ne apni saans (<span style="color:#FF5733;">breath</span>) ko aur rok kar hazaar saal aur tapasya ki. Unke sir (<span style="color:#FF5733;">head</span>) se dhuaan (<span style="color:#FF5733;">smoke</span>) nikalne laga jo teenon lok (<span style="color:#FF5733;">three worlds</span>) ke praniyon ko dara diya. Unki tapasya ki shakti se, devas (<span style="color:#FF5733;">gods</span>), gandharvas aur anya prani apni mahima (<span style="color:#FF5733;">glory</span>) kho baithe aur behosh ho gaye.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.65.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Pareshan hokar, ve Shri Brahma ke paas gaye aur bole: “O Prabhu (<span style="color:#FF5733;">Lord</span>), humne har tarah koshish ki mahan rishi ko tapasya se hataane aur gussa dilane ke liye, par wo apne karm (<span style="color:#FF5733;">practices</span>) mein lage rahe aur ichha aur dwesh (<span style="color:#FF5733;">desire & aversion</span>) se mukt rahe. Agar aap unhe brahmanhood nahi doge, to teenon lok naash ho jayenge. Samundar sukha rahe hain, parvat (<span style="color:#FF5733;">mountains</span>) phat gaye hain, surya (<span style="color:#FF5733;">sun</span>) ka prakash kam ho gaya, dharti (<span style="color:#FF5733;">earth</span>) ashant hai aur hawa bhi nahi chal rahi. O Devta, Vishvamitra ke shakti se sansar (<span style="color:#FF5733;">universe</span>) khatam ho sakta hai. Kripya unhe brahmanhood dijiye, taki wo shanti se rahe. Agar aap inhe brahmanhood nahi doge, to sirf Indra ke rajya (<span style="color:#FF5733;">sovereignty</span>) se wo santusht honge.”
+
+Phir Shri Brahma devtaon ke saath Vishvamitra ke samne aaye aur pyare shabdon mein bole: “O Brahmarishi, pranam (<span style="color:#FF5733;">reverence</span>) tumhe, hum tumhari tapasya se prasann hain. O Pavitra Vishvamitra, tumhari tapasya ki shakti se tumne brahmanhood prapt kiya. Devta tumhe ashirwad dein, samriddhi aur lambi umar ho. Aaj se tum swatantra (<span style="color:#FF5733;">free</span>) ho, ab jahan chaho jao.” Shri Vishvamitra ne Shri Brahma aur devtaon ko pranam kiya aur bola: “Brahmanhood aur lambi umar dene ke baad, mujhe 'aum' ka gyaan (<span style="color:#FF5733;">holy syllable</span>) aur Vedas sikhao, aur mujhe yagna (<span style="color:#FF5733;">sacrifice</span>) karne ka adhikar bhi do. O Devta, Shri Vasishtha, jo Vedic gyaan mein nipun (<span style="color:#FF5733;">expert</span>) hai, mujhe brahmarishi maane. Agar ye meri iccha poori ho jaye, to aap sab chale jao.”
+
+Phir devta Shri Vasishtha ke samne gaye. Vasishtha ne is iccha ko sweekar (<span style="color:#FF5733;">acquiesce</span>) kiya aur Vishvamitra se dosti pakki ki, aur kaha: “Sach mein, tum ab brahmarishi ho aur main tumhe brahmarishi ke roop mein swikar karta hoon.” Uske baad devta apne sthanon ko chale gaye. Is tarah Vishvamitra ne brahmanhood prapt kiya. Divya rishi ne mahaan Vasishtha ko pranam kiya aur apna kaam poora kar, dharmic karm (<span style="color:#FF5733;">charitable deeds</span>) mein vyast hokar prithvi par ghoomte rahe.
+
+Shri Shatananda ne kaha: “O Rama, ye hai Shri Vishvamitra ki kahani aur kaise unhone brahmanhood prapt kiya. O Raghava, sach mein wo rishiyon ke pramukh (<span style="color:#FF5733;">chief of sages</span>) aur yoga ka prateek (<span style="color:#FF5733;">personification</span>) hain. Hamesha dharmic karmon mein lage rahete hain aur kathin tapasya karte rehte hain.” Ye kah kar Shri Shatananda chup ho gaye.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Jab ye mahaan rishi apni kahani khatam kar chuke, Raja Janaka ne Shri Rama aur Lakshmana ke samne vinamrata se Shri Vishvamitra se kaha: “O Mahan Rishi, mujhe aashirwad mila ki aap Shri Rama aur Lakshmana ke saath mere yagna mein aaye. O Brahmarishi, aapki upasthiti se hume mahan samman mila. Shri Rama, mere mantri aur main aapki tapasya aur gunon ki kahani sun chuke hain. O Maha Rishi, aapki shakti ati-mahan hai, aapki tapasya avishwasniya hai, aur aapke gun anant hain. O Prabhu, surya ast ho gaya hai aur sandhya (<span style="color:#FF5733;">evening devotion</span>) ka samay hai, kripya hume jaane dein; subah hum aapko phir dekhenge.” Shri Vishvamitra Raja ke shabdon se prasann ho gaye, unki prashansa ki aur unhe jaane ki anumati di. Raja Janaka ne mahaan rishi ke charanon ka parikrama (<span style="color:#FF5733;">circumambulation</span>) kiya aur apne guru aur rishtedaaron ke saath chale gaye. Rishiyon dwara sammanit, mahan Vishvamitra Shri Rama aur Lakshmana ke saath apne ashram laut gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.65.2.jpg", text3, layout="side", image_position="right")
