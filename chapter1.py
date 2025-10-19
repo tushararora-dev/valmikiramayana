@@ -1962,3 +1962,214 @@ Shri Shatananda ne kaha: “O Rama, ye hai Shri Vishvamitra ki kahani aur kaise 
 Jab ye mahaan rishi apni kahani khatam kar chuke, Raja Janaka ne Shri Rama aur Lakshmana ke samne vinamrata se Shri Vishvamitra se kaha: “O Mahan Rishi, mujhe aashirwad mila ki aap Shri Rama aur Lakshmana ke saath mere yagna mein aaye. O Brahmarishi, aapki upasthiti se hume mahan samman mila. Shri Rama, mere mantri aur main aapki tapasya aur gunon ki kahani sun chuke hain. O Maha Rishi, aapki shakti ati-mahan hai, aapki tapasya avishwasniya hai, aur aapke gun anant hain. O Prabhu, surya ast ho gaya hai aur sandhya (<span style="color:#FF5733;">evening devotion</span>) ka samay hai, kripya hume jaane dein; subah hum aapko phir dekhenge.” Shri Vishvamitra Raja ke shabdon se prasann ho gaye, unki prashansa ki aur unhe jaane ki anumati di. Raja Janaka ne mahaan rishi ke charanon ka parikrama (<span style="color:#FF5733;">circumambulation</span>) kiya aur apne guru aur rishtedaaron ke saath chale gaye. Rishiyon dwara sammanit, mahan Vishvamitra Shri Rama aur Lakshmana ke saath apne ashram laut gaye.
         """
         create_image_text_layout("attached_assets/chapter1/1.65.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter66
+    with st.expander("Chapter 1.66 - King Janaka tells the story of the big bow and Sita’s birth"):
+
+        text1 = """
+Subah shaant (<span style="color:#FF5733;">peaceful</span>) thi. Raja Janaka ne apni subah ki puja (<span style="color:#FF5733;">morning devotions</span>) ki aur phir dono rajkumaron (<span style="color:#FF5733;">princes</span>) aur Vishvamitra ko bulaya. Unhone rishi (<span style="color:#FF5733;">sage</span>) aur dono Raghu vansh (<span style="color:#FF5733;">House of Raghu</span>) ke vanshaj (<span style="color:#FF5733;">descendants</span>) ko samman (<span style="color:#FF5733;">honor</span>) diya aur bole:
+“O Dhanya (<span style="color:#FF5733;">blessed</span>) Maharaj, aap sab par shanti ho, main aap sabka sewak (<span style="color:#FF5733;">servant</span>) hoon. Main kya seva (<span style="color:#FF5733;">service</span>) kar sakta hoon?”
+
+Rishi ne vinamrata se jawab diya:
+“Yeh dono rajkumar Raja Dasarath ke bete hain. Ve yuddha-varnas (<span style="color:#FF5733;">warrior caste</span>) mein mashhoor hain aur poore desh mein unka samman hai. Ve us bade dhanush (<span style="color:#FF5733;">bow</span>) ko dekhna chahte hain jo aapke paas rakha hai. Kripya unko dekhne dijiye, phir woh apne rajdhani (<span style="color:#FF5733;">capital</span>) laut jayenge.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.66.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja Janaka ne kaha:
+“O Pavitra (<span style="color:#FF5733;">holy</span>) Rishi, suno ki main is dhanush ko kyun sambhal kar rakha hoon. Ek raja tha jiska naam Devarata tha, jo Nimi vansh ki chhathi peedhi (<span style="color:#FF5733;">sixth generation</span>) ka tha. Us raja ko yeh dhanush ek vishwas (<span style="color:#FF5733;">trust</span>) ke roop mein mila tha. Purani baat hai — jab Daksha ki yagna (<span style="color:#FF5733;">sacrifice</span>) tuti thi, tab Shri Mahadeva ne khel (<span style="color:#FF5733;">in sport</span>) mein apna dhanush utha kar devtaon (<span style="color:#FF5733;">gods</span>) se kaha: ‘Tumne mujhe yagna mein mera bhaag (<span style="color:#FF5733;">share</span>) nahi diya, is dhanush se main tum sabko vinasht (<span style="color:#FF5733;">destroy</span>) kar dunga.’
+
+Devta dar gaye aur unhone Mahadeva ko shaant kiya. Tab Mahadeva ne dhanush devtaon ko de diya aur ve ise Raja Devarata ko dene lage. Yeh wahi dhanush hai.”
+
+Phir Raja Janaka ne bataya:
+“Main jab apni bhoomi (<span style="color:#FF5733;">earth</span>) ko hal (<span style="color:#FF5733;">plough</span>) se chala raha tha tyag (<span style="color:#FF5733;">for a sacrifice</span>), tab zameen se ek kauwari (<span style="color:#FF5733;">virgin</span>) nikli. Hal ke dhaar (<span style="color:#FF5733;">edge</span>) se vo bahar aayi, isliye maine uska naam Sita rakha. Vo meri dharti se janmi hui beti (<span style="color:#FF5733;">earth-born daughter</span>) hai aur main uski raksha karta raha hoon.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sita ki shaadi ke liye maine niyam (<span style="color:#FF5733;">rule</span>) rakha ki main usse uss rajkumar ko hi dunga jiska bal (<span style="color:#FF5733;">strength</span>) poori tarah parikshit (<span style="color:#FF5733;">tested</span>) ho. Bahut se raja aake apni takat aazmane lage. Maine dhanush ko unke saamne rakh diya aur kaha ki jo isse tant (<span style="color:#FF5733;">string</span>) kar sake, wahi patra (<span style="color:#FF5733;">suitable</span>) hai. Lekin ab tak koi bhi isse tan (<span style="color:#FF5733;">string</span>) nahi paya. Jo raja fail hue, unka apmaan (<span style="color:#FF5733;">disgrace</span>) ho gaya. Ve gusse mein mere rajya ko gher liya (<span style="color:#FF5733;">siege</span>) aur mere janta (<span style="color:#FF5733;">people</span>) ko bahut dukh diya. Ye ghera ek saal tak raha aur mere khazane (<span style="color:#FF5733;">treasury</span>) par bhi bahut bojh (<span style="color:#FF5733;">burden</span>) pada.
+
+Phir maine kathin tapasya (<span style="color:#FF5733;">penance</span>) ki aur devtaon ko prasann kiya. Unhone mujhe ek bada sena (<span style="color:#FF5733;">army</span>) diya aur maine un rajao ko hara diya. Ve sab bhaag gaye aur meri praja (<span style="color:#FF5733;">subjects</span>) aaj shaant hain.”
+
+Raja Janaka ne phir dono rajkumaron ko kaha:
+“O Rishi, yeh wahi dhanush hai. Agar Shri Ramachandra is dhanush ko tant kar sake (<span style="color:#FF5733;">string</span>), to main apni beti Sita usse vivaah (<span style="color:#FF5733;">marriage</span>) karoonga.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.66.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter67
+    with st.expander("Chapter 1.67 - Rama breaks the bow and marries Sita"):
+
+        text1 = """
+Jab Raja Janaka ne baat kahi, Shri Vishvamitra bole:
+“O Maharaj, dhanush (<span style="color:#FF5733;">bow</span>) ko Shri Rama ke saamne dikhaiye.”
+
+Phir Raja Janaka ne apne mantriyon (<span style="color:#FF5733;">ministers</span>) se kaha:
+“Jaao, phool aur chandan (<span style="color:#FF5733;">sandalwood</span>) se saja hua dhanush le aao yahan.”
+
+Mantri Raja ke aadesh par rajdhani (capital) gaye aur dhanush le aaye. Paanch sau (<span style="color:#FF5733;">500</span>) mazboot log, jo bahut shakti (<span style="color:#FF5733;">strength</span>) wale the, aath-pahiye wali (<span style="color:#FF5733;">eight-wheeled</span>) gaadi lekar aaye jisme dhanush rakha tha. Lohe (<span style="color:#FF5733;">iron</span>) ka sandook (<span style="color:#FF5733;">chest</span>) jisme dhanush tha, le kar mantri Raja se bole:
+“O Maharaj, yeh wahi dhanush hai jo purvaj (<span style="color:#FF5733;">former kings</span>) ke dwara pooja (<span style="color:#FF5733;">worship</span>) kiya jata tha. O Mithila ke raja, yeh aapke liye hai.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.67.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Raja Janaka, haath jod kar (<span style="color:#FF5733;">palms joined</span>) Vishvamitra se bole:
+“O Pavitra (<span style="color:#FF5733;">holy</span>) Rishi, yeh dhanush Nimi vansh ke rajaon ka poojya (<span style="color:#FF5733;">worshipped</span>) dhanush hai. Poore desh ke raja isse tant (<span style="color:#FF5733;">string</span>) karne aaye par koi nahi kar saka. Devta bhi isse utha nahi paaye. Kaise manushya (<span style="color:#FF5733;">mortals</span>) karenge? O Maharishi, dekho aur dono rajkumar ise dekhein.”
+
+Vishvamitra ne Rama se kaha:
+“O Balak (<span style="color:#FF5733;">child</span>), is divya (<span style="color:#FF5733;">divine</span>) dhanush ko dekho.”
+
+Shri Rama dhanush ke sandook ke paas gaye, usse khola aur dekha. Bola:
+“O Devta, main ise haath mein lekar tant karne ki koshish karunga.”
+
+Raja aur Rishi ne kaha: “Aisa hi ho.”
+
+Shri Ramacandra ne dhanush ko apni adbhut (<span style="color:#FF5733;">unparalleled</span>) shakti se uthaaya aur, bina kisi kathinai (<span style="color:#FF5733;">effort</span>) ke, tant kiya. Dhanush do hisson mein toot gaya (<span style="color:#FF5733;">broke into two parts</span>) aur garajne (<span style="color:#FF5733;">thunderbolt</span>) jaisi awaaz hui. Pahadon (<span style="color:#FF5733;">mountains</span>) mein darar pad gayi aur dharti (<span style="color:#FF5733;">earth</span>) hil gayi. Log behosh (<span style="color:#FF5733;">insensible</span>) ho gaye, sirf Vishvamitra, Rama aur Lakshmana bach gaye.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Thodi der baad, log sambhal gaye aur Raja ke shak (misgivings) door hue. Raja Vishvamitra se vinamrata se bola:
+“O Dhanya (<span style="color:#FF5733;">blessed</span>) Maharishi, maine Shri Ramacandra ka adbhut kaam dekha. Meri beti, Rajkumari Sita, Rama ke saath vivaah karegi (<span style="color:#FF5733;">marriage</span>) aur mere vansh ka gaurav (<span style="color:#FF5733;">glory</span>) badhaayegi. Aaj maine apna vachan (<span style="color:#FF5733;">pledge</span>) poora kiya ki mere prospective damad (<span style="color:#FF5733;">wooer</span>) ki shakti ko pariksha (<span style="color:#FF5733;">trial</span>) di jaaye.
+
+Ab main Rama ko Sita, jo meri jaan se bhi pyari hai, doonga. Aapke aadesh se, mere sandeshvahak (<span style="color:#FF5733;">messengers</span>) tez rathon (<span style="color:#FF5733;">swift chariots</span>) mein Ayodhya jaayenge aur Raja Dasaratha ko is ghatna (<span style="color:#FF5733;">event</span>) ke baare mein bataayenge. Saath hi, dono rajkumar ke suraksha (<span style="color:#FF5733;">well-being</span>) aur samman (<span style="color:#FF5733;">honour</span>) ke baare mein bhi janaka ko bataayenge.”
+
+Shri Vishvamitra ne is yojna (<span style="color:#FF5733;">proposal</span>) ko manzoor kiya. Raja ne sandeshvahakon ko dasaratha ke paas bheja aur unhe rajya ka sandesh (<span style="color:#FF5733;">personal missive</span>) diya.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.67.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter68
+    with st.expander("Chapter 1.68 - King Janaka sends messengers to invite Dasaratha"):
+
+        text1 = """
+Raja Janaka ke aadesh par, sandeshvahak (<span style="color:#FF5733;">messengers</span>) tez rath (<span style="color:#FF5733;">swift chariots</span>) mein chale. Teen raat (<span style="color:#FF5733;">nights</span>) raste mein bitakar, ghode (<span style="color:#FF5733;">horses</span>) thak gaye, phir bhi Ayodhya pahunch gaye.
+
+Rajmahal ke darwaze par jaakar, unhone chowkidar (<span style="color:#FF5733;">sentries</span>) se kaha:
+“Kripya Raja ko bataayein ki hum Raja Janaka ke yahaan se aaye hain aur unse milna chahte hain.”
+
+Jab Raja Dasaratha ko yah khabar mili, to unhone sandeshvahakon ko apne saamne bulaya. Rajmahal mein pravesh karke, unhone vriddh (<span style="color:#FF5733;">aged</span>) Raja ko dekha, jo bilkul devta (<span style="color:#FF5733;">god</span>) jaise dikhta tha. Uske dayalu (<span style="color:#FF5733;">benign</span>) aur vinamra (<span style="color:#FF5733;">gracious</span>) swabhav ne unhe shaant (<span style="color:#FF5733;">at ease</span>) kar diya.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.68.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Sandeshvahakon ne vinamrata se kaha:
+“O Mahaan Maharaj, Mithila ke Raja, bade yagna (<span style="color:#FF5733;">sacrifice</span>) karne wale Raja Janaka poochte hain aapka aur aapke praja (<span style="color:#FF5733;">subjects</span>) ka haal. Shri Vishvamitra ki sahmati (<span style="color:#FF5733;">consent</span>) se, ve yah sukhad khabar (<span style="color:#FF5733;">good tidings</span>) bhejte hain.
+
+Aapke rajkumar Shri Ramacandra ne, Shri Vishvamitra ke saath, sabke saamne pooja kiya hua pavitra dhanush (<span style="color:#FF5733;">sacred bow</span>) tod diya. Janaka ji chahte hain ki aapki putri Sita ka vivaah (<span style="color:#FF5733;">marriage</span>) aapke putra ke saath ho. Ve aapse vinamrata se kahte hain: “Kripya apni guru, parivar (<span style="color:#FF5733;">family</span>) aur sevakon (<span style="color:#FF5733;">attendants</span>) ke saath humare rajya aayein aur apne putron ke vivaah ka darshan karein.”
+
+“O Maharaj, yeh shabd (<span style="color:#FF5733;">words</span>) hain Raja Janaka ke, jo Shri Vishvamitra aur purohit (<span style="color:#FF5733;">priest</span>) Shri Shatananda dwara suikrit (<span style="color:#FF5733;">approved</span>) hain.”
+
+Sandeshvahakon ne ye shabd kahe aur Raja ke saamne vinamrata se chup ho gaye.
+
+Ye khabar sunte hi Raja Dasaratha khushi se bhar gaye aur holy Rishi Vasishtha, Shri Vamadeva aur mantriyon se bole:
+“Shri Ramacandra aur Lakshmana ab Mithila mein hain, Shri Vishvamitra ke raksha (<span style="color:#FF5733;">protection</span>) mein. Prasiddh Raja Janaka ne Shri Ramacandra ki shakti dekhi aur apni beti Sita ka vivaah uske saath karna chahte hain. Agar aap sab is vivaah ko manzoor (<span style="color:#FF5733;">approve</span>) karte hain, to chalo hum turant Mithila ke liye nikalte hain, taaki jaldi pahunch sakein.”
+
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sages aur mantri ne kaha:
+“Ye theek hai.”
+
+Raja khushi se bole:
+“Chalo, kal nikalte hain.”
+
+Raja Dasaratha ne apne mantriyon ke saath sandeshvahakon ka samman (<span style="color:#FF5733;">respect</span>) kiya aur ve raat ko aaram se raha.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.68.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter69
+    with st.expander("Chapter 1.69 - King Dasaratha starts his journey"):
+
+        text1 = """
+Raat (<span style="color:#FF5733;">night</span>) khatam hone ke baad, Raja Dasaratha, khushi se bhare dil (<span style="color:#FF5733;">heart</span>), apne guru (<span style="color:#FF5733;">spiritual preceptor</span>) aur rishtedaar (<span style="color:#FF5733;">relations</span>) ke saath, mukhya mantri (<span style="color:#FF5733;">chief minister</span>) Sumantra ko bulaye aur kaha:
+
+“Khazane ke adhikari (<span style="color:#FF5733;">officers of the treasury</span>) ko dhan (<span style="color:#FF5733;">wealth</span>) aur ratna (<span style="color:#FF5733;">jewels</span>) le jaane do aur humse pehle achhi vyavastha (<span style="color:#FF5733;">order</span>) mein chalein. Mere charon sena (<span style="color:#FF5733;">army</span>) ke vibhaag (<span style="color:#FF5733;">divisions</span>) taiyaar rahein aur rath (<span style="color:#FF5733;">chariots</span>) aur palki (<span style="color:#FF5733;">palanquins</span>) tayaar ho. Mere aadesh turant poore karo. Shri Vasishtha, Vamadeva, Javali, Kashyapa, Bhrigu, Markandeya aur Katyayana aur anya gyaani (<span style="color:#FF5733;">learned</span>) aur pavitra (<span style="color:#FF5733;">holy</span>) logon ko yatra (<span style="color:#FF5733;">procession</span>) mein aage chalne do. Rajsi rath (<span style="color:#FF5733;">royal chariot</span>) tayaar karo, deri na ho, Raja Janaka ke sandeshvahak (<span style="color:#FF5733;">messengers</span>) jaldi lautna chahte hain.”
+
+Phir mahaan Raja Dasaratha, pavitra rishi (<span style="color:#FF5733;">holy sages</span>) ke saath, apni sena ke peeche chal kar yatra par nikle. Chaar raat raste mein bitakar, ve Raja Janaka ke rajdhani (<span style="color:#FF5733;">capital</span>) mein pravesh kiye.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.69.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja Janaka ne pura shahar sajaakar (<span style="color:#FF5733;">decorated</span>) apne rajsi mehmaan (<span style="color:#FF5733;">royal guests</span>) ka samman (<span style="color:#FF5733;">honour</span>) karne ke liye aage badha. Vriddh Raja Dasaratha ke saamne jaakar, Raja Janaka khushi se bhare hue bole:
+
+“O Mahaan Raja, aapka swagat hai. Mera bhaagy (<span style="color:#FF5733;">fortunate</span>) hai ki aapne apni upasthiti (<span style="color:#FF5733;">presence</span>) se mujhe samman diya. Ab aap apne do putron ko dekhne ka sukh (<span style="color:#FF5733;">felicity</span>) prapt karenge. Do baar bhaagyshali (<span style="color:#FF5733;">twice blessed</span>) hoon ki Shri Vasishtha aur anya gyaani rishi bhi yahaan aaye hain, jaise Indra (<span style="color:#FF5733;">king of gods</span>) devtaon ke beech ho. Vivaah ki raah mein sab rukawat (<span style="color:#FF5733;">impediment</span>) dur ho gayi hai aur Raghu vansh (<span style="color:#FF5733;">House of Raghu</span>) ke sambandh (<span style="color:#FF5733;">alliance</span>) se yah prachin rajvansh (<span style="color:#FF5733;">ancient dynasty</span>) nayi shobha (<span style="color:#FF5733;">lustre</span>) paayega. Kal, yagna (<span style="color:#FF5733;">sacrifice</span>) poora hone ke baad, rishi se salah (<span style="color:#FF5733;">consultation</span>) kar, vivaah ka samaaroh (<span style="color:#FF5733;">nuptials</span>) manayein.”
+
+Maharathi (<span style="color:#FF5733;">eloquent</span>) Raja Dasaratha, rishiyon ke beech baithkar, bole:
+“Maine hamesha suna hai ki jo daan (<span style="color:#FF5733;">charity</span>) prapt karta hai, ve daan dene wale ke aadesh (<span style="color:#FF5733;">conferrer</span>) ko maante hain! O Tum, jo dharma (<span style="color:#FF5733;">virtue</span>) mein mahir ho, sab baaton mein hum aapka aadesh maanenge.”
+
+Sachche (<span style="color:#FF5733;">truthful</span>) Raja ki baat sunte hi, Raja Janaka hairan (<span style="color:#FF5733;">astonished</span>) ho gaye.
+
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Saare rishi ek saath raat vyatit (<span style="color:#FF5733;">passed the night</span>) karte hue, ek dusre se baatein kar khushi manate rahe.
+
+Raja Dasaratha, apne putron ke saath milkar, khushi se bhare aur poori tarah Raja Janaka ki mehmaan-nawazi (<span style="color:#FF5733;">hospitality</span>) mein samarpit (<span style="color:#FF5733;">surrendered</span>) ho gaye.
+
+Mahan Raja Janaka ne vivaah ki taiyariyan poori kar ke aaram (<span style="color:#FF5733;">rest</span>) kiya.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.69.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter70
+    with st.expander("Chapter 1.70 - Vishvamitra tells about the royal family"):
+
+        text1 = """
+Agli subah, Raja Janaka ne yagna (<span style="color:#FF5733;">sacrifice</span>) poora kar ke, apne purohita (<span style="color:#FF5733;">priests</span>) ke saath, Shri Shatananda se kaha:
+
+“Mere chhote bhai, dharm-sheel aur mahaan Kushadvaja, Sankamshya nagar (<span style="color:#FF5733;">city</span>) mein rehte hain. Wahan khanda (<span style="color:#FF5733;">moat</span>) aur kila (<span style="color:#FF5733;">battlements</span>) hai, bhari sena (<span style="color:#FF5733;">heavy batteries</span>) lagi hai, aur Ikshu nadi kinare beh rahi hai. Wahan ka nagar Pushpaka viman (<span style="color:#FF5733;">aerial chariot</span>) jaisa lagta hai. Main chahata hoon ki ve, jo yagna mein mujhe sahayata (<span style="color:#FF5733;">assistance</span>) diye, vivaah (<span style="color:#FF5733;">marriage</span>) mein shamil hon.”
+
+Raja ne Shri Shatananda ko aadesh (<span style="color:#FF5733;">command</span>) diya aur kuch sevak (<span style="color:#FF5733;">attendants</span>) ko wahan bheja. Sandeshvahak (<span style="color:#FF5733;">messengers</span>) tez ghode par jaise Indra ke devta, Sankamshya gaye aur Raja Kushadvaja ko Raja Janaka ka sandesh diya.
+
+Mahaana Raja Kushadvaja ne is aagrah (<span style="color:#FF5733;">request</span>) ko svikar (<span style="color:#FF5733;">acquiesce</span>) kiya aur Mithila rajdhani aaye. Ve Raja Janaka aur Shri Shatananda ko dekh kar pranam (<span style="color:#FF5733;">salutation</span>) kiya.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.70.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rajsi sabha (<span style="color:#FF5733;">royal assembly</span>) mein baithkar, dono mahaan bhaiyon ne apne mukhya mantri (<span style="color:#FF5733;">chief minister</span>) Sudamana ko kaha:
+“O Mukhya Mantri, turant mahaan Raja Dasaratha ke paas jao aur unhe meri sabha mein layo, saath mein do putra aur unke mantri bhi.”
+
+Sudamana, Raja Dasaratha ke camp mein jaakar, pranam karte hue bola:
+“O Mahaan Veer (<span style="color:#FF5733;">hero</span>), Ayodhya ke Raja, Mithila ka sovereign (<span style="color:#FF5733;">shasanakarta</span>) aapko apne guru, purohita aur dono putron ke saath apni sabha mein aamantrit karta hai.”
+
+Phir Raja Dasaratha apne mitra (<span style="color:#FF5733;">friends</span>) aur rishtedaar (<span style="color:#FF5733;">kinsmen</span>) ke saath Mithila aaye, jahan Raja Janaka rishi aur mantri ke beech baithkar unka swagat kiya.
+
+Maharathi Raja Dasaratha ne Raja Janaka se kaha:
+“O Mahaan Raja, aapko pata hai ki Ikshvaku vansh (<span style="color:#FF5733;">House of Ikshvaku</span>) ke mukhya purohita Shri Vasishtha hain, aur mere sab kaam mein mera vakta (<span style="color:#FF5733;">spokesman</span>). Shri Vishvamitra ki anugya (<span style="color:#FF5733;">approval</span>) se, ve aapko hamare vansh ki kahani bataenge.”
+
+Raja Dasaratha chup ho gaye aur Shri Vasishtha ne Raja Janaka aur Shri Shatananda se kaha:
+
+“Brahman, jo avikrit (<span style="color:#FF5733;">Unmanifest</span>), anant (<span style="color:#FF5733;">Eternal</span>) aur amar (<span style="color:#FF5733;">Imperishable</span>) hai, wahan se Brahma ka janm hua. Brahma se Marica, Marica se Kashyapa; Kashyapa se Surya, Surya se Vivasvat, Vivasvat se Manu. Manu ne Ikswaku ko janm diya, jo Ayodhya ka pehla raja tha. Ikswaku ka putra Kukshi, Kukshi ka putra Vikukshi; Vikukshi ka putra Vana, Vana ka putra Anranya; Anranya ka putra Prithu, Prithu ka putra Trishanku; Trishanku ka putra Dhundhumara, Dhundhumara ka putra Yuvanashva. Yuvanashva ka putra Mandhata, Mandhata ka putra Susandhi. Susandhi ke do putra: Dhruvasandhi aur Prasenajit. Dhruvasandhi ka putra Bharata, Bharata ka putra Asit. Asit ke teen putra: Hihaxas, Talajanghas aur Shashavindus, bade raja, jo apne pita ke virudh (<span style="color:#FF5733;">against their sire</span>) lad gaye. Raja Asit, apni do patniyon ke saath Himalaya gaye aur apni jaan de di, queens garbhavati (<span style="color:#FF5733;">pregnant</span>) thi, ek ne dusri ke garbh ka vish (<span style="color:#FF5733;">poison</span>) diya.”
+
+“Us samay, Bhrigu vansh ke rishi Cyavana Himalaya mein tapasya kar rahe the. Kamal-nayan (<span style="color:#FF5733;">lotus-eyed</span>) Rani Kalindi, ek mahan putra paida karne ki ichha se, muni ke paas gayi aur pranam kiya.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rishi ne Rani se kaha:
+‘O Bhagya-shali (<span style="color:#FF5733;">Fortunate One</span>), tum garbhavati ho, ek mahan veer janm lega, vish ke saath. Chinta mat karo.’
+
+Rani ne muni ko pranam kiya aur apne pita ki yaad mein dhairya rakha. Fir unka putra janma, jise vish diya gaya tha, aur uska naam Sagara rakha gaya.”
+
+“Phir Sagara ka putra Asumanjas, Asumanjas ka putra Amshuman; Amshuman ka putra Dilipa, Dilipa ka putra Bhagiratha; Bhagiratha ka putra Kakustha, Kakustha ka putra Raghu; Raghu ka putra Prabradha, jo demon bana aur Kalamashapada ke naam se jana gaya; uska putra Shangana, Shangana ka putra Sudarshana; Sudarshana ka putra Agnivarna, Agnivarna ka putra Shighraga; Shighraga ka putra Manu, Manu ka putra Prashushruka, Prashushruka ka putra Ambarisha; Ambarisha ka putra Nahusha, Nahusha ka putra Yayati; Yayati ka putra Nabhaga, Nabhaga ka putra Aja, Aja ka putra Raja Dasaratha; Dasaratha ke do putra: Rama aur Lakshmana.”
+
+“O Raja, maine Ikshvaku vansh ka vanshavriksha (<span style="color:#FF5733;">genealogy</span>) aapko bata diya. Ye sab raja dharm-sheel (<span style="color:#FF5733;">virtuous</span>) aur sachchai (<span style="color:#FF5733;">truth</span>) ke prem mein mahan the.
+
+Raja Dasaratha apne dono putron ke liye aapki betiyon (<span style="color:#FF5733;">daughters</span>) ke haath maangta hai. Ve har tarah se aapke rishtedaar banne ke laayak hain. Kripya apni betiyon ka vivaah inke saath manayein.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.70.2.jpg", text3, layout="side", image_position="right")
