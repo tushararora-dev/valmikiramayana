@@ -2173,3 +2173,332 @@ Rani ne muni ko pranam kiya aur apne pita ki yaad mein dhairya rakha. Fir unka p
 Raja Dasaratha apne dono putron ke liye aapki betiyon (<span style="color:#FF5733;">daughters</span>) ke haath maangta hai. Ve har tarah se aapke rishtedaar banne ke laayak hain. Kripya apni betiyon ka vivaah inke saath manayein.”
         """
         create_image_text_layout("attached_assets/chapter1/1.70.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter71
+    with st.expander("Chapter 1.71 - King Janaka talks about his family and kingdom"):
+
+        text1 = """
+Raja Janaka ne Maharishi (<span style="color:#FF5733;">great sage</span>) Vasishtha ko pranam (<span style="color:#FF5733;">bow</span>) karke kaha:  
+“Hey Maharishi, kripya (<span style="color:#FF5733;">please</span>) shanti se meri baat suniye. Vivaah (<span style="color:#FF5733;">marriage</span>) ke samay pita apne vansh (<span style="color:#FF5733;">dynasty</span>) ka varnan (<span style="color:#FF5733;">description</span>) karta hai — aap kripya sun lijiye.
+
+Pehle yugon (<span style="color:#FF5733;">ancient times</span>) mein ek mahan aur satya-premi (<span style="color:#FF5733;">lover of truth</span>) raja the — Raja Nimi. Ve teenon lokon (<span style="color:#FF5733;">three worlds</span>) mein prasiddh (<span style="color:#FF5733;">famous</span>) the. Unke putra (<span style="color:#FF5733;">son</span>) the Mithi, jinke bete bane pehle Raja Janaka.  
+Uske baad unka putra tha Udavasu, phir Nandivardhana, uske baad Suketu.  
+Suketu ke putra hue Devarata — ek dharm-nishtha (<span style="color:#FF5733;">righteous</span>) raja.  
+Devarata ke putra the Maharishi Brihadratha, unke putra hue veer (<span style="color:#FF5733;">brave</span>) Mahavirya.  
+Mahavirya ke putra the Dhratiman, unke putra Sudhriti, aur unke putra Dhrishtaketu.  
+Phir unke vansh mein aaye Raja Haryashva, Maru, Prasidhaka, Kirttiratha, Devamirha, Bibudha, Mahidhraka, Kirtivaja aur Maharoma.  
+Maharoma ke putra the Svarnaroma, aur unke putra the Hrasvaroma.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.71.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Hrasvaroma ke do putra hue — main (<span style="color:#FF5733;">Janaka</span>) bada bhai, aur mera chhota bhai Kushadvaja.  
+Mere pita ne mujhe rajya (<span style="color:#FF5733;">kingdom</span>) dekar aur bhai ki dekbhaal ka kartavya (<span style="color:#FF5733;">duty</span>) dekar vanaprasth (<span style="color:#FF5733;">retirement to forest</span>) le liya.  
+Pita ke swarg sidhaarne (<span style="color:#FF5733;">passing away</span>) ke baad, maine dharma ke anusaar rajya sambhala aur apne bhai ko prem se sambhala.
+
+Kuch samay baad, Raja Sudhanva ne Mithila nagar (<span style="color:#FF5733;">city</span>) par hamla kiya.  
+Usne sandhi (<span style="color:#FF5733;">peace offer</span>) bheji — ke agar main apni putri (<span style="color:#FF5733;">daughter</span>) Sita aur Shiv Dhanush (<span style="color:#FF5733;">Shiva’s bow</span>) usse de doon, to yudh (<span style="color:#FF5733;">war</span>) na hoga.  
+Mainne mana kar diya, aur yudh hua — jisme Sudhanva maar gaya.  
+Uske baad, maine apne priya bhai Kushadvaja ko Sankasya nagar ka raja bana diya.
+
+Yahi mera pyaara bhai hai. Hey maharishiyon (<span style="color:#FF5733;">O sages</span>), hum dono prem aur vinamrata (<span style="color:#FF5733;">humility</span>) ke saath aapke samne prastut (<span style="color:#FF5733;">present</span>) hain.
+
+Hey Raghava, main apni beti Sita ko Shri Ram ko deta hoon, aur Rajkumar Lakshman ko meri chhoti beti Urmila prapt ho.  
+Sita, jo dev-kanya (<span style="color:#FF5733;">divine maiden</span>) ke samaan hai, use main Ram ko samarpit karta hoon.  
+Puri shraddha aur hriday se main apni dono betiyan aapke putron ko arpan karta hoon.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Hey Raja, ab kripya paramparagat (<span style="color:#FF5733;">traditional</span>) daan (<span style="color:#FF5733;">charity</span>) ka aarambh kariye — gau (<span style="color:#FF5733;">cow</span>), bhoomi (<span style="color:#FF5733;">land</span>), til (<span style="color:#FF5733;">sesame seeds</span>), aur anya vastuon ka daan karke Nandi-Mukh sanskar (<span style="color:#FF5733;">auspicious pre-wedding ritual</span>) kar lijiye, taki vivaah shubh (<span style="color:#FF5733;">auspicious</span>) bane.
+
+Aaj Magha nakshatra (<span style="color:#FF5733;">star</span>) udaya hai, aur teen din baad Uttara Phalguni uthega — isi yog (<span style="color:#FF5733;">conjunction</span>) mein vivaah karna shubh rahega.  
+Isliye, Ram aur Lakshman ab apni sukh-samriddhi (<span style="color:#FF5733;">happiness and prosperity</span>) ke liye daan aur pooja karein.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.71.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter72
+    with st.expander("Chapter 1.72 - Marriage of Dasaratha’s four sons"):
+
+        text1 = """
+Raja Janaka ke ye shabd sun kar, Mahamuni (<span style="color:#FF5733;">great sage</span>) Vishvamitra ne, Shri Vasishtha ki anumati (<span style="color:#FF5733;">permission</span>) se kaha:  
+“Hey Maharaj Janaka, dono vansh — Ikshvaku aur Videha — vaastav mein adbhut (<span style="color:#FF5733;">wonderful</span>) hain, unki mahima (<span style="color:#FF5733;">glory</span>) apar hai.  
+Shri Ram aur Sita ek dusre ke liye poorn (<span style="color:#FF5733;">perfect</span>) saathi hain, jaise Lakshman aur Urmila bhi ek dusre ke samaan (<span style="color:#FF5733;">equal</span>) hain — dono jodiyaan sobha (<span style="color:#FF5733;">grace</span>) aur gun (<span style="color:#FF5733;">virtue</span>) mein tulya (<span style="color:#FF5733;">equal</span>) hain.
+
+Hey dharm-sheel (<span style="color:#FF5733;">virtuous</span>) raja, mujhe kuch aur kehna hai. Aapke chhote bhai, Raja Kushadvaja ke paas do ati sundar (<span style="color:#FF5733;">extremely beautiful</span>) kanyaayein (<span style="color:#FF5733;">daughters</span>) hain. Main chahta hoon ki ve do kanyaayein Rajkumar Bharata aur Shatrughna se vivaah (<span style="color:#FF5733;">marry</span>) kar lein.  
+Raja Dasharatha ke chaaron putra — Ram, Lakshman, Bharat aur Shatrughna — sabhi dev-samaan (<span style="color:#FF5733;">divine-like</span>), yuva (<span style="color:#FF5733;">youthful</span>), sundar aur veer (<span style="color:#FF5733;">brave</span>) hain.  
+Isliye, hey mahan raja, aap apni do kanyaayein unke saath vivaahit kar dijiye. Aapka dharma aur unka vansh — dono apne-apne roop mein anupam (<span style="color:#FF5733;">matchless</span>) hain.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.72.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Shri Vishvamitra aur Shri Vasishtha ke yeh vinamra (<span style="color:#FF5733;">noble</span>) shabd sun kar, Raja Janaka haath jod kar vinay se bole:  
+“Hey maharishiyon, mujhe garv (<span style="color:#FF5733;">pride</span>) hai ki aapne mere ghar ko Ikshvaku vansh ke saath milane yogya maana.  
+Aapka aadesh (<span style="color:#FF5733;">command</span>) sar ankhon par hai — Raja Kushadvaja ki dono kanyaayein Bharat aur Shatrughna ko di jaayengi.  
+Chaaro putra aur chaar kanyaayein ek hi din vivaah ke bandhan (<span style="color:#FF5733;">sacred bond</span>) mein bandheinge.  
+Kal Phalguni nakshatra (<span style="color:#FF5733;">constellation</span>) udaya hoga, jo vivaah ke liye bahut shubh (<span style="color:#FF5733;">auspicious</span>) maana jaata hai.”
+
+Shri Vasishtha bole, “Tathastu (<span style="color:#FF5733;">So be it</span>).”  
+Tab Raja Janaka vinamrata se bole:  
+“Hey maharishiyon, yeh sab aapke kripa (<span style="color:#FF5733;">blessing</span>) se sambhav hua hai. Mujhe apna sevak (<span style="color:#FF5733;">servant</span>) samajh kar kripa kijiye.  
+Yeh aasans (<span style="color:#FF5733;">seats</span>) aapke liye tayyar hain — kripya suikar (<span style="color:#FF5733;">accept</span>) karein.  
+Ab mera rajya (<span style="color:#FF5733;">kingdom</span>) Raja Dasharatha ka hai, aur mera prem (<span style="color:#FF5733;">affection</span>) Ayodhya tak phail gaya hai.  
+Maine jo kaha, satya (<span style="color:#FF5733;">truth</span>) hai. Kripya, jo uchit ho, wahi kariye.”
+
+Raja Dasharatha ne Janaka ke ye prempoorvak (<span style="color:#FF5733;">affectionate</span>) vachan sune aur prasann (<span style="color:#FF5733;">pleased</span>) hokar bole:  
+“Hey bhaiyon, aapne apne sadgunon (<span style="color:#FF5733;">virtues</span>) se rishiyon aur rajaon ka samman (<span style="color:#FF5733;">honor</span>) kiya hai.  
+Aap sada sukh (<span style="color:#FF5733;">happiness</span>) paayein!  
+Aapki anumati se main ab apne grih (<span style="color:#FF5733;">chambers</span>) jaakar vivaah ke poorv sanskar (<span style="color:#FF5733;">pre-wedding rituals</span>) ki shuruaat karunga.”
+
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Aisa keh kar Raja Dasharatha, maharishiyon ke saath, apne vishram-sthal (<span style="color:#FF5733;">resting place</span>) chale gaye.
+
+Agle din, sab poorv-vidhi (<span style="color:#FF5733;">rituals</span>) poori karke, Raja Dasharatha ne anek gau (<span style="color:#FF5733;">cows</span>) daan (<span style="color:#FF5733;">charity</span>) mein di.  
+Har putra ke naam par, unhone hazaron gau daan ki — jin ke singh (<span style="color:#FF5733;">horns</span>) sone se dhake hue the, aur sabhi doodh aur bachchon wali thi.  
+Har gau ke saath ek dhatu (<span style="color:#FF5733;">metal</span>) ka doodh nikalne wala bartan bhi diya gaya.  
+Us din, Raja Dasharatha ne chaar lakh gau daan ki!
+
+Apne putron se atyadhik prem (<span style="color:#FF5733;">great love</span>) karne wale us mahan raja ne apaar dhan (<span style="color:#FF5733;">immeasurable wealth</span>) daan mein diya.  
+Us samay, Raja Dasharatha apne chaaron putron se ghirkar, bilkul Brahma ke samaan lag rahe the — jaise devon ke adhishthata (<span style="color:#FF5733;">Regents of the world</span>) unke charon or khade ho.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.72.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter73
+    with st.expander("Chapter 1.73 - Marriage ceremonies are completed"):
+
+        text1 = """
+Usi din jab Raja Dasharatha ne daan ke liye hazaron gaayen baanti, tab ek mahaan veer — Yudhajit, Raja Kaikeya ka putra aur Bharata ka mama (<span style="color:#FF5733;">maternal uncle</span>) — bhi Janaka ke rajya, Mithila, aa pahuncha.
+
+Raja Dasharatha ko dekh kar Yudhajit ne puchha,
+“O Maharaj, mere pita, Kaikeya ke raja, aapko apna sneha (<span style="color:#FF5733;">affection</span>) aur shubhkamnayein bhej rahe hain. Unhone mujhe Bharata se milne Ayodhya bheja tha, par jab suna ki aap apne putron ke vivaah ke liye Mithila aaye hain, to main bhi turant yahaan aa gaya apni behen ke putr ko dekhne.”
+
+Raja Dasharatha ne apne sambandhi ka sammaan kiya aur sab rajkumaron ke saath raat ko khushi se samay bitaya.
+
+Agli subah, subah-savera Raja Dasharatha ne apni nitya-pooja aur dev-puja (<span style="color:#FF5733;">daily prayers</span>) karke, maharishiyon ke saath yajna mandap (<span style="color:#FF5733;">sacrificial pavilion</span>) ki or prasthaan kiya.
+
+Shubh muhurat (<span style="color:#FF5733;">auspicious time</span>) mein, Rishi Vasishtha aur anya rishiyon ke saamne, Shri Ram aur unke bhaiyon ne apne shringar (<span style="color:#FF5733;">ornaments</span>) pehne aur prarambhik kriyaayein (<span style="color:#FF5733;">preliminary rituals</span>) poori ki.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.73.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Rishi Vasishtha ne Raja Janaka se kaha:
+“O Rajan, Dasharatha ne prarambhik kriyaayein kar li hain, ab aapke anumati se vivaah ka mukhya sanskar (<span style="color:#FF5733;">main ceremony</span>) poora hoga.”
+
+Raja Janaka ne muskurate hue kaha:
+“Dasharatha Raja ko darwaze par kis baat ki deri hai? Yah ghar unka hi hai! Unhe turant andar bulaiye. Mera ghar, meri betiyan, sab tayyar hain. Aap sabhi rishiyon ke saath mandap mein pravesh karein.”
+
+Phir Raja Dasharatha apne putron aur rishiyon ke saath vivaah mandap mein pravesh kiya.
+
+Raja Janaka ne kaha,
+“O Muni Vasishtha, kripya anya rishiyon ke saath vivaah sanskar poora kijiye.”
+
+Rishi Vasishtha ne mandap ke madhya mein agni (<span style="color:#FF5733;">sacred fire</span>) prajwalit ki. Rishi Vishvamitra aur Rishi Shatananda ne altar par sugandhit jal (<span style="color:#FF5733;">perfumed water</span>) chharka aur phoolon se sajaya.
+Sone ke bartan, pavitra kusha ghaas, dhup, chawal aur dhoop-diye rakhe gaye, aur sab mantraon ke saath shuddh kiya gaya. Agni mein ved mantraon ke saath aahuti (<span style="color:#FF5733;">offerings</span>) di gayi.
+
+Phir Sita ji, apne gehno se sajkar, Ram ke samne agni ke paas baithi.
+
+Raja Janaka ne Ram se kaha:
+“O Ram, aaj se meri putri Sita tumhari dharm-patni (<span style="color:#FF5733;">righteous wife</span>) hogi. Use apne haath se grahan karo. Yah saubhagyavati (<span style="color:#FF5733;">fortunate</span>) kanya sada tumhare saath rahegi — chhaya (<span style="color:#FF5733;">shadow</span>) ki tarah, prem aur samarpan ke saath. Tum dono sada sukhi raho.”
+
+Itna keh kar Janaka ne mantra-jal se Ram aur Sita par jal chharka. Tab sab devtaon ne “Jai! Jai!” pukara, dev-vadya (<span style="color:#FF5733;">divine music</span>) baja, aur aasman se phoolon ki varsha hui.
+
+Is prakar Sita ka vivaah Shri Ram se poora hua. 
+
+Uske baad Raja Janaka ne Lakshman se kaha:
+“O Putra, meri dusri beti Urmila ka haath grahan karo.”
+
+Phir unhone Bharata se kaha:
+“O Raghuvansh ke veer, meri putri Mandavi ka haath lo.”
+
+Aur Shatrughna se kaha:
+“O Mahaveer, meri putri Shrutakirti ko apni patni svikaar karo.”
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Janaka ne kaha:
+“Raghuvansh ke sabhi putra sada apni patniyon ke prati prem aur nishtha (<span style="color:#FF5733;">faithfulness</span>) se bhare raho, jaise ve tumhare prati rahengi.”
+
+Phir chaaro rajkumar, Rishi Vasishtha ke nirdesh par, apni dulhano ke saath agni ke chaaron or phere lete hue vivaah sanskar poora karte hain.
+
+Tab aasman se phoolon ki varsha hui, apsarayein nachein, dev-vadya bajne laga aur sab devtaon ne unka jai-gaayan (<span style="color:#FF5733;">praise</span>) kiya.
+
+Is prakar Raghuvansh ke chaar rajkumar aur Mithila ki chaar rajkumariyon ka divya vivaah sampann hua.
+
+Raat ko sab apne grih (<span style="color:#FF5733;">residence</span>) laut gaye. Raja Janaka, apne parivaar aur mitron ke saath, anand aur santosh ke saath, utsav ka samapan karke apne mahal laut gaye. 
+        """
+        create_image_text_layout("attached_assets/chapter1/1.73.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter74
+    with st.expander("Chapter 1.74 - Parasurama appears with scary signs"):
+
+        text1 = """
+Agli subah, jab raat beet gayi, to Maharishi Vishvamitra ne Raja Dasharatha aur Raja Janaka se vidai li. Unhone Ram, Lakshman aur unke pita ko ashirvaad diya aur Himalaya ki or tap karne (<span style="color:#FF5733;">meditation</span>) chale gaye.
+
+Unke jaane ke baad, Raja Dasharatha ne Raja Janaka se apne rajya Ayodhya lautne ki anumati maangi. Janaka ne bade prem se unka swagat kiya aur kuch door tak unhe vidai dene chale.
+
+Raja Janaka ne apni putriyon ke vivaah ke badle Raja Dasharatha ko ek lakh gaayen, un ke oopar bane kambal aur resham ke vastra (<span style="color:#FF5733;">silk clothes</span>), sone se sajaaye hue hathi, ghode aur rath, aur anmol moti, heere-moti aur sone ke sikke diye.
+Saath hi purush aur stri sevak (<span style="color:#FF5733;">male and female attendants</span>) bhi saunp diye.
+Janaka ne yeh sab daan bade anand aur shraddha (<span style="color:#FF5733;">devotion</span>) ke saath diya, phir mitrata aur prem se Dasharatha ko vidai di aur swayam Mithila laut gaye.
+
+Dasharatha apne putron aur purohito (<span style="color:#FF5733;">priests</span>) ke saath apni sena lekar Ayodhya ki or chal diye.
+
+Jab yatra chal rahi thi, tab achanak ajeeb aur bhayankar (<span style="color:#FF5733;">terrifying</span>) shabd karte pakshi (<span style="color:#FF5733;">birds</span>) chillane lage, aur hiran (<span style="color:#FF5733;">deer</span>) unke raste ko kaat kar bhagne lage.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.74.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yeh dekhkar Raja Dasharatha ghabra gaye aur Rishi Vasishtha se bole:
+“O Gurudev, yeh pakshi aise bhayankar swar mein kyu chillaa rahe hain? Aur hiran hamare raste ko kaat kar kyu ja rahe hain? Kya yeh koi ashubh sanket (<span style="color:#FF5733;">inauspicious sign</span>) hai? Mera man chinta se bhar gaya hai.”
+
+Rishi Vasishtha ne shaant swar mein kaha:
+“O Rajan, pakshiyon ka yeh chillana kisi bade khatre ka sanket hai, parantu hiran ka baayen se daayen jaane ka arth hai ki yeh sankat jald hi door ho jayega.”
+
+Tabhi, dharati kampne lagi (<span style="color:#FF5733;">earthquake</span>), bade-bade vriksh girne lage (<span style="color:#FF5733;">trees fell down</span>), aur andhera chha gaya.
+Hawaon aur dhool (<span style="color:#FF5733;">dust</span>) ne suraj ko dhak liya — kuch samajh nahi aa raha tha ki disha (<span style="color:#FF5733;">direction</span>) kidhar hai.
+Poora sena bhay se thithak gayi (<span style="color:#FF5733;">froze in fear</span>), sirf Rishi Vasishtha, Raja Dasharatha aur unke putra hi sthir rahe.
+
+Thodi der baad, jab dhool shant hui, to sabne dekha —
+door se ek bhayankar tej (<span style="color:#FF5733;">aura</span>) ke saath Parashurama, Rishi Jamadagni ke putra, aa rahe hain.
+
+Unke jata-jut (<span style="color:#FF5733;">matted hair</span>) khule hue the, kandhe par parashu (<span style="color:#FF5733;">battle axe</span>) tha, haath mein ek divya dhanush (<span style="color:#FF5733;">mighty bow</span>) tha jo bijli ki tarah chamak raha tha.
+Unka roop Kailash parvat ki chamak jaisa tha, aur unki drishti (<span style="color:#FF5733;">gaze</span>) pralay ke agni (<span style="color:#FF5733;">fire of destruction</span>) jaise bhayankar thi.
+Unhe dekh kar lagta tha jaise Bhagwan Shiva khud Tripuraasura ko maarne nikal pade hon.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sab rishiyon ne ek doosre se kaha:
+“Yeh to Rishi Parashurama hain! Kya yeh dobara aaye hain kshatriya (<span style="color:#FF5733;">warrior</span>) vansh ko nasht karne? Unka krodh (<span style="color:#FF5733;">anger</span>) to shaant ho gaya tha jab unhone pehle hi sab rajaon ko vinaash kar diya tha… Kya yeh fir se badla lene aaye hain?”
+
+Yeh sochkar sab rishiyon ne saamne ja kar Parashurama ka arghya (<span style="color:#FF5733;">ritual water offering</span>) diya aur kaha:
+“O Rama, kripya yeh arghya sweekar (<span style="color:#FF5733;">accept</span>) kijiye.”
+
+Parashurama ne arghya grahan kiya, phir unhone Shri Ram ki or drishti daali aur unse sambodhit (<span style="color:#FF5733;">address</span>) kiya...
+        """
+        create_image_text_layout("attached_assets/chapter1/1.74.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter75
+    with st.expander("Chapter 1.75 - Parasurama challenges Rama"):
+
+        text1 = """
+“O Rama, O veer (<span style="color:#FF5733;">hero</span>), maine tumhari mahaan bahaduri ke baare mein suna hai. Maine suna ki tumne Janakapura mein dhanush (<span style="color:#FF5733;">bow</span>) ko tod diya — ek aisa kaam jo sabko hairan (<span style="color:#FF5733;">astonished</span>) kar deta hai. Tumhara yeh karya ajab aur soch se pare (<span style="color:#FF5733;">surpassing imagination</span>) hai.
+Maine socha ki main apna ek anya dhanush lekar aaya hoon. Is dhanush ka naam Yamadagni hai. Is par ek baan (<span style="color:#FF5733;">arrow</span>) daal kar tum apni shakti dikhao, O Rama. Agar tum ise tant (<span style="color:#FF5733;">string</span>) kar paoge aur teer chhod doge, to main tumse maryada-purvak (<span style="color:#FF5733;">honourable</span>) yuddh (<span style="color:#FF5733;">combat</span>) karunga.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.75.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yeh sun kar Raja Dasaratha udas (<span style="color:#FF5733;">dejected</span>) hua aur vinamrata se Parashurama se bola:
+“O Pavitra (<span style="color:#FF5733;">holy</span>) Parashurama, aap ek mahan brahmin (<span style="color:#FF5733;">priest/sage</span>) hain. Yuddhaon par gussa dikhana aap par shobha nahi deta. Kripya mere putra par daya karo — vah abhi bachcha (<span style="color:#FF5733;">child</span>) hai. Aap Bhrigu vansh se ho aur aapne Indra ke saamne sankalp liya tha ki aap hathiyar nahi uthaoge. Aapne jagat ka shasan (<span style="color:#FF5733;">dominion</span>) Kashyapa ko de diya aur Mahendra parvat par tapasya (<span style="color:#FF5733;">austerities</span>) karne chale gaye the. Ab aap yahan kyon aae ho? Agar Rama mar gaya to hum mein se koi bacha hua na hoga.”
+
+Parashurama, Raja Dasaratha ki vinati ko nazarandaaz (<span style="color:#FF5733;">disregarding</span>) karte hue, phir Rama se bola:
+“O Rama, yeh dono dhanush jo tumne dekhe — dono vishesh (<span style="color:#FF5733;">exquisite</span>) aur vishvabhar (<span style="color:#FF5733;">famed throughout the world</span>) hain. Ye Vishvakarma ne banwaye the. Inmein se ek dhanush jo Shri Shiva ne Tripura yuddh mein uthaya tha, tumne tod diya. Doosra dhanush, jo mera hai aur atyant shaktishaali (<span style="color:#FF5733;">inexpressible power</span>), devtaon ne Vishnu ko diya tha. Is dhanush ko vijay lane wala mana gaya hai; iska mahatva us dhanush ke barabar hai jo tumne toda.
+
+“Purv (<span style="color:#FF5733;">formerly</span>) devtaon ne Brahma se poocha ki kaunsa dhanush adhik shaktishaali hai. Shri Brahma ne unke beech ek vivad (<span style="color:#FF5733;">quarrel</span>) paida karwaya. Vishnu aur Mahadeva yuddh mein lag gaye. Shri Vishnu ke dhamakedar zor se Shri Mahadeva asthir (<span style="color:#FF5733;">motionless</span>) ho gaye aur unka dhanush khula reh gaya. Tab devta aur rishi wahan aae aur dono bhagwanon ko milva diya. Uske baad devtaon ne Vishnu ka dhanush adhik mahatvapoorn maana aur Shri Shiva ne apna dhanush King of Mithila ko de diya.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+“Yeh dhanush, jo Vishnu ka tha, prachin kaal mein Richika ko diya gaya, aur Richika ne ise mere pita Jamadagni ko diya. Mera pita jab hathiyar dharan (<span style="color:#FF5733;">bearing</span>) karna chhodkar tapasya ke liye gaya, tab ek tharki raja Sahasravaku ne uska hatya (<span style="color:#FF5733;">slaying</span>) kar di. Mera pita mara gaya, to maine kshatriya (<span style="color:#FF5733;">warrior</span>) vansh ko dara-dhamka kar, pedhi-dar-pedhi (<span style="color:#FF5733;">generation after generation</span>) nasht kar diya, aur dharti par rajya prapt kiya. Fir maine yah maha-dominion Kashyapa ko daan (<span style="color:#FF5733;">gift</span>) kar diya aur khushi-khushi Mahendra parvat par jaakar yog (<span style="color:#FF5733;">Yoga</span>) aur tapasya ki.
+
+“Aaj, O veer (<span style="color:#FF5733;">valiant prince</span>), tumhari mahaan uplabdhi (<span style="color:#FF5733;">achievement</span>) ko sunkar main yahan aaya hoon. Yeh dhanush mere purvajon ko Shri Vishnu ne diya tha — ab ise tum apna kar lo aur yodha ki bhavna se is par ek baan daalo. Agar tum ise tant kar lo, to main tumse yuddh ki chunauti dunga.”
+        """
+        create_image_text_layout("attached_assets/chapter1/1.75.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter76
+    with st.expander("Chapter 1.76 - Rama defeats Parasurama"):
+
+        text1 = """
+Parashurama ke kathin (<span style="color:#FF5733;">harsh</span>) shabdon ko sunkar, Shri Rama ne apne pita ke saamne maryada (<span style="color:#FF5733;">respect</span>) rakhte hue shant aur sambhal kar kaha:  
+“O Parashurama, mujhe tumhare veer (<span style="color:#FF5733;">heroic</span>) karmon ke baare mein sab pata hai — tumne apne pita ke hatyaron (<span style="color:#FF5733;">murderers</span>) se badla liya, aur unhe dand (<span style="color:#FF5733;">punishment</span>) diya. Shayad tum samajhte ho ki main kshatriya (<span style="color:#FF5733;">warrior</span>) hote hue bhi veerta (<span style="color:#FF5733;">valour</span>) mein kam hoon. Parantu, O Rishi (<span style="color:#FF5733;">sage</span>), ab tum mere shaurya (<span style="color:#FF5733;">prowess</span>) ka sakshaat darshan karo.”
+
+Itna kehkar, Shri Ramachandra, gusse se bhare hue, Parashurama ke haathon se dhanush (<span style="color:#FF5733;">bow</span>) aur baan (<span style="color:#FF5733;">arrow</span>) le kar, use tant (<span style="color:#FF5733;">string</span>) kar diya.  
+Aur dhanush ko kheechte hue, Rama ne dridh (<span style="color:#FF5733;">firm</span>) awaaz mein kaha:  
+“O Rishi, tum brahmin ho, isliye main tumhara samman (<span style="color:#FF5733;">honour</span>) karta hoon. Tum Shri Vishvamitra ke rishtedaar bhi ho, isliye main tumhe maaroonga nahi. Parantu is teer se main tumse tumhari gati-shakti (<span style="color:#FF5733;">power of movement</span>) cheen sakta hoon — jisse tum aasman ya devlok mein ja nahi paoge. Ya phir main tumhe un unch sthanon (<span style="color:#FF5733;">high realms</span>) se door kar sakta hoon jahan tumne tapasya (<span style="color:#FF5733;">penance</span>) se pahunch paaye ho. Batao, tumhara vikalp (<span style="color:#FF5733;">choice</span>) kya hai? Yeh Vishnu ka divya baan hai, aur jab tak yeh apna uddeshya (<span style="color:#FF5733;">purpose</span>) poora nahi karta, main ise apne tarkas (<span style="color:#FF5733;">quiver</span>) mein wapas nahi rakh sakta.”
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.76.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jab Rama ne teer dhanush par rakha, tab Brahma aur anya devta (<span style="color:#FF5733;">gods</span>) — gandharva (<span style="color:#FF5733;">celestial singers</span>), apsara (<span style="color:#FF5733;">heavenly nymphs</span>), yaksha aur sab swargiya prani — sab Rama ke is adbhut (<span style="color:#FF5733;">glorious</span>) karm ko dekhne aaye.  
+Jab Shri Rama ne dhanush uthaya, teenon lok (<span style="color:#FF5733;">three worlds</span>) kamp uthe (<span style="color:#FF5733;">trembled</span>). Parashurama ka tej (<span style="color:#FF5733;">divine power</span>) chhin gaya, aur wo avak (<span style="color:#FF5733;">speechless</span>) hokar khade rahe.
+
+Ab Parashurama, vinamr (<span style="color:#FF5733;">humble</span>) hokar, kamal-nayan (<span style="color:#FF5733;">lotus-eyed</span>) Rama se bole:  
+“O Rama, jab maine dharti ka rajya (<span style="color:#FF5733;">dominion of earth</span>) Kashyapa muni ko diya tha, unhone kaha tha — ‘Tum ab is bhoomi (<span style="color:#FF5733;">earth</span>) par nahi rah sakte’. Isliye main dharti par raat ko nahi rehta. Yeh sansar ab mera nahi, Kashyapa ka hai. O Rama, kripya mujhe meri gati-shakti (<span style="color:#FF5733;">movement power</span>) se vanchit (<span style="color:#FF5733;">deprive</span>) mat karo, mujhe Mahendra parvat par wapas jaane do.  
+Tum mujhe mere yog (<span style="color:#FF5733;">spiritual practice</span>) ke puny (<span style="color:#FF5733;">merits</span>) se vanchit kar sakte ho, par main jaanta hoon — tum koi aam insaan nahi ho. Tum avinashi (<span style="color:#FF5733;">imperishable</span>) Vishnu swaroop (<span style="color:#FF5733;">form</span>) ho. Tumhare alawa koi bhi is dhanush ko nahi sambhal sakta.  
+O Raghu-nandan (<span style="color:#FF5733;">Son of Raghu</span>), devta tumhare darshan ke liye aaye hain. Tum sabse veer aur vijayi (<span style="color:#FF5733;">conqueror</span>) ho. Tumse haarna mere liye apmaan (<span style="color:#FF5733;">ignominy</span>) nahi hai. Ab apna asadharan (<span style="color:#FF5733;">matchless</span>) teer chhodo, aur mujhe Mahendra parvat wapas jaane do.”
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Shri Rama ne teer chhod diya. Uske saath hi Parashurama ka saara punya (<span style="color:#FF5733;">spiritual merit</span>) aur tej (<span style="color:#FF5733;">divine glory</span>) samapt (<span style="color:#FF5733;">void</span>) ho gaya.  
+Phir wo turant Mahendra parvat ki or chali gaye.
+
+Jab andhkaar (<span style="color:#FF5733;">darkness</span>) mita, aur duniya fir se prakash (<span style="color:#FF5733;">light</span>) se bhar gayi, sab devta aur rishi Shri Rama ki stuti (<span style="color:#FF5733;">worship</span>) karne lage.  
+Aur Parashurama, Shri Dasaratha ke putra ke charanon (<span style="color:#FF5733;">feet</span>) ke charon or parikrama (<span style="color:#FF5733;">circumambulation</span>) karke, apne ashram (<span style="color:#FF5733;">hermitage</span>) ko wapas chale gaye.
+        """
+        create_image_text_layout("attached_assets/chapter1/1.76.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter77
+    with st.expander("Chapter 1.77 - King Dasaratha returns to Ayodhya"):
+
+        text1 = """
+Shri Parasurama ke chale jaane ke baad, Shri Rama ne wo divya dhanush (<span style="color:#FF5733;">bow</span>) aur baan (<span style="color:#FF5733;">arrows</span>) samundar ke devta Varuna ko wapas kar diye. Phir unhone Shri Vasishtha aur anya rishiyon (<span style="color:#FF5733;">sages</span>) ko pranam kiya aur apne pita, Raja Dasharatha se kaha —  
+“Pitashri, ab Shri Parasurama chale gaye hain, kripya apni sena ko aadesh dijiye ki hum Ayodhya ki taraf laut chalein.”
+
+Raja Dasharatha ne Rama ke shabdon ko sun kar use gale lagaya, jaise unhe apna beta dobara mil gaya ho. Tab unhone apni sena ko aage badhne ka hukm diya. Rath (<span style="color:#FF5733;">chariot</span>) par, jisme sundar patake (<span style="color:#FF5733;">flags</span>) lage the aur vijay ke shankh (<span style="color:#FF5733;">trumpets</span>) baj rahe the, Raja Dasharatha Ayodhya nagari mein pravesh kiya.
+
+Ayodhya ke raaste phoolon aur paani se sajaye gaye the, aur nagar ke log apne raja ke swagat mein “Jai ho! Jai ho!” ke naare laga rahe the.
+
+        """
+        create_image_text_layout("attached_assets/chapter1/1.77.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Brahmin logon ne Raja ka swagat kiya aur raja apne mitron, rishtedaron, rajkumaron (<span style="color:#FF5733;">princes</span>) aur unki patniyon (<span style="color:#FF5733;">brides</span>) ke saath mahal mein pravesh kiya, jo barf (<span style="color:#FF5733;">snow</span>) ki tarah safed chamak raha tha.
+
+Raja ke ghar ke sabhi logon ne unka phoolon aur chandan (<span style="color:#FF5733;">sandalwood</span>) se swagat kiya. Maharani Kaushalya, Sumitra aur Kaikeyi ne apni navin bahuon (<span style="color:#FF5733;">new brides</span>) ka swagat kiya — Sita, Urmila aur Kushadhvaja ki do betiyan. Shubh vidhi (<span style="color:#FF5733;">auspicious rituals</span>) ke saath unhe unke kamron tak le jaya gaya.
+
+Sabhi dulhanein sundar resham ke vastron (<span style="color:#FF5733;">silken robes</span>) mein saj kar mandir gayin, jahan unhone dev pratimaon (<span style="color:#FF5733;">holy idols</span>) ki puja ki. Phir unhone apni saas (<span style="color:#FF5733;">mother-in-law</span>) aur anya badon ko pranam kiya. Uske baad sab apne pati (<span style="color:#FF5733;">husband</span>) ke saath apne-apne grih (<span style="color:#FF5733;">palace</span>) mein bas gayin.
+
+Shri Ram, Lakshman, Bharat aur Shatrughna, sabhi yuddha vidya (<span style="color:#FF5733;">warfare knowledge</span>) mein nipun the, aur apne pita Raja Dasharatha ki seva mein din bitane lage.
+
+Kuch samay baad, Raja Dasharatha ne Bharat se kaha —  
+“Beta, tumhara maama (<span style="color:#FF5733;">maternal uncle</span>) yahan tumhe lene aaya tha, lekin ab tak gaya nahi hai. Tum uske saath apne nana (<span style="color:#FF5733;">grandfather</span>) se milne jao.”
+
+Bharat aur Shatrughna dono apne pita aur bhai Rama se vidai lekar yatra par nikal pade.
+
+Bharat ke jaane ke baad, Shri Rama aur Lakshman apne pita ki seva mein lag gaye, jaise Bhagwan ki seva kar rahe hon. Rama apni maa ki bahut shraddha se seva karte, aur apne guru ko ekagrata (<span style="color:#FF5733;">full devotion</span>) se samarpit the.
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Unke sadgunon (<span style="color:#FF5733;">virtues</span>), prem bhare swabhav aur sachchai ke kaaran, Raja Dasharatha, brahmin, vyapari (<span style="color:#FF5733;">merchants</span>), aur nagar ke sab log unse bahut prasann the. Rama apni daya aur dharm ke liye mashhoor the, aur sabhi gunon mein Brahma ji ke samaan lagte the.
+
+Kayi varsh tak Shri Rama aur Sita ne sukh aur prem bhari jindagi bitayi. Sita Rama ke liye sabse adhik priya thi, aur Rama apna poora dil unhe samarpit kar chuke the. Sita ki sundarta, vinamrata (<span style="color:#FF5733;">gentleness</span>), aur pavitrata (<span style="color:#FF5733;">virtue</span>) unke prem ko aur gehra bana deti thi.
+
+Sita apne pati ke man ke vicharon ko unke kehne se pehle hi samajh leti thi. Dono ek-dusre se poori tarah santusht the, jaise Vishnu aur Lakshmi ek saath.
+
+— Bala Kanda samapt (<span style="color:#FF5733;">End of Bala Kanda</span>)
+        """
+        create_image_text_layout("attached_assets/chapter1/1.77.2.jpg", text3, layout="side", image_position="right")
