@@ -56,6 +56,7 @@ def display_content():
     unsafe_allow_html=True
     )
     create_image_text_layout("attached_assets/chapter1/chapter1.jpg", layout="full")
+    create_image_text_layout("attached_assets/chapter1/banner1.jpg", layout="full")
 
 
     text0 = """
@@ -2503,4 +2504,4 @@ Sita apne pati ke man ke vicharon ko unke kehne se pehle hi samajh leti thi. Don
         """
         create_image_text_layout("attached_assets/chapter1/1.77.2.jpg", text3, layout="side", image_position="right")
 
-create_image_text_layout("attached_assets/chapter1/banner1.jpg", layout="full")
+        
