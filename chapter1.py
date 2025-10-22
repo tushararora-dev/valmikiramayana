@@ -2502,3 +2502,5 @@ Sita apne pati ke man ke vicharon ko unke kehne se pehle hi samajh leti thi. Don
 — Bala Kanda samapt (<span style="color:#FF5733;">End of Bala Kanda</span>)
         """
         create_image_text_layout("attached_assets/chapter1/1.77.2.jpg", text3, layout="side", image_position="right")
+
+create_image_text_layout("attached_assets/chapter1/banner1.jpg", layout="full")
