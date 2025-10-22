@@ -118,10 +118,35 @@ def display_home(chapter_names):
             st.markdown("🛠️ Working on it...")
 
     with col2:
-        st.markdown(" ## Chapter 1: Arjuna Vishada Yoga (Arjuna's Distress)")
+        st.markdown(" ## Book 1 - Bala-kanda")
     with col3:
         st.markdown(
             '<a href="?chapter=1#top" target="_self" '
+            'style="display:inline-block;padding:10px 14px;border-radius:8px;'
+            'border:2px solid orange;color:oldlace;background:#0D0B1A;'
+            'text-decoration:none;">Read More ▶</a>',
+            unsafe_allow_html=True
+        )
+
+    st.markdown("🛠️ Working on it...")
+
+    # ---------------------------
+    # Chapter 2 (manual)
+    # ---------------------------
+    col1, col2, col3 = st.columns([1, 3, 1])
+
+    with col1:
+        img_path = "attached_assets/chapter2/chapter2.jpg"
+        if os.path.exists(img_path):
+            st.image(img_path, use_container_width=True)
+        else:
+            st.markdown("🛠️ Working on it...")
+
+    with col2:
+        st.markdown(" ## Book 2: Ayodhya-Kanda")
+    with col3:
+        st.markdown(
+            '<a href="?chapter=2#top" target="_self" '
             'style="display:inline-block;padding:10px 14px;border-radius:8px;'
             'border:2px solid orange;color:oldlace;background:#0D0B1A;'
             'text-decoration:none;">Read More ▶</a>',
