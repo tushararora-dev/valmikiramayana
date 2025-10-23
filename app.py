@@ -128,7 +128,6 @@ def display_home(chapter_names):
             unsafe_allow_html=True
         )
 
-    st.markdown("🛠️ Working on it...")
 
     # ---------------------------
     # Chapter 2 (manual)
@@ -143,7 +142,7 @@ def display_home(chapter_names):
             st.markdown("🛠️ Working on it...")
 
     with col2:
-        st.markdown(" ## Book 2: Ayodhya-Kanda")
+        st.markdown(" ## Book 2 - Ayodhya-Kanda")
     with col3:
         st.markdown(
             '<a href="?chapter=2#top" target="_self" '
@@ -460,7 +459,7 @@ def main():
     }
     .scroll-buttons {
         position: fixed;
-        bottom: 20px;
+        bottom: 60px;
         right: 20px;
         display: flex;
         flex-direction: column;

@@ -60,7 +60,7 @@ def display_content():
 
 
     text0 = """
-    <h2>Chapter 1: Bala Kanda ( Book of Youth)</h2>
+    <h2>Chapter 1: Bala Kanda</h2>
     """
     create_image_text_layout(text_content=text0, layout="full")
 
