@@ -998,3 +998,187 @@ Aise dukh aur prem se bhari Rani Kaushalya roti rahi — ek maa ke dard se, apne
         """
         create_image_text_layout("attached_assets/chapter2/2.20.2.jpg", text3, layout="side", image_position="right")
 
+    # Chapter21
+    with st.expander("Chapter 2.21 - Rama prepares to leave Ayodhya"):
+
+        text1 = """
+Lakshman apne dil mein dukh aur gussa lekar Maa Kaushalya se bole —
+“Hey Mata, kya aapko yeh theek lagta hai ki Raja Dasharatha, jo ab Kaikeyi ke vaash mein (under her control) ho gaye hain, Ram bhaiya ko vanvaas (forest exile) bhej rahe hain? Raja ab budhape (old age) mein apne hosh kho baithe hain, unki soch dhundli ho gayi hai. Ram bhaiya ne kabhi kisi ko dukh nahi diya, sabka bhala kiya — fir bhi unhe van bhejna kaisa nyay (justice) hai? Kaun sa gunah unhone kiya hai?”
+
+Phir Lakshman ne Ram se kaha —
+“Hey Bhaiya, jab tak logon ko yeh khabar nahi mili, aap rajya sambhal lijiye (take the throne). Main aapke saath hoon, talwar aur dhanush lekar. Jo bhi aapke raste mein aayega, main use rokh dunga. Agar Raja Dasharatha bhi Kaikeyi ke kehne par dushman ban gaye, toh main unse bhi lad jaunga! Koi bhi Bharata ko rajya dene ki himmat nahi karega jab main aapke saath hoon.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.21.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Lakshman ke in kathin (harsh) shabdon se Maa Kaushalya aur zyada dukhi ho gayi. Unhone Ram se kaha —
+“Hey Beta, tu apni maa ko itna dukh dekar kaise ja sakta hai? Agar tu sach mein dharm (righteousness) mein vishwas karta hai, toh yahin ruk jaa. Maa ki seva se bada dharm koi nahi hota. Main tujhse agrah karti hoon — van mat ja, mere saath yahin reh. Agar tu chala gaya, toh main bhojan tyag kar dungi (stop eating) aur apni jaan de dungi. Uske baad tera paap (sin) hoga.”
+
+Rama ne maa ke aansuon bhare chehre ki taraf dekha aur bahut shaant (calmly) hokar bola —
+“Hey Maa, main pita ke aadesh (command) ko nahi taal sakta. Dharma ke anusar pita ka vachan (word) sabse bada hota hai. Jaise Kandu Rishi ne apne pita ke kehne par paap hone ke bawajood ek gau (cow) ko maara, aur unhe uska dosh nahi laga. Parasurama ne bhi apne pita ke aadesh se apni maa Renuka ka sir kaata (cut off), aur apne pita ke vachan ko nibhaya. Main bhi wahi kar raha hoon — apne pita ka aadesh maanna mera kartavya (duty) hai.”
+
+Phir Rama ne Lakshman se kaha —
+“Hey Lakshman, mujhe teri shakti aur prem dono ka pata hai. Par tu gusse mein maa ke dukh ko aur badha raha hai. Hamara kartavya hai dharma ka palan karna (follow righteousness). Pitaji ke shabd hi dharma hain, aur main unka paalan karunga. Khoon-kharaba (bloodshed) se koi laabh nahi milega. Agar tu sach mein mujhe prem karta hai, toh mere saath van chalo, bina hinsa ke.”
+
+Phir Ram maa Kaushalya ke paas gaya, haath jodkar bola —
+“Hey Maa, mujhe vanvaas jaane ki anumati (permission) dijiye. Main 14 saal ke baad wapas aaunga, pita ji ka vachan poora karke. Jaise Raja Yayati ne apne karm ke baad fir se swarg (heaven) prapt kiya, waise hi main bhi laut aunga. Aap pita ji ka dhyaan rakhiyega, unhe santvana (comfort) dijiye. Main aap sabka seva phir se karunga jab laut aaunga.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Maa Kaushalya roti hui boli —
+“Hey Ram, agar tu sach mein dharma jaanta hai, toh yaad rakh — maa bhi pita ke barabar hoti hai. Tu mujhe chhodkar kaise ja sakta hai? Tere bina mujhe zameen, swarg, sab vyarth (meaningless) lagte hain. Bas tera saath hi mera sukh hai.”
+
+Rama ne maa ke shabdon ko dhairya (patience) se suna, par apni niyati (decision) par adig (firm) raha.
+Unhone maa ko samjhaya —
+“Hey Maa, pita ke vachan todna adharm (sin) hoga. Raja hamare pita hi nahi, hamare guru (teacher) aur raja bhi hain. Main unka aadesh nahi taal sakta. Aap mujhe aashirvad (blessing) dijiye taaki main apna dharm poora kar saku. Mujhe rajya ki lalach nahi, mujhe sirf satya aur dharm chahiye.”
+
+Yeh kehkar Ram ne maa Kaushalya ke charan (feet) chhuye, unke charon or (around her) parikrama (circumambulate) ki, aur mann mein vanvaas ke liye nikalne ka sankalp (resolve) liya.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.21.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter22
+    with st.expander("Chapter 2.22 - Rama tells Lakshmana not to be sad"):
+
+        text1 = """
+Shri Rama ne apne bhai Lakshman ki taraf dekha. Lakshman ka mann gusse se bhara tha — unki aankhein laal thi, saans tez chal rahi thi, jaise ek gussa hua hathi. Unka dil Kaikeyi ke liye krodh (anger) se bhar gaya tha.
+
+Tab Shri Rama ne pyaar aur shaanti se kaha —
+“Hey Bhai Lakshman, apna gussa aur dukh chhod do. Dhairya (patience) rakho. Mujhe ab van (forest) ke liye tayyar hona hai, jaise tum mere rajyabhishek (coronation) ke liye hue the. Ab tum wahi utsaah (enthusiasm) van jaane ki tayyari mein lagao.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.22.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rama ne samjhaya,
+“Kaikeyi maa ke mann mein kuch shanka (doubt) hai. Unhe lagta hai tum bal (force) se mujhe raja bana doge. Mujhe unka dukh bardasht nahi hota. Mujhe yaad nahi ki maine kabhi pita aur mata ko apne haath se dukh diya ho. To chalo, hum unka mann shaant karte hain.”
+
+“Bhai, agar maine rajyabhishek ki ichha nahi chhodi, to pita Maharaj Dasharath ke vachan (promise) ka ullanghan (breaking) hoga — aur unka dukh mere jeevan bhar ka bojh ban jaayega. Isliye main bina deri ke van jaane ka nishchay karta hoon.”
+
+“Kaikeyi maa tabhi shaant hongi jab main mrigcharm (deer skin) pehankar, jata (matted hair) baandhkar van chala jaunga. Unka dil tabhi sukoon (peace) paayega. Mujhe unhe dukh nahi dena.”
+
+“Bhai Lakshman, yeh rajya meri kismet (destiny) mein nahi tha. Agar vidhi (fate) chahti, to Kaikeyi mujhe kabhi van nahi bhejti. Main kabhi teenon maton (mothers) mein farq nahi karta tha, aur Kaikeyi ne bhi mujhe Bharata se alag nahi maana tha. Lekin aaj, bhagya (destiny) ke likhe se, unhone kathor (harsh) aur nirdai (cruel) shabd bole.”
+
+“Yeh sab daiva (God’s will) hai. Agar aisa nahi hota, to ek rajkumari jaise sanskaari (cultured) aur komal (gentle) swabhav ki Kaikeyi aise kathin shabd kaise bolti? Jo baat manushya nahi samajh sakta, use daiva ka niyam (divine rule) samajhna chahiye. Brahma ji bhi apne karma (past actions) se bacha nahi sakte.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+“Har sukh-dukh, dar, krodh, jeevan, mrityu — sab kuch hamare apne karmon ka phal (result) hai. Bade se bade rishi bhi apne karmon ke karan bhatak jaate hain. Jo kuch aaj hua — mera rajyabhishek ruk gaya — yeh bhi karma ka phal hai. Isliye mujhe isme dukh nahi.”
+
+“Bhai, tum bhi shok (grief) chhod do. Mujhe van mein jaane do. Yeh pavitra jal (sacred water) jo mere rajyabhishek ke liye rakha gaya tha, ab usi se main apna tapasya (penance) jeevan shuru karunga.”
+
+“Raja banna aur van mein rehna, dono mein bahut bada antar nahi hai — bas drishti (perspective) ka farq hai. Kaikeyi maa ko dosh (blame) mat do; yeh sab karma aur daiva ki leela (divine play) hai.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.22.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter23
+    with st.expander("Chapter 2.23 - Lakshmana wants to go with Rama"):
+
+        text1 = """
+Jab Shri Rama ne van jaane ka nishchay (decision) kiya, to Lakshman ka dil dukh aur gusse se bhar gaya. Uska sir jhuka hua tha, aankhein lal, aur saans tez jaise kisi gusse wale saanp (snake) ki. Wo apne bhai ke saamne khada tha — kadam se hilta hua, jaise ek gussa hua sher (lion) ya hathi apni soond (trunk) hila raha ho.
+
+Lakshman ne apne bade bhai se kaha,
+“Hey Rama bhaiya, aap to dharm ke gyaani ho, par aaj aap galat samajh rahe ho. Yeh kehna ki pita ke vachan (promise) ka virodh karna adharma (wrong) hai — yeh samay galat hai aisa kehne ka! Aap ek veer (warrior) ho, apni kismet (fate) khud likh sakte ho. Phir aap itne kamzor kyun ban rahe ho?”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.23.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Rama, kya aapko nahi lagta ki Raja Dasharath aur Kaikeyi ne dhokha (deception) kiya hai? Agar yeh vachan sach tha, to phir rajyabhishek (coronation) ki taiyari pehle hi kyun hui? Yeh sab unka swarth (selfishness) hai. Kaise ho sakta hai ki chhota bhai (Bharat) bade bhai (Rama) se pehle rajgaddi (throne) sambhale? Main yeh kabhi nahi hone dunga!”
+
+Lakshman ka gussa badhta gaya —
+“Yeh dharm ki baat mujhe samajh nahi aati, Bhaiya. Aap itne shaktishaali (powerful) hote hue bhi Kaikeyi ke anyaay (injustice) ko kyun maan rahe ho? Aap kyun unke jhoothe vachan ke aage jhuk rahe ho? Aap keh rahe ho yeh sab bhagya (fate) hai — par main maanta hoon ki veer (brave) log apna bhagya khud likhte hain!”
+
+“Main dekhta hoon aaj, daiva (destiny) jeet ta hai ya purusharth (effort)! Agar bhagya aapke rajyabhishek ko rok raha hai, to main apni shakti se us bhagya ko tod doonga!”
+
+Lakshman ne apna dhanush (bow) uthaya aur bola —
+“Chahe devtaon (gods) ke raja Indra hi kyun na rukawat ban jayein, main unhe bhi haar doonga! Jo bhi aapka rajyabhishek roke, main unhe mitti mein mila doonga. Mera talwar (sword) sajaavat ke liye nahi, dushmanon ke liye bani hai! Mera dhanush aur baan (arrows) in anyayon (injustices) ko mita dene ke liye hai.”
+
+“Bas aap ek baar aadesh (command) dijiye, Rama bhaiya. Bataiye kaun hai dushman, main use apne baanon se cheer (pierce) daalunga. Aaj hi main sabko dikha doonga ki aapka rajya koi chheen nahi sakta. Yeh dono haath jo sada daan (charity) aur raksha (protection) mein lage rahe, aaj aapke viruddh khade hone walon ka vinash (destruction) karenge!”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Lakshman ke shabd bijli jaise the — bhakti aur krodh (anger) dono se bhare hue.
+
+Tab Shri Rama ne shaant hote hue, muskaan ke saath kaha —
+“Hey Lakshman, mere pyaare bhai, mera sabse bada veerata (bravery) yudh jeetna nahi, balki pita ke vachan ko nibhana (fulfil) hai. Sachcha dharm wahi hai jo pita ke aadesh ko maanata hai, chahe uske liye van hi kyun na jaana pade.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.23.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter24
+    with st.expander("Chapter 2.24 - Rama stays strong in his decision"):
+
+        text1 = """
+Jab Shri Rama ne apne pita ke aadesh (command) ko maanne ka dridh (firm) sankalp liya, to Mata Kaushalya ke aankhon mein aansu bhar aaye. Unka gala bhavnaon se ruk gaya tha. Unhone pyaar aur dukh bhare swar mein kaha —
+
+“Hey Rama, mere lal, tu to kabhi kasht (hardship) nahi dekha. Raja Dasharath ka vanshaj (descendant) aur meri kokh ka phal, tu hamesha sabse madhur (sweet) aur vinamra (humble) baat karta raha. Tu jo sada ghee-makhan khaata tha, wo ab van mein phal-mool (fruits and roots) kha ke kaise rahega? Log kya sochenge jab jaanenge ki Raja Dasharath ne apne sabse sadgunwan (virtuous) bete ko vanvaas (exile) bhej diya?”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.24.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Agar aise putra ko bhi banaya gaya, to nishchit (surely) sab kuch bhagya (fate) ke adheen hai. Mere dil mein jo dukh ka agni jal rahi hai, wo teri judai (separation) ki hawa se aur bhadakti ja rahi hai. Yeh aansuon ka dhuaan mujhe jala dega, jaise jungle ki aag sab kuch raakh kar deti hai. Rama, jaise gai apne bachde (calf) ke peeche daudti hai, waise main bhi tere peeche chal padungi.”
+
+Tab Rama ne shaant aur vinamra swar mein kaha —
+“Hey Mata, pita Maharaj Dasharath pehle hi dukh se toote hue hain. Agar aap bhi mujhe van tak saath chalengi, to unka hriday (heart) is dukh ko nahi sah paayega. Patni ka sabse bada kartavya (duty) hai apne pati ki seva karna. Jab tak pita ji jeevit hain, aapka dharm (duty) unki seva karna hi hai.”
+
+Mata Kaushalya ne aansuon ke beech kaha —
+“Putra, tu sahi keh raha hai. Tere vachan sach aur dharmik (righteous) hain.”
+
+Rama ne fir kaha —
+“Hey Devi, humein dono ko apne pita ka aadesh maanana chahiye. Ve hamare guru (teacher), pita (father), aur aapke pati (husband) hain — hum sab ke swami (lord) hain. Main choudah varsh van mein rahkar tapasya (penance) karunga, aur phir lautkar aapki seva karunga.”
+
+Mata Kaushalya roti hui boli —
+“Hey beta, main apne pratidvandvi (rival) ranion ke beech kaise jee paungi? Agar tu jaane par dridh hai, to mujhe bhi apne saath le chal. Main bina tere kaise jeeyungi?”
+
+Rama ne pyaar se kaha —
+“Hey Mata, jab tak patidev (husband) jeevit ho, stri (woman) ko unki seva hi karni chahiye. Raja Dasharath hum sabke swami hain. Aur Bharat bhai bhi punya-aatma (virtuous) hain, wo kabhi aapka apmaan nahi karenge. Jab main van jaaun, to pita ji ka dukh aur na badhne paaye — aap unka dhyaan rakhiye. Jo stri apne pati se viraag (neglect) karti hai, use punya (merit) nahi milta, par jo stri apne pati ke prati nishtha (devotion) rakhti hai, wo svarg (heaven) paati hai.”
+
+“Yeh patiseva (service of husband) hi stree ka param dharm hai — Vedo aur shastraon (scriptures) ne bhi yahi kaha hai. Aap devtaon ki seva karna, brahmanon ko bhojan aur daan dena, aur apni shuddh dincharya (pure daily routine) banaye rakhna. Jab main lautunga, sab theek ho jaayega.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Mata Kaushalya ne aansuon bhari aankhon se kaha —
+“Hey putra, tera van jaane ka nishchay pakka hai, aur main tujhe rokh nahi sakti. Jo likha hai, wahi hota hai. Ja beta, bhagwan tera raksha kare. Tu sukh se wapas aaye — yahi meri prarthana (prayer) hai.”
+
+Ant mein, Mata Kaushalya ne apne haath uthakar ashirvaad diya —
+“Ja mere beta, Rama — tujhe van mein bhi shanti, samman aur suraksha mile. Jab tu lautega, teri maa fir se jeevan paayegi.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.24.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter25
+    with st.expander("Chapter 2.25 - Kaushalya blesses her son Rama"):
+
+        text1 = """
+Mata Kaushalya ne apne dukh ko sambhalte hue, haath se kuch pavitra paani liya aur apne mann ko shant karte hue Shri Rama ke liye ashirvaad (blessing) dene ka sankalp liya. Unhone kaha,
+“Hey mere putra, Raghu vansh ke veer, main tumhe rok nahi sakti. Tum jao, aur jab wapas aao to sada dharm (righteous path) par chalna. Tumne hamesha sachchai aur maryada (righteous conduct) ka palan kiya hai — wahi tumhara raksha kare.”
+
+Mata ne prarthana ki, “Tumhe sab devta aur rishi (sages) ka ashirvaad mile. Tumhe Maharishi Vishwamitra dwara diye gaye astra-shastra (divine weapons) hamesha surakshit rakhein. Pahad, nadiyan, ped-paudhe, pakshi aur sabhi prani tumhe apni shakti se bachayein. Brahma, Indra, Surya, Chandra aur sab graha (planets) tumhe mangal aur raksha dein.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.25.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Mata Kaushalya ne kaha, “Jungle mein tumhe koi rakshas (demon), pishach (evil spirit), ya jangli janwar haani na pahunchayein. Tumhe hamesha fal, mool (roots), aur bhojan milta rahe. Tumhara har kadam safal aur shubh ho. Agni (fire), Vayu (wind) aur sab pavitra mantr (sacred chants) tumhara raksha karein.”
+
+Iske baad Mata ne brahminon ke saath hawan (sacred fire ritual) kiya. Unhone ghee, phool, aur chandan se devtaon ki puja ki aur Rama ke kalyan ke liye mantr ucharan karaye. Brahminon ne bhi Rama ke liye ashirvaad diye —
+“Jaise Indra ne Vritrasur ko jeet kar shanti paayi, jaise Garuda ne amrit (nectar of immortality) lekar vijay paayi, waise hi Rama tum bhi vijayi aur surakshit raho.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ant mein, Mata Kaushalya ne Rama ke sir par chawal chhidka, chandan lagaya aur Vishalya Karini (healing wood) di, taaki unhe koi chot na lage. Fir unhone Rama ko gale lagaya, maathe par pyaar kiya aur kaha,
+“Beta, ab jao. Apne pita ke aadesh (command) ko poora karo aur swasth wapas aana. Mera sukh tabhi poora hoga jab main tumhe Ayodhya ka raja bante dekhoongi.”
+
+Aansuon se bhari aankhon se Mata ne apne putra ka parikrama (circumambulation) kiya, aur Rama ne unke charan sparsh karke viday li, Sita ke mahal ki or chal diye.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.25.2.jpg", text3, layout="side", image_position="right")
+
