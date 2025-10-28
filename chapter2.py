@@ -1182,3 +1182,191 @@ Aansuon se bhari aankhon se Mata ne apne putra ka parikrama (circumambulation) k
         """
         create_image_text_layout("attached_assets/chapter2/2.25.2.jpg", text3, layout="side", image_position="right")
 
+    # Chapter26
+    with st.expander("Chapter 2.26 - Rama tells Sita about going to the forest"):
+
+        text1 = """
+Apni maa se viday lekar, Shri Rama, jo sada dharm (righteousness) ke palak the, Ayodhya ki bheed bhari sadkon se guzar rahe the. Unka chehra shaant tha, aur unki vinamrata (humility) sabke dilon ko shanti de rahi thi.
+
+Iss samay Rajkumari Sita, jo sabhi devtaon ki pooja mein lagi thi, apne mann mein khushi se bhari thi. Unhe laga Rama ka rajyabhishek (coronation) hone wala hai, isliye wo apne pati ke aane ka intezaar kar rahi thi — aankhon mein sapne aur hriday mein garv.
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.26.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Lekin jab Rama mahal mein aaye, to unka roop sada ke jaise tha — bina shringar ke, sad aur chintit (worried). Unhe dekh kar Sita ka mann hil gaya. Wo turant uth gayi aur ghabra kar boli,
+“Hey Prabhu, aaj to Pushya nakshatra aur Chandrama dono shubh yog (auspicious alignment) mein hain. Brahmin ne aaj hi aapka rajyabhishek tay kiya tha. To fir aapka chehra udaas kyu hai? Main kyun nahi dekh rahi wo raj chhatra (royal canopy) jo aapke sir ke upar hona chahiye tha? Kyu nahi dikh rahe wo chamara (white fans) ya wo haathi aur ghode jo aapke saath hone chahiye the?”
+
+Sita ne bechain hokar pucha,
+“Prabhu, sab kuch taiyaar tha — brahmin, mantra, aur pooja — fir aap itne shant aur dukhi kyu hain?”
+
+Rama ne gahri saans li aur dheere se bola,
+“Sita, mere pita Maharaj Dasharatha ne mujhe vanvaas (exile) jaane ka aadesh diya hai. Bahut pehle unhone Rani Kaikeyi ko do vachan (boons) diye the. Aaj unhone wahi maang liye hain — ek mein mujhe choudah (14) saal ke liye van mein bhejna hai, aur doosre mein Bharat ko raja banana hai.”
+
+Rama ne aage kaha,
+“Main ab Dandaka van (forest) jaane ja raha hoon. Main tumhe alvida kehne aaya hoon. Jab main chala jaoon, tum Raja Bharat ke adheen (under his rule) rehna. Wo ab rajya ke adhipati (ruler) hain, aur unka samman karna tumhara dharm hai.”
+
+Phir Rama ne pyaar aur samajh bhare shabdon mein kaha,
+“Sita, tum meri maa Kaushalya ka seva karna. Wo mere jaane se dukh mein hain, unka mann sambhalna. Meri doosri maayen bhi mujhe apne bachhe ki tarah chahti hain — unka bhi adar (respect) karna. Bharat aur Shatrughna ko apne bhai samajhna, kabhi unhe krodhit (angry) mat karna. Raja ka hriday (heart) pavitra hai, lekin agar koi usse naraaz kare, to wo apne apno se bhi door ho jaata hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ant mein Rama ne kaha,
+“Meri priye, tum Ayodhya mein reh kar sabka samman karna, aur dhairya (patience) rakho. Main van ja raha hoon, lekin mera hriday tumhare saath hai. Jab main tapasya (penance) poori karke lautunga, tab hum phir milenge.”
+
+Sita chupchaap Rama ko dekhti rahi — aankhon mein aansu, lekin hriday mein garv aur prem bhara hua tha.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.26.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter27
+    with st.expander("Chapter 2.27 - Sita says she will go with him"):
+
+        text1 = """
+Jab Shri Rama ne Sita ko kaha ki wo Ayodhya mein hi rahe, to Sita, jo prem aur maryada (virtue) se bhari thi, unki baatein sun kar dukhi ho gayi. Lekin us dukh ke saath unke mann mein ek majboot sankalp (strong resolve) bhi tha.
+
+Sita ne narm (gentle) lekin dridh (firm) swar mein kaha,
+“Hey Arya (noble one), yeh kya keh rahe ho aap? Aapka yeh vachan to aise lagta hai jaise koi mazak ho! Patni ka jeevan to pati ke saath juda hota hai — jaise sharir aur aatma (body and soul) ek hote hain. Aap jahan bhi jaayein, mujhe bhi wahan jaane ka adhikaar (right) hai. Agar aapko vanvaas mila hai, to mujhe bhi uss vanvaas ka hissa banna hi hoga.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.27.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Wo aage boli,
+“Ek stri (woman) ka sukh uske pati ke saath hi hai. Na pita, na maa, na putra — koi bhi uska sahara nahi hota, na is janm mein, na agle mein. Uska sab kuch to uska pati hi hota hai. Agar aaj aap van ja rahe ho, to main aapke pehle chal kar kaante aur kusha (thorny grass) hataungi, taaki aapka raasta saaf ho.”
+
+Sita ka swar ab aur gahra ho gaya:
+“Prabhu, mujhme aisa kya dosh (fault) hai jo mujhe Ayodhya mein akele rehna pade? Rajmahal ke sukh, ya devlok ke anand bhi, us sukh ke saamne kuch nahi, jo mujhe aapke seva (service) mein milta hai. Mujhe pita ne stridharma (duties of a wife) sikhaye hain, mujhe aur seekhne ki zarurat nahi. Main aapke saath van jaungi — jahan jangli jaanwar, pahad aur nadia (rivers) hain — aur wahan main utni hi khushi se rahungi jitni Ayodhya ke rajmahal mein.”
+
+Usne hasi ke saath kaha,
+“Main aapke saath fal aur mool (fruits and roots) khaungi, aur kabhi aapko chinta nahi karne dungi. Mujhe to bas aapka sang (company) chahiye, bas wahi mera swarg (heaven) hai. Main aapke saath nadion aur sarovaron (lakes) ke kinare chalungi, jahan hans (swans) aur kamal (lotus) khile honge. Wahan main aapke saath snaan (bath) karungi, khelungi, aur apni poori zindagi khushi se bitaungi.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Sita ne gehri bhavnaon se kaha,
+“Hey Ram, aapke bina mujhe swarg bhi sukh nahi dega. Agar aap van ja rahe ho, to mujhe bhi le chaliye. Aapke charanon ki seva karte hue, main wahin van mein jeevan bitaungi. Aapse juda rehkar to main jeeti hi nahi reh sakti. Kripya mujhe saath le chaliye — main aapke liye bojh (burden) nahi banungi.”
+
+Sita ke ye narm aur vinamr shabd (humble words) sun kar Shri Rama ka hriday (heart) pighal gaya, lekin wo abhi bhi use van ke kathin jeevan (hard forest life) ke baare mein samjha kar manaane ka prayas kar rahe the.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.27.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter28
+    with st.expander("Chapter 2.28 - Rama tries to stop her"):
+
+        text1 = """
+Shri Rama, jo satyavaadi (truthful) aur dharma-parayan (virtuous) the, Sita ke prem bhare anurodh (plea) ke baad bhi use van jaane ki anumati dene ke liye tayyar nahi the. Unhone socha, “Van ka jeevan bahut kathin hai — aur Sita jaise komal (delicate) aur bhole hriday wali ko wahan takleef hi milegi.”
+
+Isliye, Rama ne pyaar bhare lekin dridh (firm) shabdon mein kaha:
+“Hey Sita, tum ek rajkumari ho, gunvaan (virtuous) ho, aur dharma ka paalan karti ho. Tumhe Ayodhya mein rehkar maryada ke saath apna kartavya (duty) nibhaana chahiye. Van mein sukh nahi, sirf dukh aur kasht (pain) hai.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.28.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Wo aage bole,
+“Jis van ko ‘Antara’ kaha gaya hai, uska arth hi hai ‘jo manushya ke rehne yogya nahi (unfit for living)’. Wahan pahaadon se nikalti nadiyan bahut kathin hoti hain paar karne ke liye. Singh (lions) garajte hain, jangli haathi idhar-udhar ghoomte hain, aur har kadam khatra hota hai. Isliye tum yahin raho, van tumhare liye nahi bana.”
+
+Phir Rama ne van ke sankat (dangers) samjhaaye:
+“Van ke raste kaante, zehri le creepers aur keechar (mud) se bhare hain. Wahan na komal takiye (soft pillows) milte hain, na shayan ke liye bistar — bas sukhaye hue patton (dry leaves) par sona padta hai. Wahan khana bhi sirf pedon se girte hue phal hote hain — na roti, na pakwan. Har din bhookh aur kathin tapasya (penance) se guzarna padta hai.”
+
+Rama ne use vanvaasi jeevan ke niyam bhi bataye:
+“Wahan log bark ki vastra (bark clothes) pehente hain, jata (matted hair) banate hain, aur roz teen baar snan (bathing) karte hain. Devata aur pitron (ancestors) ko puja karni hoti hai, aur mehmaan aaye to seva karni hoti hai — chahe apne paas kuch bhi na ho. Aur jab hawayein tez chalti hain, to din mein bhi andhera chha jaata hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rama ka swar bhari bhavnaon se bhar gaya:
+“Hey priye (beloved), van mein saanp, vishdhar (poisonous snakes), bichoos (scorpions), madhu-makkhiyan (hornets), aur machhar (mosquitoes) ka dukh hamesha satata hai. Jangli ghaas aur tedhe-medhe ped raste rokte hain. Sharir kamzor ho jaata hai, bhookh lagti hai, aur sukh shanti kahin nahi milti.”
+
+Ant mein unhone kaha,
+“Hey Sita, van mein rehne wala apna krodh (anger) aur lobh (greed) sab chhod deta hai, tapasya karta hai, aur har bhay (fear) ko tyag deta hai. Tumhare jaise komal aur sundar rajkumari ke liye wahan sirf kasht hi hai. Kripya van jaane ka vichar (thought) chhod do — main sirf tumhe surakshit (safe) rakhna chahta hoon.”
+
+Is tarah Rama ne Sita ko samjhaane ki poori koshish ki, par Sita ka hriday (heart) apne pati ke saath jaane ke sankalp se hil nahi saka. Wo aansuon se bhare nayanon (eyes) ke saath Rama ko jawab dene lagi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.28.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter29
+    with st.expander("Chapter 2.29 - Sita keeps asking lovingly to go"):
+
+        text1 = """
+Jab Shri Sita ne Rama ke kathin (hard) shabdon ko suna, unka hriday dukh aur prem se bhar gaya. Aansu unke gaalon (cheeks) par beh rahe the, aur komal swar (gentle voice) mein unhone kaha:
+
+“Hey Rama, tumne jo van ke dukh (sufferings) bataye, mere liye wo sab tumhare saath sukh (joy) ban jaayenge. Van ke jangli jaanwar — hiran (deer), bhalu (bears), sher (lions), haathi (elephants), aur pakshi (birds) — tumhara mukh dekhkar hi bhay (fear) se door bhag jaayenge. Tumhara tej (divine radiance) sab par prabhav daalta hai, hey Prabhu! Jab tak main tumhare paas hoon, mujhe koi nuksaan nahi pahucha sakta, na Indra dev bhi.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.29.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Sita ne yaad dilaya:
+“Tumne hi mujhe sikhaya tha ki patni (wife) ko apne pati se kabhi alag nahi hona chahiye. Aur mujhe bachpan mein hi mere pita ke mahal mein ek jyotishi (astrologer) ne bataya tha ki mujhe ek din van mein rehna padega — par apne pati ke saath! Tab se main us din ka intezaar kar rahi hoon, aur ab jab samay aa gaya hai, mujhe rokna mat.”
+
+Phir unhone madhur aur dridh (firm yet loving) bhavna se kaha:
+“Hey Arya (noble one), mujhe van jaane ki anumati do — ye mera dharm (duty) hai aur meri prarthana bhi. Tumhare saath van mein rehkar seva karna mere liye sabse bada sukh hoga. Tumhare saath dukh bhi sukh lagta hai. Main jaanti hoon van mein kathinaiyan (hardships) hain, lekin jo apne man ko jeet leta hai, uske liye sab kuch aasaan ho jaata hai. Mujhe tumhare saath jane do, taaki main bhi apne punya (virtue) kamaa sakoon.”
+
+Unhone apni bhavna aur adhik prakat ki:
+“Hey Rama, bachpan mein maine apni maa ke saamne ek tapasvini (pious woman) se suna tha ki main tumhare saath van mein rahungi. Mujhe us bhavishvani (prophecy) ko satya (true) karna hai. Maine pehle bhi tumse kaha tha ki main tumhare saath van mein khelna chahti hoon — ab wahi samay aa gaya hai. Kripya mujhe saath le chalo.”
+
+Phir Sita ne bhakti aur prem se bhare shabdon mein kaha:
+“Main tumhare saath van mein jaakar sab paap (sins) se mukta ho jaungi. Tum mere liye devata se bhi badhkar ho — agar main mar bhi gayi, to bina tumhare mujhe swarg (heaven) bhi sukh nahi de sakta. Mujhe pata hai, jo patni apne pati ko dharm ke niyam (law) ke anusaar di jaati hai, wo uske saath har janm aur har lok (world) mein bandhi rehti hai. Isliye main tumse alag nahi reh sakti.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ant mein Sita ne dridh pratigya (firm vow) li:
+“Hey Rama, agar tum mujhe saath nahi loge, to main apni jaan de dungi — chahe zeher kha kar ya nadi mein doob kar. Tumse alag rehna mere liye jeevan se bhi kathin hai.”
+
+Rama ne jab Sita ke aansuon ko zameen par girte dekha, unka hriday karuna (compassion) se bhar gaya, par wo abhi bhi use rokne ka prayas kar rahe the. Sita ka prem aur nischay (determination) dono aur gehra hote ja rahe the…
+        """
+        create_image_text_layout("attached_assets/chapter2/2.29.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter30
+    with st.expander("Chapter 2.30 - Rama agrees to take Sita with him"):
+
+        text1 = """
+Shri Rama ne phir Sita ko samjhaya ki vanvaas (forest life) bahut kathin (difficult) hoga.
+Unhone kaha — “Jungle mein jangli jaanwar hain, tez garmi aur thand hai, aur khana bhi sirf jhad ke phal aur jad (roots) milenge.”
+Par Sita ne apna mann nahi badla.
+Woh thodi si dari hui thi, par unke prem (love) aur garv (pride) ne unhe majboot banaya.
+
+Sita muskura kar boli, “Prabhu Rama, agar mere pita Raja Janaka jaante ki aap sirf roop se purush (man) hain, par hriday (heart) se kamzor, to unhone mujhe kabhi aapke saath nahi diya hota.”
+Unke shabd teekhe the, par unme sachcha prem tha.
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.30.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Sita boli, “Log kehte hain aap surya (sun) ke samaan chamakte hain, par mujhe to aaj wo tej nahi dikh raha. Aap kyun ghabra rahe hain? Mujhe chhodkar kyun ja rahe hain? Main to aapki patni (wife) hoon, aapki saathi hoon. Jaise Savitri ne apne pati Satyavan ke saath har dukh saha, waise hi main bhi aapke saath rahungi.”
+
+Uski aankhon mein aansu aa gaye.
+Woh boli, “Mainne kabhi kisi aur purush ko nazar tak nahi uthai. Main un mahilaon jaise nahi hoon jo apne kul (family) ka samman bhool jaati hain. Isiliye mujhe saath le chaliye. Mujhe Bharata ke paas kyun chhodna chahte hain? Main to aapke saath har janm rahungi. Chahe aap tapasvi (ascetic) banein ya devlok (heaven) chale jaayein, main saath chalungi.”
+
+Sita ne kaha, “Aapke saath chal kar jungle ke kaante bhi mujhe mridul (soft) lagenge. Jo dhool mere sharir par lagegi, woh mujhe chandan (sandalwood paste) jaisi lagegi. Aap jo bhi phal, mool (roots) ya patte laayenge, woh mujhe amrit (nectar) jaise lagenge. Aapke saath jungle bhi swarg (heaven) lagega, par aapke bina yeh mahal narak (hell) ban jaayega. Agar aap mujhe saath nahi le jaayein, to main jee nahi paungi. Main aapke bina jeevan nahi chahti.”
+
+Yeh kehkar Sita ro padi.
+Woh Shri Rama ko gale laga kar bilakhne lagi, jaise ek ghaayal (wounded) hathi apne saathi se bichhad gaya ho.
+Uski aankhon se moti jaise aansu gir rahe the, jaise kamal ke phool se paani ke bindu (drops) phisal jaate hain.
+Uska mukh (face), jo pehle poornima ke chand jaisa tha, dukh ke aag se murjha gaya tha.
+
+Rama ne use apni baahon mein sambhala aur pyar se kaha,
+“O Devi (Goddess), agar tumhe dukh ho, to mujhe swarg (heaven) bhi sukh nahi de sakta. Mujhe kisi baat ka dar nahi hai. Main to tumhe surakshit rakhne ke liye mana kar raha tha. Par ab jab tumhara dridh sankalp (firm resolve) dekh liya hai, to main tumhe kabhi nahi chhod sakta.”
+
+Unhone kaha, “Main van mein apni marzi se nahi ja raha, par pitaji ke aadesh (command) se ja raha hoon. Putra ka kartavya (duty) hota hai ki woh apne mata-pita aur Guru (spiritual teacher) ki seva kare. Jo apne mata-pita ki seva karta hai, use swarg, dhan (wealth) aur gyaan (wisdom) sab milta hai. Sita, tumne apna prem aur sahas (courage) sabit kar diya hai. Ab tum meri jeevan saathi ban kar mere kartavya mein saath dogi.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rama muskuraye aur bole,
+“Ab tayyar ho jao. Apne gehne (jewels) aur vastra (clothes) brahminon aur garibon mein baant do. Jo bache, naukron mein vibhajit (distribute) kar do. Ab hume der nahi karni.”
+
+Sita ke chehre par khushi chamak uthi.
+Usne bina vilamb (delay) sab kuch daan (charity) mein de diya — gehne, kapde, aur dhan.
+Uska mann ab shaant aur prasann (happy) tha — kyunki ab woh apne priyatam (beloved) Rama ke saath vanvaas jaane wali thi, jahan woh unka dukh aur duty dono mein saath degi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.30.2.jpg", text3, layout="side", image_position="right")
+
