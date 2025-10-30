@@ -1370,3 +1370,231 @@ Uska mann ab shaant aur prasann (happy) tha — kyunki ab woh apne priyatam (bel
         """
         create_image_text_layout("attached_assets/chapter2/2.30.2.jpg", text3, layout="side", image_position="right")
 
+    # Chapter31
+    with st.expander("Chapter 2.31 - Lakshmana also decides to join them"):
+
+        text1 = """
+Jab Shri Lakshman ne Rama aur Sita ki baatein suni, uska dil bhar aaya. Wo zor se roya aur bola,
+“Bhaiya, agar aap jungle (forest) ja rahe ho jahaan bahut jangli jaanwar aur haathi ghoomte hain, toh main apne baan (bow) aur teen (arrows) lekar aapke saath chalunga. Main aapke saath us sundar van (forest) mein rahunga, jahan hiran (deer) aur pakshi (birds) ki madhur aawaz hoti hai. Bin aapke, mujhe devlok (heaven) mein bhi rehna pasand nahi — na mujhe amaratva (immortality) chahiye, na rajya (kingdom).”
+
+Rama ne pehle use mana karne ki koshish ki. Par Lakshman ne lagi raho—
+“Bhaiya, jab aapne pehle mujhe saath chalne ki ijazat (permission) di thi, toh ab kyon rok rahe ho? Mera mann udas hai.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.31.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rama ne samjhaaya,
+“Lakshman, main tumhe bahut pyaar karta hoon. Tum mera chhota bhai, sevak (servant) aur mitra ho. Par agar tum mere saath chale gaye, to kaun Mata Kaushalya aur Sumitra ka dhyaan rakhega? Kaikeyi ka man badal sakta hai; jab Bharata uski prabhav (influence) mein hoga, shayad woh unki seva na kare. Isliye tum yahin rukkar maaon ki seva karo. Isi mein tumhara bahut punya (merit) hai.”
+
+Lakshman ne pyaar bhare andaz mein jawab diya,
+“Bhaiya, agar Bharata apni jimmedari (responsibility) nibhata hai, toh main wapas aa kar uski raksha karunga. Par agar woh anyaay kare, main use rok dunga. Main aapka sevak ban kar jungle mein aapke liye phal, roots aur aahaar (food) ikattha karunga. Main aapka rakhwala (protector) rahunga — sochiye mat, mujhe saath le lijiye.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rama khush hua aur bola,
+“Thik hai Lakshman. Jaakar apni maa Sumitra se anugya (permission) le lo. Aur Shri Vasistha ke ghar se woh dhanush (bow), kavach (armor) aur teer-dani (quiver) le aao jo Janaka ne mujhe di thi.”
+
+Lakshman ne sab ko vidaa dekar, Shri Vasistha ke ghar se phool laga kar astra-shastra (weapons) lekar aaye aur Ram ko samarpit (present) kiya.
+Rama ne hansi se kaha, “Ab hum brahminon aur tapasvinon (ascetics) ko daan (charity) karenge. Suyajna — Vasishtha ka putra — ko bulao aur sab pavitra (sacred) karyo ko poora kar ke hum nikalenge.”
+
+Aur is tarah, Lakshman ne apni nischay (resolve) dikhaya — bhai ke saath, saath chalne ko taiyaar.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.31.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter32
+    with st.expander("Chapter 2.32 - Rama gives away his gold and wealth"):
+
+        text1 = """
+Jab Shri Rama ne vanvaas (forest exile) jaane ka faisla liya, unhone Lakshman ko kaha ki woh Rishi Suyajna ke paas jaayein. Lakshman turant gaye aur dekha ki rishi apne yagya mandap (sacrificial pavilion) mein baithe hain. Unhone pranam karke kaha,
+“Hey Maharishi, Shri Rama rajya tyag kar van mein ja rahe hain. Kripya unse milne jaldi chaliye.”
+
+Rishi ne apna sandhya vandan (evening prayer) kiya aur Lakshman ke saath Shri Rama ke sundar mahal mein aaye. Shri Rama aur Sita ne unka swagat bahut adar se kiya — dono haath jod kar, charanon mein pranam karke.
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.32.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Shri Rama ne unhe daan diya — sundar gehne, motiyon ke haar, sone ke kangan, mukut, kundal, aur anek anmol ratna. Shri Sita ke kahne par, Rama ne kaha,
+“Hey Shant Rishi, Sita ji chahti hain ki aapki patni in sone ke gehno aur haar ko apnayein. Iske saath hi yeh komal shayya (soft couch) bhi swikar karein, jisme moti aur heere lage hain. Yeh haathi ‘Shatranjaya’, jo mujhe mere mama ne diya tha, aur iske saath ek hazaar sone ke sikke bhi, main aapko pradan karta hoon.”
+
+Rishi Suyajna ne sab daan svikar karke Rama, Lakshman aur Sita ko ashirwad diya.
+
+Uske baad Rama ne Lakshman se kaha,
+“Hey Lakshman, Rishi Agastya aur Rishi Vishwamitra ke putron ko bulao aur unhe ratnon ka daan do. Har ek ko ek hazaar gaayen, sona, chandi, gehne aur vastra do. Un brahminon ko bhi daan do jo roj maa Kaushalya aur Sumitra ko ashirwad dete hain — unhe rath, silk ke kapde aur dasiyan (maid servants) do, taaki ve santusht rahein.”
+
+“Apne salahkar Citaratha ko bhi dhan aur gehne do. Aur jo brahmachari (students) mere saath Veda ka adhyayan karte the, unhe bhi ek hazaar gaayen aur bahut saare daan do. Har ek ko assee (80) oont ratnon se lade hue, ek hazaar bail anaaj ke saath, aur do sau bail kheti ke liye dena. Maa Kaushalya ke seva karne wale brahmachariyon ko bhi ek hazaar gaayen aur sone ke sikke dena, taaki maa humse prasann rahein.”
+
+Lakshman ne bhai ke sab aadesh poore kiye. Jaise dhan ke devta Kuber daan dete hain, waise hi Lakshman ne sab brahminon ko dhan-dolat se bhar diya.
+
+Phir Rama ne apne naukaron ko dekha jo aansuon se ro rahe the. Rama ne unhe jeevan bhar ke liye paryapt dhan diya aur kaha,
+“Main jab tak vanvaas se wapas na aa jaun, mere aur Lakshman ke mahal ki dekhbhal tum sab karna.”
+
+Rama ne khajana mangwaya aur sona-chandi ka pahaad unke samne rakha gaya. Phir unhone budhon, bimaron aur garibon mein sab dhan baant diya.
+
+Isi samay ek brahmin aaya, jiska naam Trijata tha — Garga kul se tha, lekin bahut garib tha. Din bhar van mein phal-phool ikattha karta, taaki apne parivar ka pet bhar sake. Uski patni ne usse kaha,
+“Hey praan nath, aaj apna hal aur bel chhodkar Shri Rama ke paas jaaiye. Mujhe vishwas hai, aapko kuch zarur milega.”
+
+Brahmin apne purane faate kapdon mein, Shri Rama ke mahal pahunch gaya. Rama ne muskurate hue kaha,
+“Hey Brahmin, mere paas abhi bhi kai hazaar gaayen baaki hain. Apni laathi yahan se fenk do — jitni door girti hai, utni gaayen main tumhe de dunga.”
+
+Trijata ne poori shakti se laathi feki, aur woh Sarayu nadi ke doosre kinaare jaake giri — jahan hazaron gaayen char rahi thi! Rama ne turant aadesh diya ki sab gaayen Trijata ke ashram tak pahunchai jaayein.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir unhone kaha,
+“Hey Brahmin, maine tumse mazak kiya tha, lekin tumhari shakti dekhkar main prasann hoon. Jo chaaho maango, main sab dunga. Mujhe sabse adhik sukh daan dene se milta hai.”
+
+Trijata khushi se bhar gaya, apni patni ke saath gaayen lekar gaya, aur Rama ko ashirwad dete hue bola,
+“Hey Shri Rama, tumhara yasha (glory) sada amar rahe.”
+
+Ant mein Rama ne apne sab mitron, sevakon, aur garibon ko bhi dhan daan karke sammanit kiya. Us samay Ayodhya mein koi bhi vyakti — na brahmin, na sevak, na bhikhari — aisa nahi tha jise Shri Rama ne daan na diya ho. 💫
+        """
+        create_image_text_layout("attached_assets/chapter2/2.32.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter33
+    with st.expander("Chapter 2.33 - Rama, Sita, and Lakshmana go to meet the king"):
+
+        text1 = """
+Apna saara dhan-daulat brahminon aur garibon ko daan karne ke baad, Shri Rama, Sita aur Lakshman Raja Dasharath se milne nikal pade. Unke peeche sevak chal rahe the — haath mein phoolon aur chandan se sajaye hue hathiyaar le kar.
+
+Jab Ayodhya ke logon ko pata chala, toh sab log unhe dekhne ke liye unche mahalon aur saat-manjila imaraton ki chhat par chadh gaye. Lekin sab ke dil dukhi the.
+
+Kuch log keh rahe the —
+“Dekho, pehle Shri Rama ke saath chaaron sena vibhag (army divisions) chalti thi, aur aaj unke saath sirf Sita aur Lakshman hain.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.33.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Doosre log bole —
+“Shri Rama, jo rajya ke sab sukh bhog chuke hain, aaj apne pita ke vachhan ko poora karne ke liye sab kuch tyag rahe hain. Jo praja ke liye dhan daan karta tha, wahi Rama aaj banvaas (exile) ke liye ja raha hai. Aur dekho, Sita — jise kabhi aam logon ne nahi dekha tha — aaj sabke saamne sarak par chal rahi hai.”
+
+Ek ne kaha —
+“Raja Dasharath par to jaise koi dusht atma chha gayi hai, tabhi unhone apne itne priya putra ko vanvaas bhej diya!”
+
+Dusra bola —
+“Arre, kisi ne kabhi apraadhi (traitor) ko bhi is tarah nahi nikala, phir Rama to sabse nyayapriya aur dayalu hain! Ve nirdosh, satyavaadi, vidwan aur vinamra hain. Puri praja unse itni prem karti hai ki unka jaane ka dukh sabko sukhahin kar raha hai — jaise garmi ke mausam mein jal bina pankhi tadapta hai.”
+
+Ek aur bola —
+“Rama to dharma ke mool (root) hain, aur hum log unke phool-patte. Agar ve chhod diye jaayein, to hum bhi murjha jaayenge. Chalo, hum sab apne khet, ghar, aur shehar chhodkar unke saath van mein chalein.”
+
+Sab kehne lage —
+“Jab Rama nahi honge, to Ayodhya bhi veeran (deserted) ho jaayegi. Na koi puja, na snan, na safai — bas mitti aur andhera reh jaayega. Gharoon mein devta nahi, bas chuhe daudte dikhenge. Phir is jhoot aur paap se bhare mahal ka bhog Kaikeyi aur uska putra karein.”
+
+Ek aur ne kaha —
+“Hum prarthna karte hain ki Ayodhya jungle ban jaaye aur jahan Rama rahenge, wahi nagar ban jaaye! Saap apne bil chhod dein, hiran aur pakshi pahaadon se utar aayein, sher aur haathi bhi van chhodkar Rama ke paas aa jaayein!”
+
+Rama sab ye baatein sun rahe the, lekin unka man bilkul shant tha. Unka chalna ek yuva haathi ke jaise gambheer aur shaan bhara tha. Dheere-dheere ve Raja Dasharath ke mahal ke paas pahuche — jo Meru parvat ki tarah bhavya (grand) tha.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Mahalon ke dwar par pahredaar aur sainik khade the, aur wahan Sumantra bhi khada tha — udas aur chintit. Rama ne use muskura kar dekha, phir shok mein doobe logon ke beech se nikalte hue, pitaji ke kaksh (chamber) ki or badhe.
+
+Raja Dasharath ke kamre ke bahar ruk kar, Rama ne Sumantra se kaha —
+“Hey Sumantra, kripya Raja Dasharath ko batayein ki main Sita aur Lakshman ke saath unse milne aaya hoon.”
+
+Vanvaas ke liye pratigya karke, Rama ab apne pita se antim ashirwad lene ke ichhuk the.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.33.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter34
+    with st.expander("Chapter 2.34 - King Dasaratha blesses them with love and tears"):
+
+        text1 = """
+Shyaam varna (dark-complexioned) aur kamal-nayan (lotus-eyed) Shri Ram ne apne mantri Sumantra ko kaha ki ve Raja Dasharath ko unke aane ki suchna dein.
+
+Sumantra jaise hi raja ke antahpura (royal chamber) mein gaye, unhone dekha — Raja Dasharath bahut dukhi baithe the. Aise lag rahe the jaise suraj par grahan lag gaya ho, ya aag raakh ke neeche dab gayi ho, ya talab bina paani ka ho gaya ho.
+
+Haath jodkar Sumantra ne kaha —
+“Jai ho Maharaj! Aapka putra Shri Rama, jo naron mein sher saman (lion among men) hain, dwar par khada hai. Usne apna saara dhan brahminon aur sevakon ko daan kar diya hai. Ab ve van (forest) jaane se pehle aapse milna chahte hain. Kripya unhe milne ka aashirvaad dijiye.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.34.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja Dasharath, jo dharma ke gyaata aur samudra jaise gambheer the, bole —
+“Sumantra, sab ranivas ki mahilaon ko bulao, main Rama ko unke saamne dekhna chahta hoon.”
+
+Sumantra ne jaake raniyon se kaha —
+“Raja aap sabko turant bulawa bhej rahe hain.”
+
+Phir Queen Kaushalya ke aaspaas 350 raniyan — sab ke sab ro-ro kar aankhen laal kar chuki thi — dheere-dheere raja ke paas aayiं.
+
+Jab sab aa gayi, to Raja Dasharath ne kaha —
+“Sumantra, ab Rama ko andar le aao.”
+
+Thodi der baad Sumantra ne Shri Rama, Lakshman aur Sita ko le aaya. Raja Dasharath jaise hi Rama ko dekhte hain, turant khade ho jaate hain, lekin dukh ke maare behosh hokar zameen par gir jaate hain.
+
+Rama aur Lakshman ne turant unhe sambhala aur apni baahon mein utha kar shayya (couch) par bithaya. Mahal mein har taraf ek hi dhvani goonjne lagi — “Rama! Rama!”
+Sab mahilayein zor zor se rote hue chillane lagiं, unke gehno ki chhankar bhi unke vilap (lamentation) mein kho gayi.
+
+Thodi der baad Raja Dasharath hosh mein aaye. Rama ne vinamrata se kaha —
+“Pitashri, main ab Dandaka van ke liye nikal raha hoon. Kripya aashirvaad dein. Lakshman aur Sita bhi mere saath chalne ke liye dridh nishchay (firm resolve) kar chuke hain.”
+
+Raja Dasharath ne karuna bhari nazar se dekha aur bole —
+“Rama, main Kaikeyi ke kapat (deceit) ka shikar ho gaya hoon. Tu mujhe hata kar rajya le le, beta.”
+
+Rama ne nivedan bhare shabd mein kaha —
+“Pitashri, aap sahasra (thousand) varsh tak raj karein. Main apne vachhan (promise) ke anusar 14 varsh van mein rahunga. Phir laut kar aapki seva karunga.”
+
+Raja Dasharath, satya ke bandhan mein baddhe hue, rote hue bole —
+“Putra, main kuch nahi kar sakta. Tu ja, lekin shanti aur dhairya se ja. Tujhe kisi prakaar ka bhay na ho. Mujhe dukh hai, par tu satya ke path par chal raha hai.”
+
+Phir vinati karte hue bole —
+“Beta, aaj raat yahin ruk ja, kal subah ja. Tere jaane ka dukh main seh nahi sakta. Main Kaikeyi ke kapat jaal (trap) mein fas gaya hoon, par tu kyun dukh sahe?”
+
+Rama ne shant aur dhairya bhari aawaz mein kaha —
+“Pitashri, agar main aaj ruk gaya, to kal aur kathin hoga. Aap kripya rajya Bharat ko de dijiye. Mujhe vanvaas jaane dijiye, main aapka aadesh maanta hoon.
+Mujhe na rajya chahiye, na sukh, na Janaki, na swarg (heaven), na jeevan — mujhe sirf satya aur aapke vachhan ka samman chahiye.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Unhone jhuke hue shabd mein kaha —
+“Main jaanta hoon, pita hi devtaon ke devta hain. Aapka aadesh mera dharma hai. Main 14 varsh van mein phal-mool kha kar rahunga, par aapke satya ko toda nahi jaayega.”
+
+Ye kehkar Rama ne apne pitaji ke charan chhuye. Raja Dasharath ne unhe gale lagaya aur phir se behosh ho gaye.
+
+Poora mahal ro padta hai. Rani Kaushalya aur sab mahilayein vilap karti hain — sirf Kaikeyi chup baithi rehti hai.
+Sumantra bhi apne aasu rok nahi paata.
+Poora mahal “Rama! Rama!” ki karun dhvani (sorrowful cry) se goonj uthta hai.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.34.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter35
+    with st.expander("Chapter 2.35 - Sumantra scolds Queen Kaikeyi for her actions"):
+
+        text1 = """
+Jab Sumantra hosh mein aaya, uska gussa aasmaan chhoo gaya. Uski saanse tez chalne lagi, daant kas liye, haath moadte hue, sir pe maarte hue — aankhein laal ho gayi aur chehra badal gaya. Uske andar dukh aur gussa dono ubhar aaye the. Jab usne dekha ki Rani Kaikeyi ne Raja Dasharatha ka pyaar kho diya hai, tab usne usse aise teekhe shabd kahe jaise teer dil ke paar chale jaate hain.
+
+Sumantra bola, “Hey Rani Kaikeyi! Tumne apne pati ko chhod diya — jo sabka palanhar (protector and nourisher) tha. Tumne duniya mein aisa koi bure kaam nahi chhoda jo na kiya ho. Tum apne pati ki hatyara (murderess) aur apne vansh (family) ki naash karne wali ho. Tumhare bure kaamon se Raja Dasharatha — jo Indra jaise shaktishaali (powerful) aur pahaad jaise dridh (firm) the — tut gaye hain.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.35.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir usne kaha, “Kaikeyi, apne vriddh (aged) pati ka apmaan mat karo. Ek pativrata (devoted wife) ke liye apne pati ke prati bhakti (devotion) hazaar beto ke prem se zyada honi chahiye. Hamare vansh ki parampara (tradition) hai ki sabse bada beta rajya sambhale. Tum us parampara ko tod kar apne bete Bharata ko raja banana chahti ho, jabki Raja abhi zinda hain. Thik hai, tumhara beta rajya kare — hum sab Rama ke saath van (forest) chale jaayenge. Jo koi bhi achhe charitra wala hai, wo tumhare bete ke saath nahi rahega, kyunki tumne itihas ke niyam (ancient law) ko tod diya hai.”
+
+Sumantra ne tikhhe shabdon mein kaha, “Mujhe hairani hai ki dharti (earth) tumhe nigal kyun nahi jaati tumhare paap (sins) ke liye. Tumhari buraiyon par to rishi (sages) bhi chup hain! Kaun bewakoof (fool) meetha aam ka ped kaatkar uske jagah kadva neem (bitter tree) lagata hai, chahe usse doodh se paani de? Neem se to kabhi bhi shahad (honey) nahi nikalta! Tum apni maa jaisi hi ho — buri aur dhokebaaz (deceitful).”
+
+Phir Sumantra ne uske parivaar ka raaz khol diya: “Tumhare pita, Raja Kaikeya, ek yogi (sage) ke vardaan (boon) se sab praniyon (creatures) ki bhaasha samajh sakte the. Ek din, jab wo rajdhani laut rahe the, unhone do cheenti (ants) ko baat karte suna aur hans diye. Tumhari maa ko laga ki raja us par hans rahe hain, to usne jidd (stubbornly) ki — ‘Mujhe batao kyu hase!’ Raja ne kaha, agar main sach bataunga, to meri maut ho jayegi. Par tumhari maa boli — ‘Chahe tum mar jao, mujhe sach batao!’”
+
+“Phir Raja Kaikeya yogi ke paas gaye. Yogi ne kaha, ‘Raja, ya to apni patni ko uske pita ke ghar bhej do ya use marne do, par sach mat batao.’ Aur raja ne apni patni ko tyag (abandon) diya aur aazad ho gaye jaise dhan ke devta Kubera. Hey Paapi (sinful) Kaikeyi, tum bhi apni maa ke raste par chal rahi ho, jhooth aur dhokhe ka raasta.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sumantra ne aakhri baar kaha, “Suna hai — beta pita jaise aur beti maa jaise hoti hai. Par tum apni maa jaise mat bano, apne pati ki baat mano. Raja tumhara rakshak (protector) hai — uske shabd ka samman karo. Usse bura kaam mat karvao. Raja apne vaachan (promise) se peeche nahi hat sakta. Par tum Raja se vinti (request) karo ki Shri Rama ko hi rajya do — kyunki wo sabse bada, sabse dayalu (kind), dharm-nisth (righteous) aur sab praniyon ka rakshak hai. Agar Rama van chala gaya, to poori duniya tumhe doshi (blame) karegi. Apna man shaant karo, aur Rama ka rajyabhishek hone do. Agar koi aur raja bana, to tumhe sukh nahi milega. Agar Rama raja ban gaya, to Raja Dasharatha bhi parampara ke anusar van ko chale jayenge.”
+
+Sumantra ne itne kathor (harsh) shabd sabke saamne Kaikeyi ko kahe, par Kaikeyi par koi asar nahi hua. Na uske chehre par pachtava (regret) tha, na uski aankhon mein aansu — wo patthar (stone) ki tarah shaant baithi rahi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.35.2.jpg", text3, layout="side", image_position="right")
