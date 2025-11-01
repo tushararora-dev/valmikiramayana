@@ -1598,3 +1598,219 @@ Sumantra ne aakhri baar kaha, “Suna hai — beta pita jaise aur beti maa jaise
 Sumantra ne itne kathor (harsh) shabd sabke saamne Kaikeyi ko kahe, par Kaikeyi par koi asar nahi hua. Na uske chehre par pachtava (regret) tha, na uski aankhon mein aansu — wo patthar (stone) ki tarah shaant baithi rahi.
         """
         create_image_text_layout("attached_assets/chapter2/2.35.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter36
+    with st.expander("Chapter 2.36 - Kaikeyi does not listen to anyone"):
+
+        text1 = """
+Raja Dasharatha apne vaachan (promise) ke dukh mein doob gaye the. Aansu rokte hue unhone ro rahe Sumantra se kaha, “Hey Sumantra, chaar sena-vibhag (four divisions of army) taiyaar karo, jinmein dhan (wealth) ho — taaki wo Shri Rama ke saath ja sakein. Khoobsurat aur madhur bolne wali mahilayein (women), vaapari (merchants), aur dhanwan vyapari (rich traders) bhi saath chalein, jo Rama ke liye zaroori saamaan ka store banayen. Jo log Rama ke priya sevak (beloved attendants) hain, unhe bhi dhan de kar saath bhejo. Ayodhya ke achhe nagrik (citizens) bhi uske saath jaayein — hathiyaar, rath (chariots), aur jungle ke raste jaane wale logon ke saath.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.36.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja ne aage kaha, “Rama jungle mein hiran (deer) aur haathi ka shikar karega, nadiyon ke paas madhur shahad (honey) pi kar prakriti (nature) ka aanand lega, aur kabhi-kabhi hum sabko yaad karega. Mere sab dhan aur anna (grain) bhi uske saath bhej do, taaki wo van mein rahat se rahe. Wo rishi-muni (sages) ke saath yagya (sacrifices) karega, daan (alms) dega, aur wahan shanti se jeeyega. Yahan Bharata logon ka palan karega, aur Rama apna vanvaas (exile) sukh se bitayega.”
+
+Kaikeyi ne jab ye suna, to uske chehre ka rang ud gaya. Uska gala sookh gaya, haath kaanpe lage. Ghabrahat se usne kaha, “Hey Maharaj, Bharata to aise rajya ko kabool (accept) nahi karega jo dhan, logon aur shaan (prosperity) se khaali ho — aise rajya ka kya fayda?”
+
+Raja Dasharatha ka chehra laal ho gaya, aur unhone gusse mein kaha, “Hey papi (wicked) Kaikeyi! Tum itna dukh mujhe aur kyu dena chahti ho? Jab tumne Rama ko vanvaas bhejne ko kaha tha, tab to tumne nahi kaha tha ki wo bina kuch liye jaaye!”
+
+Kaikeyi aur bhi krodhit (furious) ho gayi aur boli, “Tumhare vansh (dynasty) ke Raja Sagara ne bhi apne bete Asumanjas ko vanvaas bheja tha — Rama ko bhi waise hi bhejo!”
+
+Ye sunkar Raja Dasharatha chillaye, “Haye Ram!” — aur poora mahal sharm aur dukh se bhar gaya. Par Kaikeyi bilkul shaant thi, jaise kuch mehsoos hi na ho.
+
+Tab Raja ke pradhan mantri (chief minister) Siddhartha, jo satyavaan aur Raja ke bahut priya the, ne Kaikeyi se kaha, “Hey Rani, Asumanjas ne bachchon ko sadak se pakad kar Sarayu nadi (river) mein pheka tha — isliye wo paapi (evil) mana gaya. Nagar ke log usse ghin (disgust) karte the aur Raja Sagara se bole, ‘Humari raksha karo, ya Asumanjas ko rakho!’ Jab Raja ne poochha kyun, to logon ne kaha, ‘Asumanjas pagal ho gaya hai, bachchon ko paani mein dubota hai aur khushi manata hai!’
+
+Tab Raja Sagara ne use vanvaas bhej diya — use kapde aur rath (chariot) dekar, patni ke saath jungle bhej diya. Asumanjas ne apne paapon ka phal (fruit) wahan bhugta. Par Rani Kaikeyi, Rama ne to koi paap nahi kiya! Usmein to chand (moon) jaisa bhi daag nahi! Agar tumhe Rama mein koi dosh (fault) dikhta hai, to sabke saamne batao — warna ye anyaay (injustice) hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Mantri ne aage kaha, “Hey sundar mukha wali Rani, bina wajah ek satya-path (path of truth) par chalne wale ko tyag dena adharma (unrighteous act) hai — aise kaam se to Indra ki tejas (splendor) bhi chali jaati hai. Tum Rama ki khushi ko naash mat karo aur logon ke liye apmaan (shame) ka kaaran mat bano.”
+
+Siddhartha ke in satya bhare shabdon ke baad, Raja Dasharatha ne dukh se kaampte hue Kaikeyi se kaha, “Hey paapi Kaikeyi, kya tum mere mantri ki baat bhi nahi maanti? Kya tumhe apne aur mere bhale (welfare) ka kuch khayal nahi? Kya tum bas bure raaste (evil path) par hi chalna chahti ho? Theek hai, main apna dhan, sukh aur mahal sab chhodkar Rama ke peeche jaunga. Tum yahan Bharata ke saath aaram (comfort) se rajya karo — hamesha ke liye.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.36.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter37
+    with st.expander("Chapter 2.37 - Sita still wishes to go to the forest"):
+
+        text1 = """
+Jab Shri Rama ne apne pita aur mantri Siddhartha ke shabd sune, to ve vinamr (humble) hokar bole —
+“Hey Maharaj, maine sab sukh aur aishwarya (luxury) tyag diya hai jungle mein rehne ke liye. Ab mujhe dhan, sena ya aur kisi cheez ki zarurat nahi. Jo haathi chhod chuka hai, use uske howdah ki rassi se kya matlab? Main aise hi hoon — mujhe jungle ke liye bas ek kassi (spade), ek tokri (basket), aur thoda khana chahiye. Mujhe turant yatra par nikalna hai.”
+
+Ye sunkar Rani Kaikeyi uth khadi hui. Usne bark ke kapde (tree bark clothes) laakar sabke saamne bina sharmaye kaha —
+“Rama, ye kapde pehno.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.37.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Shri Rama ne bina kuch kahe apne rajsi vastra (royal clothes) utaar diye aur bark ke vastra pehen liye.
+Lakshmana ne bhi wahi kiya — apne sundar rajkapde utaar kar tapasvi (ascetic) jaise bark ke vastra pehene.
+
+Jab Sita ji ne ye dekha, unhone apna sundar resham ka saari pehna hua tha. Jab unke saamne bark ke kapde laakar rakhe gaye, to wo ek pal ke liye ghabra gayi — jaise ek hiran (deer) shikari ka jaal dekh kar chauk jata hai.
+
+Thodi sharm aur dukh ke saath, Sita ji ne wo kapde liye. Anjaani thi wo iss reeti (custom) se, isliye puchha —
+“Prabhu, ye bark ke kapde kaise pehne jaate hain?”
+
+Shri Rama ne unhe dekha aur khud unke kapde sahi karne lage — unke silken saari ke upar bark ke vastra bandh diye.
+Ye dekh kar mahal ki sab mahilayen ro padi. Unhone kaha —
+“Hey Rama, Rajarshi Dasharatha ne to Sita ji ko vanvaas (forest exile) ki anumati nahi di. Aap jaaiye, lekin Janaki ko yahin chhod jaiye. Hum unka mukh (face) dekhkar jeevan safal samjhenge. Lakshmana aapke saath jaaye, par Sita ji jungle ke kathin jeevan (harsh life) ke liye nahi bani.”
+
+Par Shri Rama jaante the ki Sita bina unke nahi rukengi. Unhone unki baat nahi maani, aur Sita ji ko bark ke vastra pehnane mein madad ki.
+
+Tab Rishi Vasishtha ji, jo Rajguru the, unhone krodh (anger) se Kaikeyi se kaha —
+“Hey Kaikeyi, tu apne vansh (dynasty) ka vinash kar rahi hai! Tune Raja ko dhokha diya hai. Ye vanvaas ka vachan sirf Rama ke liye tha, Sita ke liye nahi. Sita to Rama ka ardhangini (half of the husband) hai — jahan Rama ka adhikar, wahan uska bhi. Agar Sita Rama ke saath jungle jaayegi, to hum sab — nagarik (citizens), sainik (soldiers), aur Bharat-Shatrughna bhi — sab uske peeche jaayenge. Tab Ayodhya jungle ban jaayegi aur jungle Ayodhya.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Vasishtha ji ne kaha —
+“Bharat kabhi bhi ye rajgaddi (throne) nahi lega jab tak Rama jeevit hain. Tu apne putra ko rajgaddi dena chahti hai, lekin use to dukh hi milega. Kaikeyi, Sita ko ye bark ke kapde mat pehnne de, use rajsi vastra mein hi Rama ke saath bhej.”
+
+Lekin sabke rokhne ke baad bhi, Shri Sita ne bark ke vastra pehne aur kaha —
+“Main apne prabhu ke bina nahi reh sakti. Jahan ve jaayenge, main bhi wahan jaungi — chahe wo van hi kyu na ho.”
+
+Aur is tarah, sabke mana karne ke baad bhi, Sita ji ne vanvaasi roop (ascetic form) mein Rama ke saath van yatra (forest journey) par jaane ka sankalp liya. 🌿
+        """
+        create_image_text_layout("attached_assets/chapter2/2.37.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter38
+    with st.expander("Chapter 2.38 - Rama asks the king to take care of his mother"):
+
+        text1 = """
+Jab logon ne dekha ki Sita ji, jinke pati jeevit hain, phir bhi ek vidhwa (widow) jaise bark ke kapde pehni khadi hain — to sab log Raja Dasharatha ko dosh dene lage.
+Unke shabd sun kar Raja Dasharatha ka man dukhi (saddened) ho gaya — unka jeevan, dharm (virtue), aur yash (fame) sab jaise chhin gaya ho. Gehri saans lete hue, unhone Kaikeyi se kaha —
+
+“Hey Kaikeyi, Sita ka jungle jaana aur ye tapasvi ke kapde pehna bilkul uchit (proper) nahi hai. Hamare Guru Vasishtha ji ne bilkul sahi kaha — Sita jaise komal (delicate) aur pavitra (pure) rajkumari van ke kathin jeevan ke layak nahi. Janaka ki beti ne kisi ka kya bigaada hai, jo aaj sabke saamne bark ke vastra pehne chup khadi hai, jaise koi sanyasini (female ascetic)? Mainne to kabhi ye vachan nahi diya tha ki Sita ko bhi ye vanvaas saha padega.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.38.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja ne kaampa hua swar (trembling voice) mein kaha —
+“Sita ko rajsi vastra (royal clothes) aur alankaron (ornaments) ke saath, shubh roop mein van ko jaana chahiye, na ki is tarah ke kapdon mein. Hey Kaikeyi, meri mrityu (death) ab door nahi. Tumhare diye hue vachan mujhe andar se jala rahe hain — jaise baans (bamboo) apne phool se jal jaata hai. Agar tumhe lagta hai Rama ne tumse koi paap (wrong) kiya hai, to batao, Janaki ne kya kiya? Us masoom rajkumari ne, jiske netra (eyes) hiran jaise komal hain, tumhara kya bigaada?”
+
+Phir Dasharatha ji ne krodh (anger) se kaha —
+“Hey papi Kaikeyi! Tune bina wajah Rama ko vanvaas bhej diya, isliye tu nishchit (surely) narak (hell) ko prapt karegi. Jab Rama rajyabhishek ke liye tayyar tha, tab tune usse roka aur vanvaas ka hukum diya. Main chup raha, aur meri yahi chup mere liye vish (poison) ban gayi. Ab tu Sita ko bhi sanyasini jaise kapde pehna kar usse bhi dukh dena chahti hai? Ye paap tujhe narak ke aur ghehraai mein le jaayega.”
+
+Itna keh kar Raja Dasharatha dukh aur laachari (helplessness) se behosh jaise ho gaye — zameen par gir pade.
+
+Tab Shri Rama, jinka sir vinamrta se jhuka tha, aage badhe aur bole —
+“Hey Pitashree, meri ek prarthana (request) hai. Jab main van jaunga, meri maa Kaushalya, jo hamesha vinamr (humble), dayalu (kind), aur sada satya bolne wali hai, mere bina atyadhik dukh (deep sorrow) mein doob jaayegi. Unhone kabhi dukh nahi dekha, aur ab meri judai (separation) unke liye asahniya (unbearable) hogi.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Aap, jo sabse poojya (honoured) hain, meri maa ka dhyaan rakhiye. Unhe apne sneha (affection) aur sahara (support) se sambhaliye, taaki wo dukh se toot na jaayein.
+
+Hey Chakravarti Raja (great emperor), aap Indra ke samaan (equal to Indra) shaktishaali hain — kripya meri maa Kaushalya ki raksha kijiye, taaki meri anupasthiti (absence) mein unka jeevan shanti se beet sake.”
+
+Aur is tarah Shri Rama ne, apne vanvaas par jaane se pehle, apni maa ke liye pitashree se karuna bhari vinanti (pleading request) ki. 🌿💛
+        """
+        create_image_text_layout("attached_assets/chapter2/2.38.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter39
+    with st.expander("Chapter 2.39 - Everyone in the palace cries loudly"):
+
+        text1 = """
+Jab Raja Dasharatha ne Shri Rama ke shabd sune aur unhe tapasvi (ascetic) ke roop mein dekha, to unka hosh udd gaya. Maharaniyan (queens) bhi dukh se munh pher kar ro padin. Raja Dasharatha itne vyakul (distressed) hue ki wo na Rama ko dekh sake, na kuch keh paaye — kuch der tak to wo behosh jaise pade rahe.
+
+Thodi der baad jab unhe hosh aaya, to unhone dukh bhare swar mein kaha —
+“Ab mujhe samajh aa gaya hai ki pichle janmon (previous births) mein maine bahut saare bachhon ko unki maa se alag kiya hoga, ya nirdosh jeevon (innocent beings) ka jeevan liya hoga — tabhi mujhe aaj yeh bhari dukh bhogna pad raha hai. Kaikeyi ke zulm (cruelty) se main jeete jee mar raha hoon, phir bhi mrityu (death) mujhe apne paas nahi bulati. Dekho, mera tejomay (radiant) beta Rama — jo aag ke saman chamak raha hai — rajsi vastra (royal clothes) chhod kar sanyasi ke kapde pehne khada hai. Kaikeyi ki chal (trick) aur apne swarth (selfishness) ke chakkar mein poora rajya dukh mein doob gaya hai.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.39.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja ke aankhon se aansu behne lage aur gala ruddh (choked) ho gaya — wo bas “Rama… Rama…” keh kar chup ho gaye. Thodi der baad unhone Sumantra se kaha —
+“Hey Sumantra, turant sabse acchhe ghodon (best horses) ko jodo aur Rama ko rajdhani ke bahar le jao. Ab to mujhe spasht (clearly) samajh aaya hai — satpurush (virtuous man) hona bhi kabhi kabhi dukh ka kaaran ban jaata hai. Jo itna buddhimaan (wise) aur veer (brave) beta hai, use apne mata-pita hi vanvaas bhej rahe hain.”
+
+Sumantra ne raja ke aadesh (order) ke anusar turant sona sajja hua rath (golden chariot) tayyar kiya aur Rama ke saamne aakar bola, “Prabhu, rath tayyar hai.”
+
+Phir Raja Dasharatha ne apne vishwasniya (trustworthy) khajanchi (treasurer) ko bulaya aur kaha —
+“Janaki ke liye chaudah varsh ke vanvaas (exile) ke liye sundar vastra (beautiful clothes) aur abhushan (ornaments) le aao.”
+Aadesh paate hi khajanchi ne sab saman Sita ji ko laakar de diya.
+
+Sita ji ne rajsi poshaak (royal dress) aur gehne pehne — aur jab wo tayyar hui, to poora mahal unki tej (radiance) se jagmaga utha, jaise suryoday (sunrise) se aakash roshan ho jaata hai.
+
+Tab Rani Kaushalya ne Sita ji ko gale lagakar kaha —
+“Hey priya putravati (beloved daughter-in-law), duniya mein bahut si patniyan (wives) hoti hain jo apne pati ke dukh mein saath nahi deti. Jab sukh hota hai tab sab saath rehti hain, par dukh aate hi mooh mod leti hain. Par tum unse alag ho. Tum jaise satya-vrata (truthful) aur pativrata (devoted wife) mahila bahut kam hoti hain. Isliye, mere bete Rama ke prati kabhi krodh (anger) mat rakhna. Use devata (deity) samajhna — chahe sukh ho ya dukh.”
+
+Sita ji ne vinamrta (humility) se jhuk kar kaha —
+“Hey Mata, aapka aadesh main hamesha maanungi. Mujhe bhi maloom hai ki patni ka kartavya (duty) hai apne pati ki seva karna. Mera janm bhi isi dharm (righteous duty) ko nibhaane ke liye hua hai. Main kabhi apne pati ka tyag (abandon) nahi karungi — jaise suraj apni roshni ko nahi chhodta. Jaise veena bina taar ke bekaar hai, aur rath bina pahiyon ke nahi chal sakta — waise hi patni apne pati ke bina adhoori hai, chahe uske sau (hundred) putra hi kyu na ho.”
+
+“Pita, mata ya putra (father, mother or son) thoda sukh dete hain, par pati hi patni ke jeevan ka asli aanand (true joy) hota hai. Main janti hoon, pati patni ke liye bhagwan (god) samaan hota hai — main kabhi unka apmaan nahi karungi.”
+
+Kaushalya ji ne aansuon ke saath Sita ko aashirvaad diya aur unke satya aur prem se bhare shabd sunkar thoda shaant ho gayin.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Shri Rama apni maa se bole —
+“Hey Mata, jab main van mein rahunga, tab Pitashree ko kabhi krodh bhari drishti (angry look) se mat dekhna. Yeh chaudah saal sapne (dream) jaise beet jaayenge. Phir aap mujhe apne pita ki seva karte hue dekhenge.”
+
+Uske baad Rama ne raja ki doosri 350 patniyon (consorts) ki taraf dekha, jo sab ro rahi thi, aur kaha —
+“Hey Matao, agar kabhi main bachpanne (in childishness) ya agyaan (ignorance) mein koi bhool ki ho, to mujhe kshama (forgive) kar dijiye.”
+
+Unke yeh namr (humble) aur dharm se bhare shabd sunkar sab raaniyan aur mahilayen phoot-phoot kar ro padin — unka rodan (weeping) aise lag raha tha jaise krouncha pakshiyon (crane birds) ki dukhi pukar ho.
+
+Jo mahal pehle nagade (drums) aur shankh (conch) ki goonj se bhara rehta tha, aaj wahi mahal raniyon ke shok (grief) bhare vilap (lament) se goonj utha. 💔🌙
+        """
+        create_image_text_layout("attached_assets/chapter2/2.39.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter40
+    with st.expander("Chapter 2.40 - All Ayodhya cries as Rama’s chariot leaves"):
+
+        text1 = """
+Jab Shri Rama ko vanvaas (exile) ke liye jana pada, unka dil dukh se bhar gaya. Unhone apne pita Maharaj Dasharatha ke charan (feet) chhue, phir Lakshmana aur Sita ke saath unke charo taraf parikrama (circumambulation) ki. Phir Rama ne apni maa Kaushalya ke charan chhuke aur unhe pranam kiya.
+
+Lakshmana ne bhi apni maa Sumitra ke charan chhue. Maa Sumitra ro padi aur apne bete ko aashirvaad (blessing) dete hue boli,
+“Mere beta, Shri Rama duniya ki raksha (protection) ke liye paida hue hain, aur tu unki seva (service) ke liye. Hamesha unke saath rehna, unka saath kabhi mat chhodna. Sukh ho ya dukh, Rama ko hi apna jeevan samajhna. Yehi hamare vansh (lineage) ki parampara (tradition) hai — bade buzurgon ka samman (respect), daan (charity), yagna (sacrifice), aur apni zimmedari nibhana.”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.40.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir maa Sumitra ne kaha,
+“Beta, jab tu Rama ke saath jungle jaaye, to unhe apne pita Dasharatha samajhna, Sita ko mujhe samajhna, aur us van ko (forest) Ayodhya ke barabar samajhna.”
+
+Tab Sumantra, Raja ka saarathi (charioteer), namrata se bola,
+“Hey Rajkumar, kripya rath par baithiye. Main aapko wahan le jaata hoon jahan aap chahein. Aaj se hi aapka vanvaas shuru hota hai.”
+
+Janak Nandini (daughter of King Janaka) Sita, apne sundar gehno (jewels) se saja hua roop lekar, khushi se rath par chadh gayi. Rama aur Lakshmana bhi usme baith gaye. Rath sona (gold) aur shastron (weapons) se saja tha.
+
+Raja Dasharatha ne Sita ko vanvaas ke liye kapde, gehne, aur raksha ke liye mantra-yukt astr-shastra diye the. Jab sab taiyar ho gaye, to Sumantra ne rath chala diya. Ghode hawa ki tarah tez bhaagne lage. Jaise hi Rama van ke liye nikle, poori Ayodhya — chhote, bade, auratein, jawaan — sab log udaas ho gaye. Sab unke peeche daudne lage, rone aur chillane lage.
+
+Log Sumantra se pukarne lage,
+“Hey saarathi, dheere chalao! Hume Rama ka chehra ek baar aur dekhne do!”
+Kuch log bol rahe the,
+“Kaushalya maa ka dil lohe ka hoga jo itna dard dekh kar bhi nahi toota! Aur dekho Sita ji, apne pati ke saath har sukh-dukh mein saaya (shadow) ban kar ja rahi hain. Lakshmana sach mein dhanya (blessed) hai, jo apne bhai ki seva ko apna dharm samajhta hai!”
+
+Sab log rath ke peeche rote hue daud rahe the. Maharaj Dasharatha bhi bina jute ke, raniyon ke saath palace se nikal aaye, chillate hue —
+“Mujhe apne bete ko ek baar phir dekhna hai!”
+
+Rama ne peeche dekha, to apne maa-pita ko nange pair, rokar daudte hue dekha. Unka dil bhar aaya, par dharm (duty) ke bandhan mein bandhe hone ke karan unhone apni nazar hata li. Unhone Sumantra se kaha,
+“Tez chalao!”
+Aur rath aage badh gaya. Raja Dasharatha aur Rani Kaushalya roti reh gayi, jaise maa apne bachche ke pukarne par daudti hai.
+
+Logon ke aansuon (tears) se rath ke pahiye (wheels) ke dhool dhul gayi. Poora Ayodhya shok (grief) mein doob gaya. Mahilayen aur praja (people) “Rama! Rama!” chillate hue rote rahe.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rama ne Sumantra se kaha,
+“Jab Raja poochein ki tune meri baat kyu nahi maani, to kehna — rath ke ghumo (wheels) ki aawaz ke beech main sun nahi paaya.”
+
+Ant mein, Dasharatha thak kar ruk gaye. Unhone apne mann se Rama ki parikrama ki aur palace laut aaye. Unke mantri bole,
+“Jo chaahta hai ki uska mitra (friend) wapas aaye, use zyada door tak nahi chhodta.”
+
+Raja Dasharatha pasine se bheeg gaye, unka mann toota hua tha, aur wo Rama ke door jaate rath ko dekhte reh gaye.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.40.2.jpg", text3, layout="side", image_position="right")
