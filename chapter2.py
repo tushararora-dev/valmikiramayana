@@ -1814,3 +1814,198 @@ Ant mein, Dasharatha thak kar ruk gaye. Unhone apne mann se Rama ki parikrama ki
 Raja Dasharatha pasine se bheeg gaye, unka mann toota hua tha, aur wo Rama ke door jaate rath ko dekhte reh gaye.
         """
         create_image_text_layout("attached_assets/chapter2/2.40.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter41
+    with st.expander("Chapter 2.41 - The whole world feels sad for Rama"):
+
+        text1 = """
+Jab veer (brave) aur vinamra (humble) Shri Ramachandra Ayodhya se chale gaye, to mahal ke andar se ek dard bhari cheekh (cry of sorrow) sunai di. Sab raniyan aur mahal ki mahilayen rote hue boli,
+
+“Hamare Rama kahan chale gaye? Wahi Rama jo anath (orphaned), kamzor (weak), aur dukhiyon ke sahare (support) the. Wahi Rama jo kabhi gussa nahi karte the, hamesha sabke dukh ko apna dukh samajhte the. Wo Rama kahan hain, jo sabse pyar se baat karte the, aur hamesha sabka man shant (peaceful) rakhte the? Kaikeyi ne unhe vanvaas (exile) bhej diya, aur Raja Dasharatha ne bhi unhe rok nahi paaye… Haye, Raja ka dil itna kathor (hard) kaise ho gaya?”
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.41.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Mahal ki sab auratein un gaayon (cows) ki tarah ro rahi thi, jinke bachche unse alag kar diye gaye ho. Unke rote hue swar (voices) sun kar Raja Dasharatha ka dukh aur badh gaya.
+
+Ayodhya ka har kona udaasi (sadness) se bhar gaya tha.
+Na kisi brahmachari ne agni-puja (fire ceremony) ki,
+na kisi grihasth (householder) ne bhojan (food) banaya.
+Sab log bas dukh mein doob gaye.
+
+Haathi ne apne shringar (decorations) utaar diye,
+gaaye apne bachchon ko doodh pilaane se inkaar kar rahi thi,
+aur maaon ko apne bachchon ko dekh kar bhi khushi nahi ho rahi thi.
+
+Asmaan (sky) bhi jaise dukh mein doob gaya tha.
+Chand ke paas manhoos (inauspicious) grah — Mangal (Mars), Shani (Saturn), Brihaspati (Jupiter) aur Shukra (Venus) — ikattha ho gaye the. Taare (stars) apni chamak kho baithe, Vishakha nakshatra (constellation) bhi dhundhla (dim) pad gaya.
+
+Achanak tez hawa chali, badal (clouds) ek doosre se takraane lage, aur zameen kampne (earthquake) lagi. Aas-paas andhera chha gaya, suraj (sun) ki roshni kam ho gayi, aur sab dishaayein udaas ho gayin.
+
+Ayodhya ke log bhooke-pyaase, bechain (restless) aur dukhi the. Kisi ne us din bhojan nahi kiya, na kisi ke ghar se hansne ki awaaz aayi. Sadkon (streets) par log rote hue chal rahe the — na hawa thandi chal rahi thi, na chandni (moonlight) chamak rahi thi.
+
+Sab log bas ek hi baat keh rahe the —
+“Hamare Rama chale gaye…”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Putra apne pita ka dhyaan nahi rakh rahe the,
+pati apni patni se door jaise lag rahe the,
+aur bhaiyon ke beech ka pyaar bhi kho gaya tha.
+
+Rama ke mitra (friends) bina neend ke, bas unki yaad mein rote rahe.
+Ayodhya bina Rama ke aise lag rahi thi jaise dharti (earth) bina paani ke — sookhi aur dukhi.
+
+Har ghar se rote hue logon ki awaaz aa rahi thi,
+aur haathi, ghodon (horses) aur sainikon (soldiers) ke cheekhne ki dhwani (sound) poore nagar (city) mein goonj rahi thi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.41.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter42
+    with st.expander("Chapter 2.42 - The king can’t sleep without Rama"):
+
+        text1 = """
+Jab tak Rama ke rath (chariot) ke pahiyon (wheels) se uthi dhool (dust) nazar aati rahi, tab tak Raja Dasharatha apni nazar us raaste se hata nahi paaye. Jab tak unhe apne pyare aur dharmparayan (virtuous) putra Shri Ramachandra ka darshan (sight) hota raha, tab tak wo bas usi disha (direction) mein dekhte rahe. Lekin jaise hi wo dhool hawa mein gayab ho gayi, Raja Dasharatha ka dil tut gaya — wo zameen par gir pade, behosh (unconscious) ho gaye.
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.42.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rani Kaushalya ne turant unka daahina haath pakda aur Rani Kaikeyi ne baaya haath sambhala. Hosh mein aate hi Raja Dasharatha ne Kaikeyi ki taraf dekha aur dard bhare swar mein bole,
+“Hey paapi (wicked) Rani, mujhe haath mat lagao! Main tumhe apni patni nahi maanta. Na main tumse koi rishta rakhna chahta hoon. Tumhare naukar ab mere nahi, aur main unka swami (master) nahi. Tumne apne pati (husband) ke prati apna kartavya (duty) chhod diya hai. Jo haath maine vivaah (marriage) ke samay agni ke saamne pakda tha, aaj usse main tyagta (renounce) hoon. Agar tumhara beta Bharat rajgaddi se santusht ho, to yaad rakhna — usse mere antim sanskaar (funeral rites) karne ki bhi zarurat nahi.”
+
+Rani Kaushalya ne roti hui Raja Dasharatha ko uthaya, unke kapde dhool se bhare hue the. Unhe rath mein bitha kar mahal ki taraf le gayi. Dasharatha ka dukh aisa tha jaise kisi ne apne jeevan se adhik pyare vyakti ko khoya ho. Har kadam par wo peeche mud kar Rama ke jaane wale raaste ko dekhte rahe. Unka chehra suraj ke grahan (eclipse) ke samay jaisa feeka (pale) lag raha tha.
+
+Wo rote hue bole,
+“Main to ab sirf un ghodon (horses) ke nishaan dekh sakta hoon, jinse mere Rama ka rath joda gaya tha… lekin mere Rama nahi dikh rahe. Haye mera beta! Jo pehle chandan (sandalwood) se sugandhit hokar komal takiye (soft pillows) par sota tha, aaj zameen par ped ke neeche pathar (stone) ka takiya bana kar so raha hoga. Subah jab wo uthta hoga, uska tan (body) mitti se lipta (covered) hoga, aur wo gehri saans (deep sighs) leta hoga jaise koi dukhi bail (bull). Jungle ke log ab usse ek anath (orphan) jaise bhatakta dekhenge.”
+
+Raja ka dard aur badh gaya jab unhone Sita ke baare mein socha:
+“Janak ki beti Sita, jo hamesha khushiyon ki haqdaar (deserving) thi, ab kaanton (thorns) se bhare raaste par chal rahi hogi, jangli janwaron (wild animals) ki dahad (roar) sunkar daregi. Hey Kaikeyi, tumhara manokamna (ambition) poora ho gaya — ab raj sambhalo, lekin yaad rakhna, main bina Rama ke jee nahi sakta.”
+
+Aise rote hue Raja Dasharatha Ayodhya wapas aaye, jaise koi apne sabse pyare vyakti ka antimsanskar karke laut raha ho. Nagar (city) viran (empty) lag raha tha — bazaar band the, mandir (temples) sune (silent) the, aur sadkon par sirf budhe aur roti awaz waale log the. Unhone jab ye sab dekha to aur bhi ro pade. Mahal mein ghuste hue wo aise lag rahe the jaise suraj badal (cloud) ke andar chhup gaya ho.
+
+Ab unhone kamzor (weak) aur kanpte (trembling) swar mein kaha,
+“Mujhe turant Rani Kaushalya ke mahal le chalo. Sirf wahi jagah hai jahan mujhe thoda sukoon (peace) mil sakta hai.”
+
+Sevakon (attendants) ne Raja ko Kaushalya ke mahal le jaakar palang (couch) par bithaya, lekin unka mann fir bhi ashant (restless) raha. Mahal Rama, Lakshmana aur Sita ke bina unhe aise lag raha tha jaise aakash (sky) bina chand (moon) ke.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Raja ne apne haath upar uthaye aur pukara,
+“Hey mere beta Rama! Kya tum mujhe chhod kar ja rahe ho? Kitne bhagyashali (fortunate) honge wo log jo tumhe wapas laut kar gale lagayenge!”
+
+Raat gehri aur andheri thi, jaise maut (death) ka sama ho. Raja ne madhyaraatri (midnight) mein Kaushalya se kaha,
+“Hey Kaushalya, mujhe tum dikh nahi rahi… meri drishti (sight) to Rama ke saath chali gayi hai. Kripya apna haath mere haath par rakho, taaki mujhe tumhara sparsh (touch) mehsoos ho.”
+
+Kaushalya ne apne patidev (husband) ki haalat dekhi, wo bhi rote hue unke paas baith gayi. Dono bas ek hi naam le rahe the —
+“Rama…”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.42.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter43
+    with st.expander("Chapter 2.43 - Queen Kaushalya cries in sorrow"):
+
+        text1 = """
+Jab Raja Dasharath apne shok (grief) mein doobe hue bistar par pade the, tab Rani Kaushalya, apne putra Shri Ram ke virah (separation) se dukhi hokar boli —
+
+“Hey Maharaj, us dusht (evil) Kaikeyi ne jaise zeher (poison) ugal diya ho, waise hi usne humare ghar ki shanti mita di. Ab wo bina kisi sharam ke, ek saamp (snake) ki tarah apna purana chilka (slough) utaar kar, azaadi se ghoom rahi hai. Usne apne man ka vish (venom) nikal kar, hamare Ram ko vanvas (exile) bhej diya. Mujhe wo hamesha ek zahreeli naagin ki tarah bhay (fear) degi.
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.43.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Kaash usne yeh kaha hota ki Ram yahin nagar mein bhiksha (alms) maang kar rahe, ya phir uska daas (servant) ban jaaye — yeh vanvas se to behtar hota! Par usne to Ram ko is prakar nikal diya jaise yagna (sacrifice) ke dauran asuron (demons) ke liye diya gaya bali (offering) door phenka jaata hai.
+
+Mera lamba, dhanush-dhari (bow-wielder) beta Ram, jo hamesha ek gajraj (elephant king) ki tarah chalne wala hai, ab tak Sita aur Lakshman ke saath van mein pahunch gaya hoga. Hey Raja, sochiye — aapka wahi beta, jise kabhi dukh ka sparsh (touch) bhi nahi hua, aapke hi kehne par Kaikeyi ke prerna (instigation) se vanvas gaya hai.
+
+Bataiye, bina dhan (wealth) ke, jawani mein, jab raj-sukh (royal comfort) milna chahiye tha, tab Ram kaise van mein mool (roots) aur phal (fruits) khaa kar jeevan bitayega? Kya kabhi wo din aayega jab main Ram, Lakshman aur Sita ko phir se dekh paungi — mere is virah ka ant (end) hoga?
+
+Kya kabhi Ayodhya phir se us din ko dekhegi, jab gali-gali jhanda (flag) aur pushp (flowers) se saja hoga, jab nagar-vaasi (citizens) khushi se jhoomenge Ram ke swagat mein? Jab log chaand ke purnima jaise khil uthenge Ram ke lautne ki khabar sunkar?
+
+Kab wo shubh ghadi aayegi jab Shri Ram, apni Sita ke saath, nagar mein pravesh (enter) karenge, bilkul us bail (bull) ki tarah jo sham ke samay apni gaiyon (cows) ke jhund ke aage aage chalta hai? Kab nagar ke log, apne haathon mein chawal lekar, Ram par barasayenge aur sadkon par bheed (crowd) lagayenge?
+
+Mere dono putra — Ram aur Lakshman — dono pahaadon ki shikhar (peaks) ki tarah tejomay (radiant) hain. Kya main unhe phir se Ayodhya aate dekh paungi, kaan mein kundal (earrings) pehne, haath mein talwar aur dhanush liye hue? Kab wo Janaki ke saath nagar ka parikrama (circumambulation) karenge, aur log unhe phal-phool arpan (offer) karenge?
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Mera Ram, gunon ka sagar (ocean of virtues), sab shastra (scriptures) mein nipun (learned) hai. Uske bina main kaise jeeyu? Mera hriday (heart) uske virah ke agni (fire) se jal raha hai, jaise garmi ke dhoop (summer sun) mein dharti jalti hai. Kaikeyi ke karan meri mamta (motherly love) aur badh gayi hai — main us gau (cow) ki tarah ho gayi hoon jiska bachha sher (lion) le gaya ho.”
+
+Kaushalya ke shabdon mein maa ka dard tha — ek aisi maa jiska putra dharm ke liye sab kuch chhod gaya, aur jo apne sansaar ko uske bina suna (empty) mehsoos karti hai. 💔
+        """
+        create_image_text_layout("attached_assets/chapter2/2.43.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter44
+    with st.expander("Chapter 2.44 - Queen Sumitra consoles Kaushalya"):
+
+        text1 = """
+Jab Rani Kaushalya apne putra Ram ke virah (separation) mein ro rahi thi, tab Rani Sumitra — jo hamesha dharm aur shanti ki moorat (embodiment) thi — unke paas aayi aur bahut samajhdari (wisdom) se boli:
+
+“Hey Devi Kaushalya, aap itna vilap (lament) kyun kar rahi hain? Aapka beta Shri Ram sabse uttam purush (chief of men) hai, gunon (virtues) ka khazana hai. Wo to van mein gaya hai apne pita Maharaj Dasharath ka naam roshan (illustrious) karne — satya (truth) aur dharm ke path (path) par chalne ke liye.
+
+Ram ne apne pita ka aadesh (command) maan kar, sabse bada kartavya (duty) nibhaya hai. Aapko shok (grief) nahi, garv (pride) karna chahiye. Lakshman ke liye bhi chinta na karein — wo pavitra (pure), dayaalu (compassionate) aur sada apne bhai ke seva mein laga hua hai. Aur Sita — wo to swyam Lakshmi ka roop (form) hai — apne pati ke saath van gayi hai, to Ram ke paas sada sukh-shanti rahegi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.44.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rani, Ram ke van jaane se dukh nahi hona chahiye — wo to sab praniyon (beings) ke rakshak (protector) aur dharm ke palak (upholder) hain. Unka tejas (glory) teenon lokon (three worlds) mein phail gaya hai. Sochiye, Ram itne pavitra (pure) hain ki suraj (sun) bhi unhe jala nahi sakta, aur van ke garam vaayu (hot winds) bhi unhe thandak (coolness) denge, jaise basant (spring) ki hawa.
+
+Jab Ram van mein soenge, to chaand (moon) pita ki tarah apni sheetal kirnon (cool rays) se unka aashray (comfort) karega. Wo hi Ram jinko Vishwamitra ne divya astr-shastra (celestial weapons) diye the — veer (valiant) aur shatrunashak (foe-destroyer) — van mein bhi waise hi nischint (fearless) rahenge jaise apne mahal mein.
+
+Dharti maa (Mother Earth) khud unka sahara (support) degi, aur Ram, apni shakti (strength) aur sahas (courage) se, apna rajya (kingdom) zaroor wapas paayenge. Ram wahi hain jo surya ko tej (light) dete hain, agni ko prakash (splendour) dete hain, aur sab rajao ke raja (supreme ruler of rulers) hain. Jahan Ram hain — chahe van ho ya nagar — wahi unka rajya hai.
+
+Aapka beta Ram, Sita aur Lakshman ke saath, jaldi hi apna vanvas pura karke Ayodhya lautega. Aur tab aap apne putra ko dekhengi — wo aapke charanon (feet) mein sir rakhkar pranam karega, aur aapki aankhon se khushi ke aansu (tears of joy) behenge. Tab aapka Ram, singhasan (throne) par virajmaan (seated) hoga, aur Ayodhya punah sukh aur sampannata (prosperity) se bhar jayegi.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Hey Devi, aap dhairya (patience) rakhiye — main kehti hoon, koi bhi durbhaagya (inauspicious sign) Ram ke liye nahi hai. Jaldi hi aap Ram ko Sita aur Lakshman ke saath dekhengi, jaise sawan (rainy season) ke baadal apni barkha (rain) lekar lautte hain. Us samay aapki aankhen us par barish ke baadalon ki tarah aansuon se bhar jayengi, aur aap apne putra ko apne aanchal (motherly embrace) mein samet lengi.”
+
+Sumitra ke in madhur (sweet) aur shantikar (soothing) shabdon ne Kaushalya ke hriday ko shaant kar diya. Unka dukh jaise sharad ritu ke baadal (autumn clouds) ki tarah dheere-dheere vilin (disappeared) ho gaya.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.44.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter45
+    with st.expander("Chapter 2.45 - The sages and people cry for Rama"):
+
+        text1 = """
+Jab Shri Ram van ki or ja rahe the, tab Ayodhya ke log — jo unse gehri bhakti (deep devotion) rakhte the — unke rath ke peeche-peeche daudte ja rahe the. Maharaj Dasharath to mantriyon (ministers) ke kehne par wapas mahal laut aaye, par nagar ke log apne Ram ko chhod nahi pa rahe the. Unke aansu ruk nahi rahe the — sab kehte the, “Rama, hamare rakshak (protector), hamare dayaalu rajkumar, laut aaiye!”
+
+Par Shri Ram ne apne pita ke vachan (promise) ko satya (true) rakhne ka sankalp liya tha. Wo van ke disha (direction) mein aage badhte rahe, aur piche se rote hue nagarvasi (citizens) unhe dekhe ja rahe the jaise koi pyasa vyakti paani ko dekhta hai. Ram ne un sab ko pyaar se sambodhit (address) karte hue kaha:
+
+        """
+        create_image_text_layout("attached_assets/chapter2/2.45.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Hey Ayodhya ke prajano (people), main tumse ek vinti (request) karta hoon — jaisa sneha (affection) aur samman (honour) tum mujhe dete ho, usse bhi adhik (even more) Bharata ko dena. Wo tumhare liye dayaalu (kind), vinamra (gentle) aur bahadur (brave) hoga. Jab main van mein rahunga, tab tum sab uski seva (serve) aur aadesh (obey) karo, jaise tum meri karte ho. Isse mujhe khushi milegi.”
+
+Par Ram jitna logon ko raja Bharata ko apnane ko kehte, utna hi unka man (heart) Ram ko apna raja dekhne ko tadapta (yearn) jaata tha. Ayodhya ke log jaise kisi prem ke bandhan (bond of love) se bandh gaye ho, waise Ram aur Lakshman ke peeche chalne lage.
+
+Budh (elderly) brahman, jinke sir safed (white) aur haath kaap rahe the, door se pukarne lage:
+“Hey tez ghodon (swift horses), ruk jao, wapas mud jao! Hamare Ram ko van mat le jao. Tum sab sun sakte ho, humari vinati (plea) suno. Hamare swami (master) ka hriday (heart) komal (gentle) hai, unhe mat le jao.”
+
+Ram ne jab un vridh (aged) brahmanon ke dukh bhare shabd sune, to unka hriday karuna (compassion) se bhar gaya. Unhone Sumantra se kaha rath roko, aur Ram, Lakshman aur Sita sab rath se utar kar pairon se van ki or chalne lage. Brahman log unke peeche chal rahe the, kuch bohot piche reh ja rahe the, par ruk nahi rahe the.
+
+Brahman rote hue bole:
+“Hey Ram, aap to hum brahmanon ke mitra (friend) ho! Dekho, hum sab apni aarti ke pavitra agni (sacred fire) kandhon par le ja rahe hain. Ye chhatra (canopies) humne yajna (sacrifice) ke dauran prapt kiye the — ab inke chhaye (shade) se hum aapko suraj ki garmi (heat) se bachayenge. Aap pehle Veda (sacred knowledge) ke adhyayan (study) mein lage rehte the, aur ab vanvas ke liye chal pade ho! Agar aap hi dharm se mukh (turn away) ho jaoge, to aur kaun uska paalan karega?”
+
+Unhone jhuk kar Ram ko pranam (salutation) kiya, aur bola:
+“Hamare kuch yajna (sacrifices) aapke ashish (blessing) se hi poore honge. Sirf hum nahi, ped-paudhe (trees), pakshi (birds), aur sab prani (creatures) aapko lautne ke liye vinati kar rahe hain. Dekhiye, ped ke jad (roots) unhe rok rahe hain, par unki shaakhaayein (branches) aapki or jhuk kar prarthana kar rahi hain. Pakshi bhi apna bhojan (food) chhod kar aapko dekh rahe hain — unki aankhen bhi prarthana kar rahi hain: ‘Hey Ram, mat jao!’”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Aise hi vilap karte hue sab log nadi Tamasa ke kinare pahunche. Nadi jaise khud Ram ke raaste ko rokh rahi ho, jaise keh rahi ho — “Ruko Ram, mat jao.”
+
+Tab Sumantra ne thake hue ghodon ko khula chhod diya — unhone mitti par lot kar thakan door ki, aur phir Tamasa ke thande paani mein nahakar apna sharir thoda sukhaya. 
+Ayodhya ke log, brahman aur prani sabhi — sab ka dukh ek hi tha: “Ram se bichhadna.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.45.2.jpg", text3, layout="side", image_position="right")
