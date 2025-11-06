@@ -2686,3 +2686,218 @@ Sumantra ke itne kehne par bhi Rani Kaushalya ka mann shaant nahi hua. Unke aank
 Aur unka dukh poore mahal mein goonj utha.
         """
         create_image_text_layout("attached_assets/chapter2/2.60.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter61
+    with st.expander("Chapter 2.61 - Kaushalya gets angry at the king"):
+
+        text1 = """
+Shri Rama — jo sada dharm (righteousness) ka palan karte the — jab van ko chale gaye, to Rani Kaushalya ka dil toot gaya. Aansu unki aankhon se ruk hi nahi rahe the. Dukh bhari aawaaz mein unhone Raja Dasharatha se kaha:
+
+“Hey Maharaj, aapka naam teenon lokon (heaven, earth, underworld) mein bada aur pavitra (pure) mana jata hai. Aap dayaalu (kind), daanveer (charitable) aur komal vachana (gentle-spoken) ke roop mein jane jaate hain. Phir batayiye, aapke do bete — jo sada sukh aur aaram mein pale — ab Sita ke saath van ki kathin (difficult) zindagi kaise jhelenge?”
+
+“Wo komal (delicate) Sita, jo hamesha sukh mein rahi, wo jungle ki garmi aur thand kaise sahegi? Jisne hamesha rasoi ke kushal rasoiyon (skilled cooks) ka bana bhojan khaya, wo van ke jangal ke daale aur jangli daal (wild lentils) kaise khayegi? Jisne hamesha madhur sangeet (sweet music) suna, wo ab sher aur baghon ke dahad (roar) kaise sune?”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.61.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Wo dono Rajkumar — Rama aur Lakshmana — jin ke baahu indradhanush (rainbow) jaise majboot aur sundar hain, ab zameen par sir apne haath par rakhkar kaise soyenge? Hey Raja, kab fir main Rama ka wo padma jaisa chehra (lotus-like face) dekh paungi, jiske baal badal ki jaisi sundar laten (locks) hain, jinki aankhen kamal (lotus) jaisi aur saans sugandhit (fragrant) hai?”
+
+“Mujhe lagta hai mera hriday (heart) pathar (stone) se bhi kathor (hard) hai, tabhi to Rama ke bina toot kar bikhar nahi gaya. Hey Raja, aapne apne bachchon ko van bhej kar bahut nirmam (cruel) kaam kiya hai. Jo sukh ke yogya (worthy) the, wo ab bina disha (aimless) ke van mein bhatak rahe hain.”
+
+“Aur batao, agar Rama chaudah saal baad wapas aayega, to kya Bharat sach mein rajya (kingdom) aur dhan usse wapas karega? Mujhe to shak (doubt) hai! Jaise yagna (sacrifice) mein agar pehle apne gareeb rishtedaaron ko khilaya jaaye aur baad mein brahmanon (priests) ko, to wo bhojan svikaar (accept) nahi karte — waise hi Rama bhi doosre ke upbhog (used) kiya hua rajya nahi lega.”
+
+“Ek sher (lion) doosre ke maara hua shikar nahi khata. Waise hi Rama bhi Bharat ke bhoga hua rajya nahi le sakta. Jaise yagya mein ghee, kush (holy grass), aur stambh (pillars) ek baar use hote hain aur dobara nahi, waise hi Rama bhi us rajya ko nahi sweekarega jo uske bina chalaya gaya ho.”
+
+“Rama apmaan (insult) bardasht nahi kar sakta — jaise sher apni poonch pakadna bardasht nahi karta. Kya sabhi log usse yudh (battlefield) mein nahi darte? Wo swayam dharm ka path dikhata hai, wo kabhi zabardasti rajya nahi lega. Agar chahe to apne teer (arrows) se samundar sukhakar sab kuch nasht (destroy) kar de — par wo aisa kabhi nahi karega.”
+
+“Hey Raja, agar aapne dharm shastra (sacred laws) aur rishi-muni (sages) ke updesh (teachings) ko maana hota, to aapka pavitra putra kabhi vanvaas (exile) nahi jaata.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+“Ek stree (woman) ke liye pehla sahara uska pati hota hai, doosra uska putra (son), teesra uske sambandhi (relatives). Par chautha koi nahi! Aapne mujhe patni ke roop mein tyag diya, mere putra Rama ko van bhej diya, aur mujhe uske saath jaane se bhi roka. Hey Maharaj, aapne mujhe poori tarah barbaad kar diya!”
+
+“Aapne apne mantriyon, prajaa (people), aur poore rajya ko dukh ke samundar mein doobha diya. Aaj main, mera putra, aur poori Ayodhya — sab kuch vinash (ruin) ho gaya hai.”
+
+Itna kehkar Rani Kaushalya vilap (weeping loudly) karne lagi. Raja Dasharatha ne unke ye kathin (bitter) shabd sune, to unka hriday dukh se bhar gaya.
+Wo sochne lage apne kiye hue paap (sins) ke baare mein, aur shok (grief) ke samundar mein doobkar behosh (fainted) ho gaye.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.61.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter62
+    with st.expander("Chapter 2.62 - The king is weak and full of sorrow"):
+
+        text1 = """
+Rani Kaushalya ke kathin (harsh) shabdon ko sunkar Raja Dasharatha ka mann to bilkul toot gaya.
+Wo andar se hil gaye, aur unka sharir kampne laga. Kuch der baad jab unhe hosh aaya, to unhone gehri saans li aur apne purane paap (sin) ko yaad kiya — wo bhayanak ghatna jab unhone jungle mein galti se ek jawan tapasvi (young ascetic) ko apne shabd-vedhi baan (sound-seeking arrow) se maar diya tha.
+
+Ab Raja Dasharatha ke mann mein do bade dukh the —
+ek purana paap ka bojh,
+aur doosra Rama ke vanvaas (exile) ka dard.
+
+Unka sir jhuka hua tha, aankhen aansuon se bhari thi. Dheere se unhone Rani Kaushalya se kaha:
+        """
+        create_image_text_layout("attached_assets/chapter2/2.62.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Hey Kaushalya, tum to hamesha dushmanon (enemies) par bhi daya (compassion) karti ho.
+Main haath jod kar tumse prarthana karta hoon — mujhe nafrat (hatred) bhari nazar se mat dekho.
+Stri ke liye pati hamesha devata (god) hota hai — chahe wo punya (virtuous) kare ya paap (sin).
+Tum gyaani (wise) ho, dharm aur adharma (right and wrong) dono samajhti ho.
+Aise kathor (wounding) shabd tumhe nahi kehne chahiye the.”
+
+Yeh sunte hi Rani Kaushalya ke aansu barish ki boondon ki tarah girne lage.
+Unhone Raja Dasharatha ke haath apne haath mein pakad liye aur kaha:
+
+“Hey Maharaj, aap dukh mat kijiye, shaant ho jaaiye.
+Dekhiye, main apna sir aapke charanon (feet) mein rakh kar maafi maangti hoon.
+Mujhse galti ho gayi, main shabd samhal nahi paayi.
+Ek achhi stree kabhi yeh nahi chahti ki uska pati use haath jod kar manaye — yeh to uske liye mrityu (death) samaan hota hai.
+Main jaanti hoon patni ka kartavya (duty) kya hota hai, aur main yeh bhi jaanti hoon ki aap dharm ke premi (lover of virtue) hain.”
+
+“Maine jo kaha, wo mere bete ke dukh mein anjaane mein nikal gaya.
+Dukh (grief) sabr (patience) ko tod deta hai, sochne ki shakti (understanding) ko chheen leta hai — dukh se bada koi shatru (enemy) nahi.
+Kisi ajnabi ke vaar (attack) ka dard seh sakte hain, par apne dukh ka bojh nahi.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+“Bas paanch raat hi to hui hain Rama ke van jaane ki —
+par mujhe lagta hai jaise paanch saal beet gaye ho!
+Dukh ne meri sab khushiyan chheen li hain,
+aur har pal mera mann Rama ki yaadon se hil jaata hai —
+jaise tez dhara (swift current) samundar ke paani ko hila deti hai.”
+
+Jab Rani Kaushalya ye sab keh rahi thi, tab tak suraj dhal chuka tha aur raat ho gayi thi.
+Unke sambhalne wale shabdon (consoling words) ko sunkar Raja Dasharatha ka mann thoda shaant hua.
+Par dukh aur thakan (weariness) se thake hue Raja kuch der baad neend mein chale gye…
+wo neend, jisse phir kabhi wo jaage nahi. 🌙
+        """
+        create_image_text_layout("attached_assets/chapter2/2.62.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter63
+    with st.expander("Chapter 2.63 - The king remembers an old mistake he made"):
+
+        text1 = """
+Raja Dasharatha bahut der tak be-hosh pade rahe. Jab hosh aaya, unka mann dukh se bhar gaya. Unhone sochne ki koshish ki, par dukh ke bojh se unka mann andhera ho gaya tha. Wo Indra ke samaan shaktishaali the, par ab maut (death) unke kareeb mehsoos ho rahi thi — jaise Rahu sooraj ko nigal leta hai.
+
+Rama ke vanvaas (exile) ke chhatthe din, raja ko apni ek purani bhool yaad aayi — ek paap (sin) jo ab unke dukh ka kaaran bana. Bahut pashchatap (regret) ke saath unhone Rani Kaushalya se kaha:
+
+“Hey Kalyani (auspicious one), duniya mein jo bhi karm (actions) insaan karta hai — chahe wo acha ho ya bura — uska phal (result) usse zarur milta hai. Jo apne karmon ka soch-vichar kiye bina kaam karta hai, wo nishchit roop se agyaan (ignorant) hota hai.
+
+Jaise koi aadmi palasha (a red-flowered tree) ke laal phool dekhkar uske paas wale aam ke ped ko kaat deta hai, par baad mein aam khane ki ichha karta hai — to jab palasha phal deta hai, usse aam nahi milta. Waise hi maine bhi apna sukh khud kaat diya. Rama ko vanvaas bhejna meri sabse badi bhool thi.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.63.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir raja bole, “Jawani ke dinon mein, ek din mujhe dhanurvidya (archery) mein mahir banna tha. Tab maine ek bhayanak (terrible) galti ki — maine shabd se nishana lagaya aur ek nirdosh (innocent) tapasvi (ascetic) putra ko maar diya. Us din ke paap ka phal aaj main bhugat raha hoon. Jaise ek bachcha anjaane mein vish (poison) pee leta hai, waise hi maine apni khushi ko apne haath se mita diya.”
+
+Raja ne apni kahani Kaushalya ko batani shuru ki:
+
+“Us samay barsaat ka mausam aane wala tha. Suraj tez chamak raha tha, zameen sukhi thi, aur badal dheere-dheere asmaan mein chha rahe the. Maine apna dhanush (bow) aur baan (arrow) liya aur shikar ke liye Sarayu nadi ke kinare gaya.
+
+Wahan raat ke samay, andhere mein maine ek awaaz suni — jaise koi ghada (pitcher) paani se bhar raha ho. Mujhe laga wo hathi hai, to maine apne tarquash (quiver) se ek zeher (poison) laga teer nikaala aur awaaz ki disha mein chhoda.
+
+Par turant hi mujhe ek dard bhari cheekh (cry) suni. Ek naujawan chillaya — ‘Mujhe kisne maara? Main ek tapasvi ka beta hoon, jo fal aur mool (roots) par jeeta hoon. Maine kisi ka kuch nahi bigaada! Mera kya kasoor tha?’”
+
+Wo ladka apne antim (last) shabdon mein bola —
+
+“Main mar jaunga, par mere budhe maa-baap ka kya hoga? Wo dono andhe (blind) hain, kamzor hain, aur sirf mujhe sahara (support) maante hain. Mera marna unke liye maut ke barabar hai.”
+
+Raja Dasharatha ka dil dukh se bhar gaya. Unke haath se dhanush gir gaya. Wo turant us naujawan ke paas gaye. Uska shareer khoon aur mitti se bhara tha, aur wo zameen par pada tha. Usne raja ko dekha aur kaha:
+
+“Rajan (O King), maine tumhara kya bigaada tha? Main to sirf apne andhe maa-baap ke liye paani lene aaya tha. Tumne mujhe maar kar unhe bhi maar diya. Ab jao, mere pita (father) ke paas jaakar unhe sach batao, nahi to wo tumhe shraap (curse) denge. Mera baan nikaal do — yeh mujhe bahut kasht (pain) de raha hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Raja ne socha, agar baan nikala to wo mar jaayega, aur agar rehne diya to wo peeda (pain) mein rahega. Tab us tapasvi ke putra ne kaha:
+
+“Rajan, ghabrao mat. Tumne koi brahman (priest) ko nahi maara. Main ek shudra maa aur vaishya pita ka beta hoon. Tumhara paap bhale hi bada hai, par tumne dharm (righteous law) ke viruddh brahm-hatya nahi ki.”
+
+Phir usne antimsans (last breath) lete hue apni aankhen bandh kar li aur praan (life) chhod diye.
+
+Raja Dasharatha ne Kaushalya se kaha,
+
+“Hey Devi, us samay main us bachche ke shareer ko dekh kar toot gaya tha. Uski mrityu (death) ne meri aatma ko hila diya. Us din jo dukh maine dekha, wahi dukh aaj mujhe Rama ke door hone par mehsoos ho raha hai.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.63.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter64
+    with st.expander("Chapter 2.64 - Dasaratha dies with Rama’s name on his lips"):
+
+        text1 = """
+Raja Dasharatha apne bete Shri Rama ke virah (separation) mein dukh se toot chuke the. Unhone Rani Kaushalya ko apni purani galti yaad karte hue bataya — ek samay unhone galti se ek jawan tapasvi (young ascetic) ko maar diya tha.
+
+Dasharatha ne kaha, “Hey Kaushalya, kabhi main van mein shikar kar raha tha. Mujhe laga maine haathi ya sher ki aawaaz suni hai, aur main ne apne teer se us disha mein nishana lagaya. Par jab main wahan pahucha, to dekha — ek tapasvi ladka paani bharne gaya tha, aur mera teer uske hriday (heart) mein lag gaya. Wo dharmik ladka dard se karah raha tha, aur marne se pehle bola — ‘Mere andhe maa-baap meri raah dekh rahe honge.’ Main bahut pachtaya, aur uske maa-baap ke paas gaya, unse maafi maangi.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.64.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja Dasharatha ne bataya ki wo budhe pitaji aur maa bahut dukhi hue. Unhone kaha, “Raja, tune hamara beta chheen liya. Jis tarah tu ne hamara dukh diya hai, waisa hi dukh tujhe bhi apne bete ke virah se milega.”
+Aur fir dono tapasvi pitaji-maata ne agni mein pravesh karke apna praan tyag diya.
+
+Raja Dasharatha bole, “Hey Kaushalya, ab mujhe samajh aaya — us rishi (sage) ka shraap (curse) ab sach ho raha hai. Main bhi apne bete ke virah se hi mar raha hoon.”
+
+Unka shareer kamzor ho gaya tha, aankhon ke samne andhera chha gaya. Unhone kaha, “Hey Kaushalya, main apne Ram ko dekh nahi pa raha. Kaash wo ek baar mujhe chhu leta, to main fir se jeevit ho jata. Mujhe lagta hai Yama ke dhoot (messengers of death) mujhe bula rahe hain. Hey Sumitra, meri Kaushalya, main ja raha hoon… Hey Kaikeyi, tune mere vansh (family) ki shanti tod di…”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Aise rote hue, apne Ram ke virah mein tadap kar, Raja Dasharatha ne raat ke beech apna praan de diya.
+
+Mukhya bhaav (main message):
+Dasharatha ka dukh unke purane paap ka phal tha. Jaise unhone ek pita ko bete ke virah ka dukh diya tha, waisa hi dukh unhe bhi mila. Par unki mrityu (death) ek pita ke dil se hui — jo apne Ram ke bina jeena nahi chahata tha. 💔
+        """
+        create_image_text_layout("attached_assets/chapter2/2.64.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter65
+    with st.expander("Chapter 2.65 - The palace fills with crying and sadness"):
+
+        text1 = """
+Subah hone par, raja ke mahal mein pehle jaise hi parampara (tradition) ke anusar geet-sangeet shuru hua. Rajgayak (royal singers), veer geet (heroic songs) gawanewale aur sangeet mein nipun (skilled) kalakar aaye. Unhone raja Dasharatha ke gunon aur veerata (bravery) ka gaan (praise) shuru kiya. Unki madhur awaaz mahal ke har kone mein gunj uthi.
+
+Bahaar pedon par baithay pakshi (birds) aur pinjron mein band toote hue pankh wale parinde bhi gaane lage. Vina (a string instrument) ki dhun, brahmanon ke shubh mantron (holy chants), aur rajkavi (court poets) ke geeton ki goonj milkar mahal ko jeevit sa bana rahi thi.
+
+Raj seva mein lage naukar aur eunuchs (royal attendants) sab apne apne kaam mein tayyar the — kisi ke haath mein sugandhit (fragrant) paani ke sunehre ghade the, koi tel, lep (ointment), aaine (mirrors), kangi aur kapde lekar khada tha. Sab soch rahe the, “Raja ab tak uthe kyun nahi?”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.65.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jab suraj nikal aaya, sabne aapas mein kaha —
+
+“Ajeeb baat hai, raja ab tak jaage nahi?”
+
+Phir raja ke paas jaane wali kuch dasiyan (maidservants) — Kaushalya ke alawa — andar gayin, jaise wo roz jaati thi. Unhone pyar aur sambhal ke saath raja ka sharir (body) chhua… par kuch mehsoos nahi hua. Na koi saans (breath), na koi dhadkan (heartbeat).
+
+Unke haath kaanpte hue peeche hat gaye. Wo samajh gayin — Raja Dasharatha ab nahi rahe. Unka sharir thanda tha, jaise jeevan ka prakash (light of life) bujh gaya ho.
+
+Wo mahilayein kampne lagi, jaise hawa mein hilta hua nargis (reed) ka ghaas. Dheere-dheere sach samajh mein aaya — unka raja chala gaya.
+
+Mahal mein ro-ne ki aawaz gunjne lagi. Rani Kaushalya aur Rani Sumitra, jo pehle se hi Rama aur Lakshmana ke vanvaas ke dukh se tuti hui thi, ab be-hosh (unconscious) pad gayin. Unke chehre pehla sa tej (radiance) kho chuka tha. Wo do sitaron (stars) ki tarah lag rahi thi — jo badalon ke peeche chhup gaye ho.
+
+Jab dasiyon ne dekha ki dono ranian behosh hain aur raja nishpran (lifeless) padhe hain, to wo zor zor se rote hue chillane lagi. Unki cheekhon (cries) ne mahal ko hila diya.
+
+Unki aawaz sun kar Rani Kaushalya aur Sumitra hosh mein aayin. Dono ne raja ka thanda sharir chhua, aur ro kar bole —
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+“Hey Swami (my lord)! Hey Maharaj!”
+
+Kaushalya zameen par gir gayin, unka sharir mitti se dhak gaya — wo aise lag rahi thi jaise aasman se koi tara (star) toot kar zameen par aa gira ho.
+
+Baaki ranian, samet (including) Rani Kaikeyi, bhi dukh se be-hosh ho gayin. Mahal ke andar aur bahar, sab taraf ro-na, cheekhna, aur karuna (sorrow) ki goonj thi.
+
+Poora rajmahal ab utsav (celebration) ka nahi, shok (mourning) ka ghar ban gaya tha. Har kone mein aansuon aur dukh ka samundar tha. Raniyan raja ke shareer se chipak kar rote hue keh rahi thi —
+
+“Hey Maharaj, humse door kyun chale gaye? Humein akela kyun chhod diya?”
+
+Mahal bhar gaya tha unke dukh bhare swaron (sounds of sorrow) se — jaise poori Ayodhya ro rahi ho.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.65.2.jpg", text3, layout="side", image_position="right")
