@@ -3540,3 +3540,163 @@ Us rajmarg ka antim prant (end) Ganga ke kinare tak pahucha — jahaan thande pa
 Woh raasta, jo Bharata ke liye banaya gaya tha, chand aur taare (moon and stars) se saja raat ke aasman (night sky) jaise khubsurat lag raha tha — ek pavitra aur shahi (royal) yatra ke liye bilkul yogya.
         """
         create_image_text_layout("attached_assets/chapter2/2.80.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter81
+    with st.expander("Chapter 2.81 - Sage Vasishtha calls everyone for a meeting"):
+
+        text1 = """
+Subah hone se pehle hi, mahal mein geet aur bajon ki awaaz gunj uthi. Nagade (drums) baj rahe the, shankh (conch) phoonke ja rahe the, aur sabhi log jaise kisi utsav (celebration) ke liye tayyar ho rahe the.
+
+Lekin Prince Bharat ka dil dukh se bhar gaya. Usne kaha, “Main raja nahi hoon! Ye geet band karo. Kaikeyi maa ke kehne par ye sab ho raha hai, par unhone toh hamare pita ko dukh se maar diya aur Ram bhaiya ko vanvaas (exile) bhej diya. Ab rajya bina Raja ke, samundar mein bina patwaar (rudder) ki nau (boat) jaisa ho gaya hai.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.81.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yeh sunkar mahal ki sab mahilayein bhi ro padi. Tabhi mahan rishi Guru Vasishtha aaye — jo Rajya ke sabse bade guru aur margdarshak (spiritual guide) the. Unhone sabse kaha, “Jaakar sab Brahmin, mantri, senapati (army chiefs) aur Yudhajit aur Sumantra ko bulao. Bahut zaroori kaam hai.”
+
+Jab sab log rajsabha (royal hall) mein ikattha hue — rath (chariots), ghodon (horses), aur haathiyon (elephants) ke saath — to mahal ki shaan badh gayi.
+
+Aur jab Prince Bharat andar aaye, sab ke dil khush ho gaye. Sabha ka mahal aisa lag raha tha jaise Raja Dasharath khud wapas aa gaye hoon — ya jaise samundar mein machhliyan, shankh aur sona mil kar usse aur sundar bana dete hain. 🌊✨
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter82
+    with st.expander("Chapter 2.82 - The army gets ready to go"):
+
+        text1 = """
+Rajya sabha mein sab mantri, senapati (army chiefs) aur mahan rishi Vasishtha ji baithe the. Sabha poonima (full moon) ki raat ki tarah chamak rahi thi — sabhi log sundar vastron (clothes) mein, gyaan aur tejas (radiance) se bhare hue the.
+
+Rishi Vasishtha ne Prince Bharat se kaha, “Hey putra, Raja Dasharath ne ye samriddh (prosperous) rajya tumhe diya hai. Aur Shri Ram ne apne pita ke vachanon (promises) ko nibha kar vanvaas (exile) svikaar kiya hai. Tum ab raja ban kar sab logon ka kalyan karo.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.82.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yeh sunkar Bharat ka dil dukhi ho gaya. Aansu bhar aaye aur usne kaha, “Hey Gurudev, main kaise us rajya par adhikar kar sakta hoon jo Ram bhaiya ka hai? Wo sabse bade hain, sabse gyaani aur sabse dharmic (righteous) hain. Main bhi unka hi daas (servant) hoon. Yeh rajya unka hai, mera nahi. Agar main is rajya ko le loonga to ye paap (sin) hoga. Main apni maa Kaikeyi ke bure karmon se sharminda hoon. Main van jaakar Ram bhaiya ke charanon mein pranam karunga.”
+
+Sabhi mantri aur sabha ke log Bharat ke shabd sun kar ro pade, par unke dil khushi se bhar gaye — kyunki unhone Bharat mein Ram jaise bhakti aur dharm dekha.
+
+Phir Bharat ne kaha, “Main van jaakar Shri Ram ko wapas launga. Agar wo nahi maanenge, to main bhi unke saath wahin van mein rahunga — jaise Lakshman bhaiya rah rahe hain.”
+
+Usne Sumantra se kaha, “Jao, poori sena (army) ko tayyar karo. Sab senapati aur mitron ko bulao. Hum sab milkar Shri Ram ko wapas layenge.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sumantra ne turant aadesh (orders) de diye. Sena ke log — haathi, ghode, rath (chariots), oont aur bailgaadiyon (bullock carts) ke saath — utsah (joy) se bhar gaye. Ghar-ghar mein striyan apne pati se kehti thi, “Jao, Shri Ram ko wapas le aao!”
+
+Jab Bharat ka rath tayyar hua, usne dridh sankalp (firm resolve) liya — “Main Shri Ram ko laakar rahunga, unhi ke rajya se duniya ka bhala (good) hoga.” 🚩💫
+        """
+        create_image_text_layout("attached_assets/chapter2/2.82.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter83
+    with st.expander("Chapter 2.83 - They all reach the River Ganga"):
+
+        text1 = """
+Subah-subah Prince Bharat ne apna rath (chariot) sajaya aur tezi se nikle — unka mann bas ek hi ichha (wish) se bhara tha — Shri Ram bhaiya se milne ki.
+
+Bharat ka rath surya ke rath jaisa chamak raha tha. Aage mantri ghodon par, purohit (priests) apne rathon mein, aur piche hazaron sainik (soldiers) the. Unke saath 9,000 haathi, 60,000 rath, aur 1 lakh sainik chal rahe the — sab Ram bhakti se bhare hue.
+
+Kaikeyi, Sumitra aur Kaushalya maiya bhi apne shandar rathon mein saath gayi — sabke mann mein ek hi sapna tha, “Ram ko ghar wapas lana.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.83.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Ayodhya ke log, jo saath chale, sirf ek baat kar rahe the — “Kab hum Shri Ram ko dekhenge? Unka mukh (face) suraj jaise tejwala (radiant) hai, unki ek jhalak (glimpse) se hi hamara dukh door ho jaayega.”
+
+Har taraf khushi thi. Vyapari (merchants), shilpkar (craftsmen), sunar (goldsmiths), kumhar (potters), bunkar (weavers), vaidya (doctors) — sab log Bharat ke saath nikle. Gharon mein khushboo, geet, aur utsah bhar gaya.
+
+Raste bhar log bullock carts, elephants, aur horses par safar karte hue Shringverpur pohonche — wahi jagah jahan Guha (Nishad raj) rehte the, Shri Ram ke sache mitra (true friend).
+
+Jab sab log Ganga ji ke kinare pahunche, Bharat ne apni sena ko roka aur kaha —
+“Sab log yahin rukkar aaram karo. Kal hum Ganga paar karenge. Aaj main apne pita Maharaj Dasharath ke liye jal daan (water offering) karna chahta hoon.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sab mantriyon ne kaha, “Aadesh palit hoga, Rajkumar!”
+Aur sab log apni-apni jagah par ruk gaye.
+
+Raat ko Bharat apne tent mein akela betha tha, Ganga ki lehron ki dhun sunte hue, bas ek hi baat sochta hua —
+“Main Ram bhaiya ko kaise manau ki wo wapas Ayodhya chalein?” 💧💫
+        """
+        create_image_text_layout("attached_assets/chapter2/2.83.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter84
+    with st.expander("Chapter 2.84 - Guha is scared to see the big army"):
+
+        text1 = """
+Jab Guha, jo Nishad raj (chief of the boatmen) tha, ne dekha ki Bharat ki badi sena (army) Ganga ke kinare camp laga kar baithi hai, to uska dil ghabra gaya. 😟
+
+Usne apne saathiyon se kaha —
+“Doston! Ye sena itni badi hai ki gin bhi nahi sakte. Mujhe darr lagta hai kahin Bharat burai ke irade (evil intent) se to nahi aaya? Shayad wo Ram bhaiya ko maar kar pura raj le lena chahta ho... par main Ram ka mitra (friend) hoon, unka rakshak (protector) hoon!”
+
+Phir Guha ne turant apne logon ko hukm diya —
+“Sab apne hathiyaar (weapons) le lo! Ganga ke kinare pe pahra do!
+500 nauka (boats) taiyaar karo, har boat par jawan paani ke log (boatmen) khade rahenge. Sabko satark (alert) rehna hai.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.84.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Lekin Guha ke mann mein Ram ke liye prem bhi tha. ❤️
+Usne kaha — “Agar Bharat Ram bhaiya ke prati prem se aaya hai, to hum uski sena ko Ganga paar karne denge.”
+
+Phir Guha kuch tohfe (gifts) lekar — machhli, madh (honey), aur jungle ke phal — Prince Bharat se milne gaya.
+
+Tab Sumantra, Bharat ke mantri, bole —
+“Rajkumar, ye Guha yahan ka raja hai aur Ram bhaiya ka bahut priya mitra hai. Ye jaanta hai Ram aur Lakshman kahan rehte hain. Isse milna achha hoga.”
+
+Bharat ne kaha — “Theek hai, use bulao. Main usse milna chahta hoon.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Jab Guha Bharat ke saamne aaya, to usne haath jodkar kaha —
+“Rajkumar, ye desh aapka hi hai! Main to aapka sevak (servant) hoon. Mujhe nahi pata tha aap ka irada kya hai, isliye main achha swagat nahi kar saka. Par ye chhoti si rajya (kingdom) aapka hi hai. Kripya mere ghar aaiye. Maine aapke liye jungle ke phal, mool (roots) aur machhli tayyar ki hai. Aaj raat yahin vishraam (rest) kijiye, kal subah aage badhna.”
+
+Guha ka mann ab bhi thoda dar se bhara tha, par uske dil mein Bharat aur Ram — dono ke liye shraddha (devotion) thi. 💫
+        """
+        create_image_text_layout("attached_assets/chapter2/2.84.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter85
+    with st.expander("Chapter 2.85 - Guha feels happy when he learns Bharata’s purpose"):
+
+        text1 = """
+Bharat ne nishadraj (chief of ferrymen) Guha ki baatein dhyaan se suni aur pyar bhare shabdon mein kaha —
+“Hey mere Ram bhaiya ke mitra (friend), tumhari mehmaan-nawaazi (hospitality) bahut badi hai. Tum itni badi sena (army) ka swagat karna chahte ho, isse tumhara bada dil dikhai deta hai.”
+
+Phir Bharat ne muskaan ke saath poocha —
+“Hey Guha, batao main kis raaste se maharishi Bharadvaj ke ashram (hermitage) tak pahunch sakta hoon? Ganga ka kinara to baarish se bhara hua hai, paar karna mushkil lagta hai.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.85.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Guha, jo jungle ke har raaste aur mushkil jagah se waqif tha, vinamr (humble) ho kar bola —
+“Hey Rajkumar, chinta mat karo! Mere apne log, dhanush-baan se sajj (armed) aur jungle ke har kone se parichit, tumhare saath chalenge. Main khud bhi tumhare peeche rahunga. Par tumhari itni badi sena dekh kar mujhe thoda darr lag raha hai… kya tum Ram ke paas kisi bura iraade (evil intent) se ja rahe ho?”
+
+Bharat ka hriday (heart) to asmaan ki tarah pavitra (pure) tha. Usne shant aur meethi awaaz mein kaha —
+“Hey Guha, kabhi aisa samay na aaye jab main Ram bhaiya ko dukh pahunchau! Mujhe apne bhai se koi darr nahi, wo mere pita (father) ke barabar hain. Main unhe van (forest) se wapas lene ja raha hoon. Mujhe galat mat samjho — yeh sach hai, aur sirf sach!”
+
+Guha ye sun kar khushi se bhar gaya aur bola —
+“Hey Bharat, tum dhanay ho (blessed ho)! Puri duniya mein koi tum jaisa nahi. Tumne bina maange mili rajya (kingdom) ko chhodne ka nirnay liya sirf apne bhai ke liye — yeh sabse mahaan kaam hai. Tumhara naam yugon tak amar (immortal) rahega.”
+
+Is dauraan (during this), jab dono pyar aur vishwas se baatein kar rahe the, suraj dhal gaya aur raat aa gayi. Guha ke mehmaan-nawaazi se khush aur sena thaki hui hone ke baad, Bharat apne tent mein aaraam karne gaya.
+
+Par uska dil Ram ke virah (separation) se jala ja raha tha. Jaise jungle mein ek sukhaye hue ped ko aag andar se kha jaati hai, waise hi Bharat ka mann dukh se jal raha tha. Uske paseene Ram ke dukh ki aag se beh rahe the, jaise Himalaya ke barf suraj ki garmi se pighal kar behte hain.
+
+Uska dukh ek pahaad jaisa tha —
+Ram ki yaad uske pathar, uske saans lete hue dukh uske jharne, uska akelapan uske jungle, aur uski bechaini uske jangli jaanwar ban gaye the.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Bharat dukh se toota hua, bechain aur almost hosh kho chuka tha — jaise ek akela saand (bull) apni jhund se alag ho gaya ho.
+
+Tab Guha apne mitron ke saath aaya, aur Bharat ko gale laga kar pyar se kaha —
+“Hey Rajkumar, sambhalo apne mann ko. Ram bhaiya surakshit hain. Tumhara prem sachcha hai, aur Bhagwan sab theek karenge.” 🌙
+        """
+        create_image_text_layout("attached_assets/chapter2/2.85.2.jpg", text3, layout="side", image_position="right")
