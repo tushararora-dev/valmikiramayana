@@ -3700,3 +3700,185 @@ Tab Guha apne mitron ke saath aaya, aur Bharat ko gale laga kar pyar se kaha —
 “Hey Rajkumar, sambhalo apne mann ko. Ram bhaiya surakshit hain. Tumhara prem sachcha hai, aur Bhagwan sab theek karenge.” 🌙
         """
         create_image_text_layout("attached_assets/chapter2/2.85.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter86
+    with st.expander("Chapter 2.86 - Guha tells about Rama’s night by the river"):
+
+        text1 = """
+Guha, jo ghane jungle mein rehta tha, ne dayalu aur bhaktibhav se bhare Rajkumar Bharat ko sambhalte hue kaha —
+“Hey Prabhu, jab Shri Ram aur unke veer (brave) bhai Lakshman van mein the, tab maine apni aankhon se unka tapasvi (saint-like) jeevan dekha. Lakshman poori raat jaagte rahe, haath mein dhanush-baan lekar, apne bhai Ram ki raksha karte hue.”
+
+Guha ne yaad karte hue kaha —
+“Main ne Lakshman se kaha tha — ‘Hey mitra, maine tumhare liye naram shayya (soft bed) taiyaar kar rakhi hai, tum thoda vishraam kar lo. Ram aur Sita ji to van ke jeevan ke aadat mein hain, par tum to rajkumar ho. Hum sab milkar Shri Ram ki raksha karenge. Tumhare jaise shreshth (great) yodha ko sukh milna chahiye. Hum van ke har kone se parichit hain, aur agar koi bhi sena Ram par hamla kare, to hum usse rok lenge!’”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.86.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Par Lakshman ne shant aur dharm se bhare shabdon mein jawab diya —
+“Hey Guha, jab mere bhai Shri Ram aur Devi Sita nangi zameen (bare earth) par let kar so rahe hain, to main kaise kisi sukhmayi bistar par so sakta hoon? Jab tak mere bhai Ram sukh nahi paate, tab tak mere liye koi sukh, koi jeevan nahi hai. Dekho Guha, wo Ram jo devtaon aur asuron (demons) ko bhi jeet sakte hain, aaj ghans ke bistar par so rahe hain.”
+
+“Raja Dasharath ne kathin tapasya (penance) ke baad aise putra paaye the, jo unke saman (like him) the. Mujhe darr hai, Raja Ram ke vanvaas (exile) ka dukh nahi sah paayenge, aur unka hriday toot jaayega. Tab Ayodhya roothi hui nagari (widowed city) ban jaayegi. Naariyan (women) rote hue chup ho jaayengi. Mujhe apni maa Sumitra aur Mata Kaushalya ke liye bhi chinta hai — shayad Mata Kaushalya is dukh ko bardasht na kar paaye. Aur Raja Dasharath apna sapna — Bharat ko rajgaddi (throne) par bithana — poora nahi kar paayenge. Unke liye hamara kartavya (duty) antim sanskaar (funeral rites) karna hoga. Par mujhe aasha hai, jab ye 14 saal ka vanvaas poora hoga, to hum sab Shri Ram ke saath milkar phir se Ayodhya mein khushi se pravesh (enter) karenge.’”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Guha ne Bharat ko bataaya —
+“Hey Rajkumar, aise hi vachan ke saath Lakshman ne poori raat jaagte hue apne bhai ki raksha ki. Jab suraj ug gaya, to dono rajkumar — Ram aur Lakshman — ne is pavitra Ganga ke tat (bank) par apne baal jataon (matted hair) mein badle aur tapasvi vastra (bark cloth) pehne. Main ne apni naav (boat) se unhe surakshit tarah Ganga ke paar pahunchaya.”
+
+“Tab main ne dekha — dono bhai, dhanush aur baan se sajj, Sita ji ke saath, van ki ore chale gaye. Unka roop (form) tejomay (radiant) tha, jaise dono shaktishaali haathi (mighty elephants) apne samrajya se nikal kar tapasya ke raaste par ja rahe ho.” 🌿
+        """
+        create_image_text_layout("attached_assets/chapter2/2.86.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter87
+    with st.expander("Chapter 2.87 - How Rama spent his first night in exile"):
+
+        text1 = """
+Jab Guha ne Shri Ram ke vanvaas (exile) ki kahani batai, to Rajkumar Bharat ka mann dukh se bhar gaya. Usne apne bhai Ram ke baare mein sochna shuru kiya —
+Woh Ram, jinke baahu sher jaise majboot (strong) the, jinki aankhen kamal (lotus) jaise komal thi, aur jinka chehra sada shant aur sundar tha — unke yaad mein Bharat ka dil bhar aaya. Dukh se behaal hokar woh zameen par gir pade, jaise ek haathi dil par ghoons (goad) lagne se gir jaata hai.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.87.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Shatrughna, jo hamesha apne bhai ke saath rehta tha, turant unke paas dauda. Usne Bharat ko gale lagakar rote hue sambhala. Tab tak Mata Kaushalya aur doosri raniyan, jo Raja Dasharath ke mrityu (death) ke dukh se kamzor ho chuki thi, wahaan pahunch gayi. Kaushalya ne apne bete Bharat ko uthakar gale se lagaya aur ro kar boli —
+“Hey mere beta, kya tujhe koi dukh ho gaya hai? Tere jeevan se hi to poore Raghukul (royal family) ka jeevan juda hai. Ram aur Lakshman to van chale gaye, aur main sirf tab tak zinda hoon jab tak tera chehra dekhti hoon. Tere pita Dasharath ab nahi rahe — ab tu hi praja (people) ka rakshak hai. Bata mere laal, kya tujhe Ram aur Lakshman ke baare mein koi bura samachar (news) mila?”
+
+Bharat ne apni maa ko sambhala aur fir Guha se poochha —
+“Hey mitra, mere bhai Ram ne yahaan raat kaise bitayi? Unhone kya khaya, kis bistar (bed) par soye? Sita aur Lakshman kahan the?”
+
+Guha, jo Nishadon (ferrymen) ka raja tha, pyaar bhare swar mein bola —
+“Hey Bharat, main ne Shri Ram ke liye bhojan, chawal, phal aur anya khane ki cheezein taiyaar ki thi. Par Ram ne vinamrata (humility) se kaha — ‘Hey mitra, hum Kshatriya (warrior class) hain, hamara dharm (duty) dena hai, lena nahi. Main teri bhavna ko samajhta hoon, par main ye daan (gift) nahi le sakta.’”
+
+“Us raat Ram ne Sita ke saath sirf Lakshman dwara laya hua paani piya, aur bina khaye hi vishraam (rest) kiya. Lakshman ne unke paon dhoye, aur unke liye kush (holy grass) se ek aasan (bed) banaya. Jab Ram aur Sita so gaye, to Lakshman ne apna dhanush-baan (bow and arrows) lekar unke aaspaas pehra diya.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Guha ne aage bataya —
+“Hey Bharat, yahi woh Ingudi ka ped (tree) hai, aur yahi wahi jagah hai jahan Ram aur Sita ne apni pehli vanvaas ki raat bitayi thi. Lakshman, apne teer-kamaan (arrows and bow) ke saath, goha-chamdi ke dastane (gloves) pehne, poori raat unke chakkar lagate rahe — unhe suraksha (protection) dene ke liye. Main bhi apne saathi Nishadon ke saath, dhanush lekar, Shri Ram ki raksha kar raha tha. Unka tej (radiance) Indra dev (king of gods) jaise chamak raha tha.” ✨
+        """
+        create_image_text_layout("attached_assets/chapter2/2.87.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter88
+    with st.expander("Chapter 2.88 - Bharata sleeps on the same spot as Rama did"):
+
+        text1 = """
+Shri Bharat apne mantriyon (counsellors) ke saath shraddha (reverence) se Ingudi ke ped ke paas aaye, jahan unke bhai Shri Ram ne apni pehli vanvaas ki raat bitayi thi. Jab unhone us kush (grass) ke bistar ko dekha jahan Ram soye the, to unka dil pighal gaya.
+
+Bharat ne apni maon se kaha —
+“Hey Maa, yahi woh jagah hai jahan Shri Ramachandra, Raja Dasharath ke veer aur gyani putra, zameen par soye the. Soch kar hairani hoti hai — jo Ram rajmahal ke komal (soft) singhasan par sona chhodkar, sona, chandi aur sugandhit chandan (sandalwood) se sajhe mahalon mein rehta tha, jahan maina aur tota ki madhur awaaz (sweet voices) ghoonjti thi, aaj woh wahi Ram, iss kathin zameen par soya!”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.88.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Unhone aasman ki or dekha aur bola —
+“Hey Ishwar! Kaise ho sakta hai ki Raja Dasharath ka putra, duniya ke liye anand ka kaaran, neela kamal (blue lotus) jaisa komal rang aur prem se bhari aankhen rakhne wala, aaj jangalon mein janwaron ke beech soyega? Aur Sita Mata, Raja Janak ki sunder kanya — kya usne bhi nange zameen par vishraam kiya?”
+
+Bharat ne aankhon mein aansu lekar kaha —
+“Dekho Maa, yahaan Ram bhaiya ka bistar tha, jahan unke shareer ke nishaan (marks) ab bhi dikh rahe hain. Yahaan chhoti-chhoti sunehri (golden) kanchiyan (particles) girī hain — shayad Sita Mata ke gehne se. Aur dekho, yeh resham (silk) ke dhage bhi wahin uljhe hain, unki dupatta (scarf) yahaan atak gayi hogi. Jo bhi ho, Ram bhaiya ka bistar chahe kathin (hard) ho ya komal, Sita Mata ke liye to wo sabse madhur (sweet) tha — kyunki wo pati ke paas thi.”
+
+Phir Bharat ne dukh bhare swar mein kaha —
+“Main ab adharm (sin) ka bhaagi hoon! Mera bhai Ram aur uski pativrata (devoted) Sita is kathin zameen par soye, aur main aaram mein tha. Main ab kabhi sukh se nahi jee sakta. Dhanya (blessed) hai Lakshman, jo apne bhai ke saath vanvaas gaya. Aur dhanya hai Sita Mata, jinhone pativrat dharm (wifely duty) nibhaya.”
+
+Bharat ne aage kaha —
+“Ab Ayodhya raja ke bina naav (boat) jaise ho gayi hai, jismein na khivaiya (sailor) hai na disha (direction). Sena udaas hai, hathi-ghode bina niyantran (control) ke ghoom rahe hain, aur logon ka mann bhi udaas hai. Ayodhya ab niras (lifeless) ho gayi hai, jaise vish (poison) mila bhojan!”
+
+Phir Bharat ne dridh sankalp (firm resolve) liya —
+“Ab main bhi sanyasi (ascetic) ke vastra pehnkar zameen par soonga, fal-mool (fruits and roots) khaunga, aur wahi jeevan jeeyunga jo Ram bhaiya jee rahe hain. Main Ram ka vanvaas poora hone tak van mein hi rahunga, taki unka vrat (vow) poora ho. Shatrughna mere saath rahega, aur Lakshman Ram bhaiya ke saath Ayodhya lautega. Brahman log Ram ko wapas Ayodhya ka raja banayenge — yahi meri ichha hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ant mein usne aasman ki or dekha aur bola —
+“Hey Devtaon, meri yeh manokamna (wish) poori karo! Agar Ram bhaiya mujhe raja nahi banne dete, to main unka das (servant) ban kar hi rahunga. Wo daya ke saagar (ocean of compassion) hain — wo apne chhote bhai ki prarthna kabhi thukra nahi sakte.” 🌺
+        """
+        create_image_text_layout("attached_assets/chapter2/2.88.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter89
+    with st.expander("Chapter 2.89 - The army crosses the holy river"):
+
+        text1 = """
+Subah ka samay tha. Bharat ne wahi jagah par raat bitayi jahan kal hi Shri Ram ne araam kiya tha. Roshni failte hi, usne Shatrughna se kaha —
+“Utho bhai! Subah ho gayi hai. Ab aur mat so. Nishadon ke raja Guha ko bulao, taaki wo humari sena ko nadi ke paar le ja sake.”
+
+Shatrughna bola — “Hey Bharat bhai, main to jaag raha hoon. Mujhe neend hi nahi aayi, main bhi aapki tarah Shri Ram ke vichar mein dooba tha.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.89.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jab dono bhai baat kar rahe the, tab Guha aaya, aur namrata (humility) se bola —
+“Rajkumar, kya aapko raat ko sukh se vishram mila? Kahi koi pareshani to nahi hui aapko ya aapki sena ko?”
+
+Bharat ne uske prem bhare shabdon ko sunkar kaha —
+“Hey Guha, tumne hum par bahut upkaar kiya. Raat shaantipurn beet gayi. Ab kripya apne logon ko kaho ki wo humari sena ko nadi ke paar le chalein.”
+
+Guha turant apne logon ke paas gaya aur bola —
+“Bhaiyon! Utho, jaago, tumhe sabh sukh mile! Nadi ke kinare jao, nauka (boats) lekar aao aur Rajkumar Bharat ki sena ko paar karao!”
+
+Kuch hi der mein paanch sau naukayein bank par ikatthi ho gayi. Inme se ek khaas nauka thi — ‘Svastika’, jo sundar ghantiyon (bells) aur patakon (flags) se sajai gayi thi. Uske andar safed kambal bichaye gaye the, aur chhoti ghantiyan madhur dhun mein baj rahi thi. Guha khud us nauka ka malik aur nayak (steersman) tha.
+
+Sabse pehle Bharat aur Shatrughna, unke saath Mata Kaushalya, Mata Sumitra, aur anya mahilaayein chadhi. Unke peechhe purohit (priests), Guru Vasishtha aur anya brahman bhi aaye. Phir unka saamaan (baggage) bhi naukayon mein rakha gaya.
+
+Jab sena ravana hone lagi, to aas-paas dhvani (sound) gunj uthi — kuch log shesh aag jalane mein lage the, kuch pavitra Ganga mein snaan kar rahe the, aur kuch saamaan uthakar ja rahe the.
+
+Naukayein tezi se chalne lagi — kuch mein keval mahilaayein thi, kuch mein ghode aur bail, aur kuch mein rath aur haathi.
+
+Jab sab nadi ke doosre kinare pahunch gaye, to log utar gaye. Guha ke kuch log paani mein khelte hue laut gaye. Haathi bhi kuch tairkar, kuch behakar (rafts se), aur kuch naukayon se paar hue.
+
+Suraj ugte samay, Maitra kaal (morning period) mein, poori sena ne pavitra nadi paar kar li aur hari-bhari van (forest) mein pravesh kiya.
+
+Wahan pahunchkar Bharat ne apni sena ko vishram karne ka aadesh diya aur pyar se kaha —
+“Sab thoda araam karo, hum apne lakshya ke aur kareeb hain.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Bharat, Guru Vasishtha aur kuch purohit ke saath, mahan rishi Bharadvaj se milne unke ashram (hermitage) ki or chale gaye.
+
+Jab wo pahunchi, to unhone dekha — ghana aur sundar van, jisme patton se bane hue chhote-chhote kutir (huts) the, aur vahaan pavitra shanti chhayi hui thi. 🌿✨
+        """
+        create_image_text_layout("attached_assets/chapter2/2.89.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter90
+    with st.expander("Chapter 2.90 - Bharata meets Sage Bharadvaja"):
+
+        text1 = """
+Jab Rajkumar Bharat ne Rishi Bharadvaj ke ashram (hermitage) ko dekha, to usne apni poori sena ek yojan (about 12 km) peeche rukwa di. Usne apne shastr (weapons) aur rajsi vastra (royal clothes) utaar diye, aur ek saadha silk vastra pehenkar Guru Vasishtha ke saath paidal (on foot) aage badha.
+
+Ashram ke paas pahunchte hi, jab Rishi Bharadvaj ne unhe dekha, to wo turant apni asan (seat) se uth khade hue aur apne shishyon (disciples) se kaha —
+“Arghya (welcome water) lekar aao!”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.90.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rishi ne pehle Guru Vasishtha ka abhinandan (greeting) kiya, fir Bharat ne namrata se pranam (bow) kiya. Rishi ne turant samajh liya ki ye to Raja Dasharath ke putra Bharat hain. Unhone dono atithiyon (guests) ka satkaar (welcome) phalon se kiya aur puchha —
+“Putra, Ayodhya mein sab kuch theek hai na? Mantri aur rajkosh (treasury) sab sambhal rahe hain?”
+Lekin Rishi ne Raja Dasharath ke baare mein kuch nahi puchha, kyunki unhe pata tha ki rajaji ab nahi rahe.
+
+Uske baad Bharat aur Guru Vasishtha ne bhi rishi se puchha —
+“Bhagwan, aapka sharir, agni (sacred fire), shishya, hiran (deer) aur pakshi (birds) sab sukhi hain na?”
+Rishi Bharadvaj ne muskurakar sab bataya, fir prem se Bharat se poocha —
+“Hey Rajkumar, tum yahaan kis kaam se aaye ho? Ab to tum Ayodhya ke raja ho. Mujhe batao, tumhara uddeshya kya hai? Mujhe to yahi suna tha ki Raja Dasharath ne apni patni ke kehne par Ram ko choudah saal ke vanvaas (exile) par bhej diya. Mujhe yeh jaan kar dukh hoga agar tum bhi apne bhai Ram se koi dvesh (hatred) rakhte ho.”
+
+Rishi ke in kathin (harsh) shabdon se Bharat ka dil chubh gaya. Uski aankhen aansuon se bhar gayin, gala ruk gaya, aur wo bhari awaaz mein bola —
+“Hey Maharshi! Aap sarvagy (all-knowing) hain, fir bhi agar mujhe aisa samajhte hain, to mera jeevan vyarth (useless) hai. Main Ram bhaiya ke vanvaas ka kaaran nahi hoon! Aisi burai (evil) kabhi mujhse nahi ho sakti. Jo kuch meri maa ne kiya, wo mujhe kabhi sweekar (accept) nahi hai. Main to unhi ke charanon mein jaakar pranam karna chahta hoon aur unhe Ayodhya wapas lana chahta hoon. Kripya mujhe batayein, wo ab kaha hain?”
+
+Bharat ke sacche aur bhavuk (emotional) shabdon ko sunkar Rishi Bharadvaj prasann (pleased) hue. Unhone kaha —
+“Hey Mahaan Bharat, tum Raghu vansh (dynasty) ke uttam putra ho. Tumhara vinamr swabhav (humble nature), guru bhakti aur sadpath (righteous path) par chalna dekhkar mujhe ashcharya nahi hota. Main apni yog shakti (divine vision) se tumhare man ke vichar pehle hi jaan gaya tha. Main sirf tumhara sankalp (resolution) majboot karna chahta tha, taaki duniya tumhari maryada (virtue) ko jaane.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Phir Rishi ne kaha —
+“Mujhe pata hai Shri Ram aur Lakshman kaha hain. Wo Chitrakoot parvat par nivas (stay) kar rahe hain. Tum kal wahan jao. Aaj ki raat yahi mere ashram mein apne mantriyon (counsellors) ke saath vishram karo.”
+
+Bharat ne rishi ke aadesh ko maan liya.
+Us raat wo apni poori sena ke saath Rishi Bharadvaj ke pavitra ashram mein hi thahar gaya —
+jahan deepak ki mildi roshni, mandir ki shanti aur van ke sukhad dhwaniyaan (forest sounds) uske mann ko shaant kar rahi thi. 🌙✨
+        """
+        create_image_text_layout("attached_assets/chapter2/2.90.2.jpg", text3, layout="side", image_position="right")
+
