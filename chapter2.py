@@ -2901,3 +2901,642 @@ Poora rajmahal ab utsav (celebration) ka nahi, shok (mourning) ka ghar ban gaya 
 Mahal bhar gaya tha unke dukh bhare swaron (sounds of sorrow) se — jaise poori Ayodhya ro rahi ho.
         """
         create_image_text_layout("attached_assets/chapter2/2.65.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter66
+    with st.expander("Chapter 2.66 - People of Ayodhya mourn their king"):
+
+        text1 = """
+Raja Dasharatha ke nidhan (death) ke baad, Rani Kaushalya ne unka sir apni god mein rakha. Unka chehra bina tej (without glow) ke suraj jaisa lag raha tha — jaise bujha hua diya ya bina paani ka samundar. Dukh se roti hui Kaushalya ne Kaikeyi se kaha —
+
+“Hey Kaikeyi, tera sapna poora ho gaya! Ab tu apne bete ke saath raj kar. Raja mar gaye, Rama van mein hai, ab tujhe koi rokne wala nahi. Main akeli ho gayi hoon — jaise koi yatri (traveller) kathin raaste par bina saathi ke reh gaya ho. Mere jeene ka koi matlab nahi bacha. Jo apne pati (husband) ko kho deti hai, uske liye duniya khaali ho jaati hai. Lekin tu, Kaikeyi, tu aisi hai jise na dharm (virtue) ki parwah hai, na pati ki. Tu to lalach (greed) mein andhi ho gayi.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.66.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Kaushalya ne dukh bhare shabdon mein kaha — “Kaikeyi ne Raghu vansh (dynasty) ko khatam kar diya, ek kubdi (hunchbacked) dasi ke kehne par! Jab Raja Janak ko pata chalega ki Raja Dasharatha ne apne hi haathon Rama aur Sita ko van bhej diya, to wo bhi dukh se mar jayenge. Bechari Sita, ab jungle mein sher aur baghon ki dahad (roar) sun kar Rama se chipak jayegi, dari hui. Aur mujhe to lagta hai, main apne pati ke sharir ko gale lagakar agni mein pravesh (enter) kar loongi.”
+
+Ye sun kar mantri (chief minister) ne Kaushalya ko sambhala aur Raja Dasharatha ke sharir ko ek bade tel se bhare matke (vessel) mein rakha, taaki wo surakshit rahe. Sab ne tay kiya ki Rama ke bina antimsanskar (cremation) nahi kiya jayega.
+
+Jaise hi Raja ka sharir tel mein rakha gaya, mahal ki sab raniyan aur dasiyan zor zor se rote hue boli —
+“Hey Raja, tumne humein bhi chhod diya! Pehle Rama gaya, ab aap bhi chale gaye. Kaikeyi jaise dusht (evil-minded) ke saath hum kaise jeeyenge?”
+
+Poora Ayodhya dukh se bhar gaya. Raniyan zameen par gir kar ro rahi thi. Galiyan suna-suna thi, koi safai nahi thi, koi sajawat nahi thi. Log kehte the — “Hamare Raja chale gaye! Kaikeyi ne humein anath (orphan) kar diya!”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ayodhya ka mahal chand bina raat (moonless night) jaisa lag raha tha — udaas, shok se bhara, aur bina chamak ke. Har gali mein log rote hue Raja Dasharatha aur Shri Rama ko yaad kar rahe the. 💔
+
+Mukhya bhaav (main message):
+Raja Dasharatha ke jaane ke baad, Ayodhya ka har kona shok mein dub gaya. Kaikeyi ki lalach ne sirf ek parivar nahi, poore rajya ka sukh cheen liya.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.66.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter67
+    with st.expander("Chapter 2.67 - The elders decide what to do next"):
+
+        text1 = """
+Raja Dasharatha ke guzar jaane ke baad, poori raat Ayodhya mein rona-dhona chhaya raha. Logon ke liye wo raat jaise ek lambi pahaadi chadhne jaisi mushkil thi — khatam hi nahi ho rahi thi.
+
+Subah hone par, desh ke sab gyani Brahmin aur rishi (sages) jaise Markandeya, Vamadeva, Kasyapa, Gautama, Katyayana aur Javali, sab guru Vasishtha ke saath rajsabha (royal court) mein ikattha hue.
+
+Sabhi ne dukhi man se kaha —
+“Raja Dasharatha apne bete Shri Rama ke dukh mein apni jaan de chuke hain. Rama van (forest) chala gaya hai, Lakshmana bhi uske saath hai. Aur Bharat aur Shatrughna apne nana ke ghar (maternal grandfather’s house) mein hain. Ab bina raja ke Ayodhya ka kya hoga?
+        """
+        create_image_text_layout("attached_assets/chapter2/2.67.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Ek rajya bina raja ke (rulerless kingdom) waise hi hota hai jaise ped bina patton ke, ya nadi bina paani ke. Jab raja nahi hota, tab sab kuch bigad jaata hai —
+kisan beej nahi bote, chor badh jaate hain, aur pati-patni, pita-putra ke beech ladaiyaan hone lagti hain.
+
+Aise rajya mein na dharm hota hai, na samman. Na mandir bante hain, na utsav (festivals) manaye jaate hain. Na Brahmin yajna (sacrifice) karte hain, na log daan (charity) dete hain. Na bazaaron mein khushiyan hoti hain, na sangeet ya nritya (dance) sunai deta hai.
+
+Aise desh mein na suraksha hoti hai, na shanti. Gaay-charane wale, vyapari (merchants), aur yoddha (warriors) sab darr ke saaye mein rehte hain. Jab raja nahi hota, to koi kanoon (law) nahi hota, aur sab apni marzi se chalte hain.”
+
+Ek gyani ne kaha —
+“Raja janata ka pita (father) hota hai. Jaise aankhein sharir ko surakshit rakhti hain, waise hi raja apne praja (people) ki raksha karta hai. Wo sachchai aur nyay (justice) ka raasta dikhata hai.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ab jab hamara raja nahi raha, to Ayodhya andhkaar (darkness) mein doob gayi hai. Isliye, o mahan Rishi Vasishtha, hum aap se nivedan (request) karte hain — Ikshvaku vansh (dynasty) ke kisi yogya (worthy) sadasya ko raja bana dijiye, taaki rajya barbaad na ho.”
+👑 Mukhya Bhaav (Main Message):
+Ayodhya ke buzurg aur rishiyon ne samjha ki bina raja ke desh bigad jaata hai. Isliye unhone Vasishtha se kaha ki wo Ikshvaku vansh ke kisi vyakti ko turant raja bana dein, taaki dharm aur shanti bana rahe.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.67.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter68
+    with st.expander("Chapter 2.68 - Messengers go to call Prince Bharata"):
+
+        text1 = """
+Jab Guru Vasishtha ne sab brahmin aur mantriyon (ministers) ki baat suni, toh unhone kaha —
+“Raja Dasharatha ne rajya (kingdom) Bharata ko diya tha. Ab wo apne bhai Shatrughna ke saath apne nana (maternal grandfather) ke ghar, Kaikeya desh mein khushi se reh rahe hain. Isliye turant kuch tez-dhaudne wale sandeshvahak (swift messengers) bhejo taaki dono rajkumar wapas laut aayein. Ab isi kaam ko karna chahiye.”
+
+Sabhi log bole — “Aapka aadesh (command) sar aankhon par, Gurudev.”
+
+Tab Guru Vasishtha ne Siddhartha, Vijaya, Jayanta, Ashoka aur Nandana se kaha —
+“Dhyan se suno. Tum sab Rajagraha nagar ke liye turant niklo. Par yaad rahe —
+Bharata ko na to Raja Dasharatha ke nidhan (death) ke baare mein batana,
+na hi Rama ke vanvaas (forest exile) ka zikr karna.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.68.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Bas itna kehna — ‘Guru Vasishtha aur mantri sab aapko pranam karte hain, aur Ayodhya mein ek zaroori kaam ke liye aapko turant wapas bula rahe hain.’
+
+Saath hi, Kaikeya Raja aur Rajkumar Bharata ke liye mulayam resham ke vastra (silken robes) aur sundar ratn (gems) le jaana.”
+
+Un paanchon sandeshvahakon ne Guru Vasishtha ke aadesh ko pranam karke apne ghar jaakar yatra (journey) ke liye tayyari ki.
+Phir ve tez ghodon (swift horses) par sawar hue, aur bina rukhe yatra shuru ki.
+
+Unka raasta Malini nadi ke kinare se guzra — south mein Uparathala parvat tha aur north mein Pralamba.
+Unhone Hastinapur ke paas Ganga ko paar kiya aur Panchala (Punjab) ki or badhe.
+Raaste mein unhone sundar jheelon aur nadiyon ko dekha jahan pani bilkul saaf (clear) tha aur kai panchhi (birds) machal rahe the.
+
+Phir wo Sharadanda nadi tak pahunche jahan ek pavitra vriksha (sacred tree) Satyapayachan tha. Unhone us ped ko pranam kiya aur aage badhe.
+Ve Kalinga nagar se guzre, phir Abikala gaon ke paas se Ikshumati nadi ko paar kiya, jo Bodhibhavana parvat se nikalti thi — ye jagah kabhi Ikshvaku vansh (dynasty) ki thi.
+Yahan unhone haathon se nadi ka paani piya aur kuch vedon ke gyaani brahmin mile.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Aage badhte hue, unhone Sudamana parvat dekha, jahan Bhagwan Vishnu ke charan-chinh (footprints) bane hue the — unhone wahan bhi pranam kiya.
+Raaste mein unhone Vipasha aur Shalmali nadiyan dekhin, kai jheel aur talab, aur sher, bagh, hathi jaise jangli prani bhi.
+
+Bahut lambi yatra ke baad, ghode thak gaye — par sandeshvahak rukhe nahi.
+Apne Guru Vasishtha ke aadesh aur Raghu vansh ke maan-samman (honour) ko bachane ke liye,
+wo Kaikeya desh ki rajdhani Giribraja nagar tak pohonch gaye — aur raat hote hi shahar mein pravesh (entered the city) kiya. 🏇🌙
+        """
+        create_image_text_layout("attached_assets/chapter2/2.68.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter69
+    with st.expander("Chapter 2.69 - Bharata sees a bad dream"):
+
+        text1 = """
+Usi raat jab sandeshvahak (messengers) Kaikeya desh ke Giribraja nagar mein pahunche, tab Rajkumar Bharata ne ek bahut hi ashubh (inauspicious) sapna dekha.
+
+Subah hote hi, jab Bharata ne aankh kholi, to wo bahut pareshan aur udaas lag rahe the.
+Unke saathi (friends), jo unke umra ke the, ne unhe khush karne ki koshish ki —
+koi veena bajane laga, koi naach karne laga, aur koi hasin kahaniyan (funny stories) sunane laga.
+
+Lekin Bharata ke chehre par fir bhi muskaan nahi aayi.
+Unke dost bole —
+“Hey mitra (friend), hum sab tumhe khush karne ki koshish kar rahe hain, par tum fir bhi udaas ho. Batao, baat kya hai?”
+
+Tab Bharata ne gehri saans le kar kaha —
+“Main tumhe apni udaasi ka kaaran batata hoon.
+Raat ko maine ek bahut bura sapna dekha hai.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.69.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Maine dekha —
+Mere pitaji Raja Dasharatha, purane aur feeke kapde (faded clothes) pehne hue hain, unke baal bikhre (dishevelled) hue hain,
+aur wo ek pahad (mountain) se girkar gobar ke gadde (pit of cow dung) mein ja rahe hain.
+Wahan wo tel (oil) ko haath se pi rahe hain, aur til-chawal (rice with sesame seeds) khate hue,
+poore sharir par tel lagaye baithe hain.
+
+Phir maine dekha —
+Samundar (sea) sookh gaya, chaand zameen par gir gaya, aur poori duniya andhere (darkness) mein chhup gayi.
+Raja ke hathiyon (elephants) ke daant tut gaye,
+aur ek jalta hua agni (fire) achanak bujh gaya.
+
+Maine dekha —
+Zameen phat gayi, pedon ke patte murjha gaye, aur pahad se dhuaan (smoke) nikalne laga.
+Phir maine apne pitaji ko loha (iron) ke singhasan (throne) par baithay dekha,
+unhone kaale kapde pehne hue the,
+aur kuch auratein (women) — kaale aur peele vastra (black and yellow clothes) pehne —
+unpar hans rahi thi (mocking him).
+
+Phir wo laal phoolon ki mala pehne, chandan lagaye hue,
+gadho ke rath (chariot drawn by asses) par dakshin disha (south direction) ki taraf ja rahe the.
+Unke paas ek bhootni jaise roop wali rakshasi (female demon) thi, jo unka mazak uda rahi thi.
+
+Ye sapna dekhkar mera dil dar (fear) se bhar gaya hai.
+Mujhe lagta hai — ya to main, ya Rama, ya pitaji, ya Lakshmana — hum mein se koi ek zaroor marega (will die).
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Kyunki sapne mein jab koi gadho ke rath par jaata hai,
+to iska matlab hai uska antim sanskaar (funeral) jaldi hone wala hai.
+
+Is vichitra (strange) sapne ne mujhe bikhra diya hai (disturbed me).
+Mere gale mein aasu atak gaye, mujhe saans lene mein dikkat ho rahi hai.
+Main bol nahi pa raha, soch nahi pa raha,
+aur dil mein dar aur udaasi (fear and sadness) chha gayi hai.
+
+Aisa sapna maine pehle kabhi nahi dekha.
+Soch-soch kar mera man bechain (restless) hai,
+aur mujhe dar lagta hai ki kahin main apne pitaji ka chehra dobara na dekh paun. 💔
+        """
+        create_image_text_layout("attached_assets/chapter2/2.69.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter70
+    with st.expander("Chapter 2.70 - The message reaches him; he and Shatrughna return"):
+
+        text1 = """
+Jab Rajkumar Bharata apna ashubh sapna (bad dream) suna rahe the,
+tabhi Ayodhya ke sandeshvahak (messengers), jo lambi yatra se thake aur dhool se bhare hue the,
+Rajagriha nagar (Kaikeya desh ki rajdhani) ke andar pahunch gaye —
+wo shahar ek gehri khai (moat) se ghira hua tha, jise paar karna mushkil tha.
+
+Wahan jaakar unhone Raja Ashwapati (King of Kaikeya) aur unke bete Rajkumar Yudhajit ko pranam kiya.
+Unhone dono se namrata se satkaar (hospitality) paaya, aur fir Rajkumar Bharata ke paas gaye.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.70.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Wo bole —
+“Hey Maharaajkumaar (Great Prince),
+Maha Rishi Vasishtha aur Rajya ke mantri aapko pranam bhejte hain.
+Aapse ek bahut zaroori kaam (urgent matter) ke liye turant Ayodhya lautne ko kehte hain.
+Ye keemti vastra (silken robes) aur ratno se bhare gehne (jewelled ornaments)
+aapke mama (maternal uncle) ke liye bheje gaye hain — kripya unhe de dijiyega.”
+
+Bharata ne muskura kar (with respect) wo uphaar apne mama ko diye,
+aur sandeshvahakon ko aaraam aur bhojan (rest and food) karvaya.
+Phir unhone pyaar se pucha —
+
+“Batao, kya pitaji Raja Dasharatha sukhi aur swasth hain?
+Kya bhai Shri Ram aur Lakshman sab theek hain?
+Kya Mata Kaushalya, jo dharm ki rakshak aur sada dayalu hain, swasth hain?
+Aur kya Mata Sumitra, Lakshman aur Shatrughna ki maa, sukhi hain?
+Aur meri maa Kaikeyi, jo kabhi-kabhi gusse mein aati hain, kaisi hain?
+Unhone mujhe kya sandesh bheja hai?”
+
+Sandeshvahak ne sambhal kar jawab diya —
+
+“Hey Narshreshtha (Lion among men), jin logon ki aap chinta karte ho,
+sab swasth aur sukhi hain.
+Aapke liye bahut shubh samay (prosperous time) aane wala hai.
+Kripya apna rath tayyar (chariot ready) karaiye.”
+
+Bharata ne kaha —
+
+“Main Raja Ashwapati se vidayi lene jaata hoon,
+fir bina deri ke Ayodhya ke liye nikal padunga.”
+
+Phir Bharata apne nana (grandfather) ke paas gaye aur bole —
+
+“Maharaj, mujhe sandeshvahak bula rahe hain.
+Mujhe turant pitaji ke paas jaana hoga.
+Jab aap chahein, main wapas aa jaunga.”
+
+Raja Ashwapati ne Bharata ke sir ko soonghkar (smelling head, a blessing gesture) kaha —
+
+“Bharata, tumhari maa Kaikeyi bahut dhanya (blessed) hai
+ki uske paas tum jaise dharma-premi aur vinamra putra (righteous and humble son) hain.
+Mera namaskar apne mata-pita,
+Maha Rishi Vasishtha, aur sab brahmin aur yodhaon (sages and warriors) ko dena.”
+
+Raja ne fir Bharata ko hathiyon, khubsurat kambalon, mrig-chamra (deerskins), gehne aur dhan diye.
+Usne do hazaar haar (necklaces), sona, moti, coral, aur solah sau ghode (horses) diye.
+Saath hi kuch samajhdaar mantri (wise counsellors) bhi unke saath bheje.
+
+Rajkumar Yudhajit, Bharata ke mama, ne unhe do bade hathi diye —
+Iravat aur Indrashira,
+aur kai khacchar (mules) aur mahal ke bhediye jaise shaktishaali kutte (strong palace dogs) diye,
+jo sheron ke barabar takatwar the.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Bharata ne sabko vinamrta se dhanyavaad diya,
+lekin unka mann ab bhi bhari (heart heavy) tha —
+us bure sapne (bad dream) ki wajah se aur sandeshvahak ki jaldi (urgency) se.
+
+Phir wo andar ke mahal se bahar aaye,
+unke peeche hathi, ghode, saand, oont, aur rath chale.
+Rajmarg (royal road) unke jaane se goonj utha.
+
+Bharata ne sabse vidayi li,
+aur apne bhai Shatrughna ke saath rath (chariot) par sawar hokar Ayodhya ki ore nikal pade.
+
+Unke aas-paas senapati (commanders) aur rajya ke mantri chal rahe the.
+Aur dono veer bhai (brave brothers) bina dar ke,
+aise nikal pade jaise devlog ke pavitra atmaayein (pure souls)
+Indra ke lok se prithvi ki yatra par ja rahi hoon. 🌙🚙✨
+        """
+        create_image_text_layout("attached_assets/chapter2/2.70.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter71
+    with st.expander("Chapter 2.71 - Bharata sees sad faces everywhere in Ayodhya"):
+
+        text1 = """
+Woh veer aur tejse bhare Rajkumar Bharata, apni sena ke saath purv disha (east direction) ki taraf chalte hue kai nadiya (rivers) aur jangalon ko paar karte gaye. Unhone Suddama nadi, Hladini, Satali, aur phir Shalyakartana tak ka safar tay kiya. Raste mein unhone pahadiyaan, jangale aur kai nadiye cross ki, jaise Shilavaha aur Yamuna. Unhone apni sena ko thoda vishram diya — ghode, haathi, sab ne snan (bath) kiya aur paani piya.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.71.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Saat din ka safar poora karke jab Bharata ne Ayodhya ko door se dekha, to uska dil bhaari ho gaya. Usne apne saarathi (charioteer) se kaha —
+“Hey saarathi, ye kya main Ayodhya dekh raha hoon? Pehle ye sheher hamesha hara-bhara aur khushiyon se bhara hota tha, lekin ab to ye peeli dhool se dhaka hua lagta hai! Pehle yahan Veda ka uchcharan (chanting) hota tha, log haste-khelte dikhte the, lekin ab sab kuch sannaata (silence) hai. Na ghodon ke rath chalne ki aawaz, na veena aur nagade bajte hain. Sheher udaas lag raha hai, jaise khushi chhod kar chali gayi ho.”
+
+Bharata ne aage kaha —
+“Main dekhta hoon gharon ke darwaze khule hue hain, lekin unmein koi prakaash (light) nahi, na sugandh (fragrance) hai, na puja ka dhuaan. Mandir (temples) khali pade hain, koi devtaon ki aaradhna (worship) nahi kar raha. Bazaar mein phool aur vastra (cloth) bechne wale vyapari (merchants) dukhi hain, koi vyapar nahi ho raha. Aur jo log dikh rahe hain, unke kapde maile (dirty) hain, chehre pe dukh likha hua hai, sab ro rahe hain.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ye sab dekhkar Bharata ka dil ghabra gaya. Usne kaha, “Mere mann mein ajeeb dar lag raha hai, bina wajah hriday (heart) tez dhadak raha hai. Aisa lagta hai kuch bhayanak (terrible) hone wala hai.”
+
+Phir jab usne rajmahal (palace) ke paas pahunchkar dekha — sadke khali thi, mahalon pe dhool jam gayi thi, koi utsav (celebration) nahi tha — to uska hriday dukh se bhar gaya. Jhuke hue sir aur bhare hue mann se, Rajkumar Bharata apne pitaji Maharaj Dasharatha ke mahal ke andar chala gaya, uske mann mein ashubh sanket (bad omens) ghoom rahe the.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.71.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter72
+    with st.expander("Chapter 2.72 - Kaikeyi tells Bharata what happened"):
+
+        text1 = """
+Bharata jab mahal (palace) ke andar gaya, to usne dekha ki Raja Dasharatha kahin nazar nahi aa rahe. Pita ko na dekhkar, wo seedha apni maa Kaikeyi ke kaksh (room) mein gaya.
+
+Kaikeyi ne jab apne bete ko itne dinon baad dekha, to wo khushi se uth khadi hui. Usne Bharata ko gale lagaya, uske sir pe pyaar se chuma aur bola —
+“Beta, kitne din ho gaye tujhe nanaji ke ghar jaaye hue? Tumhara safar (journey) thaka dene wala to nahi tha? Sab theek hain na — tumhare nana aur mama?”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.72.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Bharata ne maa ke sawalon ka pyar se jawab diya —
+“Mai theek hoon Maa. Nana aur Mama dono swasth hain. Nanaji ne mujhe bahut saare uphaar (gifts) diye — haathi, ghode, gehne — lekin thakaan ke karan wo log raste mein peeche aa rahe hain. Mujhe Ayodhya wapas jaldi bulaane ke liye raja ke doot (messengers) aaye the. Par Maa, mujhe ek baat batao — Raja Dasharatha kaha hain? Unka singhasan (throne) khaali kyu hai? Aur Ayodhya itni udaas kyu lag rahi hai? Kya Pitaji Kaushalya Maa ke mahal mein hain?”
+
+Kaikeyi, jise sab sach pata tha, lekin ab bhi apni sochi hui baat mein uljhi thi, dheere se boli —
+“Beta, jo kismet (fate) sab pe aati hai, wo tere pita pe bhi aa gayi hai. Tere pita, Maharaj Dasharatha, ab is duniya mein nahi rahe.”
+
+Ye sunte hi Bharata ka dil toot gaya. Wo turant zameen pe gir gaya aur zor-zor se chillane laga —
+“Haay! Main barbaad ho gaya!”
+
+Wo rota raha, apna chehra kapde se dhak liya aur bola —
+“Jis singhasan pe mere pita chand (moon) ki tarah chamakte the, aaj wo jagah akash (sky) ki tarah khaali hai. Unke bina sab kuch soona (empty) lag raha hai.”
+
+Kaikeyi ne use uthakar sambhala aur kaha —
+“Beta, uth jao. Samajhdaar log dukh ke samay mein apne aap pe kabu rakhte hain. Jaise suraj (sun) hamesha apni roshni deta hai, waise hi tumhe bhi dhairya (calmness) rakhna chahiye.”
+
+Par Bharata ne maa se kaha —
+“Maa, main to khushi-khushi wapas aa raha tha, sochkar ki Raja Dasharatha ne Rama bhaiya ko rajyabhishek (coronation) diya hoga. Lekin yahan to sab ulta ho gaya! Pitaji kaise mar gaye? Unhone mujhe ek baar dekhne tak ka intezaar kyu nahi kiya? Bhai Rama aur Lakshmana ne unke antim sanskar (funeral rites) kiye honge… kitne bhagyashali (fortunate) hain wo!”
+
+Phir Bharata ne poocha —
+“Maa, mere Rama bhaiya kahan hain? Mujhe batao, mai unke charanon (feet) mein jaake sharan (refuge) loonga. Ab wo hi mere pita saman (like father) hain.”
+
+Tab Kaikeyi ne bola —
+“Tere pita ne ant samay (last moment) mein tera naam nahi liya, sirf itna kaha — ‘Hey Rama, Hey Sita, Hey Lakshmana!’ Aur phir unka praan (life) chala gaya. Unhone kaha tha — ‘Jo log Rama, Sita, aur Lakshmana ko vanvaas (forest exile) se lautte dekhenge, wahi apni ichha (wish) poori karenge.’”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ye sunkar Bharata ka dukh aur badh gaya. Usne poocha —
+“Rama bhaiya van mein kyu gaye, Maa? Unhone kya galti ki?”
+
+Tab Kaikeyi, apne ahankar (ego) mein bhari aur apne kartavya (actions) par garv karte hue boli —
+“Beta, Rama ne koi paap (sin) nahi kiya. Na kisi ka dhan (wealth) churaaya, na kisi ki patni (wife) pe nazar daali. Mujhe jab pata chala ki unka rajyabhishek hone wala hai, to maine teri khatir Raja Dasharatha se do vachan (boons) maange — Rama ko vanvaas bhejne aur tujhe raja banane ke. Raja ne apna vachan nibhaya, aur Rama, Sita, Lakshmana van me chalye gye. Uske baad, unse judaai (separation) bardasht na kar paane ke kaaran, Raja Dasharatha mar gaye.”
+
+Kaikeyi ne fir kaha —
+“Ab Ayodhya bina raja ke hai, beta. Tumhe hi rajya sambhalna hoga. Raja Dasharatha ke sanskaar (funeral rites) poore karo aur fir Shri Vasishtha aur brahminon se salah lekar, bina deri kiye, raja ban jao!”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.72.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter73
+    with st.expander("Chapter 2.73 - Bharata scolds his mother for her deeds"):
+
+        text1 = """
+Bharata ne jab suna ki unke pita Raja Dasharatha guzar gaye aur Rama aur Lakshmana ko vanvaas (exile) bhej diya gaya hai, to uska dil dard se bhar gaya. Usne apni maa Kaikeyi se gusse aur dukh bhari awaaz mein kaha —
+
+“Maa! Mujhe yeh rajya (kingdom) karke kya milega, jab mere pita mar gaye aur mere bhai — jo mere pita samaan (like a father) the — van mein bhatak rahe hain? Tumne Raja Dasharatha ko maara aur Rama bhaiya ko banvaasi (forest-dweller) bana diya! Tumne mere ghar ke ghaav (wounds) par namak chhidak diya hai. Tum to jaise is raj gharane (royal family) mein uska anth (end) karne ke liye aayi thi — jaise maut ki raat (night of death) aati hai!”
+
+“Hamare pita tum par vishwas karte the, Maa — lekin tum to aag (fire) nikli! Tumne unka jeevan (life) cheen liya! Tumne apne lobh (greed) ke chakkar mein poore vansh (lineage) ko dukh aur apmaan (disgrace) mein daal diya! Itna paap (sin) kisliye kiya tumne? Tumne mere pita ko maara aur Rama bhaiya ko jungle bhej diya! Kaise maa ho tum?”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.73.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Kaushalya Maa aur Sumitra Maa ab kaise jeeyengi? Rama bhaiya to tumhe bhi apni maa maante the! Unhone kabhi tumhare prati galat socha bhi nahi — aur tumne unhi ko vanvaas bhej diya? Tumhe zara bhi dukh nahi hua? Tumhe kya mila is bure kaam (evil deed) se? Rama jaise veer (brave) aur nirdosh (sinless) vyakti ko jungle bhejkar tumne kya jeet liya?”
+
+“Tumhe nahi pata tha, Maa, ki mujhe Rama bhaiya se kitna prem (love) hai? Tumne apne lalach (greed) mein sab kuch barbaad kar diya. Main Lakshmana aur Rama ke bina yeh rajya sambhal nahi sakta. Jaisa ek chhota bachda (calf) bade bail ka bojh nahi utha sakta, waise hi main Rama ke bina rajya ka bojh nahi utha sakta!”
+
+“Chahe mujhme samajh ho, buddhi ho, ya shakti — main tumhari buri ichha (evil wish) poori nahi karunga! Main Rama bhaiya ke bina kabhi raja nahi banunga! Agar Rama bhaiya tumhe apni maa maante hain, to sirf uska samman (respect) karte hue main tumhe nahi chhod raha. Warna, tum jaisi maa se rishta tod dena hi sahi hota!”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+“Tumne hamare vansh ki maryada (honour) mitti mein mila di, Maa! Hamare ghar ka niyam hamesha yahi raha hai — bada bhai raja banta hai, aur chhote bhai uski seva karte hain. Tumhe na rajneeti (governance) ka gyaan hai, na maryada ka sammaan! Tumne Ikshvaku vansh (dynasty) ki shaan (glory) mitti mein mila di!”
+
+“Tum bhi ek mahan raj gharane se ho, Maa — to tumne itna nich (low) vichaar kaise socha? Yaad rakhna, main tumhari yeh buri ichha kabhi poori nahi hone dunga! Main Rama bhaiya ko wapas Ayodhya laaunga, unhe singhasan (throne) par bithaunga, aur unki seva (service) poore man se karunga!”
+
+Aisa kehkar Bharata garajne laga — jaise Mandara parvat ki guha (cave) mein sher (lion) dahadta hai. Uski awaaz dard, gussa aur dharm ke bal (power of righteousness) se bhari thi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.73.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter74
+    with st.expander("Chapter 2.74 - Bharata cries for his father"):
+
+        text1 = """
+Jab Bharat ko apne pita Maharaj Dasharath ki mrityu (death) aur Shri Ram ke vanvaas (exile) ke baare mein pata chala, to uska dil dukh aur gusse se bhar gaya. Usne apni maa Kaikeyi se kaha —
+
+“Hey krur hriday wali maa (cruel-hearted mother), tumne dharam (virtue) aur daya (compassion) sab bhool gayi ho! Tumne Raja Dasharath jaise satya-premi (truth-loving) pati ko maar diya, aur Ram jaise punya-aatma (pure soul) ko van mein bhej diya! Tumhari wajah se main apne pita aur bhai dono se vanchit (deprived) ho gaya hoon. Tum meri maa nahi, meri shatru (enemy) ho!”
+
+Bharat ke aankhon se aansu beh rahe the, par uski awaaz bijli ki tarah garaj rahi thi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.74.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Tumne jo paap (sin) kiya hai, wo kisi brahmin-hatya (murder of a priest) se kam nahi! Tumne apne pita ke vansh (dynasty) ko khatam kar diya. Tumhe na swarg (heaven) milega, na shanti (peace)! Tumne sabse dayalu (kind) aur satya-premi bhai ko vanvaas diya, aur apni izzat khud mitti mein mila di.”
+
+Phir Bharat ne apni maa se kaha —
+“Tum Kaushalya aur Sumitra ko dukh aur aansu ke alawa kya diya? Tum Ashwapati Raja ki beti hokar bhi apna kul (lineage) duba diya! Shayad tum insaan nahi, kisi raakshasi (demoness) ki roop mein paida hui thi, jo hamare parivaar ko nasht karne aayi hai.”
+
+Bharat ne apne aansuon ke beech kaha —
+“Maa, kya tumhe nahi pata tha ki Ram sabke jeevan ka sahara (support) hai? Jis tarah maa Kamadhenu apne do putron ke dukh se ro padi thi, waise hi Kaushalya apne eklaute (only) putra ke bina kaise zinda rahegi?”
+
+Usne kahani sunayi —
+“Kabhi Kamadhenu gaay (divine cow) ne apne do thake hue putron ko hal kheechte dekha to wo ro padi. Indra ne poocha — ‘Tum kyu ro rahi ho?’ Tab Kamadhenu boli — ‘Main apne do putron ke dukh se dukhi hoon.’ Indra samajh gaya ki maa ke liye beta sabse pyaara hota hai. Agar Kamadhenu jaise devi apne do bachchon ke liye itna ro sakti hai, to Kaushalya apne ek putra Ram ke bina kaise jee payegi?”
+
+Bharat ne phir Kaikeyi se kaha —
+“Tumne jo kiya hai, uska phal tumhe is duniya mein bhi nahi milega, na agle janm mein. Main pehle pita ke antim sanskar (last rites) karunga, phir Ram bhaiya ko wapas launga. Main unka das (servant) bankar unki seva karunga, aur agar zarurat padi to main khud van mein jaaunga!”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Uske shabd dard aur krodh se bhar gaye —
+“Maa, tum apne paap ka prashchit (repentance) karo. Ya to agni (fire) mein pravesh karo, ya Dandaka van mein jaakar jeevan samapt (end life) karo. Jab tak Ram nahi lautte, mujhe sukh nahi milega.”
+
+Yeh kehkar Bharat zameen par gir gaya, uska shareer kampne laga, uski aankhen laal thi, kapde bikhar gaye, gehne gir gaye — jaise koi hathi maar khakar gir padta hai. Uska vilap (lament) poore mahal mein gungunane laga. 💔
+        """
+        create_image_text_layout("attached_assets/chapter2/2.74.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter75
+    with st.expander("Chapter 2.75 - Bharata tries to comfort Kaushalya"):
+
+        text1 = """
+Jab Bharat hosh mein aaya, uski aankhen aansuon (tears) se bhari hui thi. Usne dekha — uski maa Kaikeyi dukh aur pachtave (regret) se tooti hui thi. Darbar mein sab mantri (counsellors) baithe the, aur Bharat ne ro kar kaha —
+“Main ne kabhi rajya (kingdom) chahaa hi nahi tha. Mujhe na to Raja Dasharath ki yeh ichchha (wish) pata thi, na hi Ram bhaiya ke vanvaas (exile) ke baare mein kuch maloom tha. Main to Shatrughna ke saath Rajdhani se door tha. Mujhe kuch bhi nahi pata tha… par ab mera hriday (heart) dukh se jal raha hai.”
+
+Jab Rani Kaushalya ne Bharat ke rote hue swar (crying voice) ko suna, to usne Rani Sumitra se kaha —
+“Lagta hai Kaikeyi ka beta Bharat aaya hai… mujhe usse milna hai.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.75.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Thaki hui, kamzor aur Rama ke virah (separation) mein dukhit Kaushalya, sambhalte hue chal padi. Dusri taraf Bharat aur Shatrughna bhi maa Kaushalya ke kamre ki taraf badhe. Jaisi hi unki nazar us dukhit rani par padi, dono bhai ro padhe aur uske charanon mein gir gaye.
+
+Kaushalya ne Bharat ko gale lagaya, aansu ponchte hue boli —
+“Beta, tumhara rajya paane ka sapna to tumhari kathor (cruel) maa ne poora kar diya… par kis paap (sin) ke badle usne mere bete Ram ko vanvaas bhej diya? Agar Kaikeyi mujhe bhi usi van mein bhej de jahan mera Ram tapasya (penance) kar raha hai, to main khush ho jaungi! Agar nahi, to main Sumitra ke saath khud hi jaungi — apne bete ke paas. Kaikeyi ne tumhe sona, haathi, ghode aur rajya sab kuch diya… par mujhe mera Ram cheen liya.”
+
+Kaushalya ke har shabd Bharat ke dil par teer ki tarah chubhe. Wo zameen par gir gaya aur ro kar bola —
+“Hey Maa, mujhe galat mat samjho. Main Ram bhaiya se poori duniya se zyada prem (love) karta hoon. Main nirdosh (innocent) hoon! Jo bhi Ram bhaiya ke vanvaas ka karan bana, usse main shraap (curse) deta hoon!”
+
+Phir Bharat ne apni maa ke saamne haath jod kar kaha —
+
+“Jo bhi Ram bhaiya ke vanvaas ka doshi (culprit) hai —
+
+Wo Vedas aur dharm (righteousness) sab bhool jaaye!
+
+Wo apne guru ka apmaan kare aur pap (sin) bhare jeevan jeeye!
+
+Uska dhan choron (thieves) dwara chhin liya jaaye!
+
+Wo apni patni (wife) aur bachchon se kabhi sukh na paaye!
+
+Wo apni aayu (life span) chhoti kare aur bina samman (respect) ke mare!
+
+Uska jeevan rog (disease), dar (fear), aur paap (sin) se bhara rahe!
+
+Wo kabhi Rama bhaiya ka rajyabhishek (coronation) na dekh paaye!
+
+Jo bhi vyakti (person) ne Rama ko van bhejne mein saath diya, wo dharm se bhatak jaaye, moh (lust), krodh (anger) aur paap mein doob jaaye!”
+
+Yeh kehkar Bharat zameen par gir gaya, uska shareer kampne laga, aur aansuon se bheeg gaya.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Rani Kaushalya ne roti hui Bharat ka sir apni god (lap) mein rakha aur kaha —
+“Beta, tumhare shabd mere dukh ko aur badha dete hain… par mujhe khushi hai ki tum aur Lakshman dono Ram ke prati prem aur samarpan (devotion) se bhare ho. Tum dono zarur swarg (heaven) jaoge.”
+
+Phir Kaushalya aur Bharat dono milkar ro pade. Raat bhar maa apne bete ko sambhalti rahi, aur Bharat maa ke god mein sir rakhe aansuon ke saath so gaya… 🌙💧
+        """
+        create_image_text_layout("attached_assets/chapter2/2.75.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter76
+    with st.expander("Chapter 2.76 - Bharata starts the funeral ceremony"):
+
+        text1 = """
+Jab Rishi Vasishtha, sabse gyaani (wise) aur pavitra (holy) rishi, ne dekha ki Bharat dukh se toot gaya hai, to unhone narm par dridh (gentle yet firm) shabdon mein kaha —
+“Hey Bharat, apne dukh par kabu pao (control yourself). Ab samay aa gaya hai apne pita Maharaj Dasharath ke antim sanskar (funeral rites) karne ka.”
+
+Bharat, jo zameen par gir kar roya ja raha tha, dhire-dhire utha aur rishi ke aadesh (command) ka palan karte hue, sanskar ki tayyari karne laga.
+
+Raj sevakon ne raja ka shareer (body) tel ke jal (oil vessel) se nikala aur dharti par rakha. Kai din tel mein rehne ke baad bhi, Maharaj Dasharath ka sharir aisa lag raha tha jaise wo shanti se so rahe ho.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.76.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Unhe ek ratnon se saja hua singhasan (gem-studded couch) par rakha gaya. Bharat ka dil bhar aaya — usne raja ke paas ghutno ke bal baithkar kaha:
+“Hey Pita Maharaj, aapne Ram bhaiya ko kyun vanvaas bheja jab main yahan nahi tha? Aap kahan chale gaye mujhe akela chhodkar — bina Rama ke, bina sahare ke? Ab rajya (kingdom) kaun sambhalega? Rama to van mein hain, aur aap swarg (heaven) chale gaye… Ayodhya ab bina chandni ki raat (moonless night) jaisi lagti hai.”
+
+Rishi Vasishtha ne phir kaha —
+“Bharat, ab vilamb (delay) ka samay nahi. Tumhe apne pita ke antim sanskar poore shraddha (devotion) se karne chahiye.”
+
+Bharat ne apne guru aur brahmanon (priests) ki madad se poora sanskar vidhi (ceremony) shuru kiya.
+
+Rajmahal ke yajna mandap (sacrificial hall) mein ved mantron (sacred chants) ke saath agni (fire ritual) kiya gaya. Maharaj ka sharir chandan (sandalwood) aur sugandhit lakdi (fragrant wood) se bani arthi (bier) par rakha gaya.
+
+Raste bhar log sona (gold coins), chandi ke phool (silver flowers) aur vastra (cloth) bicha rahe the. Mahalon ke saamne chandan, loban (incense) aur ambar (ambergris) jala kar sugandh (fragrance) failayi gayi.
+
+Sarayu nadi ke kinare ek bada chita (funeral pyre) banaya gaya — chandan, devdaaru (pine), aur sugandhit jadibutiyan (aromatic herbs) se. Brahmanon ne mantr uccharan (chanting) karte hue Maharaj Dasharath ko agni samarpit (cremated) kiya.
+
+Rani Kaushalya, Rani Sumitra, aur Rani Kaikeyi — sab apne palkiyon (palanquins) mein wahan pahunche. Unke saath purane rakhwale (guards) aur sevak bhi the.
+Raniyan roti hui Raja ke charanon ke paas aayi, aur unke shareer ke chakkar (circumambulation) lagaye — jaise krauncha pakshi (birds) virah mein rote hain, waisa hi shok (grief) ka swar (sound) asmaan tak gaya.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Antim jal daan (libation of water) ke baad sab log — raniyan, mantri (ministers), aur Bharat — bhari aankhon se Sarayu ke kinare se laut aaye.
+
+Us din ke baad dus din tak Ayodhya ke sab log aur Maharaj ki patniyan zameen par soye, bina sukh-sadhan ke, bina gehne, bina singaar — sirf dukh aur virah ke saath… 🌙💧
+        """
+        create_image_text_layout("attached_assets/chapter2/2.76.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter77
+    with st.expander("Chapter 2.77 - The ceremonies continue"):
+
+        text1 = """
+Agle din, yaani 11th day, Prince Bharata ne apna sharir pavitra (purify) kiya, aur 12th day usne Sapindi sanskaar (sacred ceremony joining the soul with ancestors) kiya. Is din usne brahmino ko sona, chandi, kapde, gehne, gaayen (cows), bakriyaan, ghode aur rath (chariots) sab daan (donate) kiye.
+
+13th day, jab raja Dasharath ke asthi (ashes) ikattha karne ka samay aaya, tab Bharata ka dil phir se dukh se bhar gaya. Wo shmashan (cremation ground) ke paas jaakar roya —
+“Hey Pita (father), mere bhai Shri Ram, jinke sapurd (entrusted) aapne mujhe kiya tha, wo van (forest) chale gaye, aur aap bhi mujhe akela chhod kar chale gaye! Ab Maa Kaushalya kis sahare (support) rahegi, jinka beta Ram ab vanvaasi (in exile) hai?”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.77.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Jab Bharata ne apne pita ke safed bhasm (ashes) dekhe, to uska dil toot gaya. Wo zameen par gir gaya, ro kar bola, “Hey Maharaj, bina aapke ye duniya khali lagti hai!”
+
+Mantriyo aur logon ne use sambhalne ki koshish ki, par wo Indra ke patit (fallen) dhwaj (banner) jaise lag raha tha — bina sahare, thaka aur tut chuka.
+
+Ye dekhkar Shatrughna bhi apne pita ko yaad karke bhoomi par gir gaya, behosh (unconscious) ho gaya. Dono bhai jab hosh mein aaye, to apne pita ke gunon (virtues) ko yaad karke phir se rote hue bole —
+
+Shatrughna ne kaha, “Manthara ke diye hue var (boons) to ek samundar jaise hain jisme Kaikeyi jaise magar (crocodile) hum sabko nigal gaye! Hey Pita, aapne humein kyun chhod diya? Ab humein kaun sambhalega, kaun pyaar se khilayega? Yeh dharti aapke jaane ke baad kyun nahi phat gayi?”
+
+“Raja swarg (heaven) chale gaye, aur Ram van mein hain… ab hum kaise jeeyenge? Main Ayodhya nahi lautunga, main bhi tapovan (forest of meditation) chala jaunga!”
+
+Unke shabd sunkar, mahal ke sevak bhi dard (pain) se gir pade, jaise sine se dum nikal gaya ho.
+
+Tab Rishi Vasishtha, unke pita ke Rajguru (royal preceptor), Bharata ke paas aaye aur kaha —
+“Hey Rajkumar, 13 din ho gaye hain. Ab shok (grief) chhodo aur antim kriya (last rites) puri karo. Yeh sansaar ke niyam (laws of nature) hain — jeevan aur mrityu (life and death), sukh aur dukh, bhukh aur pyas — sab ek joda hai. Jo hona tha, use rokar koi nahi rok sakta.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Fir Sumantra ne Shatrughna ko sambhala aur samjhaya ki janm aur mrityu sab par aate hain.
+
+Dono rajkumar, Bharata aur Shatrughna, ro-ro kar laal aankhon se khade hue, Indra ke jhande (banners) jaise lag rahe the — dhoop aur baarish se kamzor, par fir bhi majboot.
+
+Ant mein, mantri aur purohit unke paas aaye aur vinamr (humbly) kehne lage,
+“Rajkumar, ab baaki sanskaar (rituals) poore kar lijiye.”
+
+Aur is tarah, Raja Dasharath ke antim sanskaar poore kiye gaye — Ashru (tears), dard aur shraddha (devotion) ke saath.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.77.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter78
+    with st.expander("Chapter 2.78 - Manthara makes Shatrughna angry"):
+
+        text1 = """
+Prince Bharata dukhi (sad) tha. Wo soch raha tha ki Rama ko van (forest) mein kaise takleef se nikala jaaye.
+Tab Shatrughna bola: “Bhai, Rama jo sabka sahara (support) hai, use kaise van bhej diya gaya? Agar koi galti hui bhi ho, to Lakshmana ne kyun nahi roka? Raja (king) ko bhi rokna chahiye tha.”
+
+Usi samay Manthara aayi. Wo ek kambakht aurat thi — jisko hum kahenge hunchback (tedha-peeth). Usne mehngi poshaak pehni thi, gehne pehne the. Uska chehra sandalwood (chandan) se rangahua tha. Logon ne use dekha aur gusse se pakad liya.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.78.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Darwaze ke paas khade rakshak (guards) bole: “Yahi woh aurat hai jisne Rama ko van bhejne ka karan banaya. Isse jo chaaho karo.”
+Shatrughna ka gussa badh gaya. Usne Manthara ko zor se pakda aur kheench kheench kar sarakar palace (mahal) mein le aaya. Manthara cheekh uthi. Uski gehne idhar-udhar bikhar gayi.
+
+Logon ko dar laga. Mahilayen bhaag kar chhup gayi. Sab sochne lage ki Shatrughna bahut gusse mein hain. Kuchh logon ne Kaushalya ke paas panah (shelter) maangi, kyunki wo dayalu (kind) thi.
+
+Shatrughna ne Manthara ko apni maa Kaikeyi ke saamne phenk diya. Wo kaafi kathor (harsh) boli. Kaikeyi daree (frightened) hui aur Bharata ke paas bhagi, madad ke liye.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Bharata ne turant boli: “Bhai, auraton ko maara nahi jaata. Use chhod do. Agar maine use maara to Rama kabhi mere saath nahi baat karega.”
+Ye sunkar Shatrughna shaant hua. Usne Manthara ko chhod diya.
+
+Manthara zameen par gir gayi aur Kaikeyi ke pairon ke neeche chupak gayi. Uska haal bahut darpok (fearful) tha. Kaikeyi ne dheere se use sambhala aur shaant kar diya.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.78.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter79
+    with st.expander("Chapter 2.79 - Bharata decides to bring Rama back from the forest"):
+
+        text1 = """
+Subah-subah, choudahve din (fourteenth day) ke prabhat (early morning) mein sab mantri (ministers) ikattha hue aur Bharata se bole —
+“Rajkumar (Prince) Bharata, Maharaj Dasharath ab devlok (heaven) chale gaye hain. Shri Rama aur Lakshman van (forest) mein hain. Ab raja ke bina rajya (kingdom) anath hai. Aap hi humare swami (lord) hain. Kripya, singhasan (throne) par baithkar Ayodhya ko sambhaliye. Sab kuch rajyabhishek (coronation) ke liye tayyar hai — log, mantri, aur samagri (materials). Koi aapko dosh nahi dega agar aap raja banein, kyunki yeh aapke pita ka aadesh (will) tha.”
+
+Bharata, jo satya-vakta (speaker of truth) aur dharm ke palak (protector of righteousness) the, ne sab ko dhyaan se suna.
+Unhone poore vinamrta (humility) se rajyabhishek ke saman (ceremonial items) ke chakkar lagaye, aur kaha
+        """
+        create_image_text_layout("attached_assets/chapter2/2.79.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Sun lo sab log! Raghu vansh (Raghu dynasty) ka niyam hai ki raja hamesha sabse bada beta (eldest son) banta hai. Rama mere bade bhai hain, isliye yeh raj unka hai, mera nahi. Main raja nahi ban sakta. Main unke sthan par van mein jaunga, 14 saal ke liye.
+
+Ab tayyari karo — poori sena (army) ko tayyar rakho. Main van jaakar Rama bhaiya ko wapas launga. Unka rajyabhishek wahi van mein karunga. Unhe wapas laakar singhasan par bithaoonga, jaise yagya (sacrifice) ke liye pavitra agni ko sthaan par rakha jaata hai.
+
+Main Kaikeyi maa ke kisi ichchha (wish) ko poora nahi hone dunga. Raste paththarile (rocky) aur kathin (rough) hain — sab sadak (roads) turant theek karwao. Shilpakar (artisans) aur majdoor (workers) ko bhejo.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Sab logon ke mann mein anand (joy) bhar gaya. Mantrigan (counsellors) aur praja (people) sab ro pade, par khushi ke aansuon se.
+Sabne kaha — “Rajkumar Bharata, aap sada samriddhi (prosperity) paayein! Rama ko wapas raja banane ka aapka sankalp bahut shubh (auspicious) hai.”
+
+Aur tab Ayodhya ke mahal aur sadkon mein ek nayi ummid (hope) ki leher daud gayi — Bharata, apne bhai Rama ko wapas laane niklenge!
+        """
+        create_image_text_layout("attached_assets/chapter2/2.79.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter80
+    with st.expander("Chapter 2.80 - A special royal road is made for his journey"):
+
+        text1 = """
+Jab Rajkumaar Bharata ne van (forest) jaane ka sankalp (vow) liya, tab unhone turant aadesh (command) diya —
+sab jal-anveshak (water diviners), kushal shilpakar (skilled artisans), pul-nirmata (bridge builders), rath-banane wale (wheelwrights), lakadhara (woodcutters), mazdoor (labourers), rasoieye (cooks), aur raste jaane waale anubhaviyon (path guides) ko tayyar kiya gaya.
+
+Yeh sab log ek saath chal padey — unka vistaar (mass) samundar ke jaise dikh raha tha jo poornima (full moon) ki roshni mein chamak raha ho.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.80.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Kuch log kulhadi aur auzaar (tools) lekar jungle saaf kar rahe the — ped, jhaadiyaan, aur paththar kaat rahe the. Jahan zarurat thi wahan naye ped lagaye ja rahe the, aur jahan shakhaayein (branches) raste ko rokti thi, unhe kaat diya jaata tha. Balwaan purush (strong men) ped ke tanon (trunks) ko jala kar raste saaf karte, gadhe aur khadd (pits) mitti se bhar dete, aur zameen samat (level) karte.
+
+Chhoti nadiyon (streams) par pul banaye gaye, paththar aur kaante saaf kiye gaye. Pani ke bahaav (flow) ko rokne wale bade paththar toda diye gaye. Jahaan pani kam tha, wahan naye kuan (wells) khode gaye aur raste ke kinare chabutre (platforms) banaye gaye taaki log aaram kar sakein.
+
+Raste par chuna (lime) bichhaya gaya, aur dono taraf phoolon wale ped lagaye gaye jahan pakshi (birds) madhur gaana ga rahe the. Sandalwood (chandan) ki sugandh se bhigoye hue is rajmarg par phoolon aur patiyon (flowering branches) se sajaawat thi — jaise devtaon (gods) ka raasta ho.
+
+Shilpakar (builders) ne sundar ghar aur vishraam grih (rest houses) banaye, taaki sena (army) ko rukne ki suvidha mile. Har camp (shivir) mein jal (water), phal (fruits), aur sab suvidhayein upalabdh thi.
+
+Jo jyotish (astrologers) shubh grahon (auspicious planets) ka gyaan rakhte the, unhone Bharata ke liye vishesh vasasthal (quarters) banaye. Unke charo or gehre khai (moats) aur sundar sadken thi.
+
+Safed mandir (temples), jhande (flags), aur sundar makaanon ki panktiyon (rows) se Ayodhya ka raasta Indrapuri (city of Indra) jaise lag raha tha.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Us rajmarg ka antim prant (end) Ganga ke kinare tak pahucha — jahaan thande paani mein machhliyaan tair rahi thi, aur dono or ped-paudhe hariyali se bhare the.
+
+Woh raasta, jo Bharata ke liye banaya gaya tha, chand aur taare (moon and stars) se saja raat ke aasman (night sky) jaise khubsurat lag raha tha — ek pavitra aur shahi (royal) yatra ke liye bilkul yogya.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.80.2.jpg", text3, layout="side", image_position="right")
