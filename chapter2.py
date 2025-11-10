@@ -3882,3 +3882,280 @@ jahan deepak ki mildi roshni, mandir ki shanti aur van ke sukhad dhwaniyaan (for
         """
         create_image_text_layout("attached_assets/chapter2/2.90.2.jpg", text3, layout="side", image_position="right")
 
+    # Chapter91
+    with st.expander("Chapter 2.91 - The sage welcomes the whole army kindly"):
+
+        text1 = """
+Jab Rajkumar Bharat ne Rishi Bharadvaj ke ashram mein raat bitane ka faisla kiya, to rishi ne kaha —
+“Putra, aaj tum mere yahan bhojan karo.”
+
+Bharat ne vinamr (humble) awaaz mein kaha —
+“Hey Maharshi, aapne mujhe pehle hi paani, phal aur jangal ke berries (phal) se satkaar (welcome) kiya hai. Main poori tarah santusht hoon.”
+
+Is par Rishi Bharadvaj muskuraye aur bole —
+“Hey Rajkumar, mujhe pata hai tum to prem se diye gaye thode se bhi santusht ho jaate ho, lekin main chahata hoon ki main tumhari poori sena ka satkaar karoon. Tumne apni sena ko door kyon rakha? Mujhe batayo.”
+
+Bharat ne nivedan (politely) kiya —
+“Hey Rishivar, main apni sena ke saath isliye nahi aaya, kyunki main chahta tha ki ashram ke vriksh (trees), jhopdiyaan aur pavitra jal (pure water) na bigdein. Meri sena mein hathi, ghode aur bahut saare sainik hain, isliye main unhe door rok kar aaya hoon.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.91.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rishi Bharadvaj ne muskurakar kaha —
+“Bharat, unhe yahan bula lo. Main apni tapasya (penance) ki shakti se sab vyavastha (arrangement) karunga.”
+
+🕉️ Divya Drishya (Celestial Vision)
+Bharat ne aadesh diya, aur kuch hi der mein poori sena wahan pahunch gayi. Tab Rishi Bharadvaj ne apni yog shakti aur mantr bal (power of sacred chants) se Vishvakarma, Tvashta, aur anya devtaon ko amantrit (summon) kiya.
+
+Rishi ne kaha —
+“Hey Vishvakarma! Bharat ki sena ke liye sundar grih (houses) aur bhojan ki vyavastha karo.
+Hey Varun Dev, pavitra jal do.
+Hey Indra aur Kuber, mehmaanon ke liye sab sukh suvidha pradan karo.
+Aur sab nadiyon aur apsaraon (celestial dancers) ko yahaan bulao!”
+
+🪷 Aur fir ek adbhut drishya bana!
+Rishi Bharadvaj ne jab mantr uchcharan kiya, to aasman se phool barasne lage 🌸, hawa me sugandh (fragrance) phail gayi, aur dev-vadya (divine music) bajne laga.
+Kuch hi palon mein, chaar kos (around 5 miles) tak ka area ek swarg jaisa ban gaya!
+
+Sab taraf hari-ghas, sugandhit vriksh jaise aam, amla aur kapitha ke ped ug gaye. Nadi ke kinare sundar makaan, rajmahal, aur stables (pashuon ke liye astabal) ban gaye.
+
+Har makaan me sona-chandi se saja hua singhasan (throne), phoolon se saja hua bistar, aur khushbu wale deep (lamps) jal rahe the.
+
+🍛 Swargiya Bhojan (Heavenly Feast)
+Wahan har prakaar ke khane – chawal, mithi chashni (sugar syrup), pakwan (snacks), laddoo, kheer (sweet rice pudding), aur mithi sharaab (divine wine) tak prakat ho gayi.
+Sainik, purohit, aur mantri sab ashcharya se bhar gaye.
+
+Rishi ke aadesh se apsaraayein — Ghritachi, Vishvachi, Alambusha, Hema aur Soma — sab sundar vastra (clothes) pehenkar nritya (dance) karne lagi. Devtaon ke geet (songs) aur vina ki dhun hawa me gunjne lagi 🎶.
+
+Kamal ke phoolon se bhare talab me dudh aur madhur (sweet) dravya (liquid) beh raha tha. Pedon se madhu (honey) tapak raha tha, aur kuch ped manav roop lekar nachne lage! 🌳💃
+
+Sainikon ne jheel me snaan (bath) kiya, unke shareer par sugandhit tel lagaya gaya, aur apsaraayein unhe komal kapdon se ponch rahi thi. Har vyakti ko amrit jaisa paani pilaya gaya.
+
+🐘🐎 Pashuon ka bhi satkaar hua
+Hathiyon ko cheeni ke ganne khilaye gaye, ghodon ko meetha chawal aur khushbu wali bhoomi di gayi. Sab pashu khush aur taaza lag rahe the.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+🎉 Sena ka Anand
+Sainik bole —
+“Yeh to swarg hai! Na hum Ayodhya lautna chahte hain, na Dandak van jaana chahte hain!”
+Sab log nritya (dance), geet aur bhojan me magan ho gaye. Har taraf hansi, khushbu aur rang birangi maalaon (flower garlands) ka dher lag gaya.
+
+Poora Prayag nagar us raat swarg jaisa chamak raha tha ✨
+
+Aur subah jab sooraj uga, tab devta, nadia aur apsaraayein Rishi Bharadvaj ko pranam karke apne apne lok (realms) ko laut gayin —
+lekin Bharat ki sena ab bhi mast, prasann (joyful) aur vismay (wonder) me doobi thi,
+kyunki unhone ek raat me swarg ka anubhav kar liya tha. 🌺🌙
+        """
+        create_image_text_layout("attached_assets/chapter2/2.91.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter92
+    with st.expander("Chapter 2.92 - Bharata and everyone move toward Chitrakoot"):
+
+        text1 = """
+Subah ka samay tha ☀️. Raat Bhar Rishi Bharadvaj ke ashram me jo swarg jaisa mehmaan-nawazi (hospitality) mili thi, uske baad Rajkumar Bharat ne snan (bath) karke dhyaan se Muni Bharadvaj ke paas jaakar haath jod diye 🙏.
+
+Us samay Rishi yajna (sacrifice) kar rahe the. Unhone Bharat ko dekh kar puchha —
+“Hey nirdosh (sinless) Rajkumar, tumhara raat ka samay kaisa beet gaya? Kya tum aur tumhari sena mere ashram me sukh se the?”
+
+Bharat ne vinamr (humble) bhavna se pranam karke kaha —
+“Hey Maharshi, aapke ashram me to mujhe aur meri poori sena ko param sukh mila. Sab logon ne achha bhojan (food) kiya, sundar grih (houses) me vishraam kiya, aur lambi yatra (journey) ki thakan poori tarah chali gayi. Ab kripya mujhe aashirvad (blessing) dijiye, taaki main apne bhai Shri Ram se milne ja sakoon. Batayiye, unka ashram yahan se kitni door hai aur kis raaste se jana uchit hoga?”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.92.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rishi Bharadvaj ne muskurate hue kaha —
+“Hey Rajkumar, yahan se lagbhag das kos (around 10 miles) door, pattharon se bhare ek kshetra (land) me ek sundar parvat (mountain) hai, jiska naam Chitrakoot hai.
+Us parvat ke uttar (north) me Mandakini nadi beh rahi hai, jiske kinare phoolon se bhare ped aur haryali (greenery) hai.
+Wahin par Shri Ram aur Lakshman, ek chhoti si jhopdi (hut) me vas kar rahe hain.
+Jab tum Yamuna ke dakshin (south) kinare pahunchoge, to tumhe do raaste milenge — apni sena, ghodon aur hathiyon ke saath daahina (right) raasta lena. Wahi tumhe Shri Ram tak le jayega.”
+
+🪔 Raniyon ka Rishi se milna
+Jab Bharat ravana hone lage, tab Raja Dasharath ki patniyan apne rath (chariots) se utar kar Rishi Bharadvaj ke paas aayin.
+Unke beech me Maharani Kaushalya aur Maharani Sumitra rishi ke charanon me girkar pranam karne lagi.
+Phir Kaikeyi, jo sabse zyada dukh aur pashchataap (regret) me thi, chupchaap unke charanon me gir gayi aur pradarshan (circumambulate) kiya.
+
+Us samay Rishi ne Bharat se puchha —
+“Hey Rajkumar, mujhe apni matayein (mothers) se milao.”
+
+Bharat ne nivedan (humbly) kiya —
+“Hey Mahatma, yeh meri pita ki pradhan patni (chief queen) Mata Kaushalya hain — dukh aur upvaas (fasting) ke karan kamzor ho chuki hain, lekin phir bhi devi jaise tej (glow) se bhari hain.
+Inhone us Nar-Simha (lion among men), Shri Ram ko janm diya hai.
+Jo apne haath par sir tikaye dukh bhare man se khadi hain, wo hain Mata Sumitra, jinse Lakshman aur Shatrughna jaise satya-premi (truthful and brave) putra hue.
+Aur yeh, jo sabka dukh ka karan bani, jisne apne krodh (anger) aur ahankar (ego) me Raja Dasharath ko apne putron se door kar diya,
+woh hai meri janani (mother) Kaikeyi.
+Usi ne mere jeevan me dukh laaya, aur mere pita ka hriday (heart) tod diya.”
+
+Itna kehkar Bharat ka gala ruk gaya, aankhon me aansu aa gaye 😢, aur usne bhaari saans li, jaise koi saamp gussa me phuphkar raha ho.
+
+Tab Rishi Bharadvaj ne shant swar me kaha —
+“Putra, apni maa Kaikeyi ko dosh mat do. Shri Ram ka vanvaas (exile) ek maha-uddyeshya (great purpose) ke liye hai. Uske dwara devta, danav (demons), aur rishi sabka kalyan hoga. Samay aane par sab kuch spasht (clear) ho jayega.”
+
+Yeh sun kar Bharat ne rishi ke charanon me pranam kiya, unke charo or parikrama (circumambulation) ki, aur ashirvad lekar ravana hone lage.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+🐘🐎 Sena ka yatra prarambh (departure)
+Sainik apne ghodon aur suvarna (gold) rath par chadh gaye, hathiyon ke gale me ghantiyaan (bells) baji jo badalon ki garaj jaise lag rahi thi.
+Rathon ke piche royal parivar ke sab sadasya chale.
+
+Bharat swayam ek ujwal (bright) palki me baithe, jo sooraj ya chaand ki tarah chamak rahi thi 🌕.
+Unke peeche unki visaal (vast) sena — ghode, hathi, sainik aur rath — badhti gayi, dhool aur tej se poori dharti dhak gayi jaise koi megha (cloud) chha gaya ho.
+
+Jungle ke pakshi (birds) aur mriga (deer) unhe dekhkar chauk gaye,
+aur poora van (forest) goonj utha —
+“Bharat bhaiya Ram se milne ja rahe hain!” 🌿💫
+        """
+        create_image_text_layout("attached_assets/chapter2/2.92.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter93
+    with st.expander("Chapter 2.93 - They reach Rama’s forest home"):
+
+        text1 = """
+Jungle ke gahre raaston (deep forest paths) se Rajkumar Bharat apni visaal (huge) sena ke saath badh rahe the. Unke aate hi jungle ke saare jangli jaanwar — hathi, bhalu (bear), bagh (tiger), aur tendua (leopard) — ghabra kar bhaag gaye 🐘🐅. Pahaadon ke upar aur nadi ke kinare sab praniyon me afra-tafri mach gayi.
+
+Bharat ke sainik dhoom-dham se nara lagate hue aage badh rahe the.
+Poora van (forest) goonj raha tha.
+Unki sena samundar (ocean) ki tarah lag rahi thi — jiske leheron (waves) jaise hathi aur ghode dharti par chhaye hue the 🌊🐎.
+
+Kuch door chalne ke baad Bharat ne dekha ki ghode aur hathi thak gaye hain.
+Tab unhone Guru Vasishtha se kaha —
+“Hey Maharshi, yeh jagah bilkul waisi hi sundar lag rahi hai jaisi Rishi Bharadvaj ne batayi thi.
+Dekhiye, yeh samne Chitrakoot parvat hai, aur uske paas beh rahi yeh Mandakini nadi!
+Door se yeh jungle neela megh (blue cloud) jaisa lag raha tha, aur ab hum uske beech me hain.
+Dekhiye Guruji, yeh hathi apne sund (trunks) se pedon ke phool tod kar pahaadi par uda rahe hain — jaise badal (clouds) barsat me paani barsate hain.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.93.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Bharat ne Shatrughna se kaha —
+“Hey Bhai, dekho yeh Chitrakoot kitna adbhut (wonderful) hai!
+Har taraf hiran (deer) ke jhund ghoom rahe hain, jaise machhliyan (fish) samundar me tairti hain.
+In sundar vanon (forests) me mor (peacock) apne lambi pankh (feathers) ke saath daud rahe hain.
+Hamara poora sena phoolon se saja hua lagta hai, jaise koi utsav (festival) chal raha ho.
+
+Pehle yeh jungle bhayanak (frightening) lagta tha, par ab yeh mujhe Ayodhya jaisa sukhdayak lag raha hai.
+Ghode aur bailon ke pairon se jo dhool uthi hai, usne aasman ko dhak liya hai, par mujhe lagta hai —
+yeh dhool meri aankhon se woh badhayein hata rahi hai, jo mujhe Ram bhaiya ko dekhne se rok rahi thi.”
+
+Bharat ne aage kaha —
+“Hey Shatrughna, dekho wo peacocks apne ghar ki taraf daud rahe hain!
+Kitna sundar dikh raha hai yeh sthaan (place), tapasviyon (sages) ke rehne ke layak.
+Dekho, yeh hiran apni patniyon ke saath khelte hue lag rahe hain jaise unke sharir par phool saja ho.
+Ab humare sainik aage jaakar dekhein — kahin Shri Ram aur Lakshman ka ashram to yahin nahi?”
+
+Jab yeh sunkar kuch sainik aage gaye, to unhone dekha —
+ek jagah se dhuaan (smoke) uth raha tha 🔥.
+Unhone turant wapas aakar Bharat se kaha —
+“Rajkumar, wahan se dhuaan nikal raha hai! Agar wo Shri Ram aur Lakshman ka ashram nahi hai,
+to nishchit (surely) wahan koi tapasvi (sage) hoga jo hume unka pata batayega!”
+
+Yeh khabar sunte hi Bharat ke chehre par khushi chamak uthi ✨.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Unhone kaha —
+“Sab sainik yahin ruk jao, aage main, Guru Vasishtha aur Sumantra hi jayenge.”
+
+Sainik wahi ruk gaye, aur sabne us jagah ki taraf dekha jahan se dhuaan uth raha tha.
+Sabke dil me ek hi soch thi —
+“Ab milan ka samay aa gaya hai… Shri Ram milne wale hain!” ❤️🌄
+        """
+        create_image_text_layout("attached_assets/chapter2/2.93.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter94
+    with st.expander("Chapter 2.94 - Rama decides to stay in the mountains"):
+
+        text1 = """
+Kuch din Chitrakoot parvat par bitane ke baad, Shri Ram ne Sita ji ko us pahaad ke har sundar drishya (scene) dikhaye.
+Dono ek saath aise lag rahe the jaise Indra aur unki patni Shachi Devi – prakashmaan aur divya ✨.
+
+Ram muskurate hue bole –
+“Hey priye (beloved Sita), is sukhad aur sundar parvat ko dekhkar mujhe ab na to Ayodhya ki yaad dukh deti hai,
+na hi mitron aur rajya se door rehna kasht deta hai.
+Dekho, yeh pahaadiyan kitni rang-birangi hain — kuch chaandi si chamak rahi hain, kuch laal, kuch peeli,
+aur kuch to aise lag rahe hain jaise unme neele neelam, sitare jaisi chamak rakhne wale ratna (gems) chhupe ho 🌄💎.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.94.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yahan ke jangli janwar – sher aur tendue tak – rishiyon ke pavitra jeevan se prabhavit ho gaye hain.
+Apna hinsak swabhav (cruel nature) chhod kar shaant ban gaye hain 🦁🌿.
+Pedon par anek pakshi apne ghosle bana kar madhur swar me ga rahe hain.
+Har taraf phool, phal aur thandi chhaya hai – yeh pahaad apne aap me swarg jaisa lagta hai.”
+
+Ram ne Sita ko vanaspatiyon (trees) ke naam bataye –
+“Yahan aam, jamun, asan, lohdra, piyala, kathal (jackfruit), bamboo (baans), bel, amla, madhuka, tilak, ber aur anya anek ped hain 🌳🍋.
+Yeh sab milkar van ko sughandhit (fragrant) aur jeevant bana dete hain.”
+
+Phir Ram ne aasman ki taraf dekha aur bole –
+“Hey Janaknandini (daughter of Janaka), dekho, un pahaadon par Kinner aur Vidyadhar apni patniyon ke saath ghoom rahe hain,
+unke vastra (clothes) aur talwaron (swords) ko pedon par latka hua dekho.
+Yeh pahaad ke jharne (waterfalls) aur baheliyan (streams)
+aise lagte hain jaise hathiyon ke mastak se ichor beh raha ho — shuddh aur prakashit.”
+
+“Hawa jab un gufaon (caves) se nikalti hai, to phoolon ki sugandh (fragrance) lekar aati hai.
+Man ko shaanti milti hai, tan ko sukh.
+Agar mujhe tumhare aur Lakshman ke saath yahin varshon tak rehna pade, to bhi mujhe koi dukh nahi.
+Mujhe lagta hai, isi Chitrakoot parvat par rehkar main pita Dashrath ka vrat (vow) poora kar raha hoon
+aur Bharat bhai ko bhi santosh mila hai 🙏.”
+
+Phir Ram ne Sita ke aankhon me dekh kar kaha –
+“Hey priye, kya tum yahan sukh me ho?
+Yeh vanvas (forest life) humare liye kathin nahi, balki moksha aur shanti ka marg hai.
+Hamare purvaj Manu aur anya rajarshi (royal sages) ne bhi vanvas ko
+devatva (divinity) prapt karne ka sadhan (path) mana hai.”
+
+Ram ne aasman ki taraf ishara karte hue kaha –
+“Dekho, yeh pahaad kitne rangon se saja hai — neela, peela, safed, baingani (purple).
+Raat ke samay, jab vanaspatiyon ke auṣadhi (healing herbs) chamakte hain,
+to yeh pura Chitrakoot prakash se jagmag kar uthta hai 💫.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Kuch gufaen (caves) gharon jaisi hain, kuch bagichon jaisi, sab is pahaad ki shobha badha rahi hain.
+Yeh lagta hai jaise Chitrakoot prithvi se swarg ki or utha ho – har kone me saundarya aur shaanti.”
+
+Ram ne muskurate hue ant me kaha –
+“Hey Sita, yeh Chitrakoot apni phoolon, phalon aur pavitra jal se
+Indra ke nagar Amravati se bhi sundar hai 🌸💧.
+Yahin main tum aur Lakshman ke saath baarah varsh (twelve years) bitana chahta hoon,
+dharma, tapa aur satya ke marg par chal kar,
+rajya ki raksha karte hue aur punya (merit) kamaate hue.” ❤️🌿
+        """
+        create_image_text_layout("attached_assets/chapter2/2.94.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter95
+    with st.expander("Chapter 2.95 - Rama shows Sita the beauty of nature 🌿"):
+
+        text1 = """
+Shri Ram ne jab Sita ko pahadon ki sundarta dikhayi, tab unhone use Mandakini nadi bhi dikhayi — ek aisi nadi jo Cittrakut parvat se nikalti thi aur jiske kinare hamesha hans (swans), saras (cranes) aur aur bhi paani ke pakshi dikhai dete the.
+
+Ram muskurakar bole, “Hey Janak-nandini (daughter of King Janak), dekho ye Mandakini nadi kitni sundar hai! Iske kinare har tarah ke phoolon se lade hue ped khade hain, jaise ye nadi apni sajavat se devlok (heaven) ki Sangandhika nadi jaise lag rahi ho.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.95.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Unhone aage kaha, “Dekho, ye wahi jagah hai jahan tapasvi (ascetics) log, jo bark aur mrigchhal (deerskin) ke vastra pehente hain, snan (bath) karte hain aur surya dev ki pooja karte hain. Hawa chalne par pedon ke patte aur phool hilte hain, jaise parvat khud nritya (dance) kar raha ho. Jab hawa se phool girkar nadi mein beh jaate hain, to lagta hai jaise Cittrakut nadi ko phoolon ka arpan (offering) kar raha ho.”
+
+Ram ne Sita se kaha, “Dekho Sita, Mandakini ke jal (water) motiyon ki tarah chamak rahe hain, aur kuch jagah par safed ret (sand) ke kinare hain. Hans aur jalpakshi (water birds) apni jodiyon ke saath khel rahe hain aur madhur awaaz mein bol rahe hain.”
+
+Phir Ram ne pyaar se kaha, “Hey priye (beloved), tumhare saath Mandakini ke kinare rehkar mujhe Ayodhya se bhi zyada sukh (happiness) milta hai. Chalo, hum dono saath milkar is pavitra (sacred) nadi mein snan karein, jaise hum Ayodhya ke Sarayu kinare khela karte the. Tum mujhe in laal aur safed kamalon (lotuses) se kheloge aur paani uchhal kar hasoge — jaise hum bachpan ke din yaad kar rahe ho.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ram ne ant mein kaha, “Hey Sita, jab main tumhare aur Lakshman ke saath yahan phoolon aur phalon se bhare van (forest) mein rehta hoon, din mein teen baar is nadi mein snan karta hoon aur madh (honey), phal aur ber khaata hoon — to mujhe rajya (kingdom) ya sukh-samaan ki koi kami mehsoos nahi hoti. Jo koi bhi Mandakini ke kinare rehta hai, vah zarur sukhi rehta hai.”
+
+Aur aise hi Shri Ram aur Sita haath pakad kar Cittrakut parvat ke neele aur sundar pahaadon par ghoomte rahe, prakriti ke anant saundarya (eternal beauty) ka anand lete hue. 🌸
+        """
+        create_image_text_layout("attached_assets/chapter2/2.95.2.jpg", text3, layout="side", image_position="right")
