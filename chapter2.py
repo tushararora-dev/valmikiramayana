@@ -4159,3 +4159,168 @@ Ram ne ant mein kaha, “Hey Sita, jab main tumhare aur Lakshman ke saath yahan 
 Aur aise hi Shri Ram aur Sita haath pakad kar Cittrakut parvat ke neele aur sundar pahaadon par ghoomte rahe, prakriti ke anant saundarya (eternal beauty) ka anand lete hue. 🌸
         """
         create_image_text_layout("attached_assets/chapter2/2.95.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter96
+    with st.expander("Chapter 2.96 - Rama and Sita see the army coming"):
+
+        text1 = """
+Shri Ram ne Sita ko Mandakini ki sundarta dikhayi. Dono ek chattan (rock) par baithe the. Ram ne Sita ko van ka bhojan (venison (deer meat) — deer meat) khilaaya aur kaha, “Ye maans shudh (pure) hai aur aag mein sekne (roasted) se swaad badh gaya hai.”
+
+Achaanak door se dhool (dust) ek badal ki tarah uthti dikhai di. Jungle ke haathi, hiran aur jangli janwar dar ke bhaag rahe the. Ram ne fouj (army) ka shor suna. Usne Lakshmana se kaha: “Lakshmana, dekh. Kaun aaya hai? Jangli janwar pareshan hain. Tu jaake dekho.”
+
+Lakshmana turant ek shala (shala) tree par chadh gaya. Purab aur uttar ki or aankhen ghumayi. Wahan ek badi sena dikhai di — haathi, ghode, rath (chariot) aur senani (soldiers) sab the.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.96.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Lakshmana ne gale mein gussa liya. Usne bola: “Rama! Aag bujha do. Sita ko gufa (cave) mein bhejo. Hum dono hathiyar (weapons) le kar khade ho jaayein. Main is sena ko jalaa dunga.”
+
+Ram ne kaha: “Pehchaan (identify) karo, jhandaon (flags) par chinh (symbol) dekho, kiski sena hai.”
+
+Lakshmana kaha: “Yeh Bharata ki sena hai. Usne singhasan (throne) pa liya hoga aur shaayad woh humko maarna chahta hai. Uske jhandon par anar (pomegranate) ka nishaan dikhta hai. Woh hum par aane wali hai — haathiyaan, rath aur teer (arrows) sab lekar. Aaj main usey haraa dunga. Kaikeyi aur Manthara bhi dukh bhogengi (suffer). Aaj hi main apni krodh (wrath) nikaal dunga.”
+
+Rama ne shant swar (calm voice) mein kaha: “Gussa samajh mein aata hai, par jo faisla sahi ho, wahi karein.”
+
+(Short summary)
+Sita ko forest ki khubsurti dikhane ke baad, dono ko door se Bharata ki badi sena nazar aati hai. Lakshmana turant ladne ko tayyar ho jaata hai aur kehta hai ki woh Bharata ko hara dega — par Rama thoda shaant rehta hai aur pehchaan karne ko kehta hai. Emotions — darr, gussa aur protect karne wali bhavna — sab natural aur seedhe tareeke se dikhte hain.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter97
+    with st.expander("Chapter 2.97 - Rama worries Bharata might be angry"):
+
+        text1 = """
+Shri Rama ne Lakshmana ko shaant karne ki koshish ki.
+“O Lakshmana, Bharata hamara prem-pura bhai hai. Woh dushman kyon bana? (enemy)
+Main kabhi apne bhai ko maar kar rajya nahi lunga. Aisa rajya zehar mila khane jaisa hoga. (poison)
+Mera uddeshya [dharma (duty/righteousness)] aur parivaar ki bhalai hai, rajya ke liye nahi.
+Main rajya sirf apne bhaiyon ki seva ke liye chahunga, unki bhalai ke liye.
+
+Shri Rama ke shabdon se Lakshmana ko sharm aayi. Uske kandhe jhuk gaye.
+Lakshmana ne kaha: “Aisa lagta hai jaise Maharaj Dasaratha khud aa gaye hon.”
+Rama ne bhi kaha: “Mujhe bhi aisa hi lag raha hai. Shayad pita hamen dekh kar ghar le jaayenge.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.97.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rama ne dur se do khubsoorat ghode dekhe. Aur ek bada haathi bhi nazar aaya.
+Par Rama ko woh safed chatra (royal umbrella) nazar nahi aaya — isliye thodi chinta bhi hui.
+Lakshmana ne vrksh (tree) se utar kar Rama ke saamne vinamrata se khada ho gaya.
+
+Bharata ne apni sena ko hukum diya ki ve hermitage ke kareeb na aaye.
+Woh shantipurn tareeke se door ruke rahe. Bharata ne sab kuch imandari se kiya, sirf Rama ko laane ke liye.
+
+(Short note)
+Rama ka vishvaas bhai ke prati itna gahra hai ki woh soch bhi nahi sakte Bharata ko dushman ki nazar se. Lakshmana ka gussa natural tha, par Rama ka prem aur nyay (justice) sab par bhaari hua.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+
+    # Chapter98
+    with st.expander("Chapter 2.98 - Bharata walks to meet Rama barefoot"):
+
+        text1 = """
+Shri Bharat, jo hamesha apne Guru ke aadesh (orders) ka palan karte the, apni sena (army) ko araam se tikaya aur fir khud paidal (on foot) Shri Ram se milne nikal pade. Sena ko thaharne ke baad, unhone apne bhai Shatrughna se kaha —
+
+“Hey Shreshth (noble) Shatrughna! Tum apne logon aur kuch shikaarion ke saath van (forest) mein jao aur Shri Ram ka ashram dhoondo. Guha bhi apne hazaar sainikon ke saath, dhanush-baan (bows-arrows) aur talwar lekar, Shri Ram ki khoj kare. Main khud mantriyon, nagrikon, purohiton aur vriddh (elders) ke saath paidal van ke raaste chaloonga. Jab tak main Shri Ram, veer Lakshman aur pavitra (pure-hearted) Sita ko na dekh loon, mujhe chain nahi milega.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.98.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Mujhe sukh tabhi milega jab main Shri Ram ke charanon (feet) par apna mastak (forehead) rakh sakoon — un charanon par jinke nishan (marks) rajvanshi (royal) hai. Mera mann tabhi shant hoga jab main Shri Ram ko hamare vansh (lineage) ke rajsinhasan (throne) par baitha dekhunga, aur unke rajyabhishek (coronation) ka pavitra jal (holy water) un par dekhoonga.”
+
+Bharat ne bhavuk (emotional) hoke kaha —
+“Dhanya (blessed) hai ve Lakshman jo har din Ram ke kamal jaise mukh (lotus-like face) ko dekhte hain. Dhanya hai Rajarshi Janak ki kanya (daughter) Sita, jo Ram ke saath vanvaas (exile) mein ja rahi hai. Dhanya hai ye Chitrakoot parvat — Himalaya ke samaan pavitra, kyunki yahi Shri Ram vas (reside) karte hain, jaise Kuber aur Chitrarath swarg ke vanon (forests) mein rehte hain. Aaj ye van, jo saanp (serpents) aur kathin raste se bhara hai, pavitra ban gaya hai kyunki Shri Ram yahan hain.”
+
+Aise vachan (words) kehkar, veer Bharat paidal van mein pravesh (entered) kar gaye. Vaani ke mahir (eloquent) aur dharmic Bharat van ke madhya (center) tak pahuche, jahan par phoolon aur phalon se lade hue ped (trees) pahaadiyon ko saja rahe the.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Bharat ek shaal ped par chadh gaye aur unhone dekha — dur kahin se dhuaan uth raha hai, Ram ke ashram ka agni (fire) jal raha tha. Ye dekhkar Bharat aur unke saathi khushi se bhar gaye, jaise samundar paar karne wale manzil tak pahunch gaye ho.
+
+Shri Bharat ne apni sena piche chhodi aur Guha ke saath tez kadam (fast steps) se Shri Ram ke ashram ki or chal pade.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.98.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter99
+    with st.expander("Chapter 2.99 - The four brothers meet with tears and joy ❤️"):
+
+        text1 = """
+Bharat ne bade utsaah (eagerness) se apne bhai Shatrughna ko Shri Ram ke ashram (hermitage) ke nishaan (signs) dikhaye. Unhone Guru Vasishtha se kaha ki maaon ko turant yahan le aayein, aur khud ve apne priya bhai Ram se milne ke liye aage badh gaye.
+
+Unke peeche Shatrughna aur Sumantra chal rahe the — sabhi ke mann mein ek hi baat thi: “Bas ab Shri Ram ka darshan (sight) mil jaaye!”
+
+Thodi door jaane par Bharat ne dekha — pedon ke beech ek patton se bani jhopdi (hut) thi, jiske paas pooja ke liye todhe hue phool aur lakdiyaan rakhi thi. Pedon par kush ghas (holy grass) aur kapde ke tukde bandhe hue the — ye Ram aur Lakshman ne raasta pehchaanne ke liye bandhe the. Paas hi hiran (deer) aur bhains ke sukhaye goobar (dried dung) ka dher tha, jisse van ke log sardi mein indhan (fuel) ke roop mein use karte the.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.99.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Bharat ne apne mantriyon se kaha —
+“Ye wahi jagah hai jiska ullekh (mention) Maharshi Bharadwaj ne kiya tha. Dekho, yahan se Mandakini nadi door nahi hai. Lakshman ne raat mein paani bharne ke liye pedon par kapde bandhe honge. Aur wo dekho, van ke haathi ke nishaan (tracks) bhi yahin hain. Mujhe lagta hai, yahin Shri Ram baste hain — veer, tapasvi (sage-like), aur mahapurush (great soul)!”
+
+Thoda aur aage badhne par Bharat aur unke saathi Mandakini nadi tak pahunche. Bharat ne dukh bhari aawaz mein kaha —
+“Hey Ram! Aap jaise mahapurush, jo sab logon ke raja (lord of all beings) hain, aaj is van mein ek tapasvi (ascetic) ki tarah reh rahe hain! Yeh sab meri wajah se hua hai — meri hi janm (birth) abhrashth (tainted) hai! Main sabse apraadhi (guilty) hoon, isliye ab main Ram aur Sita ke charanon mein girkar kshama (forgiveness) maangunga.”
+
+Bharat ne dekha — patton se bani ek pavitra jhopdi, jiske upar sala aur tala pedon ki shaakhein (branches) jhuki hui thi. Jhopdi ke paas dhanush, teer, talvaar aur sona-jade hue dhal (shields) latke hue the. Deer ki khal (skin), sone se kadhe hue dastane (gloves) aur aur bhi bahut si cheezein wahan rakhi thi — sab milkar us ashram ko ek pavitra aur shakti se bhara drishya bana rahi thi.
+
+Aur tab Bharat ki nazar padi — Shri Ram par.
+Ram asan (seat) par baithe the, unke jate (matted hair) unke sir par bandhe the, unka sharir valkala vastra (bark cloth) aur krishna mriga charma (black deer skin) se dhaka tha. Unke kandhe (shoulders) sher ke saman (like a lion’s) the, unke netra (eyes) kamal ke phool jaise, aur unka tej (radiance) agni ke saman chamak raha tha. Unke paas Lakshman aur Sita bhi baithe the — sabhi kush ghas par virajmaan (seated) the, jaise swayam Brahma prakashit ho rahe ho.
+
+Ye drishya dekhte hi Bharat ka hriday (heart) pighal gaya. Aansu roke nahi ruk rahe the. Wo ro padhe aur bhaag kar Ram ke paas jaane lage, par unka gala bhara hua tha, saans ruk gayi thi, aur bolte hue beech raaste gir pade — behosh ho gaye.
+
+Rote hue unhone bas kaha —
+“Hey Ram! Aap jo rajsabha (royal court) mein baithne ke layak the, aaj van ke jantuon (animals) ke beech rehte hain. Aap jo rajvastra (royal clothes) aur sone ke haar pehnte the, aaj mriga charma (deer skin) pehne hain. Aapke mukh pe jo chandan (sandal paste) lagta tha, aaj dhool (dust) lagi hai… Yeh sab meri wajah se hua hai! Mujhse bada paapi (sinner) koi nahi!”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+        text3 = """
+Ye kehkar Bharat behosh ho gaye. Shatrughna bhi ro padhe aur Shri Ram ke charanon ko pakad liya.
+
+Ram ne turant dono bhaiyon ko apne gale (arms) laga liya — unki aankhon se bhi aansu beh gaye.
+
+Us samay Sumantra aur Guha bhi aakar Ram aur Lakshman ke paas khade ho gaye. Aisa laga jaise Surya (Sun), Chandra (Moon), Guru (Jupiter) aur Shukra (Venus) ek saath aasman mein aa gaye ho — itna pavitra milan tha wo.
+
+Van ke sab rishi, muni aur prani (beings) bhi is drishya ko dekh kar aansuon se bhar gaye — chaaro bhaiyon ka milan dekhkar sabke mann mein anand aur karuna (joy and emotion) dono ek saath umad pade. 🌿
+        """
+        create_image_text_layout("attached_assets/chapter2/2.99.2.jpg", text3, layout="side", image_position="right")
+
+    # Chapter100
+    with st.expander("Chapter 2.100 - Rama talks lovingly with Bharata"):
+
+        text1 = """
+Shri Rama ne Bharata ko zameen par pada dekha. Bharata ascetic (tapasvi) kapde pehne tha, baal jate (matted) the aur haath jode hue the — jaise koi dukhi sant (sad saint). Rama ne uske haath pakde aur gale se lagaya.
+
+Rama pyaar se poochte hain: “Beta, tum akele kyon aaye ho? Tumhare pita (father) kahaan hain? Kya kuchh galat (wrong) hua?”
+
+Bharata patla (emaciated/very thin) aur kamzor tha. Rama uski chinta karte hain. Phir Rama ne bahut saare rajneetik (political) sawal puchhe — sab simple tareeke se:
+
+“Kya tum raja ka farz (duty) samajhte ho?
+
+Kya tum raat jaldi uthte ho?
+
+Kya tum apne mantriyon (ministers) se salah (advice) lete ho?
+
+Kya tum achhe manushya (people) ko naukri dete ho — imandaar aur vinamra (honest & humble)?”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.100.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rama samjhate hain ki raja ko bahut zimmedariyan hoti hain: janata (people), sena (army), khazane (treasury), kanoon (justice) — in sab ka dhyaan rakhna padta hai. Agar raja suhana (negligent) ho, to sab pareshan (troubled) ho jate hain.
+
+Woh poochhte hain: “Kya tum apne desh ki suraksha karte ho? Kya tum gareeb aur vriddh (old) logon ka dhyaan rakhte ho? Kya nyay (justice) sabko milta hai?”
+
+Rama ne Bharata ko bataya ki ek achha raja ko kaun-kaun se buraiyon se bachna chahiye — jaise ahankaar (pride), khel (gambling), bahut jyaada nind (sleep), aur anuchit mitrata (bad friendships).
+
+Ant mein Rama ne pyaar se kaha: “Beta, raja wahi jo dharm (duty/righteousness) aur nyay (justice) pe chale. Agar tum in cheezon ka dhyaan rakhoge, to desh khush rahega aur tum swarg (heaven) ko pao-ge.”
+
+Bharata ne dhairya se (calmly) Rama ki baat suni. Dono bhaiyon ki aankhon mein aansu the — par dil mein ek naya sankalp (resolve) jag gaya: sach aur dharm ke raste pe chalna.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
