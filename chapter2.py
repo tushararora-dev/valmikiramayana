@@ -4324,3 +4324,224 @@ Bharata ne dhairya se (calmly) Rama ki baat suni. Dono bhaiyon ki aankhon mein a
         """
         create_image_text_layout(text_content=text2, layout="full")
 
+    # Chapter101
+    with st.expander("Chapter 2.101 - Rama hears about his father’s death"):
+
+        text1 = """
+Jab Shri Rama ne Bharata ki baat suni, to unhone pyaar se kaha: “Beta, apne rajya ke kaam (royal duties) imaandari se karo.”
+
+Par Bharata ne nivedan (pleaded) kiya: “Bhaiya, main raja kaise ban sakta hoon? Jab bada bhai zinda ho, to chhota bhai raja nahi ban sakta. Aap hi Ayodhya chaliye aur raja ban jaiye. Hamare vansh (family) ka dharm (duty) aisa hi hai.”
+
+Phir Bharata ke aankhon mein aansu aa gaye. Usne dheere se kaha:
+“Bhaiya, jab aap van (forest) gaye the aur main apne nana (maternal grandfather) ke ghar tha, tabhi pita Maharaj Dasharath ji ka dehant (death) ho gaya.
+Unhone bahut dukh (sorrow) se, aapki yaad mein, praan (life) chhod diye.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.101.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Bharata ne kaha: “Humne pita ji ke shraddha (ritual) kar liye hain — Shatrughna aur main milkar sab vidhi (rituals) puri ki.
+Lekin ab aap unke liye jal aur pind (rice and water offering) dijiye, kyunki pita ko sabse bada sukh (peace) apne priya putra ke haath se milta hai.”
+
+Woh bolte hain: “Aap hi pita ke sabse priya (beloved) putra the. Unka man hamesha aap par laga raha.
+Aapki yaad aur milne ki iccha mein hi unka hriday (heart) toot gaya.”
+
+Yeh sun kar Shri Rama ka mann dukh se bhar gaya. Unki aankhen bhar aayi, par unhone apne aap ko sambhala (controlled) — kyunki Rama jaante the ki dharm (righteousness) aur shanti (peace) ke liye, kabhi kabhi dukh ko sehna padta hai.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter102
+    with st.expander("Chapter 2.102 - Everyone cries together"):
+
+        text1 = """
+Jab Shri Rama ne Bharata se suna ki unke pita Maharaj Dasharath ji ka dehant (death) ho gaya hai, to Rama behosh ho gaye.
+Unke liye yeh khabar aise thi jaise Indra ka vajra (thunderbolt) kisi par gir gaya ho.
+
+Rama zameen par gir pade, jaise koi bada vriksh (tree) kulhadi se kata jaata hai.
+Sita, Lakshman aur Bharata ne turant paani chhidka aur unhe hosh mein laane ki koshish ki.
+
+Hosh aane par Shri Rama ro padte hain. Unka hriday dukh se bhar jaata hai.
+Woh bolte hain:
+“Ab Ayodhya ka kya karoon, jab pita hi nahi rahe?
+Kaun mujhe batayega ki kya sahi hai aur kya galat?
+Main toh apne pita ke antim sanskar (last rites) bhi nahi kar saka…
+Bharata, tum dhanvān ho, kyunki tumne unka shraddha (funeral rituals) kiya.
+Main toh apne pita ke darshan bhi nahi kar paya.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.102.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir Rama Sita aur Lakshman se kehte hain:
+“Sita, tumhare sasur (father-in-law) ab is duniya mein nahi rahe.
+Lakshman, tum bhi ab pita ke bina ho gaye.
+Chalo, hum Mandakini nadi ke kinare jaakar unke liye jal arpan (water offering) karte hain.”
+
+Sumantra unhe sambhalte hain aur sabko Mandakini nadi tak le jaate hain.
+Rama, Lakshman aur Bharata paani mein utar kar kehte hain:
+“Hey Maharaj Dasharath, yeh pavitra (sacred) jal hum aapko arpan karte hain.
+Aapko hamare prem aur shraddha (devotion) ka yeh jal mile.”
+
+Phir Rama ne Ingudi phal ka ras aur van ke phal-mool mila kar pind (rice ball) banaya,
+aur ro kar kaha —
+“Hey Pita, is van bhojan (forest food) ko sweekar (accept) kijiye.
+Yahi humari shraddha aur prem ka pramaan (symbol) hai.”
+
+Ritual ke baad Rama pahaadi par chadh kar apne kutiya (hut) ki taraf laut aaye.
+Wahan pahunch kar unhone Bharata aur Lakshman ke haath pakad kar zor se ro diye.
+Unke roop (crying) ki awaaz pahadon mein goonj uthi —
+poora van (forest) dukh se bhar gaya.
+
+Unki sena ne yeh awaaz suni to sab ghabra gaye.
+Sab log — ghodon, hathi, rath aur paidal — daud kar Rama ke paas aa gaye.
+Poora jungle unke shor se hil gaya, pakshi (birds) udne lage, jangli janwar bhagne lage.
+
+Jab sabne Rama ko dekha, to unka dukh dekh kar log Kaikeyi aur Manthara ko dosh dene lage.
+Rama ne sabko pyaar se gale lagaya —
+apne barabar walon ko namaskar kiya, chhoto ko ashirwad diya.
+
+Poora van aur aasman unke rote hue swaron (weeping sounds) se goonj utha —
+jaise dhol baj raha ho, dukh aur prem dono ke saath.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter103
+    with st.expander("Chapter 2.103 - Rama meets the queens with respect"):
+
+        text1 = """
+Shri Vasishtha ji, Maharaj Dasharath ki vidhva (widowed) raniyon ke saath, dheere-dheere Mandakini nadi ke kinare Rama ke ashram ki taraf ja rahe the.
+Raste mein Mata Kaushalya ne aansuon bhari aankhon se kaha —
+“Dekho, yeh wahi jagah hai jahan hamara nirdosh (innocent) Rama, Lakshman aur Sita snan (bath) karte honge.
+Hey Sumitra, yahan tera beta Lakshman zaroor apne bhai Rama ke liye paani laata hoga.
+Chahe yeh seva chhoti lage, par bade bhai ke liye yeh kaam karna sabse bada samman (honor) hai.
+Jab Rama, Bharata ke kehne par, wapas Ayodhya lautega, tab tera beta phir se sukh aur aaram paayega.”
+
+Phir Mata Kaushalya ne zameen par dekha — ek chhoti si pind (flour ball) rakhi thi, jo Rama ne apne pita ke liye banayi thi.
+Unhone ro kar kaha —
+“Yeh dekho, yeh Rama ne apne pita ke liye Ingudi phal (forest fruit) se bana hua pind chadhaya hai.
+Mere Raja Dasharath jaise mahan raja ke liye yeh bahut chhoti cheez lagti hai.
+Jiska raj chaaron samudron tak tha, uske liye yeh thoda bhojan (food) kaise uchit (fit) ho sakta hai?
+Mera dil to is dukh se tukde-tukde ho jaana chahiye.”
+
+Baaki raniyan ne Kaushalya ko sambhala, aur sab mil kar Rama ke ashram pahunchi.
+Wahan unhone Rama ko dekha — sanyasi ke vastra (ascetic clothes) mein, par fir bhi devta jaisa tej (divine glow) unke chehre par tha.
+Sab raniyan ro padi.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.103.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rama turant uth kar sab maaon ke charan (feet) chhune lage.
+Raniyon ne unke pairon ki dhool apne maang mein lagayi.
+Lakshman ne bhi unhe pranam kiya, aur sab maaon ne usse bhi apne bete ki tarah pyaar diya.
+Sita bhi, aankhon mein aansu lekar, maaon ke charan chhune lagi.
+
+Mata Kaushalya ne Sita ko gale lagaya aur ro kar boli —
+“Hey Janki, Raja Videha ki beti, Maharaj Dasharath ki bahu, aur Shri Rama ki patni —
+tu itna dukh kaise seh paayi?
+Tera chehra suraj ki garmi se jhul gaya hai, jaise kamal (lotus) murjha jaata hai.
+Mera hriday aag ki tarah jal raha hai tujhe aise dekhkar.”
+
+Thodi der baad, Shri Rama ne Guru Vasishtha ke charan chhuye.
+Unka samman poori shraddha (devotion) ke saath kiya — jaise Indra apne guru Brihaspati ko pranam karta hai.
+Phir Rama unke paas baith gaye.
+
+Bharata bhi apne mantriyon aur senapatiyon ke saath wahan aaye aur Rama ke saamne baith gaye.
+Do bhaiyon ka yeh milan aisa lag raha tha jaise Prajapati aur Brahma ek saath virajmaan (seated) ho.
+Sab log chup-chaap yeh dekh rahe the, man mein ek hi sawal tha —
+“Ab Bharata apne bhai Rama se kya kahenge?”
+
+Wahan Rama, Lakshman aur Bharata — teeno ek saath baithe the,
+jaise yagna (sacrifice) ke teen pavitra agni kund (sacred fires) —
+teeno se ek saath shanti, tej aur bhakti ki roshni nikal rahi thi.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter104
+    with st.expander("Chapter 2.104 - Rama asks Bharata to rule Ayodhya"):
+
+        text1 = """
+Shri Rama, Lakshman ke saath baithe the, tab unhone Bharata se pyaar se poochha —
+“Hey Bharat, tum yahan van (forest) mein kyon aaye ho? Aur yeh valkala vastra (bark clothes) aur mriga-charm (deerskin) kyon pehne ho?
+Tumhe raj-gaddi (throne) par baithna chahiye tha, phir tum yeh tapasvi (ascetic) roop mein kyon aaye ho?”
+
+Bharat ne apna dukh sambhalte hue kaha —
+“Hey Bhaiya, pitaji ka ant (death) meri maa ke bure karmon ke kaaran hua.
+Meri maa Kaikeyi ne bahut bada paap (sin) kiya hai, isse use apna samman (respect) bhi kho diya.
+Ab woh pativratā (devoted wife) hokar bhi apne paap ke dukh se jalegi.
+Main, uska beta hokar bhi, aapka sevak (servant) hoon.
+Aap hum par kripa (grace) kijiye — aaj hi Ayodhya wapas chaliye aur rajgaddi sambhaliye, jaise Indra devta apna singhasan sambhalte hain.
+
+Aapke aane se Ayodhya phir se khush ho jaayegi.
+Pradesh ke sab praja (people), purohit (priests), aur raniyaan aapko bulane aaye hain.
+Hey Mahan, aap sabse bade putra hain — rajyabhishek (coronation) ka adhikar (right) sirf aapka hai.
+Main aur mere mantri aapke charanon mein namra (humble) prarthana karte hain —
+Dayalu bhai, Ayodhya chaliye aur rajya sambhaliye.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.104.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yeh kehkar Bharat ne aansuon bhari aankhon se apna sir Rama ke pairon mein rakh diya.
+
+Rama ne use utha kar gale laga liya aur kaha —
+“Hey Bharat, tu itna dharmya (righteous) aur samajhdaar hai, phir mujhe paap karne ko kyon keh raha hai?
+Tu apni maa ko dosh (blame) mat de — maa ya pita, dono hamare guru (teachers) ke samaan hain.
+Agar pita ya guru kuch bhi aadesh dein — seva, tapasya, ya vanvaas —
+toh humein use poori shraddha (faith) se manana chahiye.
+
+Mujhe pitaji aur mata Kaikeyi ne vanvaas bheja hai —
+main unka aadesh tod nahi sakta.
+Tu Ayodhya ja, praja ke saath rajya sambhal,
+kyonki yeh pitaji ka hi nirdesh (order) tha.
+
+Main yahan Dandaka van mein 14 saal tak tapasya karunga,
+aur yeh hi mera sukh (happiness) hai —
+kyonki pita ke vachan (promise) ka palan hi mera dharma hai.
+
+Hey Bharat, agar main pita ke aadesh ke viruddh (against) jaakar raj karun,
+toh poori duniya ka rajya bhi mere liye bekaar (worthless) hai.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter105
+    with st.expander("Chapter 2.105 - Bharata requests Rama to come back"):
+
+        text1 = """
+Subah ka samay tha. Bharat aur unke saathi raat bhar dukh mein doobe rahe the. Suraj ugte hi sabhi ne Mandakini nadi ke kinare agni pooja (fire ritual) aur maun jap (silent prayer) kiya. Phir ve sab Shri Ram ke ashram mein aaye aur gehri shanti chha gayi — koi kuchh nahi bol raha tha.
+
+Kuch samay baad, Bharat ne sab ke beech chup todte hue kaha —
+“Hey Bhaiya Ram, hamare pita Maharaj Dasharath ne raj mujhe sirf maa Kaikeyi ke vachan poore karne ke liye diya tha. Ab main wahi raj aapko lautata hoon — aap ise bina kisi rukavat ke swikar kijiye. Jaise barsaat mein bandh toot jaaye to koi use rok nahi sakta, waise hi, is bade rajya ko bhi aapke bina koi sambhal nahi sakta.
+
+Jaise gadha (donkey) ghode ki daud tak nahi pahunch sakta, waise hi main bhi aap jaisa raj nahi chala sakta. Aap hi is dharti ke sahi raja hain. Jo dusron par nirbhar (dependent) hota hai, wo dukhi hota hai, lekin jiske upar sab nirbhar ho, wo sachcha sukh paata hai.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.105.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Main ek drishtant (example) deta hoon — ek ped jo paani paakar bada ho jaaye, phool khilaaye, par phal na de, to usse ugane wala logon ke liye uphas (ridicule) ka karan ban jaata hai. Waise hi, agar aap jaise yogya bhai ke hote hue main raj karoon, to yeh rajya bekaar hai. Aap hi hum sabko marg (path) dikhaiye. Hum sab chahte hain ki aap Ayodhya ke sinhasan (throne) par baith kar surya ki tarah chamken.”
+
+Yeh baatein sunkar sabhi log bol uthe — “Bahut accha kaha!” “Bahut accha kaha!”
+
+Tab Shri Ram ne karuna bhare swar mein kaha —
+“Bharat, insaan apne vash (control) mein nahi hota. Samay use idhar-udhar kheench leta hai. Jo kuch bhi hai, sab nashvar (perishable) hai. Har jeev ko apne karm ke anusar marna padta hai — putra, mitra, patni — sab ek din jaate hain.
+
+Jaise pakka hua phal gir jaata hai, waise hi jeevan bhi ek din samapt hota hai. Jaise ek mazboot ghar purana hokar toot jaata hai, waise hi budhaapan (old age) aane par sharir khatam ho jaata hai.
+
+Din aur raat humare jeevan ko kam karte ja rahe hain — jaise garmi mein suraj ki garmi zameen se nami (moisture) choos leti hai. Bharat, agar dukh manane ka samay hai to apne liye mana, kisi anya ke liye nahi.
+
+Maut (death) hamesha humare saath chalti hai — chahe hum kahin chale jaayein, wo humara peecha nahi chhodti. Insaan samajhta hai ki wo din nikal gaya, par asal mein uske jeevan ka ek din kam ho gaya. Rituon (seasons) ka aana aur jaana bhi hamare jeevan ko dheere-dheere kam karta hai.
+
+Jaisi do lakdiyaan samundar mein milkar kuchh der saath rehti hain aur phir alag ho jaati hain, waise hi patni, putra, rishtedaar aur dhan-dhaanya bhi kuch samay ke liye saath rehte hain — phir chale jaate hain.
+
+Isliye, samajhdaar aadmi ko yeh sab samajhkar dharm aur satya ke kaam karne chahiye. Hamare pita Maharaj Dasharath ne bhi apne jeevan mein punya (virtue) aur daan (charity) se yukt karm kiye, aur ab swarg (heaven) ko praapt hue hain.
+
+Unhone apne praja (people) ko sambhala, sirf dharmik kar (tax) liya, talab aur jalashaya (ponds and lakes) banvaye, yagna (sacrifices) kiye aur sukh bhog kar, bade sammaan ke saath swarg gaye.
+
+Bharat, aise pita ke liye shok (grief) karna uchit nahi hai. Tum jaise gyaani (wise) aur dharmik putra ko dhairya (patience) se kaam lena chahiye. Pita ka aadesh tha ki tum Ayodhya mein raho aur rajya sambhalo — isliye tum wapas jao aur rajya karo.
+
+Main bhi unhi ke aadesh se yahaan van (forest) mein rehkar apna dharm poora kar raha hoon. Pitaji ke vachan hum dono ke liye niyam (command) hain. Jo apne pita ke aadesh ka palan karta hai, wahi agle janmon mein bhi sukh paata hai.”
+
+Yeh kehkar Shri Ram chup ho gaye. Unki baatein sun kar sab ke mann mein gehri shanti aur bhakti utpann hui. 🌿✨
+        """
+        create_image_text_layout(text_content=text2, layout="full")
