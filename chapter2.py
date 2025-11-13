@@ -4545,3 +4545,180 @@ Main bhi unhi ke aadesh se yahaan van (forest) mein rehkar apna dharm poora kar 
 Yeh kehkar Shri Ram chup ho gaye. Unki baatein sun kar sab ke mann mein gehri shanti aur bhakti utpann hui. 🌿✨
         """
         create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter106
+    with st.expander("Chapter 2.106 - Rama refuses and keeps his promise"):
+
+        text1 = """
+Shri Ram — jo hamesha apne praja (people) se prem karte the — ne apni baat samapt ki. Tab dharmik (pious) Bharat ne vinamr (humble) swar mein kaha —
+
+“Hey Prabhu Ram, is duniya mein aap jaise kaun ho sakta hai? Na dukh aapko hilata hai, na sukh aapko moh (attachment) deta hai. Aap sabse bade hain, phir bhi apne bade buzurgon se salah lete ho — yeh aapki vinamrata hai.
+
+Jo insaan jeevan aur mrityu (life and death) ko ek samaan samajhta hai, aur jo paane- khona mein samaan rehta hai, use dukh kyu hoga? Aap jaise gyaani (wise) log, jo atma aur uske tattva (essence) ko samajhte hain, kabhi asantulit nahi hote.
+
+Hey Raghuvanshi, aap devataon jaise bade hriday wale (magnanimous) ho. Aap kabhi apna vrat (vow) nahi todte, hamesha dhairya aur satya ke saath rehte ho. Aap sab jaante ho — logon ke mann ke kaaran, unke karm ke uddeshya (intentions), sab kuch. Isiliye jo dukh doosron ko tod deta hai, wo aapko kabhi hila nahi sakta.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.106.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Yeh kehkar Bharat ne bhari hriday (heavy heart) se kaha —
+“Hey Ram, kripa karke mujhe maaf kijiye. Jab main apne mama ke ghar tha, meri maa ne paap (sin) kiya — jo aaj mujhe sata raha hai. Agar dharm (duty) mujhe na rokti, to main us durvichaar (wicked act) karne wali maa ko dand (punish) de deta. Par main Raja Dasharath ka putra hoon — mujhe dharm pata hai, isliye main paap se door rehkar dhairya rakhta hoon.
+
+Mujhe yeh bhi pata hai ki hamare pita ne jo kiya, wo Kaikeyi ke bhay (fear) ya unke shabd ke dabav (pressure) mein kiya. Ho sakta hai us samay unka vivek (judgment) chala gaya ho, jaise maut ke samay insaan sochne ki shakti kho deta hai. Par iska arth yeh nahi ki aap unpar yeh anyay (wrong) ka bojh rakho.
+
+Aap jaise dharmik putra ka kartavya (duty) hai ki apni maa, pita, aur parivar ko is paap ke phal (result) se bachayein. Aap yodha (warrior) ho — aapka kartavya hai rajya sambhalna aur praja ki raksha (protection) karna. Van mein tap karna (penance) to sadhus ka dharm hai, par raja ka dharm hai — nyay aur suraksha dena.
+
+Aapka rajya karna hi sabse bada dharm hai. Agar aap tapasya (austerity) karna hi chahte ho, to rajya sambhalte hue bhi kar sakte ho — yahi grihasth dharm (householder’s duty) ka mool (essence) hai.
+
+Main to aapke saamne ek bachcha hoon — na umr mein bada, na gyaan mein. Main aapke bina kaise jee sakta hoon, rajya chalana to door ki baat hai! Kripaya, aap sabke saath Ayodhya wapas chaliye, aur rajya sambhaliye.
+
+Yahan maharshi Vasishtha hain, mantri aur purohit bhi. Aapka rajyabhishek (coronation) karne ke liye sab taiyaar hain. Jaise Indra dev vijay paakar swarg mein pravesh karte hain, waise hi aap bhi Ayodhya mein pravesh kijiye, aur sab devtaon, rishiyon aur apne pita ko prasann (please) kijiye.
+
+Mujhe apna das (servant) samajh kar aadesh dijiye. Aaj ke din sab aapka rajyabhishek dekh kar anandit (joyful) ho jaayein, aur bure log (evil-doers) bhag jaayein! Aap apni daya (compassion) se meri maa Kaikeyi ke paap ko dhul dijiye. Hey Prabhu, agar aap hamari prarthana na maan kar kisi doosre van mein chale gaye — to main bhi aapke peeche aa jaunga.”
+
+Yeh kehkar Bharat ne apna sir Shri Ram ke charanon (feet) par rakh diya. Par Shri Ram — jo ek baar vachan dete to kabhi todte nahi — apne sankalp (resolve) par dridh (firm) rahe. Unhone Ayodhya lautne se inkaar nahi kiya.
+
+Sab log — brahman, vyapari, aur raja ke purane mantri — Shri Ram ke is dridh nishchay (firm decision) ko dekh kar adbhut (wonder-struck) hue. Unke mann mein ek saath shraddha (devotion) aur dukh dono the.
+
+Striyan ro rahi thi, aur sab log milkar bol rahe the —
+“Ram ji, Ayodhya wapas chaliye! Aapke bina sab suna (empty) hai!” 💔🌿  
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter107
+    with st.expander("Chapter 2.107 - Rama tells Bharata to rule in his name"):
+
+        text1 = """
+Shri Ram, jo Bharat ke dwara poore samman (respect) ke saath pooje gaye the, apne chhote bhai se बोले —
+
+“Hey Bharat, Maharaj Dasharath ke putra aur Kaikeyi ke beta, tumne jo kaha hai wo bilkul sahi aur uchit (appropriate) hai. Bahut purane samay mein jab Maharaj Dasharath ne tumhari maa Kaikeyi se vivaah (marriage) karne ka vichar kiya tha, tab unhone uske pita se wada kiya tha ki Kaikeyi ka putra hi rajya ka uttaradhikari (successor) hoga.
+
+Aur fir devtaon aur asuron ke yudh ke samay, pita Dasharath ne tumhari maa Ko do vardaan (boons) dene ka vachan diya tha — un vardano ke badle tumhari maa ne do maangein maangi: ek mere vanvaas (exile) ki aur doosri tumhe rajya dene ki.
+
+Hey nar-shreshth (best among men), inhi vardano ke karan main van mein aaya hoon, aur tumhe rajya mila hai. Ab jab pita ne satya (truth) ka paalan karne ke liye mujhe vanvaas bheja, to mera bhi kartavya (duty) hai ki main unka vachan nibhau.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.107.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Hey Bharat, tumhara bhi kartavya hai ki tum apne pita ke vachan ka samman karo aur rajya sambhalo. Aisa karke tum apne pita ke naam ko amar (immortal) kar doge aur apni maa Kaikeyi ko bhi khushi doge.
+
+Hey priya bhai, suna hai ek mahan raja Gaya ne kaha tha —
+‘Putra (son) isliye kaha gaya hai kyunki vah apne pita ko narak (hell) se bachata hai aur apne purvajon (ancestors) ki atmaon ko shanti deta hai.’
+
+Isliye, ache aur dharmik putra ka hona sabse bada punya (virtue) hai. Hey Raghuvanshi Bharat, tum bhi ye dharma apnao aur Ayodhya laut jao. Shatrughna aur apne logon ke saath rajya ka sukh aur praja ka hit (welfare) karo.
+
+Main Sita aur Lakshman ke saath Dandaka van jaunga aur wahan ke vanya praniyon (forest animals) par rajya karunga. Tum Ayodhya ke rajya ko sambhalo, aur main van mein prasanna (peacefully) rahunga.
+
+Suraj ki garmi se tumhara raja-chhatra (royal umbrella) tumhe bachaye, aur mujhe pedon ki chhaya (shade) sahara degi. Tumhare paas Shatrughna hoga aur mere paas Lakshman.
+
+Ab tum dukh (sorrow) ko chhod do, Bharat. Hum chaaron bhai milkar apne pita Maharaj Dasharath ke satya aur kirti (glory) ko sada ke liye sthapit (establish) karenge.” 🌿💛
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter108
+    with st.expander("Chapter 2.108 - A brahmin speaks wrongly about dharma"):
+
+        text1 = """
+Jab Shri Ram ne Bharat ko samjha kar Ayodhya wapas jaane ko kaha, tab ek Brahmin Javali wahan upasthit (present) tha. Usne Shri Ram se kuch aise shabd kahe jo dharma ke viruddh (contrary) the —
+
+“Hey Raghunandan (descendant of Raghu), tumne bahut accha kaha, par tum jaise gyaani (wise) aur tatvagyani (philosophical) vyakti ko aam logon jaise nahi sochna chahiye. Soch kar dekho, insaan iss duniya mein akela aata hai aur akela hi jaata hai. Na uska koi asli mitra (real friend) hota hai, na dushman.
+
+Jo vyakti kehta hai — ‘ye mere pita hain’, ‘ye meri maa hai’ — aur in rishton mein asakti (attachment) paida karta hai, wo moorkh (foolish) hai. Yadi vivek (true reasoning) se dekha jaye, to koi kisi ka nahi hota. Jaise ek yatri (traveler) apne gaon se nikal kar raat bhar kisi aur jagah rukta hai aur subah chala jaata hai, waise hi pita, maa, dhan (wealth) aur parivaar thodi der ke saathi hain — samajhdaar log in par asakti nahi rakhte.
+
+Hey nar-shreshth (best among men), tum abhi jawan ho, tumhe kaanton (thorns) se bhare dukh ke raaste par chalna uchit nahi. Tumhe apne pita ka rajya tyagna (abandon) nahi chahiye. Ayodhya ka devta-samaan nagar tumhara intezaar kar raha hai. Wahan jao, rajya bhogo (enjoy), Indra ki tarah Amaravati mein raj karo.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.108.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Raja Dasharath aur tum dono alag vyakti ho. Tum unse juda (separate) ho, aur wo tumse. To fir kyun unke liye itna dukh kar rahe ho?
+
+Hey Ram, pita ka beej (seed) sirf ek door ka karan (remote cause) hai, janm ka mool karan to maa ka garbh (womb) hai. Ab Dasharath to mar chuke hain, sabhi insaanon ka antim gati (destiny) wahi hai. To fir tum jhoothi rishtedari (false relationship) pakad kar kyun dukh pa rahe ho?
+
+Mujhe un logon par dukh hota hai jo is sansaar ke sukh (pleasures) chhod kar punya (merit) kamane ke liye tapasya (penance) karte hain aur apni zindagi barbaad kar lete hain. Mujhe un par dukh nahi hota jo jeevan ka aanand (enjoyment) lete hain.
+
+Aur batao, kya tumne kabhi dekha hai ki koi mar gaya aadmi pitra-shraddha mein diye gaye bhojan (food) ko khaata hai? Agar aisa hota, to yatra karne wale log khud khana le jaane ke bajaye ghar se hi apne naam par khilwa dete!
+
+Hey Ramchandra, shastron (scriptures) ke niyam un panditon ne banaye jo logon se daan (charity) lena jaante the. Unhone kaha — ‘yagna karo, daan do, tapasya karo, sanyasi bano’ — taaki log unke jaal mein aa jaayein.
+
+Par sach to ye hai, hey Ram, koi doosra lok (world) nahi hai — sirf ye hi lok satya hai! Jo aaj hai uska aanand lo, aur jo dukh de usse peeche chhod do. Tumhe jo rajya Bharat de raha hai, use grahan (accept) karo aur jeevan ka aanand uthao.” 🌿🪶
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter109
+    with st.expander("Chapter 2.109 - Rama explains true dharma from the Vedas"):
+
+        text1 = """
+Shri Ram ne dhairya (patience) se Brahmin Javali ki sab baatein suni. Phir bahut shant aur samajhdari bhare shabdon mein bole —
+
+“Hey Muni Javali, tumne jo kuchh kaha mujhe prasann (please) karne ke liye, wo dharm ke anusar (according to dharma) nahi hai. Tumhare shabd vedon ke siddhanton (principles) ke viruddh hain. Achhe logon ki sabha (assembly) mein wahi samman paata hai jo apne man, vachan aur karm (thoughts, words, and actions) se pavitra (pure) ho. Jo log apne ichhaon ke peeche chal kar shastron (scriptures) ko chhod dete hain, unka samman nahi hota.
+
+Vyakti ka achaaran (conduct) hi usse gunwan (virtuous), darpok (coward), ya veer (hero) banata hai. Agar main satya (truth) chhod kar tumhare kehne par apne pita aur badeon ke aadesh (command) ka ullanghan (disobey) kar doon, to main apni maryada (honour) aur sabka vishwas kho dunga.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.109.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Agar main tumhari salah maan kar asatya (falsehood) ki raah par chalun, to log bhi wahi karenge. Raja agar galat chale, to praja bhi usi raaste par chalti hai. Isliye raja ka sabse bada kartavya (duty) hai — satya par tikna (stand on truth).
+
+Satya hi rajya hai, satya se hi sansaar tikta hai. Devta aur rishi sab satya ko sabse ucha maante hain. Jhooth bolne wale se log usi tarah darte hain jaise zehreeli saanp se. Satya hi sab sukhon ka mool (root of happiness) hai, aur swarg (heaven) tak pahunchne ka sabse bada saadhan (means) bhi wahi hai.
+
+Ved bhi kehte hain — jo bhi yagya (sacrifice), tapasya (penance) aur daan (charity) kiye jaate hain, un sabka mool satya hai. Isliye satya sabse pavitra (sacred) cheez hai.
+
+Karma (actions) ke niyam bhi satya par adharit hain. Koi apne karm se swarg jaata hai, koi patal (hell) mein girta hai — sab apne sach aur jhooth par nirbhar (depend) karta hai. To kya mujhe apne pita ke satya-vrat (vow of truth) ko tod dena chahiye? Nahi! Jab maine pita ke samne vanvaas (forest exile) ka vachan diya tha, tab Kaikeyi khush hui thi. Ab agar main wapas jaaun, to uska man phir dukh se bhar jaayega.
+
+Main jhooth aur kapat (deceit) chhod kar, satya aur dharma ke raaste par chalunga. Apne indriyon (senses) ko niyantrit (control) karke, vedon ke aadesh par vishwas rakhte hue, main apne pita ka vachan poora karunga.
+
+Yagya se insaan Indra ki padvi (position) tak pahunchta hai, aur rishi tapasya aur satya se swarg ko prapt karte hain.”
+
+Yeh keh kar Shri Ram ne Javali ke vaadon ka pratikaar (refutation) kiya aur thoda kathor (harsh) swar mein bole —
+
+“Hey Javali, log satya bolkar, apne kartavya (duties) nibha kar, guru aur mehmaan ki seva karke hi swarg ko prapt karte hain. Jo Brahmin satya aur dharma ke raaste par chale, wo hi brahmalok (divine realm) tak pahunchta hai. Par tum jaise log jo dharma se bhatak gaye (deviate), unse raja ko kathor (strict) vyavahar karna chahiye.
+
+Jo Charvaka jaise nastik (atheist) vichar rakhte hain, wo log sach se door ho jaate hain. Samajhdaar vyakti ko unse door rehna chahiye.”
+
+Phir Shri Ram ne kaha — “Hey Javali, purane rishiyon ne hamesha ahimsa (non-violence), satya, tapasya, daan (charity), daya (compassion) aur yagya ki parampara (tradition) ko nibhaya hai. Jo vyakti dusron ko dukh nahi dete, satya par tikte hain, aur sadhu-sabhon (good people) ke sang mein rehte hain, unka naam sada amar (immortal) hota hai — jaise humare guru Vasishtha ka hai.”
+
+Itna sunkar Javali ne vinamrata (humility) se prarthana ki aur bola —
+“Hey Shri Ram, main nastik (atheist) nahi hoon. Maine to bas tumhe parakhne aur tumhe Ayodhya lautne ke liye yeh baatein kahi thi. Mera uddeshya (intention) tumhe bhatkane ka nahi tha.” 🙏🌸
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter110
+    with st.expander("Chapter 2.110 - Sage Vasishtha asks Rama to return"):
+
+        text1 = """
+Jab Shri Ram Javali ke kathin (harsh) shabdon se ab bhi kuchh roshit (upset) the, tab mahan rishi Vasishtha ne unse mitha aur gyaan bhara vachan kaha —
+
+“Hey Ram, Javali ne tumhe bhram (confuse) karne ke liye kuchh kathin baatein kahi, par vah bhi atma ke punarjanm (rebirth) mein vishwas rakhta hai. Uska uddeshya (intention) bas tumhe Ayodhya lautne ke liye manane ka tha. Ab meri baat dhyaan se suno — main tumhe humare vansh (dynasty) ka itihas bataata hoon.”
+
+🌊 Srishti ka aarambh (beginning of creation):
+“Shuruaat mein sab kuchh jal (water) hi tha. Us jal se prithvi (earth) bani, aur phir usse Brahma aur anya devta utpann (born) hue. Akash (ether) se Brahma utpann hue, Brahma se Marichi, Marichi se Kashyap, Kashyap se Vivasvat, aur Vivasvat se Manu ka janm hua. Manu hi sabse pehle Prajapati (lord of beings) the. Manu ka putra tha Ikshvaku — aur usse hi Ayodhya rajya ka aarambh hua.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.110.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+🏰 Ikshvaku vansh ki parampara (lineage):
+“Ikshvaku ke putra the Kukshi, unke putra the Vikukshi, phir Vana, aur uske baad veer (brave) raja Anavanya. Raja Anavanya ke samay logon ko na kabhi akal (famine) aayi, na kabhi chori hui — sab sukh shanti thi. Unke baad Prithu, Trishanku, Dhundhumar, Yuvanashva, aur Mandhata aaye.
+
+Mandhata ke putra the Susandhi, unke do putra — Dhruvasandhi aur Prasenajit. Dhruvasandhi ke putra the mahan Bharata, jinke baad Ajit ne rajya sambhala. Ajit ke viruddh teen raja — Himaya, Talagangha aur Shashavindu — yudh karne aaye, lekin Ajit ne unhe roka.
+
+Phir Ajit Himalaya par tapasya (penance) karne chale gaye. Unki ek rani garbhvati (pregnant) thi, par doosri rani ne use vish (poison) de diya. Tab Kalindi Devi, jo garbhvati thi, rishi Chyavan ke paas gayi aur unhe pranam kiya.
+
+Rishi ne prasann hokar ashirvaad diya — ‘Tumhara beta mahan, satyavaadi, aur veer hoga, apne vansh ka gaurav badhaayega.’
+Aur isi prakaar Kalindi ne ek sundar, kamal-saman aankhon wala putra paaya, jiska naam rakha gaya Sagar (kyunki uske shareer mein vish tha, aur usne samudra khoda).”
+
+🌊 Sagar vansh ke raja:
+“Sagar ke putra the Asamanjas — unhone logon ko sataya, isliye unhe rajya se nikal diya gaya. Unke putra the Amshuman, phir Dilip, phir Bhagirath (jisne Ganga ko dharti par laya). Bhagirath ke baad Kakutstha, phir Raghu, aur unke putra hue Purushadaka, Kalmashapada aur Soudasa. Phir unke vansh mein Shankhana, Sudarshan, Agnivarna, Shighraga, Meru, Prashusvara, Ambarisha, Nahusha, Nabhaga, Aja aur Dasharatha aaye.
+
+Aur Dasharatha ka putra tum ho, hey Ram — sabse pratapshali aur dharm-nishth (righteous) Raja Dasharatha ke vanshaj.”
+
+🔥 Guru Vasishtha ka aadesh:
+“Hey Ram, hamare Ikshvaku vansh mein hamesha bada beta hi rajgaddi (throne) sambhalta hai. Jab tak bada putra jeevit (alive) hai, koi doosra raja nahi ban sakta. Tumhare pita Dasharatha ne bhi isi maryada (tradition) ka palan kiya.
+
+Isliye, hey Raghunandan (descendant of Raghu), tum apne pita ki maryada aur vansh ki parampara ko todna uchit nahi. Ayodhya laut jao aur apne pita jaise hi dharm aur nyay (justice) se rajya karo. Yeh dharti dhan, logon aur devtaon se bhari hui tumhara intezaar kar rahi hai.” 🌺
+        """
+        create_image_text_layout(text_content=text2, layout="full")
