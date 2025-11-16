@@ -4722,3 +4722,519 @@ Aur Dasharatha ka putra tum ho, hey Ram — sabse pratapshali aur dharm-nishth (
 Isliye, hey Raghunandan (descendant of Raghu), tum apne pita ki maryada aur vansh ki parampara ko todna uchit nahi. Ayodhya laut jao aur apne pita jaise hi dharm aur nyay (justice) se rajya karo. Yeh dharti dhan, logon aur devtaon se bhari hui tumhara intezaar kar rahi hai.” 🌺
         """
         create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter111
+    with st.expander("Chapter 2.111 - Rama decides to obey his father’s command"):
+
+        text1 = """
+Bharat ki prarthna, par Shri Ram ka dharm par tikna
+
+Guru Vasishtha ne apni mithi aur gyaan bhari baatein Shri Ram se kahi —
+
+“Hey Ram, jab ek insaan janm leta hai, uske teen sabse bade guru hote hain — uske pita, uski maa, aur uska adhyapak (teacher).
+Pita–Maa usse sharir dete hain, par samajh aur gyaan to guru deta hai. Isliye guru ka darja bahut uncha hota hai.
+
+Yahaan tumhari maa hai, tumhare rishtedaar, brahmin, sainik aur Ayodhya ke log hain. Unka farz tumse juda hua hai. Unhe nirash mat karo.
+Tum yeh samajh lo ki agar tum Ayodhya laut jao, to tum dharm ka ullanghan (breaking) nahi karoge.”
+
+Yeh kehkar Vasishtha ji shaant hokar baith gaye.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.111.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+🌺 Shri Ram ka uttar — apne pita ke vachan se bada kuchh nahi
+
+Shri Ram ne vinamr (humble) swar mein kaha —
+“Pita–Maa ka upkaar (kindness) kabhi chukaya nahi ja sakta. Bachpan mein woh hume khilate hain, sulaate hain, humare sharir par tel malish karte hain, aur hamesha hamare hit (good) ke baare mein sochte rehte hain.
+
+Mere pita ka aadesh mera dharm hai — main use nahi tod sakta.”
+
+😢 Bharat ka sankalp — bhai ko manane ka prayaas
+
+Ram ke shabdon se Bharat ka dil toot gaya. Usne Sumantra se kaha —
+“Hey saarathi, yahaan ek aasan (seat) bana do. Main yahin baith kar vrat (fast) rakhunga, apna munh dhak lunga, aur tab tak nahi uthunga jab tak Ram mujhe nahi man lete.”
+
+Sumantra ne kush grass bichhaya. Bharat dukhi man se vahaan baith gaye.
+
+Shri Ram ne yeh dekhkar pyaar se kaha —
+“Hey mere priya Bharat, tum aise kyun baith gaye? Aisa to ek brahmin apne dushman ke viruddh (against) karta hai. Tum to mere bhai ho. Utho, yeh kathin sankalp (harsh vow) mat lo.”
+
+Par Bharat apni jagah se hile nahi.
+
+💔 Ayodhya ke log bhi anurodh (request) karte hain
+
+Bharat ne logon se kaha —
+“Tum log bhi to Ram se binti karo!”
+
+Par sab log bole —
+“Hume pata hai ki Shri Ram apne pita ke aadesh se nahi hatenge. Unki pratigya (promise) sabse pehle hai.”
+
+🌟 Ram ka sabke saamne gyaan
+
+Shri Ram ne Bharat se kaha —
+“Bharat, apne saathiyon ki baat suno. Tum yodha ho — yeh vrat tumhare layak nahi. Paani piyo, aur shaant ho jao.”
+
+Bharat ne sabke saamne kaha —
+“Sun lo sab log! Main Ayodhya ka raj (kingdom) nahi chahta. Main ne apni maa ko kabhi kuchh nahi kaha. Mujhe Ram ke vanvaas ka kuchh pata bhi nahi tha. Agar pitaji ki maryada ke liye kisi ko vanvaas jana zaroori hai, to main jaaunga. Main Ram ke sthan par van mein rahunga — poore chaudah saal!”
+
+Sab log sunsi reh gaye.
+
+⚡ Shri Ram ka dridh uttar — satya aur maryada ki jeet
+
+Ram ne sabko samjhaya —
+“Jo faisle raja ne apne jeevan mein kiye, unko main bhi nahi badal sakta, aur na hi Bharat badal sakta. Kaikeyi ne jo maanga, pitaji ne sachchai se diya.
+
+Main jaanta hoon ki Bharat sachche, nishkaam (selfless) aur satya ke prem karne wale hain. Jab main vanvaas pura kar ke lautunga, tab hum dono milkar dharm se rajya chalayeinge.
+
+Abhi ke liye, main apne pita ka diya hua vanvaas poora karunga — aur Bharat, tum doosra vardaan poora karo.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter112
+    with st.expander("Chapter 2.112 - Bharata agrees to be Rama’s helper"):
+
+        text1 = """
+Jab Ram aur Bharat ki baatein ho rahi thi, tab aas-paas baithe hue sab rishi–muni aur devta log hairaan reh gaye.
+Unhone kaha —
+
+“Dhanya hai woh raja jiske do bete itne satya-parayan (truth-loving) aur punya aatma hain! Hum in dono bhaiyon ki baatein sunkar bahut prasann hain.”
+
+🌟 Devtaon ka sandesh Bharata ke liye
+
+Kuchh dev–rishi Bharat ke paas aaye aur bole —
+
+“Hey Bharat, tum Raj-vansh (royal family) mein janme ho. Ram ka vachan tum kabhi mat todo.
+Agar tum chaahte ho ki tumhare pita, Maharaj Dashrath, swarg mein shanti se rahein, to unka dharm-poorna kaam tumhe poora karna hoga.”
+
+Yeh kehkar devta log apne lok ko laut gaye.
+Ram in baaton se khush hue aur bole —
+
+“Bharat, dharm ka sahara dene ke liye tum sabka dhanyavaad.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.112.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+😢 Bharat ka phir anurodh: “Bhai, rajya sambhaliye!”
+
+Bharat ne phir kaanpte huye swar mein Ram se kaha —
+“Hey Ram, rajya ka adhikar bada bhai ka hota hai. Ayodhya ki maa Kaushalya bhi yahi chahti hain.
+
+Main itna bada rajya sambhal nahi sakta. Na hi mujhme itni shakti hai ki sab logon ko santusht kar paun.
+Ayodhya ke log barsaat ka intezaar karte kisan (farmer) jaise, bas aapka intezaar kar rahe hain.
+Kripya, rajya apne haath me le lijiye.”
+
+Yeh kehkar Bharat Ram ke charanon mein gir pade —
+“Hey Ram! Hey Ram!”
+
+🌅 Ram ka pyaara uttar — Bharat mein vinamrata hi shakti banegi
+
+Ram ne Bharat ko uthaya, gale lagaya aur kaha —
+“Tumhari vinamrata (humility) hi tumhari shakti hai, Bharat.
+Apne mantri (ministers), mitra (friends) aur gurus se salaah lekar tum rajya acha chaloge.
+
+Himalaya apna barf chhod de, samundar apni seema tod de, par main apna pita ka diya hua vanvaas ka vachan (promise) nahi tod sakta.”
+
+Ram ne pyaar se kaha —
+“Kaikeyi ne tumhare liye jo kiya, chahe pyaar se kiya ya ambition se, uska faisla tum mat karo.
+Bas unhe apni maa ki tarah izzat do.”
+
+👣 Bharat ka maha-sankalp — Rajya chalega Ram ke jooton se
+
+Phir Bharat ne kaha —
+“Hey Ram, apne divya khadau (sandals) in par rakh dijiye.
+Main inhi khadau ko raj-gaddi (throne) par baithakar rajya chalaunga.
+Yeh hi hamari raksha aur margdarshan (guidance) karengi.”
+
+Ram ne khadauen pehn kar phir unhe wapas de diya.
+
+Bharat ne unhe apne sir par rakha aur kaha —
+“Aaj se agle 14 saal tak main valkal (bark cloth) pehenkar, jata (matted hair) banakar, phal–mool khaakar rahunga.
+
+Rajya ko main nahi — aapki khadau sambhalegi.
+Aur agar 14 saal poore hone ke baad mujhe Ram ka darshan nahi hua… to main agni pravesh (fire entry) kar dunga!”
+
+Ram ne apne aansu rok kar kaha —
+“So be it, Bharat.”
+
+Phir Ram ne vinati (request) ki —
+“Apni maa Kaikeyi ka dhyan rakhna.
+Na unse gussa hona.
+Mere naam par aur Sita ke naam par — unhe pyaar aur samman dena.”
+
+💔 Bidaai — Bhaiyon ka judai ka dard
+
+Bharat ne khadau ko sajakar raja ke haathi par rakha.
+Sab Ram ke charanon ko pranam karte rahe.
+
+Ram ne sabko pranam kiya —
+Guru Vasishtha, mantri, sainik, nagrik, sabhi ko…
+Apni maaon ko bhi pranam kiya, par maaen dukh se kuchh bol hi nahi paayi.
+
+Phir Ram dheere se apni vanvaas ki kutiya ki or chale gaye —
+dharm aur maryada ke Himalaya ki tarah achal (immovable).
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter113
+    with st.expander("Chapter 2.113 - Bharata returns to Ayodhya with sorrow"):
+
+        text1 = """
+Shri Bharata, ab poori tarah shaant aur samjhe hue, Ram ke pavitra khadau (wooden sandals) apne sir par rakh kar wapas yaatra par nikal pade. Unke saath Shatrughna, Guru Vasishtha, Vamadeva, Javali aur sabhi buddhimaan mantri chal rahe the. Sab log pehle Chitrakoot parvat ka parikrama (circle) karke, Mandakini nadi ki kinare se purab ki taraf badhe, jahaan chamak-te hue dhatu ke veins (metal lines) nazar aati thi.
+
+Thodi door jaake unhe Bharadvaj Rishi ka ashram dikhai diya. Bharata rath se utar kar adar se pranam karte hain. Bharadvaj Rishi khushi se poochte hain —
+“Hey putra, kya tumne Shri Ram ko dekha? Kya tumhara kaam poora hua?”
+
+Bharata, jo hamesha Ram ke prati prem aur bhakti se bhare rehte the, dheere se bolte hain —
+“Hey Rishiwar, humne Ram ko bahut vinati (request) ki ki woh Ayodhya laut aaye… par Ram ne muskura kar kaha, ‘Mere pita ka vachan main poora karunga. Main 14 saal vanvaas (forest exile) zaroor nibhaunga.’”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.113.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Phir vidvaan Guru Vasishtha bhi batate hain —
+“Humein Ram se unke khadau, jo ratan (gems) se sajaye hue hain, prapt hue. Yeh khadau hi ab Ayodhya ka sashan (rule) sambhalenge jab tak Ram wapas na aa jaye.”
+
+Bharadvaj Rishi unki baat sun kar ashirwaad dete hain —
+“Hey Bharata, tum jaise dharmic (virtuous) putra ko paakar Maharaj Dasharath ne zaroor amaratva (immortality) pa liya hoga.”
+
+Bharata rishi ke charanon ko sparsh karke wapas yoltra par nikal padte hain.
+
+Unka bada sainya (army) — kuchh haathi par, kuchh ghodon par, kuchh bail-gaadiyon par — sab milkar Yamuna ko paar karte hain, phir Ganga ke pavitra paani ko cross karke Shringaverpur pahunchte hain, aur wahan se aage Ayodhya ke liye chal padte hain.
+
+Ayodhya nazdeek aate hi Bharata ka dil toot jata hai. Woh rath ke saarathi se dukh bhare shabdon mein kehte hain —
+“Dekho… yeh meri Ayodhya… kitni sooni, kitni dukhi lag rahi hai. Na utsav, na khushiyaan… lagta hai jaise shehar ka dil hi nikal gaya ho.”
+
+Ayodhya, jo kabhi ujli, sundar aur khushiyon se bhari thi, ab pita Dasharath aur bhai Shri Ram ke bina bilkul viran (empty) lag rahi thi.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter114
+    with st.expander("Chapter 2.114 - Ayodhya feels empty without Rama"):
+
+        text1 = """
+Prince Bharata apne rath mein baithkar, jiska garajta hua sound door-door tak sunai deta tha, Ayodhya mein pravesh karte hain. Par jaise hi woh shehar ke andar aate hain, unka dil toot jata hai.
+
+Ayodhya wahan bilkul suni aur udaas lag rahi thi—galiyon mein sirf billein aur ullu ghoom rahe the. Makaanon ke darwaze band, har jagah andhera aur sannata tha.
+
+Shehar aisa lag raha tha jaise Rohini tara (star) apni chamak kho de jab chaand par grahan lage… ya jaise koi sukha hua nala, jisme na paani bacha ho, na machhliyan.
+
+Ram se judai ki wajah se Ayodhya ek bujhta hua yagya-agni (sacrifice fire) lag rahi thi—pehle chamakti, phir dheere-dheere dhuaan ban kar thandi ho gayi. Jaise ek saena (army) jisme na aslaa ho, na ghode, na hathi, aur sab veer sipahi gir gaye ho.
+
+Kahin Ayodhya ek haar (necklace) jiska moti nikal liya gaya ho… kahin ek daali bhar phool, jo achanak jungle-aag
+        """
+        create_image_text_layout("attached_assets/chapter2/2.114.1.jpg", text1, layout="side", image_position="left")
+
+
+    # Chapter115
+    with st.expander("Chapter 2.115 - Bharata lives in Nandigrama, ruling in Rama’s name"):
+
+        text1 = """
+Prince Bharata, jo apne bhai Shri Rama ke bina bilkul dukh se bhar chuke the, apni maaon ko wapas Ayodhya chhodkar, Guru Vasishtha aur sabhi bade-buzurgon se bole —
+
+“Hey Gurudev, meri ek vinati (request) hai. Main Nandigrama jaa kar rahunga, aur Rama ke bina jo dukh hai, wohi wahan sehunga. Pita Maharaj chale gaye, aur bada bhai vanvaas (forest exile) mein hai. Isliye main bhi tab tak intezaar karunga jab tak Shri Rama wapas nahi aa jaate. Unhi ko Ayodhya ka asli raja hona chahiye.”
+
+Guru Vasishtha aur mantrigan Bharata ki baat sun kar bole —
+“Hey Rajkumar, tumhari bhakti (devotion) aur prem sach mein sarahniya (praiseworthy) hai. Is par kaun tumhara virodh karega?”
+
+Sab log sahmat hokar chale, tab Bharata ne Sumantra se kaha —
+“Rath taiyar karo.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.115.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Nandigrama ki yatra
+
+Bharata ne apni maaon se baat ki, phir Shatrughna ke saath rath par chadhkar Nandigrama ki taraf chal pade. Guru Vasishtha, brahmin, purohit, mantri — sab unke aage-aage chal rahe the.
+
+Peeche poori sena — hathi, ghode, rath, aur Ayodhya ke log bina bulaye hi piche chal pade. Sabhi Bharata ki pavitra bhavana se prabhavit ho gaye the.
+
+Rama ke paduka (sandals) ka rajtilak
+
+Nandigrama pahunchkar Bharata ne Rama ki sunehri paduka apne sir par rakh kar kaha —
+
+“Ye paduka mere bhai Shri Rama ka pratinidhitva (representation) karegi.
+Ayodhya ke logon, inse hi hum rajya ko chalayenge. Inke neeche hi raja ka chhatra (royal canopy) lagega, in par hi chamara (royal fan) jhulega.
+Main sirf Rama ka sevak hun. Jab Rama lautenge, main unhe khud paduka pehnakar poora rajya unhe wapas de dunga.”
+
+Bharata ki awaaz dukh aur prem se bhar gayi. Unhone kaha —
+“Main Rama ko wapas raja bana kar hi maa Kaikeyi se judi badnaami (dishonour) ko dhoyunga.”
+
+Bharata ka tapasvi jeevan
+
+Nandigrama mein Bharata ne jaise tapasvi (ascetic) ki zindagi chuni —
+
+jata (matted locks) baandh li
+
+valkala (bark cloth) pahna
+
+aur apni sena ke beech rehte hue bhi poori tarah Rama ke aadesh (command) mein jeena chuna
+
+Unhone Rama ki paduka ko raj singhasan (throne) par rakha…
+Un par chhatra lagaya…
+Chamara jhulaaya…
+Aur har rajkaaj (state matter) un paduka ke saamne rakha jaata tha.
+
+Jo bhi uphaar (gifts) raja ko milte, pehle paduka ko dikhaye jaate, fir baad mein unka kaam hota.
+
+Bharata khud ek sevak ki tarah jeete the — bas Rama ke wapsi ke intezaar mein.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter116
+    with st.expander("Chapter 2.116 - The sages of Chitrakoot leave the place"):
+
+        text1 = """
+Bharata ke laut jaane ke baad, Shri Rama ne dekha ki Cittrakuta ke saare rishi-muni kuchh ghabraye huye hain. Pehle ye rishi log Rama par poora bharosa rakhte the, par ab woh chup-chup kar baat kar rahe the, jaise unhe koi bada khatra mehsoos ho raha ho.
+
+Shri Rama, jo hamesha vinamr (humble) aur prem se baat karte the, unse bole —
+
+“Hey Maharishiyon, kya maine kisi tarah ki galti ki?
+Ya mere bhai Lakshman ne anjaane mein aapko dukh diya?
+Ya phir Sita ji se kisi ne shikayat ki? Kya unse koi asamuchit (not proper) baat ho gayi?”
+
+Tab ek bohot vridhh (aged) tapasvi rishi, jinki sharir tapasya (penance) se kamzor ho chuki thi, dheere se bole —
+        """
+        create_image_text_layout("attached_assets/chapter2/2.116.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+“Hey Rama, dharati par daya barsane wale, Sita ji ne koi galti nahi ki.
+Haqeeqat yeh hai ki asura (demons) aapke shatru ban gaye hain.
+
+Unka dushmanapan (enmity) hum rishiyon ko bhugatna pad raha hai.
+Ravana ka bhai Kara, jo yahin paas mein rehta hai, bohot hi kathor (harsh) aur hatyara prakriti ka hai. Tumhare yahan aane ke baad se woh aur asura hum par atyachar (oppression) kar rahe hain.”
+
+Asuron ka atyachar – simple words mein
+
+Rishi ne bataya —
+
+Asura bhayankar aur ajeeb roop bana kar aa jaate hain.
+
+Yeh rishiyon ke ashramon mein gande-cheezein phek dete hain.
+
+Jab koi tapasvi akela mil jaata hai, toh uska hatya (killing) kar dete hain.
+
+Jab hum yagna (sacrifice) karte hain, toh woh paani phenkar hawan kund bujha dete hain.
+
+Hamare bartan aur pooja saman tod dete hain.
+
+“Isliye hum sab soch rahe hain ki yeh tapovan chhodkar Maharishi Ashva ke Tapovana mein chal jaayein — wahan phal-mool milte hain aur thoda surakshit hai.
+
+Rama, tum bahadur ho, par Sita ji ke saath yahan rehna khatra (danger) se bhara hai.”
+
+Rama ka dukh aur rishiyon ka jaana
+
+Shri Rama ne bohot pyaar se rishiyon ko rokne ki koshish ki,
+par sab rishi dar ke kaaran jaane par majboor the.
+
+Rama ne un sab ko kuchh door tak chhodne aaye,
+unke charnon ko sparsh (touch) kiya,
+aur rishiyon ne Rama ko aashirvad aur dharm ka gyaan dekar vida liya.
+
+Rama ne Cittrakuta chhodna nahi chaha.
+Kuchh rishi, jo Rama se bahut moh aur prem karne lage the, wahi ruk gaye —
+aur Rama unka bahut dhyaan rakhte rahe.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter117
+    with st.expander("Chapter 2.117 - Rama visits Sage Atri’s ashram"):
+
+        text1 = """
+Shri Rama ne dekha ki sab rishi Cittrakuta chhod kar ja chuke hain. Unke jaane ke baad Ram ne socha ki ab yahan rukna theek nahi hai. Upar se, Bharata ki sena ke haathi-ghode ne pura area bigaad diya tha, jisse jagah gandagi aur dukh bhari lag rahi thi.
+
+Isliye Ram ne decide kiya —
+“Chalo Sita aur Lakshman ke saath yahan se nikalte hain.”
+
+Thoda aage jaakar woh Rishi Atri ke ashram pahunche. Ram ne unko pranam kiya. Atri Rishi ne unhe pita jaise prem se aashirwad diya, aur Sita-Lakshman par bhi daya se nazar daali. Unhone Ram ko poora samman aur mehmaan-nawaazi di.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.117.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Fir, Rishi Atri ne apni patni Anasuya, jo bahut vriddh (old) aur pavitra saint thi, unko bulaya. Atri Rishi ne kaha:
+“Anasuya, Sita hamare ashram aayi hai. Tum ise saath le jao aur pyaar se sambhalo.”
+
+Atri Rishi ne Ram ko bataya ki Anasuya ek mahan tapasvini (woman of great penance) hai. Ek baar jab das saal tak baarish nahi hui, tab Anasuya ne apni tapasya se phal, fal-phool aur Ganga ka pravah (flow) khud utpann kiya tha taaki sab rishiyon ki raksha ho sake.
+Woh itni shaktishaali tapasvini thi ki das raaton ko ek raat bana diya tha rishiyon ki sahayata ke liye!
+
+Atri Rishi ne kaha:
+“Hey Rama, Anasuya bahut adarniya (respect-worthy) hai. Sita ko unke saath rehne do, yeh uske liye achha hoga.”
+
+Ram ne kaha:
+“Thik hai, Sita. Tumne rishi ki baat sun li. Tum Anasuya ji ki seva aur sangati karo.”
+
+Sita, namrata se Anasuya ke saath chali gayi. Anasuya bahut buddhi (old age) ke kaaran kamzor thi, unka shareer patla, baal safed aur haath pair kamp rahe the — jaise zor ki hawa mein taad ka ped hilta ho.
+
+Sita ne unko pranam kiya. Anasuya ne pyaar bhari nazar se uska haal poocha aur boli:
+
+Anasuya’s Teachings to Sita (Hinglish)
+
+“Hey Sita, tum bahut bhagyashaali ho. Tum apne pati ke kartavya (duty) aur seva mein hamesha sachet ho.
+
+Jo pativrata (devoted wife) apne pati ke saath har sukh-dukh mein rehti hai —
+chahe jungle ho ya shehar,
+chahe pati paapi ho ya dharmic (virtuous),
+chahe gareeb ho ya ameer —
+woh stri sabse upar ke lok (highest region) ko prapt karti hai.
+
+Ek patni ka sabse bada mitra (friend) uska pati hi hota hai, kyunki woh har paristhiti mein uski raksha karta hai.
+
+Jo striyan apne ichchhaon (desires) ke peeche padkar galat kaam karti hain, woh patan (fall from virtue) ko prapt hoti hain.
+Par tum jaise samajhdaar, dharm-ko-samajhne wali aur pativrata mahila —
+tumhe swarg milta hai aur sadaiv samman (respect) milta hai.
+
+Hey Sati, tumne hamesha apne pati ke saath milkar dharm ka palan kiya hai. Isi se tumhe punya (merit) aur amar kirti (eternal fame) milegi.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter118
+    with st.expander("Chapter 2.118 - Sita gets gifts of love from Sage Atri’s wife"):
+
+        text1 = """
+Anasuya Mata ki baatein sunkar Sita ne namrata (humility) se jawab diya:
+“Hey Mata, aapne jo seekh di hai woh bilkul sahi hai. Mera vishwas hamesha se yeh raha hai ki pati hi stri ka adhipati (one who leads) hota hai. Chahe pati gareeb ho ya anpadh (illiterate), patni ko usse kabhi nafrat nahi karni chahiye.
+
+Lekin jaisa mera pati Shri Ram hai —
+dayalu (kind), niyam-palankari (self-controlled), sadaiv prem dene wale —
+aisa pati to har patni ka adarsh hota hai.”
+
+Sita ne bataaya ki Shri Ram sab raniyon ko apni maa jaise hi samman dete hain.
+Unhone yaad kiya ki jab woh vanvaas par nikal rahi thi, Maa Kaushalya ne unhe bahut pyaar se kuchh updesh (advice) diya tha, aur Sita ne woh sab apne mann mein hamesha ke liye likh liya tha.
+
+Sita boli:
+“Hey Mata, patni ka sabse bada dharm (duty) apne pati ki seva hi hai. Aapki baatein mujhe meri maa aur Maa Kaushalya ke updesh yaad dila rahi hain.
+
+Savitri ne bhi apne pati ki seva se hi swarg paya. Rohini, jo Chandrama ke saath rehti hai, woh bhi pativrat dharm ke kaaran swarg mein mandit (adorned) hai. Aur jo striyan dharm ka palan karti hain, woh bhi aise hi swarga-lok (heaven) ko prapt hoti hain.”
+        """
+        create_image_text_layout("attached_assets/chapter2/2.118.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Anasuya Mata ka Pyaar aur Uphaar
+
+Sita ki baatein sunkar Anasuya Mata bahut khush ho gayi. Unhone Sita ke sir par pyaar se chumban (kiss on head) diya aur boli:
+
+“Hey Sita, maine bahut tapasya (penance) aur vrat (fasting) kiya hai. Un sab ka punya (merit) tumhe dena chahti hoon. Batao, tum kya chahti ho?”
+
+Sita muskura kar boli:
+“Mata, aapka pyaar hi mere liye sabse bada vardaan (blessing) hai. Mujhe aur kuchh nahi chahiye.”
+
+Par Anasuya ne pyaar se insist kiya:
+“Hey Sita, tumhe dekhkar mujhe bahut anand mila hai. Main tumhe kuchh divya (heavenly) uphaar dena chahti hoon.”
+
+Phir Anasuya ne Sita ko diya —
+
+divya vastra (celestial clothes)
+
+sugandhit lep (fragrant unguents)
+
+kabhi na murjhane wale phoolon ke haar (eternal garlands)
+
+Aur ek divya powder bhi diya jisse pati ka tej (glory) badhta hai, jaise Lakshmi ji se Vishnu ji ka tej badhta hai.
+
+Sita ne in uphaaron ko shraddha (respect) se swikaar kiya aur Anasuya Mata ke paas haath jod kar baith gayi.
+
+Anasuya Mata ka Agla Sawal
+
+Phir Anasuya Mata boli:
+“Hey Sita, tumhari shaadi ka kuchh kissa mujhe pehle pata hai… par main use detail mein sunnna chahti hoon. Mujhe sab batayo.”
+
+Sita ne vinamrata se kaha:
+“Mata, suniye. Main sab batati hoon.”
+
+Sita Apni Shaadi Ka Katha Sunati Hain.
+
+Sita boli:
+
+“Mere pita, Raja Janaka, ek dharma-yoddha (righteous king) the. Ek din jab woh yajna (sacrifice) ke liye bhoomi jo (plough) rahe the, tab main dharti ki godh se janmi. Unhone mujhe godh mein uthaya aur aasman se awaaz aayi —
+‘Hey Raja, yeh hi tumhari beti hai.’
+Tab se unhone mujhe apni aankhon ka taara bana kar pala.
+
+Jab main badi hui, mere pita bahut chintit ho gaye — kaise mujhe yogya var (suitable groom) mile? Bohut raja aaye par koi bhi Varuna ka divya dhanush (divine bow) nahi utha paya. Woh dhanush itna bhari tha ki dus-dus aadmi milkar bhi nahi hila sakte the.
+
+Phir ek din Shri Ram aur Lakshman, Vishwamitra Rishi ke saath aaye. Vishwamitra ne kaha ki unhe dhanush dikhaya jaye.
+
+Aur turant hi Ram ne —
+dhanush utha liya, taan liya, aur vo toot gaya
+jaise bijli ki garj (thunder) ho.
+
+Mere pita ne turant Ram ko mera varan (marriage) dena chaha, par Ram ne kaha ki pehle apne pita Dasharatha ji ki agya lena zaroori hai.
+
+Dasharatha ji aaye, aur sabki suikruti (approval) ke baad, meri shaadi Shri Ram se hui.
+Meri behen Urmila ki shaadi Shri Lakshman se hui.
+
+Tab se mera jeevan ka ek hi dharm hai —
+Shri Ram ki seva, prem aur sat-saath (devoted companionship).”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter119
+    with st.expander("Chapter 2.119 - The sages bless Rama, Sita, and Lakshmana for their forest journey"):
+
+        text1 = """
+Anasuya Mata ne Sita ki shaadi ki kahani dhyaan se suni.
+Phir pyaar se Sita ka haath pakda aur gale lagaya, unke baalon ki khushboo mehsoos karte hue boli:
+
+“Hey Sita, tumne apni kahani bahut pyar se, bahut sundar tareeke se sunayi. Main aur bhi sunna chahti hoon… par ab suraj Asta-chala parvat (sunset mountain) ke peeche chhup gaya hai. Raat ka samay aa raha hai — dekh, pakshi (birds) jo poora din bhojan dhundte rahe, ab apne ghar laut rahe hain. Unki madhur awaaz suno!
+
+Rishi bhi apne bark kapdon (bark-clothes) aur haath mein loshta (sacrificial clay lumps) lekar snan (bath) karke laut rahe hain. Havan kundon se nikalti dhuan (smoke) hawa mein ud rahi hai. Dur khade ped andhere mein badalon jaise lag rahe hain.”
+
+Anasuya ne aasman ki taraf dekha aur boli:
+
+“Hey Sita, taare chamak rahe hain aur chandrama bhi nikal aaya hai.
+Ab tum apne priya pati (beloved husband) Shri Ram ki seva mein jao.
+Aur haan — tum mere diye hue vastra (robes) aur abhushan (ornaments) pehen kar hi jao. Mujhe bahut khushi hogi.”
+
+Sita ne sundar vastra pehne, Anasuya Mata ke charan (feet) chhuye, aur unse vidai li.
+        """
+        create_image_text_layout("attached_assets/chapter2/2.119.1.jpg", text1, layout="side", image_position="left")
+
+
+        text2 = """
+Rama’s Happiness
+
+Jab Shri Ram ne Sita ko naye gehno aur vastron mein dekha,
+to unka mann khushi se bhar gaya.
+Sita ne sab uphaar Ram ko dikhaye aur bataya ki Anasuya Mata ne kaise pyaar se sab diya.
+
+Ram aur Lakshman dono
+Anasuya Mata ke daya-bhav (kindness) se bahut prasan (happy) hue.
+
+Next Morning
+
+Agle din subah, Ram aur Lakshman ne snan kiya,
+prarthna (prayers) ki,
+aur tapasvi rishiyon ke paas bhojan (food) lene gaye.
+
+Tab tapasvi log Ram se bole:
+
+“Hey Rajkumar, yeh jungle bahut khatarnak hai.
+Asura (demons) yahan ghoomte rehte hain — kabhi aadmi ke roop mein, kabhi janwaron jaise.
+
+Woh dusht (evil) asura
+
+manushya ka maans (human flesh) khaate hain,
+
+khoon peete hain,
+
+aur kisi bhi tapasvi ko akela dekh kar maar daalte hain.
+
+Hey Ram, hum sab ki raksha ke liye
+aap in asuron ka vinash (destruction) kijiye.
+
+Yeh hi woh raasta hai jahan se rishi phal-lata (fruits and roots) lene jaate hain.
+Aap bhi isi raaste par jaiye.”
+
+Rishiyon ne Ram ko
+namrata (humility) se aashirvaad diya.
+
+Shri Ram — jo shatru-vinashak (destroyer of foes) hain —
+andar se tej (radiance) lekar jaise suraj badal ke peeche chala jata hai,
+waise hi sheesh jhuka kar forest ki gehraiyon mein pravesh (enter) kar gaye.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
