@@ -65,7 +65,7 @@ def display_content():
     create_image_text_layout(text_content=text0, layout="full")
 
 
-    # chapter3
+    # chapter1
     with st.expander("Chapter 3.1 – Rama is warmly welcomed by the sages in Dandaka Forest"):
         text1 = """
     Rama, Lakshman aur Sita jab Dandaka Forest ke andar gaye, to unhone ek sundar ashram dekha. Yahan bahut saare muni (sage) rehte the. Unke huts ke aas-paas kusha grass (holy grass), phal, jale hue sacred fire aur pooja ki cheezen rakhi hui thi. Poora jagah ek shanti wali roshni se chamak raha tha — bilkul jaise dopahar ka tezz suraj aankhon ko chubhta hai.
@@ -253,45 +253,762 @@ def display_content():
     # Chapter6
     with st.expander("Chapter 3.6 – The sages ask Rama to protect them"):
         text1 = """
+Sharabhanga ji ke Brahmaloka jaane ke baad, bahut saare rishi–muni (sages) Rama ke paas aaye. Yeh sab alag-alag tarah ki tapasya (penance) karne wale yogi the—
 
+koi sirf chandni ki roshni par jeeta tha,
+
+koi bas paani ya hawa se jeeta tha,
+
+koi poore saal dhup-mein khada rehta tha,
+
+koi paanch aagon ke beech tapasya karta tha,
+
+koi nange zameen par sota tha,
+
+koi sirf mantr jap (continuous chanting) karta rehta tha.
+
+Yeh sab mahaan sages, jo yoga aur tapasya mein sthir (steady) the, Sharabhanga ke ashram mein ek saath jama hue—sirf Rama se milne ke liye.
         """
         create_image_text_layout("attached_assets/chapter3/3.6.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Unhone prem aur aadar se Rama se kaha:
+“Hey Ikshvaku vansh ke Rama, aap hum sage logon ke rakshak ho. Tinke Maharaja jaise ho.
+Aap teenon lok (three worlds) mein bahaduri aur dharma ke liye prasiddh ho. Humein kshama karo ki hum aapse apni binti rakhne aaye hain.
 
+Raja apni praja se jo hissa (tax) leta hai, uska farz hota hai unki raksha karna. Jo raja apne logon ko apne bacchon ki tarah bachata hai, woh Brahmaloka tak pahunch sakta hai.
+
+Par hum sages ka haal bahut bura hai, Rama. Rakshas log humein jungle mein mar rahe hain. Pampa Lake, Mandakini nadi aur Chitrakoot ke aaspaas kitne hi tapasvi mare pade hain. Unke shareer yahan bikhre padi hain—kisi ko maar diya, kisi ko kha liya. Hum ab aur bardasht nahi kar sakte.
+
+O Rama! Humari raksha karo. Humare paas duniya mein koi aur sahara nahi hai.”
+
+Rama ne shaant par majboot awaaz mein jawab diya:
+“Rishiyon, aap mujhe kyun vinati karte ho? Main toh pehle hi aapka sevak hoon. Main yahaan aapki raksha karne hi aaya hoon. Yeh mera dharm hai aur mere pita ka aadesh bhi.
+Main rakshason ka ant karunga. Aap sab mera aur Lakshman ka yuddh dekhoge.”
+
+Rama ki baat sunkar sab rishi khush ho gaye. Unke saath saath Rama aur Lakshman Rishi Sutikshna (a gentle and wise sage) ke ashram ki taraf badhne lage. Aspas chalne wale sab sages Rama ko bada adar aur samman de rahe the.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter7
     with st.expander("Chapter 3.7 – Rama meets Sage Sutikshna"):
         text1 = """
+Rama, Lakshman, Sita aur saath mein chal rahe sages bahut door tak chalne ke baad ek sundar parvat ke paas pahunche—jo Meru Parvat (mythical golden mountain) jitna uncha lag raha tha.
 
+Us parvat ke peechhe ek ghana jungle tha, jismein har tarah ke phoolon aur phalon se lade hue ped the. Us jungle ke beech Rama ko ek shant sa ashram dikhai diya—jismein patton ki mala aur bark cloth se sajaavat thi.
+
+Wahin, ek akela kona mein, Rishi Sutikshna (gentle, wise sage) padmasan (lotus posture) mein baithkar tapasya kar rahe the. Unke baal jataon mein bandhe hue the, shareer thoda dhool se dhaka hua tha.
         """
         create_image_text_layout("attached_assets/chapter3/3.7.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Rama ne vinamr awaaz mein kaha:
+“Hey maharishi, main Rama hoon. Aapko darshan karne aaya hoon. Kripya mujhe ashish (blessing) dein.”
 
+Rishi Sutikshna ne aankhen kholi, Rama ko dekha aur turant unhe gale laga liya.
+Woh bole:
+“Swagat hai, Rama! Ab is ashram ko ek sachcha rakshak mil gaya. Main tumhare aane ka intezaar kar raha tha. Isliye main ab tak apna shareer tyag kar swarg nahi gaya. Indra bhi yahan aaye the aur unhone mujhe bataya ki maine apni tapasya se sab lok jeet liye hain.
+Par main yeh saari punya (spiritual merit) tumhare liye rakhna chahta hoon — tum, Sita aur Lakshman inka aanand lo.”
+
+Rama ne shant ho kar jawab diya:
+“Rishi ji, maine bhi sab lokon ko jeet chuka hota, par mujhe apne pita ji ka aadesh aur apna dharm nibhana hai. Sharabhanga rishi ne bhi kaha tha ki mujhe logon ki bhalai ke liye vanvaas poora karna chahiye.”
+
+Rishi Sutikshna ne prem se kaha:
+“Rama, tum chaaho toh is ashram mein reh sakte ho. Yahaan sab rituon mein phal-mool milte hain, hiran ka jhund shanti se aata-jata hai, aur sab sages achche se rehte hain. Yahaan sirf hiran ki sharartein hoti hain — aur koi nuksaan nahi.”
+
+Rama ne apna dhanush uthate hue kaha:
+“Rishi ji, yeh mere liye dukh ki baat hogi agar mere teer se in nirdosh (innocent) hiranon ko chot lage. Isliye main yahan zyada din nahi rahoonga.”
+
+Rama ne shaam ki pooja ki, phir Sita aur Lakshman ke saath raat guzaarne ki tayyari ki.
+Raat hote hi Rishi Sutikshna ne apne haathon se Rama, Lakshman aur Sita ko hulled grain (saaf kiya hua anaaj, ascetics ka bhojan) prasad ke roop mein diya.
+
+Is tarah Rama ne ek aur pavitra rishi ka ashirvaad paaya aur ashram mein ek shaant raat bitai.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter8
     with st.expander("Chapter 3.8 – Rama says goodbye to Sutikshna"):
         text1 = """
+Rama aur Lakshman ne Rishi Sutikshna ke ashram mein ek shaant raat bitai. Subah hote hi wah dono Sita ke saath thandi aur kamal sugandhit (lotus-fragrant) paani mein snaan karne gaye.
 
+Phir unhone Agni aur devataon ki pooja ki. Jab suraj poori tarah ug aaya, to Rama vinamr hokar Rishi Sutikshna ke paas gaye aur bole:
+
+“Rishi ji, aapne humein bahut samman diya. Ab hum aapse vidai lena chahte hain, kyunki saath chal rahe sages aage badhna chahte hain.
+Hum iss Dandaka Forest ke sab ashramon ka darshan karna chahte hain — un sab rishiyon ka, jo tapasya (penance) se pavitra ho gaye hain.”
         """
         create_image_text_layout("attached_assets/chapter3/3.8.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Rama ne yeh bhi kaha:
+“Hum garam dhoop tezz hone se pehle nikalna chahte hain.”
 
+Rama, Lakshman aur Sita ne jakar Sutikshna ji ke charanon mein pranam kiya.
+Rishi Sutikshna ne unhe uthaya, prem se gale lagaya aur ashirwad diya:
+
+“Rama, Lakshman, Sita — tum teeno surakshit jao.
+Dandaka Forest ke un sundar sthal dekho jahan pavitra rishi rehte hain.
+Wahan tumhe phal-phool se bhare van, hiran ke jhund, pyari chidiya, kamal ke phool, shant talab, pahaadon se girti jal-dhara (waterfalls) aur moron ki awaaz se gunjti ghatiyan milengi.
+Aur jab tum sab dekh lo, toh mere paas wapas zaroor aana.”
+
+Rishi ke shabdon ko sunkar Rama aur Lakshman bole:
+“Rishi ji, aisa hi hoga.”
+
+Unhone rishi ka pradakshina (circumambulation) kiya aur chalne ki tayyari ki.
+Sita ne pyaar se unke quiver (tera-bharne ka tokra), dhanush aur chamakte talwaren unhe pakraayi.
+
+Is tarah Rama, Lakshman aur Sita — teeno apna yatra ka agla padav shuru karte hue — Dandaka ke gahre van ki aur nikal pade.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter9
     with st.expander("Chapter 3.9 – Sita asks Rama not to fight the demons"):
         text1 = """
+Rama jab Rishi Sutikshna se vidai lekar aage badh rahe the, tab Sita ne pyar aur namr (gentle) awaaz mein unse kaha:
 
+“Rama, aap hamesha pavitra aur sahi raaste par chalne wale ho. Par kabhi kabhi chhoti si galti dheere-dheere badh kar badi ban jaati hai.
+Ichchha (desire) se paida hone wali teen buri baatein hoti hain:
+
+jhooth bolna,
+
+kisi doosri ki patni par nazar rakhna,
+
+bina wajah hinsa (violence) karna.
+
+Aap ne kabhi jhooth nahi bola, aur na hi kabhi dusri aurat ke baare mein socha. Aap apne dharm, satya aur pitaji ke aadesh par poori tarah chalne wale ho. Aapne hamesha apne man ko niyantrit (controlled) rakha hai.”
         """
         create_image_text_layout("attached_assets/chapter3/3.9.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+Sita ne halka sa saans liya aur phir boli:
+
+“Par Rama, teesri buri baat — bina wajah hinsa — mujhe ab thodi chinta de rahi hai. Aapne rishiyon se wada kiya hai ki aap rakshason ko maarenge. Par main sochti hoon ki kya yeh sahi hoga?
+
+Jab aap dhanush-baan lekar Dandaka ke jungle mein jaaoge, toh kahi rakshas ko dekhte hi teer na chala do. Jaise lakdi ki guchchhi aag ko badha deti hai, waise hi hathiyar ek yoddha ke gusse aur shakti ko badha dete hain.”
+
+Sita ne ek purani kahani sunayi:
+
+“Ek baar ek pavitra rishi tapasya kar rahe the. Tab Indra ne unki tapasya bigaadne ke liye ek talwar (sword) unke paas rakh di. Rishi ne socha—‘Mujhe iska dhyan rakhna hoga.’
+Dheere-dheere woh har jagah talwar lekar jaane lage—phal lene, jadh-bhooti lene, sab jagah.
+Talwar pakadte-pakadte unke man mein hinsa aa gayi. Unhe hinsa achchi lagne lagi.
+Dheere-dheere unki tapasya toot gayi aur woh patan (fall into wrongdoing) mein gir gaye.
+
+Isliye kehte hain, Rama—hathiyaar man ko badal dete hain.”
+
+Sita ne Rama ka haath pakadkar kaha:
+
+“Main aapko sikhane nahi aayi hoon. Bas patni hone ke nate chinta ho rahi hai.
+Kripya bina wajah rakshason ko na maarna, Rama.
+Yoddha ka dharm hota hai ki bina baat ke hinsa na kare.
+
+Aap yahan vanvaas mein ho, ek tapasvi (ascetic) ki tarah rehna chahte ho. Jaisa maine suna hai—duty (kartavya) par chalne se hi sachchi khushi milti hai.
+
+Ayodhya lautne par aap phir se apne yoddha-dharma ko poora kar sakte ho.
+Par abhi, shanti aur dhairya (patience) hi sahi marg (right path) hai.”
+
+Sita ne neeche dekh kar dheere se kaha:
+
+“Aur Rama… yeh sab main isliye keh rahi hoon kyunki main aapse prem karti hoon.
+Aakhir mein, jo bhi sahi lage, wahi kijiye. Aap hi sabse achche samajhdaar ho.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter10
+    with st.expander("Chapter 3.10 – Rama reminds Sita about his promise to protect the sages"):
+        text1 = """
+Sita ki pyaar aur chinta se bhari baaton ko sun kar Rama ne shaant par majboot awaaz mein kaha:
+
+“Sita, tumne jo kaha, woh prem (love) aur dayaluta (kindness) se hi nikla hai.
+Par tumne khud hi ek baat kahi thi —
+‘Yoddha apna dhanush isliye rakhte hain ki anyaay (oppression) kabhi duniya mein na ho.’
+
+Main Dandaka Forest isliye aaya hoon kyunki yahaan ke rishi–muni (ascetics) mere paas madad maangne aaye the.
+Yeh bechare phal–mool par jeene wale tapasvi rakshason ke dar se chain se reh nahi paate.
+Rakshas un par hamla karte hain, unke yagya bhang karte hain, aur kabhi kabhi unhe kha bhi jaate hain.”
+        """
+        create_image_text_layout("attached_assets/chapter3/3.10.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+Rama ne yaad kiya kaise sages unke charanon mein gir pade the:
+
+“Unhone mujhe pukaar kar kaha—
+‘Rama, humein bachao!
+Dandaka ke rakshas hamein vardaan ke bal par sata rahe hain.
+Hum unhe shaap dekar mita sakte hain, par hum apni tapasya ka phal khona nahi chahte.’
+
+Sita, unki aankhon mein dard tha.
+Unki awaaz ka compan (trembling) sun kar hi maine wada kiya—
+‘Dar mat karo. Main tumhari raksha karunga.’
+
+Ab main unka diya hua wada kaise toda?
+Rama ne dridh (firm) awaaz mein kaha:
+
+“Sita, main apni jaan de sakta hoon,
+tumhe bhi kho sakta hoon,
+Lakshman tak ko de sakta hoon…
+
+par ek baar brahminon se diya hua pratigya (vow) kabhi nahin tod sakta.
+
+Agar mainne unse wada na bhi kiya hota,
+tab bhi unki raksha mera kartavya (duty) hota.
+Par ab to maine vachan diya hai.”
+
+Phir Rama ne naram hokar Sita se kaha:
+
+“Tumne jo kaha, woh tumhari pavitra soch ki wajah se hai.
+Main jaanta hoon tum prem se hi mujhe rokna chah rahi ho.
+Isliye tum meri praan se bhi zyada pyari ho.”
+
+Itna kehkar Rama ne apna dhanush uthaya,
+Sita ka haath pakda,
+aur Lakshman ke saath Dandaka ke ghane, sundar, par khatarnak van mein aage badhte rahe.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter11
+    with st.expander("Chapter 3.11 – Rama visits many ashrams and hears about Sage Agastya"):
+        text1 = """
+Rama aage chal rahe the, unke piche Sita, aur sabse piche Lakshman, apna dhanush pakde hue.
+Teeno jungle ke beech pahadon, khuli maidaanon, phoolon se bhare ped, shant nadiyon aur kamal se lade hue talaabon ko dekhte aage badhte gaye. Jahan jahan jaate, hiran, hans, bagule, bhaloo, jangli bhaise aur bade bade aane wale haathi nazar aate.
+
+Ek din suraj dhalne ke waqt, woh ek bada sa sundar jheel par pahunche—Panchapsara (lake created by penance).
+Jheel mein kamal the, hans the, aur vanya hathi bhi. Paani bilkul shant tha. Par sabse ajeeb baat yeh thi ki wahan sangeet (music) baj raha tha, par koi dikh nahi raha tha!
+        """
+        create_image_text_layout("attached_assets/chapter3/3.11.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+Rama ne ek rishi, Dharmabhrit (pious sage), se poocha:
+“Hey rishi, yeh madhur sangeet kis ka hai?”
+
+Rishi ne ek dilchasp kahani sunayi:
+“Yeh jheel Sage Mandarkini ki tapasya se bani hai.
+Woh hazaron saal tak paani mein khade rehkar bas hawa par jeete rahe.
+Devtayon ko dar hua ki woh unke barabar na ho jaye, isliye unhone paanch sundar apsarayein (celestial nymphs) bheji.
+Apsaraon ne rishi ka man mohit kar diya.
+Phir woh aur apsarayein is jheel ke neeche banaaye hue ek gupt sthal mein rehte hain.
+Unka sangeet hi aap sun rahe ho.”
+
+Rama ne yeh kahani suni aur apne safar par aage badhe.
+Teeno—Rama, Sita, Lakshman—alag-alag ashramon mein jaate, rishiyon se milte, kuch mahine unke saath rehte.
+Kabhi 10 mahine, kabhi 4, kabhi ek-saadhai (one and a half), kabhi saal bhar bhi.
+Aise hi 10 saal nikal gaye, bina kisi jaldi ke.
+
+Phir Rama Rishi Sutikshna ke paas wapas aaye.
+Wahan ek din unhone kaha:
+“Rishi ji, log kehte hain ki Rishi Agastya yahin jungle mein rehte hain. Unka ashram kahan hai? Hum unse milna chahte hain.”
+
+Rishi Sutikshna khush hokar bole:
+“Rama, main bhi tumhe Agastya ji ke paas bhejna chahta tha.
+Sunno — yahan se lagbhag chaar kos (about 4 miles) dakshin taraf unke bhai ka ashram hai.
+Wahan phal-phool se bhare ped, kamal ke jheel, hans aur mitti ki meethi khushboo tumhe milegi.
+Wahan ek raat aram karke, phir agle subah chaar kos aur aage jao — tumhe Rishi Agastya ka asli ashram mil jayega.
+Sita, tum aur Lakshman wahan bahut khush rahoge.”
+
+Rama, Lakshman aur Sita Sutikshna se vidai lekar path par chal pade.
+Raaste mein har taraf:
+
+Phoolon se lade ped,
+
+janglon ko cheer kar nikalti nadia,
+
+jheelon mein khelte hans aur batakh,
+
+pedon par latakte creepers,
+
+aur haathi jo ped tod kar raasta banate the.
+
+Jab Rama ne Agastya ke bhai ka ashram dekha, woh bole:
+“Lakshman, dekh! Pedon ke jhoolte phal, ripe fig ki khushboo, dhuaan uthta yagya, sab kuch wahi hai jaisa Sutikshna ne kaha tha.”
+
+Fir Rama ne purani kahani sunai:
+“Yahin par do rakshas — Vatapi aur Ilvala — brahminon ko dhokha dekar maarte the.
+Ilvala ek sage ka roop lekar vatapi ko ek bakre ki tarah paka kar brahminon ko khila deta tha.
+Phir woh chilata — ‘Vatapi, bahar aao!’
+Aur Vatapi brahminon ke sharir cheer kar bahar aa jata.
+Hazaron brahmin mare gaye.
+
+Phir devtaon ke kahne par Agastya rishi ne us bhojan ko khalas kar diya.
+Jab Ilvala ne ‘Vatapi, bahar aao!’ kaha, tab Agastya ji hans kar bole —
+‘Woh bahar nahi aa sakta — woh mere pet mein pacha chuka hai.’
+Ilvala gusse mein Agastya ji par jhapa, par unke dridh tapasya ke tej se vah bhi bhasm ho gaya.”
+
+Rama, Lakshman aur Sita ne raat wahan bitayi, phal-mool khakar.
+Subah Rama ne rishi ko pranam kiya aur kaha:
+“Humein Rishi Agastya ke paas jaana hai.”
+
+Rama ne phir Lakshman se kaha:
+“Lakshman, hum bilkul paas aa gaye hain!
+Pedon ki chamak, hilte hue panchhi, aur hiranon ka shant swabhav bata raha hai ki Agastya ji ka ashram yahin hai.
+Unka ashram hamesha shuddh aur rakshason se mukt rehta hai.
+Agastya rishi ke tej se Vindhya parvat tak ruk gaya tha!
+
+Chalo, andar chalte hain.
+Lakshman, Sita aur main — teeno milkar Agastya rishi ko apni aamad (arrival) ki soochna dein.”
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter12
+    with st.expander("Chapter 3.12 – Agastya welcomes Rama to his hermitage"):
+        text1 = """
+Lakshman ashram ke darwaaze par Rishi Agastya ke ek shishya (disciple) ko mile.
+Unhone vinamr tareeke se kaha:
+
+“Main Lakshman hoon, Raja Dasharath ka chhota beta. Mere bade bhai Rama aur bhabhi Sita yahan Rishi Agastya ko pranam karne aaye hain. Hum teenon apne pita ji ke aadesh se is gahan jungle mein aaye hain.
+Kripya Rishi ko humare aane ki soochna de dijiye.”
+
+Shishya ne haath jodkar kaha:
+“Thik hai.”
+Woh turant aag ke kund ke paas baithen Agastya Rishi ke paas gaya aur bola:
+
+“Rama, Lakshman aur Vaidehi (Sita) aaye hue hain.
+O Maharishi, woh aapka darshan chahte hain.”
+        """
+        create_image_text_layout("attached_assets/chapter3/3.12.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+Agastya ji yeh sunkar khush ho gaye:
+
+“Ah! Bahut achha. Mujhe hamesha se Rama se milne ki ichchha thi.
+Jao, unhe turant andar lao! Ab tak unhe yahan le kyon nahi aaye?”
+
+Shishya wapas gaya aur Lakshman se poocha:
+“Kaun hai Rama?”
+
+Lakshman ne Rama aur Sita ko dikhaya, aur phir Rama ko ashram ke andar le gaye.
+
+Rama ka ashram darshan
+
+Ashram ke andar tame deer (palat sakne wale hiran), yagya-vedi, aur alag-alag devtaon ke sthaan the:
+
+Brahma
+
+Agni
+
+Vishnu
+
+Indra
+
+Varuna
+
+Vayu
+
+Soma
+
+Garuda
+
+Nagas
+aur bahut saare anya devta.
+
+Jungle shant tha, aur ashram tapasya (penance) ke tej se chamak raha tha.
+
+Phir ek roshni jaisa tej aaya—
+Rishi Agastya khud prakat hue.
+
+Rama ne Lakshman se halka sa kaha:
+“Lakshman, dekh! Woh mahatejasvi Agastya ji hain. Inke charanon mein pranam karna mere liye gaurav ki baat hai.”
+
+Rama turant unke charanon mein jhuk gaye.
+Sita aur Lakshman bhi pranam karke khade ho gaye.
+
+Agastya ji ne unhe gale lagaya, paani diya, baithne ko asan diya, aur jungle ki parampara ke hisaab se swagat kiya.
+
+Woh bole:
+“Rama, yahan aana mere liye bahut bada samman hai.
+Jo tapasvi (ascetic) mehmaan ka dhang se satkar nahi karta, use agle janm mein dukh bhogna padta hai.
+Par tum mere pyaare atithi ho.”
+
+Phir Agastya ji ne bahut saare phal, phool, paani aur mool (roots) Rama ko arpan kiye.
+
+Rishi Agastya ka maha-uphaar
+
+Agastya Rishi ne muskura kar kaha:
+
+“Rama, tum bahadur ho, isliye tumhe yuddh ke kuchh divya aayudh (divine weapons) deta hoon:
+
+Vishnu ka divya dhanush (celestial bow) — sone aur heere se sajaya hua.
+
+Brahmadatta shakti (divine dart) — suraj jaisi chamak wali.
+
+Do akshay quiver (never-ending arrow cases) — jisme teer kabhi khatam nahi hote.
+
+Chandi ka scabbard (weapon holder) aur sona-jadi talwar.
+
+Agastya ji bole:
+“Is dhanush se hi Vishnu ne maha-asura ko maara tha.
+Yeh sab vijay ke prateek (symbols of victory) hain.
+Rama, inhe apnao— jaise Indra apna vajra (thunderbolt) uthata hai.”
+
+Agastya ji ne yeh sab Rama ko diya—
+aur Rama ne shraddha se sir jhukakar prasad ki tarah accept kiya.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter13
+    with st.expander("Chapter 3.13 – Agastya guides Rama to stay in Panchavati"):
+        text1 = """
+Rishi Agastya ne pyaar se Rama, Lakshman aur Sita ki taraf dekha aur bole:
+
+“Rama, tum teenon yahan aaye — isse mujhe bahut khushi hui.
+Itna lamba safar karte hue tum zaroor thak gaye hoge,
+aur Maithili (Sita) ka halka sa saans lena batata hai ki woh bhi thak gayi hai.
+
+Sita ek komal aur shaalin (gentle, refined) rajkumari hai.
+Phir bhi woh tumhare saath mushkil raaste se guzri — sirf prem ke karan.”
+
+Agastya ne phir muskurakar kaha:
+“Rama, aam taur par striyan aasani se ghabra jaati hain —
+par tumhari Sita bilkul alag hai.
+Woh Arundhati (symbol of loyalty) ki tarah pavitra aur nishtha-vaan (faithful) hai.
+Jahan tum, Lakshman aur Sita rahoge,
+woh jagah hamesha pavitra mana jayega.”
+        """
+        create_image_text_layout("attached_assets/chapter3/3.13.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+Rama ne haath jodkar kaha:
+“Rishi ji, aapka ashirvad paakar hum dhanay ho gaye.
+Kripya batayein humein kahan rehna chahiye —
+jahan ped-paudhe ho, paani ho, aur hum shanti se reh sakein.”
+
+Rishi Agastya thodi der soch kar bole:
+“Rama, yahan se aath kos (about 8 miles) door ek jagah hai — Panchavati.
+Wahaan phal-mool, paani, aur hiran bahut milte hain.
+Tum Lakshman ke saath wahan ek chhota sa ashram bana sakte ho.
+Maithili ko woh sthal bahut pasand aayega.
+
+Woh Godavari nadi ke paas hai —
+sundar, shaant, aur pavitra.
+Tumhara kartavya hai sab rishiyon ki raksha karna;
+Panchavati iske liye bilkul uchit (perfect) jagah hai.”
+
+Agastya ne aur bataya:
+“Yahan se tum Madhuka ke ped dekh rahe ho na?
+Unhe paar karke pahadiyon ke kinare se jao —
+tumhe phoolon se bhara Panchavati mil jayega.”
+
+Rama ne rishi ko pranam kiya,
+Lakshman aur Sita ne bhi unke charan chhuye.
+Teeno ne rishi ka pradakshina ki,
+aur unke aashirvad lekar Panchavati ki raah pakdi.
+
+Teeno — Rama, Lakshman, Sita —
+dhanush uthaye,
+quiver baandhe,
+aur Agastya ne bataye hue raaste par
+dridh sankalp (firm resolve) ke saath nikal pade.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter14
+    with st.expander("Chapter 3.14 – Jatayu tells Rama about his family"):
+        text1 = """
+Rama, Sita aur Lakshman Panchavati ki taraf ja hi rahe the ki unhone ek bahut bada aur shaktishaali gidh (vulture) dekha.
+Rama aur Lakshman ko shak hua ki shayad yeh koi rakshas ho jo roop badal kar aaya ho.
+
+Unhone poocha:
+“Tum kaun ho?”
+
+Tab woh pakshi ne bohot komal, pyaar se bhari awaaz mein kaha:
+“Beta, main tumhare pita Dasharath ka dost hoon.”
+
+Yeh sunkar Rama ne turant unke charanon ko chhua aur bola:
+“Kripya apna naam aur vansh batayein.”
+        """
+        create_image_text_layout("attached_assets/chapter3/3.14.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+Tab gidh ne apni lambi kahani shuru ki — ek purani pauranik (mythological) kahani:
+
+“Rama, pehle kalp mein bahut saare Prajapati (creators) hue—Kardama, Vikrita, Shesha, Marichi, Atri, Angira, Pulaha, Daksha, Kashyapa… aur bhi bahut.
+Daksha ki bahut si betiyan thi.
+Kashyapa ne inmein se kuchh se vivaah karke alag-alag praja (creatures) ka janm diya.”
+
+Phir unhone bataya kaise duniya ki alag-alag praja paida hui:
+
+Aditi se devta (gods)
+
+Diti se daityas (powerful demons)
+
+Danu se danavas
+
+Kalika se Naraka aur Kalaka
+
+Tamra se pakshi jaati:
+
+Kraunchi → ullu (owls)
+
+Bhasi → vultures
+
+Shyeni → hawks & eagles
+
+Dhritarashtri → swans & flamingos
+
+Shuki → Nata → Vinata (later mother of Garuda)
+
+Aur yahin se Jatayu ki kahani judti hai:
+
+“Main Aruna ka beta hoon, aur Sampati mera bada bhai.
+Mera naam Jatayu hai.
+Main Shyeni vansh ka hoon, hawks aur eagles ka vansh.”
+
+Phir Jatayu ne bohot prem se kaha:
+
+“Rama, agar tum chaho, to main yahin tumhare paas rahunga.
+Tum jab van mein shikar ya rishiyon ki raksha mein jaoge,
+main Sita ki dekhbhaal karunga.”
+
+Rama ke chehre par khushi chamak uthi.
+Unhone Jatayu ko gale lagaya aur kaha:
+
+“Tumne hamare pita ka dosti nibhaya —
+ab tum hamare bhi apne ho.”
+
+Jatayu unke saath Panchavati ki taraf ud kar chal diya.
+Rama ne apni dincharya (daily devotion) poori ki,
+aur teeno milkar apne naye ghar ki taraf badhne lage—
+dil mein ek dridh sankalp ke saath:
+rakshason ka vinash aur rishiyon ki raksha.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter15
+    with st.expander("Chapter 3.15 – Rama makes his home in Panchavati"):
+        text1 = """
+Rama, Sita aur Lakshman jab Panchavati pahunche — jaisa Agastya Rishi ne bataya tha — to jungle hariyali, hiran, pakshi aur phoolon se bharpoor tha.
+
+Rama ne Lakshman se kaha:
+“Lakshman, yeh wahi sundar jagah hai jiska rishi ne varnan kiya tha.
+Chalo, koi achchi si jagah dhoondhte hain jahaan hum teenon shanti se reh sakein —
+nadi ke paas, phoolon aur phal se bhare pedon ke beech.”
+
+Lakshman haath jodkar bole:
+“Bhaiya, main sadaiv aapka sevak hoon.
+Aap bas jagah bataiye — main turant ashram bana doonga.”
+        """
+        create_image_text_layout("attached_assets/chapter3/3.15.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+Rama ne Sita aur Lakshman ko ek khula, sundar sthal dikhaya aur bola:
+“Yahin, Lakshman!
+Yahaan ek nadi beh rahi hai — Godavari — jisme kamal khilte hain, hans aur jal-pakshi (water birds) tairte hain, aur hiran pani peene aate hain.
+Jungle ki pahadiyan moron ki awaaz se goonj rahi hain.
+Aur dekho — itne saare ped:
+Sala, Tamala, Panasa, Ashoka, Champaka, Chandana, Khadira…
+Yeh hamara ghar banane ke liye bilkul sahi jagah hai.
+Jatayu bhi yahin aas-paas rahega.”
+
+Lakshman ne ek sundar ashram bana diya
+
+Lakshman ne bina deri kiye kaam shuru kar diya.
+Unhone:
+
+lambe bamboo ke lakdi ke khambe lagaye,
+
+deeware mitti se banayi,
+
+छत (roof) शमी के पत्तों, बेलों और घास से ढकी,
+
+andar ki zameen ko saman aur saaf kiya.
+
+Jald hi ek sundar, sookhi pattiyon wali kutia tayyar ho gayi.
+
+Phir Lakshman Godavari nadi par gaye —
+snan kiya, kamal ke phool aur phal ikattha kiye,
+aur ghar ki shanti ke liye parampara wale puja-vidhi ki.
+
+Rama ki khushi
+
+Jab Rama aur Sita ne woh hut dekhi,
+to Rama ke chehre par ek barson baad wali sukoon ki chamak aa gayi.
+
+Rama ne Lakshman ko gale lagaya aur kaha:
+
+“Lakshman, tumne kamaal kar diya.
+Tumhari seva, tumhari shiddat (dedication) aur tumhara prem —
+yeh sab dekhkar mujhe lagta hai ki
+jab tak tum zinda ho, humare pita Dasharath ji bhi hamare saath hi jeevit hain.”
+
+Lakshman ne sharmate hue muskuraya.
+
+Is tarah Rama, Sita aur Lakshman —
+Jatayu ke saath, phal-phool aur shanti se bhare Panchavati mein —
+bilkul devtaon ki tarah anand se rehne lage.
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter16
+    with st.expander("Chapter 3.16 – Lakshmana describes the winter season"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.16.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter17
+    with st.expander("Chapter 3.17 – Shurpanakha arrives at their hut"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.17.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter18
+    with st.expander("Chapter 3.18 – Shurpanakha is punished and injured"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.18.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter19
+    with st.expander("Chapter 3.19 – Shurpanakha complains to her brother Khara"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.19.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter20
+    with st.expander("Chapter 3.20 – Rama kills the demons sent by Khara"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.20.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter21
+    with st.expander("Chapter 3.21 – Shurpanakha tells Khara to attack Rama"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.21.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter22
+    with st.expander("Chapter 3.22 – Khara marches with his huge demon army"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.22.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter23
+    with st.expander("Chapter 3.23 – The demon army moves forward with scary signs"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.23.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter24
+    with st.expander("Chapter 3.24 – Rama begins battle with the demons"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.24.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter25
+    with st.expander("Chapter 3.25 – The battle between Rama and the demons continues"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.25.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter26
+    with st.expander("Chapter 3.26 – Rama destroys the demons and kills Dushana"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.26.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter27
+    with st.expander("Chapter 3.27 – Rama fights Trishiras and wins"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.27.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter28
+    with st.expander("Chapter 3.28 – Rama fights the demon leader Khara"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.28.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter29
+    with st.expander("Chapter 3.29 – Rama and Khara challenge each other"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.29.jpg", text1, layout="side", image_position="left") 
+        
+        text2 = """
+
+        """
+        create_image_text_layout(text_content=text2, layout="full")
+
+    # Chapter30
+    with st.expander("Chapter 3.30 – Khara is killed by Rama"):
+        text1 = """
+
+        """
+        create_image_text_layout("attached_assets/chapter3/3.30.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
 
@@ -301,7 +1018,6 @@ def display_content():
     # chapter30
     with st.expander("Chapter 3.10 – Rama reminds Sita about his promise to protect the sages"):
         text1 = """
-
         """
         create_image_text_layout("attached_assets/chapter3/3.10.jpg", text1, layout="side", image_position="left") 
         
