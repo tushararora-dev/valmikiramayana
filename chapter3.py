@@ -4296,60 +4296,423 @@ kisi bahut bade sankat (danger) ka darwaza khulne wala hai.
     # Chapter46
     with st.expander("Chapter 3.46 – Ravana comes near Sita"):
         text1 = """
+Lakshmana ko Sita ke kadwe shabdon (bitter words) ne bohot chot pahunchayi.
+Dukhi dil ke saath, woh turant Rama ko dhoondhne nikal pada.
 
+Jab Sita bilkul akeli reh gayi, tab Ravana ne mauka pakad liya.
+Woh bhikshuk (beggar monk) ka roop bana kar ashram ki taraf chala.
+Uske baal jata (matted locks) the, kapde bhagwa (saffron) rang ke,
+aur haath me trishul-type lakdi (triple staff) aur kam-daan (wooden bowl).
+
+Shaam ka time tha.
+Suraj dhal chuka tha.
+Jungle me halka andhera phail raha tha.
+
+Isi waqt Ravana, Sita ke samne ek sadhu jaise aakar khada ho gaya.
+Andar se woh asur tha, par bahar se sadaachari brahmin.
+
+Sita use dekh kar ghabra gayi,
+lekin woh sada-chaar se bhare roop me tha, isliye Sita ne usse mehmaan samjha.
         """
         create_image_text_layout("attached_assets/chapter3/3.46.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌙 Ravana’s False Praise
 
+Ravana, jo Sita ko dekh kar kaam-dev (god of desire) ke teer se ghayal ho gaya tha,
+mitha-mitha bolne laga:
+
+“Hey sundari, tumhari chamak to sona-chandi jaisi lagti hai.
+Tum kaun ho?
+Lakshmi?
+Rati (goddess of love)?
+Ya koi apsara (heavenly maiden)?
+
+Tumhari aankhen kamal ki pankhudi jaisi hain.
+Tumhari chal naram aur komal hai.
+Tumhara roop to teenon lokon me nahi milta.”
+
+Phir woh aur meetha jhooth bolta gaya:
+
+“Yahan jungle me akeli rehna tumhare jaise komal roop ke layak nahi.
+Yahan bahut khatnaak janwar aur rakshas (demons) rehte hain.
+Tum mere saath chalo—rajmahal, sugandhit baag,
+sundar kapde, sona-chandi sab tumhe mil sakta hai.”
+
+🌙 Sita’s Hospitality
+
+Sita ko laga yeh ek sadharan brahmin mehmaan hai.
+Isliye Sanskrit parampara ke hisaab se
+woh turant khadi ho gai aur boli:
+
+“Baithiye, Brahmin.
+Kripya paani se apne pair dho lijiye.
+Yeh phal aur bhune hue anaj ka prasad grahan kijiye.”
+
+Ravana baith gaya,
+par uski drishti Sita ki aur se hatti hi nahi.
+Uske mann me ek hi vichaar tha—
+Sita ko utha kar le jana.
+
+🌙 Sita Waits for Rama
+
+Sita baar-baar jungle ki or jhaankti rahi—
+shayad Rama aur Lakshmana laut aaye hon.
+Par gahra hota andhera sirf dar badha raha tha.
+
+Ravana, brahmin ka bhes pehene,
+Sita ke saamne baitha tha,
+aur apni hi barbaadi ka beej boya ja raha tha.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter47
     with st.expander("Chapter 3.47 – Ravana and Sita talk"):
         text1 = """
+Ravana, jo bhikshuk (beggar monk) ka roop liye baitha tha, Sita se meethi–meethi baatein karne laga.
+Sita ne socha:
 
+“Yeh mehmaan lagta hai. Agar main jawab na doon, to yeh mujhe shaap (curse) de sakta hai.”
+
+Isliye Sita ne namrata se kaha:
+
+“Hey Brahmin, aapka kalyan ho.
+Main Janaka ki beti hoon.
+Mera naam Sita hai.
+Aur main Rama ki patni hoon.”
         """
         create_image_text_layout("attached_assets/chapter3/3.47.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌿 Sita Tells Her Story
 
+Sita ne saaf aur shant awaaz me apni kahani batayi:
+
+“Main 12 saal tak Ayodhya me sukh–shanti se rehti thi.
+13ve saal Raja Dasharatha ne Rama ko rajya–abhishek (coronation) dene ka faisla kiya.
+
+Par Kaikeyi ne do var (boons) maang liye—
+Rama vanvaas (forest exile) jaye
+aur
+Bharata ko raja banaya jaye.
+
+Rama ne bina shikayat sab sweekar kar liya.
+Lakshmana bhi saath aaye, aur main bhi.”
+
+Sita ne phir us “Brahmin” se puchha:
+
+“Aap kaun ho?
+Kahan se aaye ho?
+Akele jungle me kyun ghoom rahe ho?”
+
+👹 Ravana Reveals His Truth
+
+Sita ke shabd sun kar Ravana ne apna asli roop dikhaya—
+par baahir se abhi bhi brahmin jaise hi lag raha tha.
+
+Woh kadve aur ghamandi shabdon me bola:
+
+“Sita, main Ravana, Lanka ka raja hoon.
+Dev, Manushya aur Rakshas sab mujhse darte hain.
+Tumhe dekhkar mere man me bas ek hi ichha hai—
+tum meri rani bano.”
+
+Phir usne lalach dena shuru kiya:
+
+“Mere mahal me hazaaron sevika tumhari seva karengi.
+Lanka samundar ke beech ek sunder shehar hai.
+Tum vahaan rani bankar raho.”
+
+🔥 Sita’s Furious Reply
+
+Sita ka gussa sardi ki hawa jaise kaap utha.
+Usne Ravana ko tiraskar (contempt) se jawab diya:
+
+“Main Rama ki patni hoon.
+Rama pathar jaisa dridh (firm) aur samundar jaisa shant hai.
+Unki shakti aur veerta Indra (king of gods) jaisi hai.
+
+Aur tum?
+Ek giddh (vulture) ho jo sher ki patni par nazar daal raha hai!”
+
+Sita usse be-dard shabdon me daantne lagi:
+
+“Tum mujhe paane ka sapna dekhte ho?
+Yeh to us jaise hai jaise koee:
+
+— Sooraj ko pakadne ki koshish kare,
+— Zehreeli saanp ke daant todne jaye,
+— Aag ko apni godi me utha le,
+— Ya samundar ko pair se rokne ki soch rakhe!
+
+Rama se tumhari tulna?
+Sher aur lomdi,
+Neelam aur pathhar,
+Hamsa aur giddh,
+Ussi jaise antar hai.”
+
+Sita ka sharir darr se kaamp raha tha,
+par uska man mazboot tha.
+
+👹 Ravana’s Dark Pride
+
+Sita ke saaf–saaf inkaar se Ravana aur bhi bhayanak dikhne laga.
+Woh apni shakti, vansh (lineage), aur jitni shadiyan usne ki, sab ka ghamand dikhane laga—
+taaki Sita aur dare.
+
+Chapter yahin par samaapt hota hai,
+jahan Ravana apni bhayankar shakti ka dikhawa karta hai…
+aur Sita Rama ko yaad karte hue akeli kaamp rahi hai.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter48
     with st.expander("Chapter 3.48 – Sita bravely refuses Ravana"):
         text1 = """
+Sita ke kadve aur teekhe shabdon se Ravana aur bhi gussa ho gaya.
+Uski aankhen angaaron ki tarah chamak uthi.
+Woh garjte hue bola:
 
+👹 Ravana Brags Again
+
+“O sundar Sita, sun lo!
+Main Dashagriva (ten-headed one) Ravana hoon.
+Main Dhan ka Devta Kuvera ka bhai hoon.
+Meri shakti se Devta, Gandharva, Nag aur Rakshas sab darr kar bhaagte hain.
+
+Main ne apne hi bhai Kuvera ko yuddh me hara diya.
+Uska divya rath Pushpaka Vimana (flying chariot) bhi chheen liya.
+Usme baithkar main aasman me ghoomta hoon.”
+
+Ravana apne ghamand me bolta gaya:
+
+“Jahan main jaata hoon, hawa thandi chalne lagti hai.
+Suraj ki roshni bhi chandni si ho jaati hai.
+Pedon ke patte ruk jaate hain.
+Nadi ka paani behna band ho jaata hai.
         """
         create_image_text_layout("attached_assets/chapter3/3.48.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Samundar ke paar meri rajdhani Lanka hai—
+ek sundar shehar, sone ki deewaron aur heere-moti ke dwaron se bana hua.”
 
+Phir woh Sita ko phuslane laga:
+
+“Wahaan tum mere saath rani bankar raho.
+Swarg jaise sukh paogi.
+Rama ko bhool jao—
+Woh bas ek insaan hai.
+Uski shakti kuch bhi nahi.
+Uska ant (end) nazdeek hai.”
+
+Ravana ne Sita ko dhamki dete hue bola:
+
+“Main tum se prem karta hoon.
+Agar tumne mujhe thukra diya,
+to tumhein pachtana padega.
+Rama mujhse takkar nahi le sakta.”
+
+🔥 Sita’s Defiance (Sita ka Dhoomdaar Jawaab)
+
+Sita ki aankhen gusse se chamak uthi.
+Akele hote hue bhi uski awaaz sherni ki tarah dhaad rahi thi.
+
+Sita boli:
+
+“Tum Kuvera ke bhai ho to kya hua?
+Tumhari harkat ek nich (low) aur adharmi (unrighteous) aadmi ki hai.
+Aise swami ke saath saare Rakshas ka vinash (destruction) nischit hai.
+
+Sun Ravana!
+Indra ki patni ko chura kar koi bach bhi jaye,
+par Rama ki patni ko churaane wala kabhi zinda nahi bachega!”
+
+Sita ka gussa ab bijli ki tarah garajne laga:
+
+“Koi Indra ke var (boon) se amrit (immortality nectar) peeke bach sakta hai,
+lekin jo mujhe—Rama ki patni—par haath daale,
+uski mrityu (death) pakki hai!”
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter49
     with st.expander("Chapter 3.49 – Ravana kidnaps Sita"):
         text1 = """
+Sita ke kathor shabdon ko sun kar Ravana ka gussa fut pada.
+Usne zor se apne dono haath takraye.
+Phir woh apni asli roop dikhane laga.
 
+👹 Ravana Shows His True Form
+
+Ravana garjte hue bola:
+
+“Lagta hai tumhe meri shakti ka pata hi nahi.
+Main itna taqatwar hoon ki zameen ko akela utha sakta hoon.
+Samundar ka paani pee sakta hoon.
+Suraj ko apne teer se chhed sakta hoon.
+Dekho, main apna roop pal bhar me badal sakta hoon.”
+
+Yeh kehkar Ravana ne apna sadhu wala bhesh chhod diya.
+Uski aankhen angaaron ki tarah jal rahi thi.
+Uske dus sir (ten heads) aur bees haath (twenty arms) chamakne lage.
+Laal vastra pehne hue woh Sita ki aur badha.
         """
         create_image_text_layout("attached_assets/chapter3/3.49.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+👹 Ravana Tries to Take Sita Again
 
+Woh bola:
+
+“O sundar Sita, agar tum teenon lokon (Three Worlds) me mashhoor pati chaho,
+to mere paas aa jao.
+Main tumhari bahut seva karunga.
+Rama tumhe kya de payega?
+Uska rajya chhin gaya hai.
+Woh vanvaasi hai.
+Uski takdeer khatam ho chuki hai.”
+
+🔥 Ravana Grabs Sita
+
+Yeh kehkar Ravana, jo ab paap se andha ho chuka tha,
+ne Sita ka baal apne ek haath se pakad liya,
+aur doosre haath se uski kamar.
+
+Sita cheekh uthi.
+Devta bhi darr kar chhupe gaye.
+
+Tabhi Ravana ka sone ka rath—
+Pushpaka-vimaan ka ek hissa—
+pashuon jaisi aawaz karte khachcharon ke saath aa gaya.
+
+Ravana ne Sita ko zor se uthaya
+aur uncha aasman me le kar udd chala.
+
+Sita zor zor se chillane lagi:
+
+“Rama! Rama!
+Mujhe bachaao!”
+
+😭 Sita’s Cry for Help
+
+Asmaan me le jaate hue Sita ne pukara:
+
+“O Lakshmana!
+Kya tumhe nahi dikhta ki ek dusht rakshas mujhe le ja raha hai?
+
+O Rama!
+Aap to sada dharma nibhate ho.
+Kya aapko nahi dikh raha ki mujhe le jaaya ja raha hai?
+Yeh atyachari apne paap ka phal zaroor payega!”
+
+Phir Sita ne janglon aur nadiyon ko pukara:
+
+“O Janasthana ke pedo!
+O Kamikara ke phoolo!
+O Godavari nadi!
+Rama ko batana
+ki Ravana mujhe zabardasti le gaya hai!”
+
+“Jungle ke sab jeev—
+pakshi, janwar, nadi, ped—
+sab Rama ko batana
+ki unki priya patni ko Ravana utha le gaya hai.”
+
+🦅 Sita Calls Jatayu
+
+Gham ke beech Sita ne ek ped par vishal vulture Jatayu ko dekha.
+
+Sita chilla kar boli:
+
+“O mahan Jatayu!
+Dekh lo, yeh dusht Ravana mujhe le ja raha hai.
+Tum usse lad nahi paoge,
+kyunki woh bahut shaktishaali hai.
+
+Par tum ek kaam kar sakte ho—
+Rama aur Lakshmana ko sab sach batana.
+Ek bhi baat chhupana mat!”
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter50
     with st.expander("Chapter 3.50 – Jatayu tries to stop Ravana"):
         text1 = """
+Sita ki cheekh sun kar Jatayu, jo ped par so raha tha, jaag gaya.
+Usne dekha ki Ravana Sita ko le ja raha hai.
 
+Jatayu, jo pakshiyon ka raja tha, ped par baitha hua, dheere se bola:
+
+🦅 Jatayu Warns Ravana
+
+“O Dashagriva (Ravana)!
+Main Jatayu hoon, giddhon ka raja.
+Main dharma ka paalan karta hoon.
+Aur tumhari yeh galat harkat main bilkul bardasht nahi karunga.
+
+Tum jise le ja rahe ho vo Sita hai—
+Rama ki patni.
+Rama, jo sab logon ki raksha karte hain
+aur jo Varuna aur Indra jaise devtaon ke barabar shaktishaali hain.”
+
+Jatayu samjhata hua bola:
+
+“Ek sachcha raja kabhi kisi doosre ki patni par nazar nahi daalta.
+Tum khud ek raja ho.
+Tumhe to doosron ki patniyon ki raksha karni chahiye.
+Par tum to khud hi paap kar rahe ho.”
         """
         create_image_text_layout("attached_assets/chapter3/3.50.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+👹 Jatayu Explains the Consequences
 
+“O Ravana,
+tum galti se apne gale me maut ki rassi daal rahe ho.
+Tum samajh nahi rahe—
+Sita ko chhurane ka matlab hai
+Rama ka khaufnaak rosh bulana.
+
+Rama ne tumhare desh me kisi ko kuch nahi kiya.
+Khara aur Dusht rakshason ko to unhone shurpanakha ke paap ki wajah se mara.
+Phir tum kyun Ramanand ki patni ko chura rahe ho?”
+
+Jatayu ne sakht shabdon me chetavani di:
+
+“O Ravana,
+Rama ka gussa tumhe bhasm kar dega,
+jaise Indra ne vajra se Vritra ko maara tha.”
+
+🦅 Old but Brave – Jatayu Stands Against Ravana
+
+Jatayu bola:
+
+“Main 60,000 saal ka hun.
+Bahut budha ho chuka hoon.
+Tum yuva ho, shastron se saja ho, rath par ho.
+Main kamzor hoon—
+par jab tak main zinda hoon,
+tum Sita ko lekar nahi ja sakte.
+
+Main tumhare rath ko jhad se tute hue phal ki tarah gira dunga!”
+
+⚔️ Jatayu Challenges Ravana
+
+“Ravana!
+Agar zara si bhi sharam bachi hai to ruk jao!
+Lado!
+Tum bhi Khara ki tarah dharti par giroge!
+
+Tum Sita ko le ja rahe ho
+sirf isliye ki tum Rama se darte ho.
+Par jab tak main zinda hoon,
+main Sita ko bachane ki koshish karunga—
+apni jaan dekar bhi.
+
+Ruko!
+Ruko Dashagriva!
+Yahaan mere saamne bhago mat!”
         """
         create_image_text_layout(text_content=text2, layout="full")
 
