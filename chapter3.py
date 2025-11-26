@@ -4719,60 +4719,572 @@ Yahaan mere saamne bhago mat!”
     # Chapter51
     with st.expander("Chapter 3.51 – Jatayu fights Ravana bravely"):
         text1 = """
+Jatayu ne Ravana ko rokne ke liye bahaduri se baat ki.
+Par Ravana, gusse se laal aankhon wala, sona ke kundal pehne hua, us par toot pada.
 
+Aasmaan me bahut zor ka yudh shuru hua—
+jaise do bade pahaad pankh laga kar aapas me takra rahe hon.
+
+🏹 Ravana Attacks First
+
+Ravana ne ek ke baad ek teekhe lohe ke teer (steel arrows) chalaye.
+Par Jatayu, pakshiyon ka raja, un teeron ko jhelta raha.
+
+Apne tez panjon (claws) se usne Ravana ko chot pahunchayi.
+
+Ravana aur gussa ho gaya.
+Usne bade bhayanak teer nikale—teer jo maut jaise teekhe the.
+Ve teer Jatayu ke shareer me ghus gaye.
+
+🦅 Jatayu Breaks Ravana’s Weapons
+
+Jatayu ne dekha ki Sita, aansuon se bhari aankhon ke saath, rath me baithi hai.
+Usne teeron ki parwah kiye bina sidha Ravana par hamla kar diya.
+
+Usne apne panjon se Ravana ka teer-kamaan tod diya—
+wo kamaan motiyon aur heere se saja hua tha.
+
+Ravana ne doosra kamaan uthaya
+aur ek saath hazaron teer barsa diye.
+Jatayu teeron ke neeche ek ghosle me chhupi chidiya jaisa lagne laga,
+par usne zor se pankh hila kar teer hata diye
+aur Ravana ka doosra kamaan bhi tod diya.
+
+Phir Jatayu ne apne bade pankhon se
+Ravana ki dhaal (shield) bhi chakhna-choor kar di.
         """
         create_image_text_layout("attached_assets/chapter3/3.51.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🐎 Jatayu Destroys the Golden Chariot
 
+Jatayu ne Ravana ke rath ko bhi tod diya—
+wo rath sone ka tha,
+aur usme bhoot-mukhi ghode (demon-headed mules) lage the.
+
+Ek hi jhatke me usne:
+
+rath ke teen dhwaj (standards) gira diye
+
+rath ki chhatri (canopy) tod di
+
+aur rath-sarthi ko bhi gire diya
+
+Ravana neeche gir gaya, Sita ko apni baahon me pakde hue.
+
+Sab log—devta, pakshi, vanaspati—
+Jatayu ki jai-jai karne lage.
+
+👹 Ravana Takes to the Sky Again
+
+Ravana ne dekha ki Jatayu bohot budha aur thaka hua hai.
+Isliye woh phir se Sita ko god me utha kar aasman me uddne laga.
+Ab uske paas sirf talwar (sword) thi.
+
+Par Jatayu ne raasta roka aur bola:
+
+“O moorkh Ravana!
+Tum Sita ko chura kar
+apni hi barbaadi (destruction) bula rahe ho.
+
+Zehar ko paani samajh kar pee rahe ho.
+Jahan bhagoge, maut tumhe pakad legi.
+Jise tum pakad kar le ja rahe ho,
+uske pati Rama tumhe kabhi nahi chhodenge.”
+
+🦅⚔️ The Final Battle
+
+Ye keh kar Jatayu phir se Ravana par toot pada.
+Usne apne panjon se Ravana ka maans phaad diya
+aur apne chonch (beak) se uski peeth ko kaat diya.
+
+Ravana ro rage hua,
+par Jatayu ne uske das baayein haath ukhaad diye!
+
+Lekin Ravana ke haath turant dobara nikal aaye—
+jaise bill mein se saanp (serpents) bahar aa jate hain.
+
+⚔️ Ravana Cuts Down Jatayu
+
+Gusse me Ravana ne Sita ko ek pal ke liye chhod diya
+aur Jatayu par hamla kiya.
+
+Ravana ne apni talwar nikali
+aur Jatayu ke pankh aur pair kaat daale.
+
+Jatayu zameen par gir gaya—
+laal lahu me bheegta hua,
+bilkul lade hue senapati ki tarah.
+
+🌙 Sita Cries for the Dying Jatayu
+
+Sita, dard se roti hui,
+Jatayu ki taraf daudi.
+
+Usne Jatayu ko apni baahon me sambhala—
+jaise vo koi apna hi ho.
+
+Jatayu, pakshiyon ka veer raja,
+zameen par pada tha,
+bilkul ek bujhe hue mashaal (extinguished torch) ki tarah.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter52
     with st.expander("Chapter 3.52 – Jatayu is wounded and Ravana flies away"):
         text1 = """
+Jatayu ko zameen par gira hua dekh kar
+Sita bahut dukhi ho gayi.
+Uska chehra chand jaise safed ho gaya.
 
+Woh ro kar boli:
+
+“Rama! Lakshmana!
+Mere bure sapne, ajeeb shagun (omens) sab sach ho gaye.
+Wild animals aur birds bhaag rahe hain.
+Kya tum nahi samajh pa rahe?
+Mujh par badi musibat aa gayi hai!
+
+Ye bechara Jatayu,
+sirf mujhe bachane ki koshish me
+apni jaan de raha hai!”
+
+🦋 Sita Runs, Ravana Chases
+
+Sita dara-dara
+pedon ko pakad kar
+idhar-udhar bhaag rahi thi.
+
+Woh chillati:
+
+“Bachao! Bachao!”
+
+Par Ravana—jo maut (death) jaise bhayanak dikhta tha—
+use pakadne ke liye peeche bhaag raha tha.
+
+Rama aur Lakshmana bahut door the.
+Sita unka naam pukaar kar ro rahi thi:
+
+“Rama! Rama! Lakshmana!"
+
+Tabhi Ravana ne
+Sita ke baalon ko jhatke se pakad liya
+aur zor se kheech liya.
         """
         create_image_text_layout("attached_assets/chapter3/3.52.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+⚡ The Whole World Shivers
 
+Jab Ravana ne Sita ko pakda,
+tab poori duniya kaanp uthi.
+
+hawa ruk gayi
+
+suraj dhundhla ho gaya
+
+gahan andhera chaa gaya
+
+Devtas aur Rishis ne ye dekha
+aur samajh gaye:
+
+“Ab Ravana ka ant (end) nischit hai.
+Ye hi wahi ghadi thi jiska intezar tha.”
+
+🔥 Ravana Takes Sita Into the Sky
+
+Ravana Sita ko baahon me utha kar aasman me udd gaya.
+Sita peele rang ki sari me
+jaise bijli (lightning) chamakti huin lag rahi thi.
+
+Uska dupatta hawa me lahrata,
+Ravana ko ek jalte pahad (blazing volcano) jaisa bana raha tha.
+
+Par Sita ka chehra,
+jo hamesha khila rehta tha,
+ab bilkul murjha gaya tha—
+jaise tana se tooti hui kamal ki kali (lotus).
+
+💎 Sita’s Ornaments Fall Like Meteors
+
+Ravana bahut tez udd raha tha.
+Isliye Sita ke:
+
+phool
+
+baal
+
+gehne
+
+payal ke moti
+
+sab zameen par girne lage.
+Woh bilkul toot-taara (meteor) lag rahe the.
+
+Ek pal me Sita ki haath ki ek badi motiyon wali mala
+zameen par chamak kar bikhar gayi—
+jaise Ganga swarg se gir rahi ho.
+
+🌳 Nature Cries for Sita
+
+Jungle ke ped hawa me hil kar
+Sita ko jaise bol rahe the:
+
+“Daro mat.”
+
+Sarovaron ki murjhai kamal-jal
+jaise Sita ke liye ro rahe the.
+
+Pahaad apni unchi chotiyon ko
+haath ki tarah utha kar
+dukh jata rahe the.
+
+Jangal ke jaanwar—sher, bhaaloo, pakshi—
+Sita ke saath saath bhaag rahe the
+jaise woh bhi uski raksha karna chahte hon.
+
+Suraj bhi dukhi hokar
+apni roshni kho baitha.
+
+😢 Sita’s Last Cry
+
+Sita aasman me le jayi ja rahi thi.
+Uske baal hawa me udkh rahe the,
+tilak mit chuka tha.
+
+Woh neeche zameen ki taraf dekh kar
+dheemi awaaz me bas ek baat bol rahi thi:
+
+“O Rama…
+O Lakshmana…”
+
+Sita bilkul akeli
+aur bilkul toot chuki thi.
+
+Ravana ko ye sab dekh kar
+samajh bhi nahi aa raha tha
+ki yehi kaam
+uski barbaadi ki shuruaat ban gaya hai.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter53
     with st.expander("Chapter 3.53 – Sita scolds Ravana for his evil act"):
         text1 = """
+Aasman me uthai jaate hue,
+Sita bahut dar gayi.
+Uski aankhen laal ho rahi thi—
+gusse, dard aur aansuon se.
 
+Ravana ko dekh kar
+woh roh kar boli:
+
+🗣️ Sita’s Brave Words
+
+“O gande aur buzdil (coward) Ravana!
+Kya tumhe sharam nahi aati?
+
+Tumne mujhe tab pakda
+jab main akeli thi.
+Tumne jhoothi maya (illusion) se
+hiran ban kar
+Rama ko door le jaakar dhokha diya.
+
+Aur Jatayu—
+jo mere sasur ji ka dost tha—
+usne mujhe bachane ki koshish me
+apni jaan de di!
+Isme tumhara kaunsa veerta (bravery) hai?”
         """
         create_image_text_layout("attached_assets/chapter3/3.53.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+💥 “If you’re so strong — stop and fight!”
 
+“O Ravana!
+Tum khud ko bahadur bolte ho
+par sach me tum ek kaayar (coward) ho.
+
+Agar himmat ho to
+ruko ek pal!
+Rama aur Lakshmana ke saamne
+tum ek second bhi zinda nahi reh paoge.
+
+Unki ek chhoti si teer (arrow)
+tumhe jala degi
+jaise jungle ki aag
+chota sa pakshi ko jala deti hai.”
+
+💔 Sita Declares Her Loyalty
+
+“Mujhe chhod do, Ravana!
+Tumhara yeh bura iraada (evil intention)
+kabhi poora nahi hoga.
+
+Agar main phir kabhi Rama ko na dekh paun—
+to bhi main zinda nahi rehungi.
+Main unki bina kuch nahi.”
+
+⚠️ “You’re choosing your own death.”
+
+“O moorkh (fool) Ravana!
+Tum apni hi maar chune ja rahe ho.
+Tumhe maut ka phanda (noose)
+abhi se gale me nazar nahi aa raha?
+
+Tum jald hi
+un bhayanak sthano ko dekhoge
+jahan paapiyon ki sajaye hoti hain—
+jaise
+Vaitarani (blood river),
+kaante bharay jungle,
+aur lohe-ke-kaanto wale ped.”
+
+🗡️ Rama’s Wrath is Coming
+
+“Rama—
+jisne akela hi
+choudah hazaar rakshas maar diye the—
+wo tumhe kaise chhod dega?
+
+Tumne uski patni ko chhua hai!
+Ab tumhara anth (end) nishchit hai.”
+
+🦋 Despite Her Pain, Sita Stands Fearless
+
+Sita ro rahi thi,
+darr rahi thi,
+phir bhi
+Ravana ko himmat se dant rahi thi.
+
+Woh uski baahon se chhootne ki koshish karti rahi,
+par Ravana bina ruke
+aasman me usse lekar
+aage uddta gaya…
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter54
     with st.expander("Chapter 3.54 – Ravana reaches Lanka with Sita"):
         text1 = """
+Ravana Sita ko aasman me uthaakar le ja raha tha.
+Bechari Sita ko koi bachane wala nazar nahi aa raha tha.
 
+Tabhi usne door ek pahad ki choti par
+paanch shaktishaali vanar (monkeys) khade dekhe.
+
+🪔 Sita drops a sign
+
+Sita ke mann me ek ummeed jagi.
+Usne socha:
+“Shayad ye vanar Rama ko khabar pahunchayenge.”
+
+Isliye Sita ne
+apni sona-jaise chamak wali odhni
+aur apne gehne
+paanch vanaron ke beech gira diye.
+
+Ravana, gusse aur ghabrahat me,
+ye baat dekh hi nahi paaya—
+par vanaron ne sab kuch dekh liya.
         """
         create_image_text_layout("attached_assets/chapter3/3.54.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🛕 Ravana flies toward Lanka
 
+Dashagriva (ten-headed Ravana)
+Sita ko gale me dabaaye,
+hawao me tez gati se aage badh raha tha—
+jaise koi teer (arrow) hawa me dodta ho.
+
+Jungle, pahaad, nadiyan, jheel,
+sab peeche reh gayi.
+
+Samundar (ocean) ke oopar uddte hue,
+machhliyan aur bade sapole (serpents)
+darr kar hilne lage.
+
+Akaash se Siddha aur Caran (celestial beings)
+bhi keh rahe the:
+“Ravana ka anth paas aa gaya!”
+
+Par Ravana, jo apni hi barbaadi ko saath le jaa raha tha,
+Sita ko baahon me le kar
+Lanka nagri me pravesh kar gaya.
+
+🏰 Sita inside Lanka
+
+Lanka ki badi-badi sadhkon me se guzarta hua,
+Ravana Sita ko lekar
+apne mahal ki andar wali jagah tak chala gaya.
+
+Wahan Sita ko zameen par bithakar,
+jaise maya (illusion) ek pal me mit jaati hai,
+Ravana ne rakshasi (demon women) se kaha:
+
+“Sun lo!
+Meri ijazat ke bina
+koi bhi Sita ko dekh nahi sakta!
+
+Use jitne gehne, kapde, moti, laal (rubies) chahiye—
+sab de do.
+Aur agar koi bhi usse bura bolega…
+chahe galti se bhi…
+woh apna jeevan kho dega!”
+
+Ravana gusse aur abhimaan (pride) me
+vahaan se chal diya.
+
+⚔️ Ravana sends demons to Janasthana
+
+Usne fir
+aath bhojan-khane wale rakshas (flesh-eating titans)
+ek jagah bulaye.
+
+Unki taareef karte hue bola:
+
+“Jaldi Janasthana jao.
+Wahi jagah jahan Khara rehta tha.
+Rama ne Khara aur Dushana ko maar diya,
+aur hamare saare rakshas vinaash ho gaye.
+
+Mujhe Rama se badla lena hai.
+Main usse maar kar hi rahunga.
+Tum vahan chhup kar dekhte rehna—
+Rama kya karta hai, kahan jaata hai—
+sab mujhe batate rehna.
+Raat-din lage raho
+Rama ki maut lane ki koshish me!”
+
+Ravana ke shabdon par
+woh rakshas jhuk kar pranam karte hue
+adrishya (invisible) ho gaye
+aur tez gati se Janasthana ki taraf nikal pade.
+
+🖤 Ravana’s foolish happiness
+
+Par Ravana—
+jinhone Sita ko churaakar
+apne sar par Rama ka gussa saaf bulaa liya tha—
+fir bhi
+apne andar hi andar
+bewakoofi bhari khushi me dooba raha.
+
+Use pata hi nahi tha
+ki usne apni barbaadi
+apne haathon se ghar le aaye hai.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter55
     with st.expander("Chapter 3.55 – Ravana asks Sita to marry him"):
         text1 = """
+Aath shaktishaali rakshason ko kaam dekar,
+Ravana—jiska buddhi (mind) vasana (desire) se dhundhla gaya tha—
+sochne laga ki ab sab tayari ho chuki hai.
 
+Par uske mann me ek hi cheez chal rahi thi—
+Vaidehi.
+Prem-deva (God of Love) ke teer (arrows) uske dil me lage the.
+Isliye woh turant apne shandar mahal ki taraf badha.
+
+🏰 Ravana enters his palace
+
+Mahal me, Ravana ne Sita ko dekha—
+dard se jhuki hui,
+aasu bhari,
+aur rakshasiyon se gheri,
+jaise tufaan me doobti hui kashti (ship)
+ya tanhai me phasi ek hiran (gazelle) ko shikari dogs gher lein.
+
+Ravana ne Sita ko zor se ek taraf le jaakar
+apna swarg-jaisa mahal dikhaya:
+
+Sunehre pillars (golden pillars)
+
+Hathi-dant (ivory) aur crystal ke tukde
+
+Heere-motiyon se sajaye hue kamre
+
+Upar tak jaati hui sundar manzilein (storeys)
+
+Chhaton par panchhi gaate hue
+
+Marble ke floors jo ratnon (gems) se chamak rahe the
+
+Neelkamal (lotus) se bhare talaab aur fountains
+
+Par Sita ka mann dukhi tha—
+uski aankhon me in sab ki chamak nahi thi.
         """
         create_image_text_layout("attached_assets/chapter3/3.55.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+💬 Ravana tries to convince Sita
 
+Woh wicked (dushṭ) Dashagriva Sita se bola:
+
+“O Sita,
+mere paas das hazaar rakshas (titans) hain,
+jo mujhe apna swami mante hain.
+Har ek ke paas hazaar sevak bhi hain.
+
+Yeh poora rajya tumhara ho sakta hai.
+Tum mere liye pran (life) se bhi zyada pyari ho.”
+
+Phir Ravana ne usse lalach diya:
+
+“Tum meri maharani ban jao.”
+
+“Lanka kabhi jeeti nahi ja sakti—na devta (gods), na Indra.”
+
+“Rama ek aam aadmi hai—vanvaasi, bina dhan-daulat.”
+
+“Main hi tumhare laayak pati hoon.”
+
+Aur baar-baar kehne laga:
+
+“O Maithili, mere sath saari sukh-sauvidhayein pao.
+Pushpaka-vimaan (flying chariot) me mere sath ghoomo.
+Tumhare ache karmon ka phal yahi Lanka me milega.”
+
+Usne Sita ka chehra dekha—
+jo pehle kamal jaisa khilaa tha,
+ab dukh se murjha chuka tha.
+Sita ne apna chehra dupatte me chhupa liya
+aur chup-chap aansu bahane lagi.
+
+🩸 Ravana tries again — shamelessly
+
+Ravana, jo bilkul lajja-shoonya (shameless) tha,
+fir bola:
+
+“O Vaidehi,
+dharma (righteousness) ka bhay mat rakho.
+Humari shaadi Veda (sacred scripture) ke anusaar ho sakti hai.
+
+Main tumhare charanon (feet) par apne sir rakhta hoon.
+Kripya mujhe svikaar karo.
+Pehli baar Ravana kisi aurat ke saamne jhuk raha hai!”
+
+Sita chup, dukh se bhari,
+uski baat sun rahi thi.
+
+🧨 Ravana’s final delusion
+
+Sita ke saare inkaar,
+uske aansu,
+uska dard—
+kuch bhi Ravana ko rok nahi paaya.
+
+Apne aap se hi bola:
+
+“Sita ab meri hai.”
+
+Ravana samajh nahi paaya
+ki woh apni kismat ki tabahi (destruction) ko
+apne hi hath lekar chal raha tha.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
