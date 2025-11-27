@@ -5291,60 +5291,491 @@ apne hi hath lekar chal raha tha.
     # Chapter56
     with st.expander("Chapter 3.56 – Demon women guard Sita"):
         text1 = """
+Sita ne Ravana ki dhamkiyan sun kar bhi himmat nahi haari.
+Usne apne aur Ravana ke beech ek kaas ka patta (blade of grass) rakh diya — yeh batane ke liye ki Ravana uske nazdeek bhi nahi aa sakta.
 
+Sita ne Ravana se saaf kaha:
+
+Rama, Dasharatha ka beta, dharma ka rakhwala hai.
+
+Rama ek singh (lion) jaisa shaktishaali hai.
+
+Agar Ravana ne Sita ko Rama ke saamne chhua hota, to Rama use turant maar deta — jaise usne Khara ko maara tha.
+
+Lanka, Ravana, aur sab Rakshas — Rama ke teer ke saamne kuch nahi.
+
+Sita ne kaha ki Ravana ki umar ab bahut kam reh gayi hai.
+
+“Tumne mujhe chura kar apna hi nuksan kiya hai. Rama aayega aur tumhari Lanka khali ho jayegi.”
+
+Sita keh rahi thi ki jab kisi ka vinash ka samay aata hai, tab wo paagal jaise kaam karta hai — Ravana bhi wahi kar raha hai.
         """
         create_image_text_layout("attached_assets/chapter3/3.56.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Phir Sita ne kaha:
 
+“Main tumhare saath kabhi nahi rahungi.
+Chahe tum mera sharir kaat do — main apmaan nahi seh sakti.”
+
+⚡ Ravana ki dhamki
+
+Ravana gusse me bolta hai:
+
+“Agar 12 mahine me tumhaari marzi nahi badli,
+to main tumhe apne subah ke khaane ke liye katwaa dunga.”
+
+👹 Rakshasiyon ko aadesh
+
+Ravana ne bhayankar rakshasiyon ko kaha:
+
+“Sita ka ghamand tod do.”
+
+“Isse Ashoka Vatika me le jaakar kaidi ki tarah rakho.”
+
+“Kabhi darao, kabhi meetha bolo — par iska man tod do.”
+
+🌸 Sita in Ashoka Grove
+
+Rakshasiyan Sita ko kheench kar Ashoka Vatika me le gayi.
+
+Wahan sab jagah phool aur phal the, par Sita ke liye sab andhera tha.
+
+Sita:
+
+bilkul akele thi,
+
+dar se kamzor pad rahi thi,
+
+rakshasiyon se gheri hui thi — jaise ek hiran ko bhediyon ne gher liya ho.
+
+Apne pati Rama aur bhai Lakshmana ko yaad karke,
+darr aur dukh ke bhaar se Sita behosh ho gayi.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter57
     with st.expander("Chapter 3.57 – Rama sees bad signs and becomes worried"):
         text1 = """
+Maricha ko maar kar — jo hiran ka roop dharan karke Rama ko behka raha tha —
+Rama bahut tezi se wapas ashram ki taraf daudte hain, Sita ko dekhne ke liye bechain.
 
+Lekin raste me hi bure shagun shuru ho jaate hain:
+
+Peeche se bhediye/jackals rohkar cheekhne lagte hain.
+
+Rama ka dil kaap uthta hai.
+
+Vo sochne lagta hai:
+“Kahin Sita ko rakshason ne kuch toh nahi kar diya?”
+
+Rama ko ab samajh aata hai:
+
+Maricha ne mera awaaz banakar “Lakshmana, mujhe bachao!” kyon pukaara.
+
+Yahi chaal thi taaki Lakshmana Sita ko akela chhod kar bahar aa jaye.
+
+Yahi rakshason ki saazish ho sakti hai.
         """
         create_image_text_layout("attached_assets/chapter3/3.57.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Rama sochta hai:
 
+“Janasthana me maine jo rakshason ko maara, uska badla lene ke liye woh Sita ko nuksan pahuncha sakte hain.”
+
+Rama aur bhi ghabra jaata hai:
+
+Upar se pakshee aur jangli jaanwar unke baaye taraf se cheekh kar bhaag rahe hote hain.
+
+Sab bhoot-pret jaise bura sanket de rahe hote hain.
+
+⚡ Lakshmana ka aana
+
+Tabhi Lakshmana saamne dekhai deta hai —
+color urta hua, pareshaan, sharminda.
+
+Rama uska haath pakad kar dukh bhari awaaz me kehte hain:
+
+“Lakshmana! Tum Sita ko akela chhod kar yahan kaise aa gaye?”
+
+“Ye kaise shubh ho sakta hai?”
+
+Rama ka mann tootne lagta hai.
+
+Woh kehte hain:
+
+“Sita shayad rakshason dwara le jaayi gayi hai…”
+
+“Ya shayad… unhone usse maar diya…”
+
+“Ya vo jungle me kho gayi hai…”
+
+“Mera baaya aankh fadak raha hai.
+Sab shagun bure hain.
+Mera dil ashant hai.”
+
+Maricha ki mrityu se pehle ki accept ki hui sachchai —
+“Main rakshas hoon!” —
+Rama ko ab yaad aa rahi hai.
+
+Jangal ke har cheez —
+panchhi, jaanwar, hawa ki aawaaz —
+Rama ko ek hi baat keh rahe the:
+
+"Sita khatre me hai…"
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter58
     with st.expander("Chapter 3.58 – Rama cries for Sita"):
         text1 = """
+Lakshmana ko akela, udaas aur vinamra roop me wapas aate dekh kar Rama ka dil toot jaata hai.
 
+Unki pehli hi pukaar:
+
+“Lakshmana! Sita kahaan hai?”
+
+Rama bechain ho kar poochte hain:
+
+“Vaidehi kahan gayi?
+Jo mere saath vanvaas me aayi, jo Dandaka jungle me mere dukh-sukh ki saathi thi…
+Tum usse akela chhod kar kaise aa gaye?”
+
+“Sita ke bina main ek pal bhi nahi jee sakta.”
+
+“Woh to dev-kanya jaisi komal thi… woh mere jeevan ka praan thi.”
+
+Rama ka dard aur dar badhta jaata hai.
         """
         create_image_text_layout("attached_assets/chapter3/3.58.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+⚠️ Rama ka bhay – Kaikeyi ki jeet
 
+Rama sochta hai:
+
+“Agar Sita mar gayi…
+aur main bhi dukh se mar jaaun…
+to ye to Kaikeyi ki jeet hogi!”
+
+“Kya Kaushalya phir Kaikeyi ki daasi ban jayegi?
+Kya mera vanvaas Kaikeyi ke man ka manorath ban jayega?”
+
+Rama ka swaas rukta hua sa lagta hai.
+
+🌑 Rama ka sankalp
+
+Rama kehte hain:
+
+“Agar Sita zinda mil gayi, main ashram wapas lootaunga.
+Par agar woh mari mili…”
+“…to main apna jeevan tyag doonga.”
+
+“Agar main ashram lautkar Sita ki muskurati awaaz na sunoon…
+to main jee nahi paunga, Lakshmana.”
+
+🩸 Rama ka krodh aur dukh
+
+Rama ab poora sach samajh jaata hai:
+
+“Maricha ki cheekh ne tumhe majboor kiya hoga.
+Sita ne ro kar tumse kaha hoga ke jaakar meri raksha karo.”
+
+Phir Rama ka dard bhadak uthta hai:
+
+“Lekin Lakshmana!
+Tumse bahut badi chook ho gayi.”
+
+“Tumne Sita ko akela chhod diya…
+unhi rakshason ke beech jo Khara ki mrityu ki badla lene ko tadap rahe the.”
+
+Rama ab swayam kaap uthta hai:
+
+“Nishchay hi… woh log Sita ko maar dale honge.
+Main dukh ke samudra me doob chuka hoon, Lakshmana…
+Ab main kya karoon?”
+
+🏃‍♂️🔥 Rama ka paagalon jaisa doudna
+
+Sita ki chinta me vyakul ho kar Rama aur Lakshmana Janasthana ki taraf bhaagte hain.
+
+Rama Lakshmana ko baar-baar daantte jaate hain—
+Lakshmana se guroor aur pratibha sab khatam si ho gayi, vo sirf chup reh kar dukh sahte jaate hain.
+
+Jungle se guzarte hue:
+
+Rama rote hain
+
+unka chehra peela pad jaata hai
+
+thakaan, bhookh, pyaas, sab ko vo bhool jaate hain
+
+sirf Sita… Sita… Sita…
+
+🏚️ Ashram ka suunna hona
+
+Jab Rama ashram pahunchte hain—
+
+Woh poora khaali.
+Sita kahin nahi.
+
+Rama pagal ho jaate hain:
+
+kabhi idhar bhaagte
+
+kabhi udhar
+
+jahan-jahan Sita baithi thi, chali thi, hasti thi…
+Rama har jagah usse dhoondhte hain.
+
+Unke kaan me Sita ki hansi ghoomne lagti hai.
+Unke dil me bhayanak shanka jam jaati hai.
+Unke rom-rom khade ho jaate hain.
+
+Rama—mahaveer, chakravarti, dharmaraj—
+ab sirf ek toot chuka pati hai.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter59
     with st.expander("Chapter 3.59 – Rama gets angry at Lakshmana in sadness"):
         text1 = """
+Ashram se baahar nikalte hi, Rama ka dard phir ubhar aata hai.
+Unka gala ruk gaya hai, awaaz halki pad gayi, par ghaav abhi taza hai.
 
+🌑 Rama’s trembling voice
+
+Rama kehte hain:
+
+“Lakshmana… maine apni Sita tumhare hawale ki thi.
+Phir tumne usey akela kaise chhod diya?”
+
+“Tumhe akela aate dekh kar mera dil baith gaya.”
+
+“Mera baaya haath, baayi aankh — dono phadakne lage.”
+
+“Mere hriday me aisa kampan hua jaise koi badi vipatti nikal chuki ho.”
+
+Lakshmana ka dil tut jaata hai.
+Usey pata hai Rama ka dukh sach hai, aur unki baat be-tehsha sachchai se bhari.
+
+🗣️ Lakshmana explains the truth
+
+Lakshmana, kaampte hue, jawab deta hai:
         """
         create_image_text_layout("attached_assets/chapter3/3.59.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+“Bhaiya… main apni marzi se nahi aaya.
+Mujhe Sita ne bheja — majboor karke.”
 
+Phir Lakshmana poora drishya bataata hai:
+
+“Ek cheekh aayi — ‘Lakshmana, bachao!’
+Sita ne samjha yeh aapki awaaz hai.”
+
+“Woh rokar, chillakar boli — ‘Jao, abhi jao Lakshmana!’”
+
+Lakshmana yaad karta hai apne shabdon ko:
+
+“Maine usey samjhaya:
+‘Aisa koi nahi jo Rama ko dara sake. Yeh unki awaaz nahi.
+Koi rakshas hoga jo unki nakal kar raha hai.’”
+
+“Par Sita ka darr nahi gaya.
+Aansu girte gaye… uski awaaz toot-ti gayi.”
+
+Tab Lakshmana ke paas ek kathor yathaarth tha, jise batate hue uska chehra jal uthta hai:
+
+🔥 Sita’s harsh accusation
+
+Lakshmana bolta hai:
+
+“Sita ne gusse, darr aur bhram me mujh par ilzaam lagaya—
+
+‘Lakshmana! Tum Rama ki maut chahte ho!’
+‘Tum mujh par nazar rakhte ho… isliye madad ko nahi jaa rahe!’
+‘Tumhe Bharata ne bheja hai— hamara vinaash karne!’
+
+Main yeh sab sunkar…
+mera dil phat gaya.
+Main gusse me kaanp utha… aur chala aaya.”
+
+🩸 Rama’s bitter sorrow
+
+Lakshmana ki baat sun kar bhi Rama ka mann shaant nahi hota.
+
+Rama bolte hain:
+
+“Lakshmana… tumne bahut bada paap kiya.”
+
+“Ek स्त्री ke rosh ke aage jhuk kar, tumne apna dharm tod diya.”
+
+“Tum jaante the main kisi rakshas se nahi darta… phir bhi tumne Sita ko akela chhod diya.”
+
+Unki awaaz me teekhi chubhan hai:
+
+“Main ne us mrig-rup rakshas ko maar diya.
+Woh marne se pehle meri nakal karke cheekha—
+aur tum uss ek jhooti cheekh par sab kuch chhod aaye!”
+
+Rama aur keh nahi paate.
+Unke shabd toote hue, bhaari, aur pighalte hue hain—
+jaise har shabd ke peeche Sita ka naam jalta ho.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter60
     with st.expander("Chapter 3.60 – Rama and Lakshmana begin searching for Sita"):
         text1 = """
+Rama tezi se ashram ki taraf bhaag rahe the.
+Unka baaya aankh phadakna shuru ho gaya.
+Pair ladkhada gaye. Poora sharir kaanp utha.
 
+Yeh ashubh sanket (inauspicious signs) dekh kar Rama baar-baar puchte:
+
+“Lakshmana… kya Sita theek hogi? Kahin kuch ho toh nahi gaya?”
+
+🏚️ Hermitage Without Sita
+
+Rama jaise-taise ashram tak pahunchte hain—
+aur dekhta hi unka dil toot jaata hai.
+
+Ashram khaali. Bilkul sunsaan.
         """
         create_image_text_layout("attached_assets/chapter3/3.60.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Jungle ka mahaul bhi badal gaya:
 
+ped jaise ro rahe hon,
+
+phool murjha gaye hon,
+
+pakshi chup aur udaas,
+
+janwaron ki aankhon me darr.
+
+Rama ko apna ghar kamal ke bina jheel jaisa lagta hai—
+bilkul be-rang, be-jaan.
+
+😢 Rama’s Heartbreaking Questions
+
+Rama daudte hain, poora ashram talashte hain,
+har kone me jhaankte hain.
+
+Phir cheekh padte hain:
+
+“Sita kahan gayi?
+Kya koi unhe utha le gaya?
+Kya unka khoon kar diya?
+Kya unhe janwaron ne kha liya?
+Ya woh kahin phool-phal lene gayi hongi…
+ya paani laane?”
+
+Par har jagah… sirf sannata.
+
+🌳 Rama Questions the Trees
+
+Rama ab poora jungle se baat karte hain—
+jaise ped-paudon me jaan ho.
+
+“O Kedumbra Tree,
+meri priya Sita ko dekha hai?
+Wahi Sita jo tumhe pyar karti thi?”
+
+“O Bilva Tree!
+Uske kapde resham jaise the.
+Uska rang tumhare harae patton jaisa tha.
+Kya tumne usey dekha?”
+
+“O Ashoka Tree—
+tum dukh door karne wale ho.
+Mera dukh kam karo.
+Batao Sita kahaan hai…”
+
+Rama, bilkul pagal jaise,
+har ped se poochte jaa rahe hain—
+Cuta, Nipa, Sala, Panasa,
+Vakula, Chandana, Ketaka…
+
+🐅 Rama Questions the Animals
+
+Phir woh janwaron se pukaarte:
+
+“O Hiran (deer),
+kya tumne meri Sita dekhi?
+Jiski aankhen tumhari jaise thi?”
+
+“O Haathi,
+kya tumne usse dekha?
+Jiski kamar tumhari soond jaisi thi…”
+
+“O Sher (tiger),
+agar tumne meri komal-man ki Sita dekhi ho, toh batao.”
+
+🫢 Rama starts hallucinating
+
+Achanak Rama ko lagta hai Sita chhup rahi hai.
+
+Woh cheekhte:
+
+“Sita! Mujhe dhokha mat do!
+Main tumhe dekh sakta hoon!
+Tum peeli saari me chhup nahi sakti!”
+
+Par jise woh Sita samajh rahe the…
+woh sirf pedon par pada hua saaya tha.
+
+Unki awaaz toot jaati hai:
+
+“Nahi… yeh Sita nahi.
+Meri Sita toh mar gayi hogi…
+Varna mere dukh se be-asar kaise reh sakti hai?”
+
+💔 Rama imagines the worst
+
+Rama bilkul tut jaate hain.
+
+“Uska moonh chand jaisa tha…
+sharbat jaisi komal twacha…
+jaise chameli ka phool…
+woh sab barbaad ho gaya.”
+
+“Kisi ne uska gala kaat diya hoga.
+Bechari… akeli… be-sahaara.”
+
+Phir woh aasmaan ki taraf dekh kar cheekhte hain:
+
+“Indra ki kasam… Sita!
+Tum kahan ho?
+Mujhe ek baar bula lo!”
+
+🌪️ Like a madman
+
+Rama jungle me daudte rehte hain:
+
+kabhi chakravat (whirlwind) ki tarah,
+
+kabhi deewane ki tarah,
+
+kabhi pahaad chadhte,
+
+kabhi nadiyon me jhaankte,
+
+kabhi pedon ke neeche jhukkar pukaarte.
+
+“Sita! Sitaaaa!”
+
+Aakhir…
+itna ro kar, itna bhaag kar, itna dukh jhel kar—
+Rama bilkul thak jaate hain.
+Unki saansein tezi se chal rahi hoti hain.
+Unka sharir hila nahi jaata.
+
+Jungle me unki pukaar goonjti rehti hai,
+par jawab koi nahi deta…
         """
         create_image_text_layout(text_content=text2, layout="full")
 
