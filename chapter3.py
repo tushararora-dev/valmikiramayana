@@ -5782,60 +5782,454 @@ par jawab koi nahi deta…
     # Chapter61
     with st.expander("Chapter 3.61 – Rama expresses his sorrow"):
         text1 = """
+Rama aur Lakshmana jab ashram wapas aaye, toh poora jhopdi aur van soona (empty) lag raha tha.
+Ghaas ke aasans idhar-udhar bikhar gaye the.
+Aur Sita kahi nahi thi.
 
+Rama ne apne dono haath upar uthaye aur dard bhari awaaz me bola:
+
+“Lakshmana! Vaidehi kahan hai?
+Kaun usse le gaya?
+Kaun meri pyari Sita ko kha gaya ya chhupa liya?”
+
+Rama bechain hokar pukaarne lage:
+
+“Sita! Agar tum kisi ped ke peeche chhupi ho, toh ab mazaak mat karo.
+Main bahut tadap chuka hoon!”
         """
         create_image_text_layout("attached_assets/chapter3/3.61.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Unhone kaha:
 
+“Woh hariniyo (female deer) jinke saath Sita khelti thi,
+woh bhi udaas hain.
+Main Sita ke bina ek pal nahi reh sakta.”
+
+Phir Rama ne socha:
+
+“Shayad main mar jaaun…
+aur apne pita Dasharatha se baad me milun.
+Woh mujhe kahenge—
+‘Tumne mujhe diya hua vachan (promise) toda,
+aur Sita ko akela chhod diya!’”
+
+Is vichaar se Rama aur toot gaye.
+Unka dard aisa tha jaise koi bada hathi kichad (marsh) me phas gaya ho.
+
+❤️ Lakshmana ka Santvana (consolation)
+
+Lakshmana ne shaant awaz me kaha:
+
+“Bhaiya, himmat rakho.
+Aao, milkar dhundte hain.
+Yeh pahaad mein bohot gufaayein (caves) hain.
+Ho sakta hai Sita phool lene ya jal bharne gayi ho.
+Shayad woh humse mazaak kar rahi ho
+aur chhupkar dekh rahi ho ki hum use dhundte hain ya nahi.
+Chaliye, bina deri ke use dhundte hain!”
+
+Rama ko thodi tasalli mili.
+Dono bhai har taraf gaye—
+pedon ke neeche, pahaadon par, nadi kinare, jheelon me,
+gufao me, pattharon ke beech…
+
+Par Sita ka ek bhi nishaan nahi mila.
+
+😔 Rama ka tootna
+
+Ant me Rama ne thake hue shabdon me kaha:
+
+“Lakshmana…
+maine poora van dekh liya.
+Koi chinh (trace) nahi mila.
+Meri Vaidehi…
+meri praan (life-breath)…
+kahi nahi hai…”
+
+Yeh kehte-kehte Rama ka mann toot gaya.
+Unhone behoshi jaise dard me swayam ko girne diya.
+Unka sharir kaanpta tha.
+Unki saansen tez thi.
+Aur aankhon me aansu bhar aaye.
+
+Phir bhi woh bas ek hi naam pukarte rahe:
+
+“Sita! Sita!”
+
+Lakshmana unhe sambhalne ki koshish karta raha,
+haath jodkar, prem se,
+par Rama ne kuch nahi suna.
+Unka hriday (heart) sirf Sita ki yaad se bhar gaya tha.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter62
     with st.expander("Chapter 3.62 – Rama feels deep despair"):
         text1 = """
+Sita ke bina, kamal-nayan (lotus-eyed) Rama bilkul tut chuke the.
+Unka mann dard se bhar gaya tha.
+Woh har taraf Sita ko dhoondte, par nahi dekh pa rahe the.
+Phir bhi woh usse aise baat kar rahe the jaise Sita saamne ho.
 
+🌿 Rama ka Sita ko pukarna
+
+Rama ne dukhi awaz me kaha:
+
+“Sita! O Sundari!
+Ashoka ke phool bhi tumhare roop se kam sundar hain.
+Mujhe pareshaan mat karo. Bas saamne aa jao!”
+
+Woh har jhaadi ko dekhkar bolte:
+
+“Tum yahan छुपी ho kya, priye?
+Tumhari hansi mujhe dard de rahi hai.”
+
+Phir jor se pukara:
+
+“O vishaal-nayana (large-eyed) Sita!
+Tumhara jhopda bilkul akela ho gaya hai…
+Wapas aa jao.”
+
+Par Sita nahi mili.
         """
         create_image_text_layout("attached_assets/chapter3/3.62.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+😢 Rama ka dard aur shanka
 
+Rama ne hichkiyon ke saath kaha:
+
+“Lakshmana…
+shayad rakshason (demons) ne Sita ko utha liya.
+Isliye woh saamne nahi aa rahi.
+Sita kabhi mere dukh me mazaak nahi karti.”
+
+Rama ne aas-paas me khade hiranon ko dekha.
+Unki aankhon me aansu the, jaise woh kuch kehna chahte ho.
+
+Rama bola:
+
+“Lakshmana, dekho…
+ye hiran bhi soch rahe hain ki Sita ko raat-ke-bhayanak yoddha (Rangers of the Night) kha gaye!”
+
+💔 Rama ka sabse bada dar
+
+Rama ne dard me kaaha:
+
+**“Kaikeyi ka sapna poora ho gaya.
+Main Sita ke saath van me aaya tha.
+Aur ab… akela wapas jaaunga.
+
+Lok kya kahenge?
+‘Rama dil-ka-sakht aur kaayar (coward) hai!’”**
+
+Unhone aur bhi kaha:
+
+**“Janak Raja mujhe bina Sita ke dekh kar toot jayenge.
+Unka dukh unhe pagal kar dega!
+Main Ayodhya bilkul nahi jaaunga.
+Bharat raj kare—yeh hi achha hai.
+
+Lakshmana, tum Ayodhya wapas jao.
+Apni mataon ko mera pranam kehna.
+Aur unhe kahna ki Sita aur Rama… van me hi chale gaye.”**
+
+Is baat ko keh kar Rama phir se ro pade.
+
+😞 Lakshmana ka dard
+
+Lakshmana, jo hamesha mazboot rehta tha,
+ab peeche se safed (pale) pad gaya.
+Unka mann hil gaya tha.
+Woh darte the ki unka bhai unke aankhon ke saamne toot na jaaye.
+
+Aur dono bhai Sita ko dhoondte hue
+dukhi van me aage badhte rahe.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter63
     with st.expander("Chapter 3.63 – Rama continues to cry for Sita"):
         text1 = """
+Sita ke bina, Rama ka dukh aur zyada gehra hota gaya.
+Woh bilkul thak gaye the—mann se, sharir se, umeed se.
+Lakshmana ko bhi unki halat dekhkar bahut dard ho raha tha.
 
+🌑 Rama ka dard bhara maan
+
+Rama ne bhari saanson ke saath kaha:
+
+“Lakshmana, is duniya me mujhse zyada dukhi koi nahi.
+Ek ke baad ek pareshani meri zindagi me aise gir rahi hai jaise toofaan.
+Lagta hai maine pichhle janmon me bahut paap (evil acts) kiye honge.”
+
+Woh apne dukh ko yaad karne lage:
+
+Rajya ka kho jaana
+
+Maa aur parivaar se doori
+
+Vanvaas ki kathin (harsh) zindagi
+
+Rama bole:
+
+“Yeh sab dukh kisi tarah seh liye the…
+par Sita ka kho jaana sab dard phir se jaga raha hai.”
         """
         create_image_text_layout("attached_assets/chapter3/3.63.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+💔 Rama ke mann me bhayanak tasveer
 
+Rama ne toot kar kaha:
+
+**“Meri komal, sharmili Sita ko kisi rakshas (demon) ne aasman me utha liya hoga.
+Woh darr ke maare cheekh rahi hogi…
+
+Uska khoon… uska peela vastra…
+sab zameen ke dhool aur khoon me mil gaya hoga.”**
+
+Unki awaaz phat gayi:
+
+“Sita ki madhur awaaz, uski hanss, uski lachak—
+sab rakshason ne cheen liya!”
+
+Rama sochne lage:
+
+**“Shayad uski sundar gardan, jo motiyon ke haar se saja tha,
+kisi sunsaan jagah rakshas kaat rahe honge…
+
+Aur meri Sita, usne shayad pukara hoga—
+‘Rama! Rama!’
+par main wahan nahi tha…”**
+
+🌿 Yaadon ki chot
+
+Rama ne bechain hoke kaha:
+
+**“Lakshmana, yaad hai?
+Isi ghaati (valley) me Sita baithi thi.
+Mujhe muskura kar baat karti thi…
+
+Ab woh kahaan chali gayi?”**
+
+Phir unhone Godavari nadi ko dekha:
+
+“Kya woh yahan phool todne aayi hogi?
+Par nahi… Sita kabhi akeli nahi jaati thi.
+Woh akeli van me kadam tak nahi rakhti thi!”
+
+☀️ Surya aur Vayu ko pukarna
+
+Rama ne aasman ki aur haath uthakar kaha:
+
+“O Surya (Sun God), tum sab dekhte ho.
+Batao—kya Sita bhatak gayi, ya koi utha le gaya,
+ya… woh ab nahi rahi?”
+
+Phir hawa se bole:
+
+“O Vayu (Wind God), tum sab jante ho.
+Sita ka kya hua? Batao!
+Main is dukh se mar jaaunga!”
+
+💛 Lakshmana ka santvana (consolation)
+
+Lakshmana ne apne raazi-mand (duty-bound) dil se kaha:
+
+“Bhagwan Rama, himmat rakhiye!
+Dukh me tootna veeron (heroes) ka swabhav nahi.
+Chaliye—hum talash jaari rakhte hain.
+Hum Sita ko dhoond nikaalenge!”
+
+Par Rama apne dukh me doob chuke the.
+Lakshmana ki baatein unke dil tak nahi pahunchi.
+Aur woh phir se rote hue Sita ka naam lene lage.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter64
     with st.expander("Chapter 3.64 – Rama becomes angry at the situation"):
         text1 = """
+Sita ke bina dukhi Rama ne toote hue shabdon me Lakshmana se kaha:
 
+“Lakshmana, turant Godavari nadi jao.
+Ho sakta hai Sita wahan kamal (lotus) lene gayi ho.”
+
+Lakshmana bina der kiye wahan gaye.
+Unhone poori nadi, teerth (holy spots), kinare sab dekh liya.
+Par Sita kahin nahi mili.
+
+Wapas aa kar Lakshmana bole:
+
+“Rama, maine sab jagah dekh liya.
+Sita kahin nahi hai.”
+
+🌊 Rama ka Godavari ko pukarna
+
+Yeh sunte hi Rama khud nadi ke kinare bhaage aur zor se pukare:
+
+“Sita! Sita! Kahan ho?”
+
+Par Godavari chup rahi.
+Jungle ke devata (spirits) bhi kuch nahi bole.
+Sab ko pata tha ki Ravana, Lanka ka raja, Sita ko le gaya hai.
+Par sab dar rahe the.
+
+Rama bohot dukh se bole:
+
+“Godavari bhi kuch nahi keh rahi…
+Ab main kya mooh dikhau Janaka aur Sita ki maa ko?
+Main unke saamne kaise jaun Sita ke bina?”
         """
         create_image_text_layout("attached_assets/chapter3/3.64.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🦌 Jungle ke janwar Rama ko raasta dikhate hain
 
+Rama ne phir deer (hiran) ko dekha.
+Woh unko ek tarah se ishara kar rahe the.
+
+Rama ne unse pucha:
+
+“Kya tumne Sita ko dekha?”
+
+Hiran uth kar dakshin ki disha (south direction) me dekhne lage.
+Kabhi Rama ko dekhte, kabhi aasman ki aur, phir daud kar aage jaate.
+
+Lakshmana samajh gaye:
+
+“Bhaiya, ye hiran hume dakshin le ja rahe hain.
+Chaliye, shayad wahan koi nishaan mile.”
+
+🌺 Rama ko Sita ke pehchane hue phool milte hain
+
+Dakshin jaate hue Rama ko kuch phool zameen par gira hua dikhai diya.
+
+Unhone dard se kaha:
+
+“Lakshmana, ye wahi phool hain jo maine Sita ko diye the.
+Woh inhe apne baalon me lagati thi…”
+
+Rama ka dil phat gaya.
+
+🏔️ Rama pahaad aur nadi ko dhamkate hain
+
+Rama ne pahaad se kaha:
+
+“Hey parvat! Kya tumne Sita ko dekha?
+Yadi nahi bataya toh main tumhe tora-doonga!”
+
+Par pahaad chup.
+Woh bhi Ravana se dar raha tha.
+
+Rama gusse me bole:
+
+“Lakshmana, agar yeh nadi ya pahaad Sita ka pata nahi bataenge,
+toh main sab ko sukha dunga… jala dunga… mita dunga!”
+
+Rama ka gussa ab toofan jaisa tha.
+
+👣 Rama ko saboot milta hai
+
+Phir achanak unhe bade kadam (giant footprints) dikhe.
+Wahin paas Sita ke chhote kadam bhi the—
+idhar-udhar bhage hue, darr ke nishaan.
+
+Phir tootaa hua dhanush, tooti hui rath, khoon ke boonde, giraheni (ornaments)…
+Sab kuch pada tha.
+
+Rama ne darr aur gusse se kaha:
+
+“Lakshmana, yeh sab Sita ka hai.
+Yahan bhayanak ladaai hui hogi.
+Ravana jaise rakshas yeh sab tod kar Sita ko utha le gaye honge!”
+
+🔥 Rama ka maha-krodh (great wrath)
+
+Rama ka chehra bijli ki tarah chamakne laga.
+
+Unhone kaha:
+
+**“Lakshmana, agar devata Sita ko abhi wapas nahi laaye…
+toh main teenon lokon ko vinasht (destroy) kar doonga!
+
+Suryadev ruk jaayenge,
+chand dikhna band ho jayega,
+pahaad toot jayenge,
+nadiyaan sukh jayengi!
+
+Meri baan (arrows) aasman bhar denge,
+koi bhi bach nahi payega!”**
+
+Lakshmana ne dekha—
+Rama ne apna dhanush khinch liya,
+aur ek zehrili saanp jaisa teer uthaya.
+
+Rama bole:
+
+“Aaj hi… issi din…
+ya toh Sita wapas milegi,
+ya main poore brahmand (universe) ko mita dunga!”
+
+Is gusse me Rama Rudra jaisa pralay (doomsday) laane ko tayyar lag rahe the.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter65
     with st.expander("Chapter 3.65 – Lakshmana tries to calm Rama"):
         text1 = """
+Sita ke bina dukhi Rama ka gussa pralay aag (end-of-world fire) jaisa ho gaya tha.
+Unhone apna dhanush utha liya, jaise ki poori duniya ko jala denge.
 
+Lakshmana ne pehli baar Rama ko itne krodh me dekha.
+Unka chehra safed pad gaya.
+Hath jodkar woh bole:
+
+🙏 Lakshmana ka Vinamra Updesh
+
+**“Bhaiya Rama…
+Aap hamesha komal (gentle), shaant aur sabka bhala karne wale the.
+Aaj aap apni asli prakriti (true nature) se kyun hat rahe ho?
+
+Aapka tej (radiance) chaand ki shitalta, suraj ki roshni, hawa ki gati aur dharti ki sahansheelta (forbearance) jaisa hai.
+Aisi shaan ko ek rakshas (demon) ki wajah se kyun bigaad rahe ho?”**
+
+Lakshmana ne zameen par pade nishaan dekh kar kaha:
+
+**“Hume pata hi nahi kiski rath yeh thi.
+Kaun ladaa, kyun ladaa, kuch bhi to spasht nahi hai.
+Yeh toh ek-do logon ki ladaai lagti hai, senaon (armies) ki nahi.
+
+Toh poori duniyan ko mita dena theek kaise ho sakta hai, Bhaiya?”**
         """
         create_image_text_layout("attached_assets/chapter3/3.65.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌍 “Rajadharma” ka yaad dilana
 
+Lakshmana ne dheere se samjhaya:
+
+“Raja ka kartavya (duty) daya, nyaay (justice) aur sammata (moderation) se chalna hota hai.
+Aap sabka aasra (refuge) ho, sabka sahara.
+Kaun sahay karega agar aap hi sabko nasht kar doge?”
+
+Phir Lakshmana ne satya kaha:
+
+“Jo Sita ko le gaya, uska dundh (search) karna humara kaam hai.
+Chalo hum dono saath milkar dhundhte hain.
+Hum paani, pahaad, jangal, gufa, jheel sab talaashenge.
+Hum devta, gandharva sab se poochhenge.”
+
+🏹 Lakshmana ka vachan
+
+Lakshmana ne ant me kaha:
+
+“Bhaiya, pehle daya, vinamrata (humility), buddhi aur shanti se kaam lete hain.
+Agar phir bhi Sita na mile…
+tab aap apne teer chala kar andhere badal (storm clouds) jaise ghor pralay kar dena.
+Main hamesha aapke saath hoon.”
         """
         create_image_text_layout(text_content=text2, layout="full")
 
