@@ -6236,60 +6236,696 @@ Main hamesha aapke saath hoon.”
     # Chapter66
     with st.expander("Chapter 3.66 – Lakshmana gives courage to Rama"):
         text1 = """
+Rama abhi bhi dukh me dooba hua tha.
+Jaise koi poori duniya me akela pad gaya ho.
+Uska mann toot chuka tha.
+Uski saanson me sirf Sita ka dard tha.
 
+Lakshman, jo apne bhai se gehra prem karta tha,
+Rama ke pair pakad kar baith gaya.
+Unhe dabaane laga—jaise maa apne bachhe ko sambhalti ho.
+
+Phir Lakshman ne pyaar se kaha:
         """
         create_image_text_layout("attached_assets/chapter3/3.66.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌿 “Bhaiya, sambhal jao.”
 
+“Bhaiya… Pitaji Dasharatha ne aapko bahut tapasya se paaya tha.
+Jaise devtaon ne amrit paaya tha—waise pitaji ne aapko paaya.
+
+Aapke jaise putra ko paa kar
+Pitaji khushi khushi swarg chale gaye.
+Yeh baat humein Bharata ne batayi thi.
+
+Agar aap jaise veer dukh nahi jhel sakte,
+toh aam aadmi kya karega?”
+
+🔥 “Dukh sabko aata hai.”
+
+“Bhaiya, koi bhi jeevan ho—
+dikkatein to aati hi hain.
+
+Dukh aag ki tarah aata hai…
+Tez, jalta hua…
+Phir dheere dheere chala bhi jaata hai.
+
+Is duniya ka niyam hi yeh hai.
+
+Kya Raja Yayati swarg se nahi gira tha?
+Kya Vasishtha Muni ke 400 putr ek din me na mare the?
+
+Dharti Maa bhi kabhi kabhi kaanp uthti hai.
+Suraj-chand… jo sabko roshni dete hain…
+Woh bhi to grahan jhelte hain.”
+
+🌙 “Devta bhi kismat ke aage jhukte hain.”
+
+“Devta bhi takleef se guzarte hain, Bhaiya.
+Jab devta tak dukh se bachte nahi—
+toh hum manushya kaise bachenge?
+
+Isliye aapko roop badal kar
+aam aadmi ki tarah dukh nahi manana chahiye.”
+
+💔 “Chahe Sita devi ki mrityu bhi ho gayi ho…”
+
+Lakshman ne dheere se kaha:
+
+“Bhaiya, chahe Sita ji mar gayi ho…
+ya unhe utha kar le gaye ho…
+aapko tootna nahi chahiye.
+
+Aap Raja hain.
+Jinke dil me samay hota hai,
+wo har sthiti me samyak vivek (right judgement) rakhte hain.”
+
+⚔️ **“Aapne mujhe hamesha sikhaya hai—
+
+ki kaam ko waqt par karna chahiye.”**
+
+“Bhaiya, aap hi ne mujhe samjhaya tha
+ki kaam chhod dene se parinaam nahi milta.
+
+Aapne hamesha mujhe sikhaaya hai.
+Aapko kaun sikha sakta hai?
+Brihaspati bhi nahi.
+
+Aapka gyaan devta bhi naap nahi sakte.”
+
+🐯 “Ab uth kar tayyar ho jao!”
+
+Lakshman ne zor se kaha:
+
+“Bhaiya,
+Is dukh ne aapke andar ki shakti ko chhupa diya hai.
+Main us shakti ko fir jagana chahta hoon.
+
+Devtaon ki shakti dekh lo.
+Manushyon ki shakti dekh lo.
+Aur apni shakti bhi yaad karo.
+
+Duniya ko jalane se kya milega?
+Us ek dusht raatri-char ko dhundho…
+aur use samaapt kar do, Bhaiya!
+
+Woh hi hamara dushman hai.
+Usi ko maarna hamara dharm hai.”
+
+Lakshman ke shabdon me pyaar bhi tha,
+samajh bhi thi,
+aur ek veer ka utsaah bhi.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter67
     with st.expander("Chapter 3.67 – Rama finds the injured Jatayu"):
         text1 = """
+Lakshman ke buddhi-bhare shabdon ne
+Rama ka gussa shaant kar diya.
+Rama ne gehri saans li.
+Usne apna dhairya fir se sambhala.
 
+Bow par sahara le kar Rama bole:
+
+“Lakshman… ab kya karein?
+Kis disha me jaayein?
+Sita ko kaise dhundhe?
+Sochna hoga.”
+
+Lakshman turant bole:
+
+“Bhaiya, Janasthana chalte hain.
+Wahan bahut rakshas rehte hain.
+Ghane jungle, gehri gufaayein, pahaadi darre,
+aur anek ajeeb jeevon ka raaj hai.
+Hum dono mil kar har kona dhoondhenge.”
+
+Rama ne haan me haan milayi.
+Dono bhai teer-dhanush lekar
+ghane van me ghus gaye.
         """
         create_image_text_layout("attached_assets/chapter3/3.67.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌳 Jungle me ek bada sa pakshi pada tha…
 
+Thodi door jaate hi
+Rama ne kuch dekha.
+
+Ek vishal pakshi…
+Jise dekh kar lagta tha jaise
+koi pahaad ka tukda zameen par gir gaya ho.
+
+Woh poori tarah khoon se rangeen tha.
+Bina hile lade pada tha.
+
+Rama ka mann phat pada:
+
+“Lakshman! Yeh dekho!
+Yeh koi rakshas hoga
+jo vulture ka roop banakar
+Sita ko kha gaya hoga!
+
+Isne Sita ko maar diya hoga
+aur ab araam se so raha hai!
+Isse abhi maar daalta hoon!”
+
+Rama ne teer chadha diya.
+Gussa unki aankhon me bijli ki tarah chamak raha tha.
+
+Woh pakshi thodi der me bol utha—
+Uski awaaz kamzor thi, dard se bhari thi.
+
+🦅 “Rama… ruk jao. Main Jatayu hoon…”
+
+Pakshi bola:
+
+“Rama…
+Main tumhare pita ka mitra…
+Jatayu hoon.
+
+Sita ko maine apni aankhon se dekha…
+Ravana use utha le gaya.”
+
+Rama ka teer haath se gir gaya.
+Woh pattar ki tarah jam gaye.
+
+Jatayu bolta gaya:
+
+“Tum dono ke jaane ke baad
+Ravana Sita ko kheech kar le ja raha tha.
+
+Main uda…
+aur usse rok diya!
+
+Uska rath tod diya…
+chhatra gira diya…
+aur uska saarathi mar dala.
+
+Par Ravana bahut balwaan tha.
+Usne talwar se mere dono pankh kaat diye.
+
+Phir Sita ko le kar asmaan me udd gaya.
+Main yahin gir gaya…
+
+Mujhe mat maaro, Rama.
+Main tumhara dushman nahi…
+Main tumhara pita ka dost hoon.”
+
+💔 Rama ka dil toot gaya
+
+Yeh sunte hi
+Rama Jatayu par gir pade
+aur use gale laga liya.
+
+Unki aankhon me aansu bhar aaye.
+
+“Lakshman…
+dekho meri kismet!
+
+Rajya gaya…
+vanvaas mila…
+Sita chali gayi…
+aur ab pitaji ka mitra
+mere saamne mar raha hai.
+
+Meri durdaasha to
+samundar ko bhi sookha de.”
+
+Rama baar baar Jatayu ke sharir ko chhoone lage.
+Aankhon me prem… dukh… kripa… sab tha.
+
+Phir
+Rama ne Jatayu ko apni baahon me uthaya
+aur puchha—
+
+“Jatayu…
+Sita kahan gayi?
+Meri jaan se pyari Sita kahan hai?”
+
+Rama zameen par gir pade.
+Lakshman unhe sambhalte rahe.
+
+Jungle me sirf
+Rama ke rote hue shabdon ki goonj reh gayi.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter68
     with st.expander("Chapter 3.68 – Jatayu dies after telling Rama what happened"):
         text1 = """
+Rama Jatayu ke paas baith gaye.
+Jatayu zameen par pada tha…
+Khoon me lathpath…
+Saans dheemi…
+Aankhen dhundhli.
 
+Rama ne dukh bhari awaaz me Lakshman se kaha:
+
+“Lakshman…
+Is pakshi ne meri raksha ke liye
+apni jaan daal di.
+Ravana se ladte-ladte
+yeh toot chuka hai.
+
+Uski saansein kat rahi hain.
+Aankhen band ho rahi hain.
+Woh bol bhi nahi pa raha.
+
+O Jatayu…
+Agar bol sakte ho
+to batao…
+Sita ka kya hua?
+
+Ravana ne use kis liye le gaya?
+Us waqt Sita ka chehra kaisa tha?
+Usne kya kaha?
+Woh rakshas kaisa dikh raha tha?
+Kahan rehta hai?
+Batao, dost!”
         """
         create_image_text_layout("attached_assets/chapter3/3.68.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🦅 Jatayu ki akhri baatein
 
+Jatayu ne bahut mushkil se apna sir uthaya.
+Uski awaaz toot rahi thi.
+
+“Rama…
+Sita ko Ravana le gaya.
+Woh rakshaso ka raja hai.
+Jadoo jaanta hai…
+Toofan jaise bal rakhta hai.
+
+Maine use roka.
+Uska rath toda.
+Uska saarathi maara.
+
+Par mein thak gaya tha.
+Ravana ne apni talwar se
+mere dono pankh kaat diye.
+
+Phir Sita ko pakad kar
+dakhshan disha me udd gaya…
+
+Rama…
+Meri aankhen dhundhla rahi hain.
+Main sooraj jaisa peela prakash dekh raha hoon.
+Mera waqt aa gaya hai…
+
+Lekin ek baat suno—
+Ravana ‘Vindhya kaal’ me Sita ko le jaa raha tha.
+Us samay jo cheez kho jaati hai
+woh fir mil jaati hai.
+
+Iska matlab…
+Ravana ki maut likhi ja chuki hai.
+
+Rama…
+Sita tumhe wapas milegi.
+Tum jeetoge.
+Tum dono fir saath hoge…”
+
+Jatayu ke muh se khoon bahne laga.
+Uski saans tez ho gai…
+Phir achanak ruk gai.
+
+Ant me usne ek baat boli:
+
+“Ravana… Vishrava ka beta hai…
+Vishravana ka bhai…”
+
+Aur phir
+Jatayu ki aankhen band ho gayi.
+Jaan nikal gayi.
+
+💔 Rama ki cheekh
+
+Rama cheekh uthe:
+
+“Jatayu!!
+Aur bolo!
+Mat jao!”
+
+Par Jatayu ka shareer thanda ho chuka tha.
+Uski aankhen sookh gayi thi.
+Uska sar, pair, pankh sab dheele pad gaye.
+
+Rama neeche gir pade.
+Unka dil tootta ja raha tha.
+
+“Lakshman…
+Yeh pakshi ne saalon tak jungle me jeevan bitaya.
+Aaj meri seva me jaan de di.
+
+Apne kul ka raaj chhod diya
+sirf isliye ki Sita ko bacha sake.
+
+Lakshman…
+Aisi dharm-nishta to insano me bhi mushkil hai!”
+
+Rama ki awaaz kanp rahi thi.
+
+“Sita ke jaane ka dard
+itna gehra nahi tha
+jitna Jatayu ke marne ka hai.”
+
+🔥 Jatayu ka Antyeshti
+
+Rama ne kaha:
+
+“Lakshman, lakdi lao.
+Aaj main apne pita ke mitra ka
+swatah antim sanskar karunga.”
+
+Lakshman ne ghee ki lakdiyaan jama ki.
+Rama ne Jatayu ko apni baahon me uthaya.
+Jaise pita ka shareer utha rahe ho.
+
+Usse chita par rakha.
+Aankhon me aansu lekar
+agni lagayi.
+
+Aag ke jwalon me
+Jatayu ka shareer chamak utha.
+Jaise uski atma
+aasmaan me oonchi udaan bhar rahi ho.
+
+🥩 Rama ka shraddh–bhoj
+
+Antyeshti ke baad
+Rama aur Lakshman ne
+kuch mote Rohi hiran mare.
+
+Unke maans ke gol banaye
+aur hara ghaas par rakhe:
+
+“Yeh sab Jatayu tumhare liye…
+Tum veer the…
+Tum ne dharm nibhaya.”
+
+Fir dono bhai
+Godavari nadi gaye.
+Pani chhoda.
+Prarthna ki.
+
+“Jatayu…
+Tum dev-lok jao.
+Veeron ka sthan tumhara hai.”
+
+Shraddh poora karke
+Rama aur Lakshman
+dubara jungle me nikal pade.
+
+Unki aankhen laal thi…
+Dil me aag thi…
+
+Sita ko dhoondne ka sankalp
+aur bhi gehra ho chuka tha.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter69
     with st.expander("Chapter 3.69 – Rama and Lakshmana meet Ayomukhi and Kabandha"):
         text1 = """
+Jatayu ki kriya karke
+Rama aur Lakshman fir jungle me chale.
+Disha thi—dakshin–pashchim.
+Raasta jungli, gehra, kaanton se bhara,
+ghanaa aur daraavna.
 
+Par dono veer the.
+Dono chal padhe.
+
+🌳 Krauncha Jungle
+
+Kuch door chalne ke baad
+voh Krauncha van me pahunche—
+baarish ke baadal jaisa gehra,
+phoolon se bhara,
+hiran aur pakshiyon se sajja hua.
+
+Par Rama ka dil halka nahi hua.
+Unki nazar har taraf Sita ko dhoond rahi thi.
+
+🏞️ Matanga ka Ashram
+
+Teen kos aur chalne ke baad
+voh Matanga Rishi ke ashram ke paas aaye.
+Fir unhe ek gufaa dikhai di—
+andhera, gehra, daraavna,
+jaise zameen ke neeche ka lok.
+
+Usi jagah
+ek bhayankar rakshasi saamne aa gayi.
         """
         create_image_text_layout("attached_assets/chapter3/3.69.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Uska chehra daravna.
+Sharir bada sa.
+Aawaz kadak.
+Bade daant.
+Bada pet.
+Aur voh hansi…
 
+“Idhar aao, sundar veeron,”
+rakshasi boli,
+“Hamara saath prem se samay bitao.”
+
+Aur turant
+Lakshman ka haath pakad liya.
+
+“Main Ayomukhi hoon,”
+woh garji,
+“Main tumhari hoon—
+Lakshman, mera pati ban jao.
+Hum dono pahaadon par aur nadiyon ke beech
+maze se jeeyenge.”
+
+Lakshman ka khoon khol gaya.
+
+Ek pal me
+usne talwar nikali
+aur Ayomukhi ke kaan, naak, aur stan kaat diye.
+
+Cheekh maar kar
+rakshasi bhaag gayi.
+
+Rama aur Lakshman aur gehre jungle me pravesh kar gaye.
+
+⚠️ Bure Sanket
+
+Lakshman ne dheere se kaha:
+
+“Bhaiya…
+Meri baayen baahu phadak rahi hai.
+Dil ghabra raha hai.
+Har taraf ashubh sanket hai.
+Par ek pakshi ki cheekh se lagta hai
+jeet humari hogi.”
+
+Rama ne haan me sir hilaaya.
+
+Dono aur andar badhe.
+
+🌪️ Achanak Tez Dhadaka
+
+Achaanak
+ek zor ka shor hua.
+Jaise aandhi ne pura jungle hila diya ho.
+
+Rama ne dhanush sambhala.
+Lakshman ne talwar.
+
+Dono ne aage jaakar dekha…
+
+Aur unka kadam ruk gaya.
+
+🦾 Kabandh – woh be–sar rakshas
+
+Ek raat jaisa kaala,
+pahad jaisa bada,
+sir–bina rakshas unke saamne tha.
+
+Uska mooh uske pet me tha.
+Ek bada, peela eka–ankh uski chhati me chamak raha tha.
+Haath itne lambe
+ki chaar kos door ka jaanwar pakad le.
+
+Kabandh tedhi hansi hansa
+aur dono ko ek hi jhatke me
+apni baahoon me pakad liya.
+
+Lakshman karah uthe.
+Unka badan kaanp gaya.
+
+“Bhaiya…”
+Lakshman boli,
+“Mujhe chod do.
+Main is rakshas ke hawale ho jaata hoon.
+Aap bach jao…
+Aap Sita ko pa loge.
+Aap Ayodhya laut kar raajyabhishek karwao…
+Bas mujhe yaad rakhna.”
+
+Rama ne kathor par shant awaaz me kaha:
+
+“Lakshman, shant ho jao.
+Tum jaise veer kabhi ghabraate nahi.”
+
+👹 Kabandh ka swar
+
+Kabandh garja:
+
+“Tum kaun ho?
+Tumhari baahen saand jaisi balwaan.
+Tumhare paas dhanush–talwar.
+Tum mere muh me aa gaye ho.
+Tumhari maut nishchit hai.”
+
+Rama ne Lakshman ko dekha.
+
+“Lakshman…
+Hum ek musibat se nikle
+to ek aur badi musibat aa gayi.
+
+Lagta hai
+Sita tak pahunchne se pehle
+kismat humari pariksha le rahi hai.
+
+Mujhe lagta hai
+aaj hamari jaan bhi ja sakti hai…
+Sita se milna…
+shayad ab mushkil ho jaaye.”
+
+Rama ne aise kaha—
+par unki aankhon me
+ab bhi shaanti thi.
+
+Unka mann mazboot tha.
+
+Aur yahin se
+Kabandh ka asli kissa shuru hota hai.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter70
     with st.expander("Chapter 3.70 – Rama and Lakshmana cut off Kabandha’s long arms"):
         text1 = """
+Kabandh ne dono bhaiyon ko
+apni lambe–lambe baahoon me jakkad liya.
 
+Hansi karte hue bola:
+
+“Arre veeron, kya ho gaya?
+Tum dono to aaj mere bhojan banne vale ho.
+Bhagya ne tumhari buddhi hi chheen li hogi
+jo tum mere haath aa gaye.”
+
+🗡️ Lakshman ka sankalp
+
+Lakshman dard me the,
+par unhone himmat nahi haari.
+
+Dheere se Rama se bole:
+
+“Bhaiya…
+Yeh rakshas hame zinda nahi chhodega.
+Iski haath bahut taakatvar hain—
+sabko daboch leta hai.
+
+Hum dono ko turant apni talwar se
+iske dono baahen kaat deni hongi.
+
+Yeh be-baas bhed ki tarah katne ke liye nahi—
+par hum veer hain,
+aur veer haath par haath rakhkar nahi marte.”
+
+Rama ne sir hilaaya.
+Nishchay ho gaya.
         """
         create_image_text_layout("attached_assets/chapter3/3.70.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+Kabandh dono ko apne muh ki taraf kheech raha tha.
 
+Par usi pal
+Rama aur Lakshman ne
+ek saath,
+tezi se,
+poori sharir ki shakti jodkar
+vaar kar diya.
+
+Rama ne uska daaya haath kaat diya.
+
+Lakshman ne ek zor daar prahar me baaya haath kaat diya.
+
+Kabandh ke dono baahen
+zameen par gir gayin…
+rakt dhaara ki tarah behne laga.
+
+Uski cheekh ne
+zameen aur aasman
+dono ko hila diya.
+
+🩸 Kabandh ka prashna
+
+Dard se karah kar
+Kabandh zameen par gir pada.
+
+Dheere, lachar awaaz me bola:
+
+“Tum… tum kaun ho?
+Kaun ho tum veeron
+jo mere haath kaat gaye?”
+
+🦁 Lakshman ka uttar
+
+Lakshman ne uska prashna suna
+aur
+Rama ki mahima
+batate hue kaha:
+
+“Yeh Rama hain—
+Ikshvaku vansh ke veer,
+dharma ke rakshak.
+
+Main unka chhota bhai Lakshman hoon.
+
+Kaikeyi ne dhokha dekar
+Rama ka rajya chheen liya,
+aur hum tino—main, Rama, Sita—
+van me rehne aa gaye.
+
+Par ek dusht rakshas
+Sita ko chheen le gaya.
+Isi liye hum use dhoond rahe hain.
+
+Aur tum?
+Tum kaun ho
+jo aise daravne roop me jungle me bhatak rahe ho?”
+
+🌟 Kabandh ka roop-ras aur satya
+
+Lakshman ki baat sunte hi
+Kabandh ko Indra ke diye shraap yaad aa gaye.
+
+Uski awaaz khushi se bhar gayi:
+
+“Ahh… swagat hai tum dono ka!
+Meri mukti ka samay aa gaya.
+
+Tumne mere haath kaat kar
+mujhe vardaan diya hai.
+Suno—
+kaise main is bhayankar roop me gira.”
+
+Aur yahin se
+Kabandh apni kahani batane lagta hai…
         """
         create_image_text_layout(text_content=text2, layout="full")
 
