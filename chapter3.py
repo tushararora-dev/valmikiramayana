@@ -6932,59 +6932,691 @@ Kabandh apni kahani batane lagta hai…
     # Chapter71
     with st.expander("Chapter 3.71 – Kabandha tells his story"):
         text1 = """
+Kabandh—jiske baazu Rama–Lakshman ne kaat diye the—
+ab dheere-dheere bolne laga.
 
+Uski awaaz me dard bhi tha,
+aur sukoon bhi—
+jaise kisi ka bojh ab utar raha ho.
+
+🌑 Kabandh ka sach
+
+“Rama…
+Main pehle aisa nahi tha.
+
+Main bahut sundar tha.
+Teenon lokon me meri shakti aur roop ki charcha thi.
+Sooraj, Chandrama, Indra jaisa tej tha mera.
+
+Par main ghamandi ho gaya.
+Apna roop badalkar tapasviyon ko daraata tha.
+Unhe pareshan karta tha.”
+
+Kabandh ki awaaz me pachtava tha.
+
+“Ek din maine
+Rishi Sthulashira ko chidha diya.
+
+Woh phal tod rahe the.
+Main unke saamne apni badi, bhayanak shakal le aaya.
+
+Unhone mujhe gusse me shraap de diya:
+
+‘Hamesha isi daravne roop me confine ho jao!’”
         """
         create_image_text_layout("attached_assets/chapter3/3.71.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🔥 Shraap se mukti ka vachan
 
+Kabandh ne aage kaha:
+
+“Maine Rishi se maafi maangi.
+Unhone daya ki—
+aur kaha:
+
+‘Jab van me Rama tumhare dono baazu kaat kar
+tumhara dahsanskaar karega,
+tab tum apna asli roop paoge.’”
+
+Lakshman ki taraf dekhkar woh bola:
+
+“Main Danu-putra hoon.
+Sundarta se bhara hua.
+Yeh roop mera asli nahi.”
+
+⚔️ Indra ka shraap
+
+Phir Kabandh ne hansi-bhari kasak se kaha:
+
+“Ek shraap aur bhi tha…
+Indra ka.
+
+Maine kathin tapasya ki.
+Brahma ji ne mujhe amar jeevan ka var diya.
+
+Main garv me bhar gaya.
+Soche laga—‘Indra kya bigaad lega?’
+Aur maine use lalkar diya.
+
+Indra gusse me aa gaye.
+Unhone apna vijra, sau-dhaari gadha,
+zor se mujh par phenka.
+
+Uske prahar se
+mera sar aur jaanghe
+mere sharir ke andar dhans gayi.
+
+Main roya.
+Maine kaha—‘Mujhe maar do, Indra.’
+
+Par Indra bole:
+
+‘Brahma ka var jhootha nahi ho sakta.
+Tumhe jeena hi padega.’”
+
+Kabandh ne shant swar me kaha:
+
+“Main bola—‘Sar ke bina kaise jeeunga?’
+
+Tab Indra ne
+mere haath chaar kos (4 miles) lambe kar diye
+aur mera muh mere pet me rakh diya.
+
+Tab se main jungle me ghoom-ghoom kar
+janwaron ko haath se pakadkar
+pet ke muh me daalta raha.”
+
+🌟 Mukti ki umeed
+
+Kabandh ne gehri saans li.
+
+“Indra ne fir kaha:
+
+‘Jab Rama aur Lakshman tumhare baazu kaat denge,
+tab tumhe svarg mil jayega.’”
+
+Kabandh roya nahi,
+par awaaz bhar aayi:
+
+“Main tab se bas tum dono ka intezar kar raha tha.
+Aakhir tum aa gaye.
+
+Tumhare baazu kaatne se
+mera shraap tootne laga hai.
+
+Meri ek antim ichchha hai.
+Mera dah sanskaar karo.
+Phir main tumhe
+ek aisa mitra batane wala hoon
+jo tumhari Sita ko khojne me madad karega.”
+
+🔱 Rama ka prashn
+
+Rama ne shant par vyakul swar me poocha:
+
+“Ravana ne meri Sita ko chura liya hai.
+Na hum uska roop jaante hain,
+na uski shakti,
+na uska ghar.
+
+Hum akela bhatak rahe hain.
+
+Agar tum jaante ho—
+batao—Sita kahan hai?”
+
+🔮 Kabandh ka uttar
+
+Kabandh dheere se bola:
+
+“Rama…
+shraap ke kaaran
+mere paas divya drishti nahi hai.
+
+Main Sita ko nahi jaanta.
+Par…
+
+jalte hi
+apna asli roop paakar
+main tumhe ek aisa veer bataaunga
+jo sab kuch jaanta hai.
+
+Tinon lok uske gyaan se chhupe nahi hain.
+
+Usse tum dosti karna.
+Woh tumhe Sita tak pahunchayega.”
+
+Kabandh ne antim baar kaha:
+
+“Surya doobne se pehle
+mujhe
+agnikriya
+do, Rama.
+
+Tab main tumhara margdarshan karunga.”
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter72
     with st.expander("Chapter 3.72 – Kabandha tells Rama how he can find Sita"):
         text1 = """
+Kabandh ki aakhri ichchha poori karne ke liye
+Rama aur Lakshman ne ek pahaadi ki taraf jaakar
+ek gehra gaddha dhoonda.
 
+Sukhe lakdi ke moote-mote thoonth liye.
+Lakshman ne jalti hui mashaal uthai.
+Dono bhaiyon ne milkar
+Kabandh ka dahsanskaar shuru kiya.
+
+Aag dheere-dheere bhadakti gayi…
+zabaan jaise laal phool si phail rahi ho.
+
+Kabandh ka bhayanak sharir,
+jo kabhi sabko daraata tha,
+ab makhhan ki tarah pighalne laga.
+
+Aur phir—
+jaise kisi ne andheron me deep jala diya ho—
+uske bhasm me se ek roop nikla…
+
+Chamakta hua, dev-samaan.
+Safed vastra. Divya pushpon ki mala.
+Sone ke gehne.
+Tej aisa ki charon disha chamak uthi.
+
+Ek swan-yukt divya rath aasman me aaya.
+Kabandh—ab sundar, shapit roop se mukt—
+us par chadhkar aasman me khada ho gaya.
+
+Upar se zameen par khade Rama ko dekhkar bola:
         """
         create_image_text_layout("attached_assets/chapter3/3.72.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌟 “Rama, Sita ko kaise dhundo — ab suno.”
 
+“Aap dono bahut dukh me ho.
+Aur dukh ka bojh tab halka hota hai
+jab koi saath ho.
+
+Par tum dono ka koi saathi nahi…
+
+Isliye pehla raasta—
+dosti.”
+
+Kabandh ki awaaz me gyaan tha.
+
+🐒 “Ek vanara tumhari kismat badal dega.”
+
+“Rama,
+Pampa sarovar ke paas
+Rishyamuk Parvat hai.
+
+Wahaan ek vanara-raj Sugriva rehta hai—
+apne chaar veeron ke saath.
+
+Woh Indra ka putra Bali ka bhai hai.
+Bahadur. Buddhiman.
+Rupa-se-tez.
+Dil ka sachcha.
+Dharma ka pakka.
+Aur apne bhai Bali ke dwara
+rajya se nikala hua.”
+
+“Woh tumhara sacha mitra banega, Rama.
+Usse milo.
+Usse haath milao.
+Agni ko saakshi banaakar
+mitrata ka bandhan baandho.”
+
+🔱 Sugriva ko kyun?
+
+Kabandh aage bola:
+
+“Sugriva ka gyaan teenon lokon me phaila hua hai.
+Asur kahaan chhupe hain,
+kis pahaad me, kis gufa me—
+use sab pata hai.
+
+Aur jab tumhara mitra banega,
+to apne vaanaron ko
+chaaron dishaon me bhej dega.
+
+Pahaad, dariya, janglaat,
+gufaayein, gehre kuan,
+Ravana ka rajmahal—
+koi jagah chhodi nahi jayegi.
+
+Chahe Sita
+Mount Meru ki choti par ho,
+ya paataal ki gehraiyon me band,
+Sugriva usse dhoondh hi lega.
+
+Aur agar zarurat padi—
+poora raakshas kul mita dega.”
+
+🌄 Kabandh ka antim sandesh
+
+Kabandh ka rath aasman me aur upar uthne laga.
+
+“Aaj se tumhari raah seedhi hai, Rama.
+Bas Rishyamuk jao.
+Apne baan neeche rakho.
+Sugriva tumhe pehchaanega.
+Aur tumhari kasht ki raat
+khatm karne me madad karega.”
+
+Phir ek komal hansi ke saath bola:
+
+“Main tumhara udhaarimaan hoon.
+Par tumhari yatra ab shuru hoti hai.”
+
+Aur prakash ke saath
+Kabandh antardhyan ho gaya…
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter73
     with st.expander("Chapter 3.73 – Kabandha gives final advice to Rama"):
         text1 = """
+Kabandh ne Sita tak ka raasta bata diya tha…
+Ab usne Rama ko ek gehra aur kaam ka updesh diya.
 
+Upar aasman me chamak raha Kabandh—
+devi mala pehne, divya roop me—
+narm awaaz me bola:
+
+🌳 “Rama, yeh raasta Rishyamuk Parvat tak jaata hai…”
+
+“Yeh raasta paschim (west) ki taraf mudta hai, Rama.
+
+Is par chaloge to hazaaron phoolon se bhare ped milenge:
+
+Jambu
+
+Panasa
+
+Nyagrodha (bargad)
+
+Ashvattha (peepal)
+
+Karnikara
+
+Kadamba
+
+Tilaka
+
+Naktamala
+
+Aur aur bhi bahut saare ped—
+jinhe jhukakar tum unke meethay phal kha sakte ho.”
+
+Kabandh ke shabd jaise ek tasveer bana rahe the…
         """
         create_image_text_layout("attached_assets/chapter3/3.73.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌺 “Yeh ban Nandana van jaisa hoga…”
 
+“Aage chal kar tum ek aisa vana pahuncho ge
+jaisa devtaon ka Nandana Garden.
+
+Har mahine
+har mausam ke phal—
+saath-saath ugte hain.
+
+Lakshman aasani se ped pe chadh jayega,
+ya poora ped jhukakar tumhe phal dega—
+jo Amrit (nectar) jaise meethay honge.”
+
+🪷 “Pampa Sarovar pahunchoge…”
+
+“Aakhir me tum dono
+Pampa jheel tak jaoge—
+jisme padme (lotus) khilte rehte hain.
+
+Wahaan koi patthar, koi gaddha nahi,
+paayal jaisi komal mitti.
+
+Hans, batak, bagule, ospreys…
+sab meethi awaaz me gaate milenge.
+Koi inse shikar nahi karta—
+isliye ye darte bhi nahi.”
+
+Kabandh bola:
+
+“Rama, ye moti jaise mote pakshi khana—
+ye tumhari taakat badhayenge.”
+
+Aur Lakshman tumhare liye
+teer se machhliyan pakad kar
+unhe aag par bhun-kar laayega—
+ek haddiyon wali, naram aur swaadisht.
+
+Phir tumhe kamal ke patte me
+thandi, sugandhit paani pilaayega.
+
+🐒 “Vanar tumhe ye sab jagah dikhaayenge…”
+
+“Sandhya ko, Lakshman tumhe dikhayega
+ki kaise vanar (monkeys)
+jheel pe paani peene aate hain—
+jangli, zor se dahadte hue.”
+
+Phoolon se bhara ban…
+Mehakti jheel…
+inti sundar drishya
+tumhare dukh ko halka kar denge.
+
+🙏 “Wahaan Shabari milegi…”
+
+“Matanga Rishi ka purana ashram wahin hai.
+Uske shishya to swarg chuke…
+par ek vriddh tapasvini (ascetic woman)
+Shabari ab bhi wahaan hai.
+
+Tumhe dekhte hi
+woh tumhara swagat karegi
+aur phir apne punya ke saath
+swarg jaayegi.”
+
+🐘 “Rishyamuk Parvat ke paas…”
+
+“Rishyamuk Parvat Pampa ke saamne hi hai.
+Bahut khubsurat, bahut kathin.
+
+Yahaan:
+
+jawaan haathi garajte hain
+
+gehri gufaayein hain
+
+ped phoolon se bhaare hue
+
+neele rang ke hiran jaise manohar prani (creatures) milenge
+
+Unhe dekh kar tumhara dukh aur halka hoga, Rama.”
+
+🦍 “Wahaan Sugriva rahta hai.”
+
+“Ek vishaal gufa
+pahaad ke pet me bani hai.
+Usi me Sugriva, vanaro ka raja,
+apne mitron ke saath rehta hai.
+
+Kabhi gufa me,
+kabhi pahaad ki choti par—
+par hamesha Pampa aur Rishyamuk ke aasapas.”
+
+🌟 Kabandh ka Antim Vachan
+
+Kabandh aasman me aur ooncha uth gaya,
+suraj ki tarah chamakta hua.
+
+Rama aur Lakshman ne neeche se pukara:
+
+“Shubh yatra!”
+
+Kabandh ne muskurakar jawaab diya:
+
+“Jaao, Rama.
+Tumhe tumhara lakshya milega.
+Sugriva se mitrata banao.
+Sita zaroor mil jayegi.”
+
+Aur prakash me lapetkar
+Kabandh antardhyan ho gaya…
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter74
     with st.expander("Chapter 3.74 – Rama meets Shabari"):
         text1 = """
+Kabandh ke diye gaye raaste par chal kar
+Rama aur Lakshman Pampa jheel ki ore badhe.
 
+Raste me unhe pahaadon par ugay hue
+phoolon aur phalon se bhaare ped mile—
+jaise devlok ka bagicha.
+
+Ek uchchi jagah par raat guzaarne ke baad
+woh dono Pampa ke paschim kinare pahunche
+aur wahan ek pyara sa ashram dikha…
+Shabari ka ashram.
+
+🌿 Rama-Shabari Milap
+
+Jab Rama aur Lakshman ashram ke paas aaye,
+to bahut vriddh (very old),
+bahut pavitra tapasvini Shabari unhe dekh kar
+khushi se khadi ho gayi.
+
+Haste hue, haath jod kar
+pehle Rama ke pair chhuye,
+phir Lakshman ke.
+
+Phir Shabari ne paramparagat tareeke se
+unhe paani diya—
+munh dhone ke liye,
+pair dhone ke liye.
+
+Rama ne pyaar se pucha:
+
+“Hey tapasvini (ascetic lady),
+kya tumhari tapasya (penance) safal ho rahi hai?
+Kya tumne apna krodh (anger) aur bhook par niyantran pa liya?
+Kya tumne apne Guru ki seva poori shraddha se ki?”
         """
         create_image_text_layout("attached_assets/chapter3/3.74.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🙏 Shabari ka Dil se Diya Jawaab
 
+Shabari ki aankhon me khushi ke aansu aa gaye.
+
+“Prabhu!” woh boli,
+“aaj meri zindagi safal ho gayi!
+
+Aaj meri tapasya,
+mera janam,
+meri Guru-seva—
+sab rang layi.
+
+Mere Gurujan—wo mahaan tapasvi—
+jab Chitrakoot par aap aaye,
+tab swarg (heaven) ko chale gaye.
+Jaate jaate unhone mujhse kaha tha:
+
+‘Rama tumhare ashram aayenge.
+Unka satkar karna.
+Unhe dekhte hi tumhe
+woh lok (world) milega
+jahan se koi lautkar nahi aata.’
+
+Isliye maine aapke liye
+Pampa ke kinaare se
+sare meethe jangli phal ikattha kiye hain, Prabhu.”
+
+🌸 Rama ka Shabari se Anurodh
+
+Rama ne narm awaaz me kaha:
+
+“Shabari, maine tumhare Guru ki mahima suni hai.
+Main unke chinh (signs) apni aankhon se dekhna chahta hoon.”
+
+Shabari garv aur bhakti se chamak uthi.
+Woh dono bhaiyon ko ashram ke andar le gayi.
+
+🌄 Matanga Rishi ka Pavitra Van
+
+“Dekhiye, Raghunandan,” woh boli,
+
+“Yeh hai Matanga Van—
+yeh jangal ab bhi unhi tapasviyon ki shakti se pavitra hai.
+
+Yahaan unhone yagya kiya.
+Yahaan unke haathon se chadhaye phool
+ab tak murjhaaye nahi.
+
+Yahaan dekhiye—
+yeh hai pashchim-disha ko mukh kiya hua vedika (altar),
+jahan unhone devtaon ko puja arpan ki.
+
+Aur udhar—
+woh saath samudra hain,
+jinhne unhone apne dhyaan (meditation) se yahan laaya.
+Kyuki budhape (old age) me wo chal nahi paate the.
+
+Woh pedon par latke hue
+bark ke kapde abhi tak geele hain…
+yeh sab un tapasviyon ki pavitrata ka pramaan hai.”
+
+🔥 Shabari ka Antim Vachan
+
+“Aaj main sab kuch dekh liya,
+sun liya…
+ab Anumati (permission) dijiye,
+ki main apna shareer chhod kar
+apne Guru ke paas jaa sakoon.”
+
+Rama ne daya se muskurakar kaha:
+
+“Shabari, tumne humara
+poora satkar kiya.
+Ab jao, kalyan ho tumhara.”
+
+✨ Shabari ka Swargaarohan
+
+Rama ka aashirvaad milte hi,
+Shabari—jute hue baal, valkal vastra,
+mriga-charma (deer skin)—
+aag me pravesh kar gayi.
+
+Aur turant
+woh ek divya roop me aasman me ubhar aayi—
+
+swargiya gehno se saja hua sharir
+
+phoolon ki mala
+
+chandan ki sugandh
+
+swarn jaise tej
+
+Bijli ki chamak jaise
+woh aasman ki ore badh gayi—
+apne Guruon ke pavitra lok me.
         """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter75
     with st.expander("Chapter 3.75 – Rama reaches the beautiful Lake Pampa"):
         text1 = """
+Shabari ke swargaarohan (ascension to heaven) ke baad
+Rama aur Lakshman kuch der shaant khade rahe.
 
+Unke man me un mahaan tapasviyon (ascetics) ki pavitra shakti
+aur unka prabhav ghoom raha tha.
+
+Rama ne dheere se kaha:
+
+“Lakshman, humne un rishiyon ka pavitra ashram dekh liya.
+Yahaan hiran, sher, aur anek pakshi rehte hain.
+
+Humne yahan saat pavitra jal-kund (seven sacred waters) me
+snan aur pitri-tarpan (offerings to ancestors) bhi kiya.
+
+Mujhe lagta hai, hamare bure karm jal gaye hain.
+Mere mann me ek ajeeb shaanti hai.
+Aur mujhe vishwas hai—ab humare liye koi acchi baat hone wali hai.”
+
+Phir Rama ne door tak dekhkar kaha:
+
+“Chalo Lakshman!
+Pampa Sarovar hame bula raha hai.
+Wahi aas-paas Rishyamuka parvat hai…
+jahan Sugriva—Surya putra aur vanar-raja—chhupa rehta hai.
+
+Wahi Sugriva…
+jo hume Sita ka pata dila sakta hai.”
+
+Lakshman ne turant kaha:
+
+“Bhaiya, chaliye! Mera dil bhi wahan jaane ko bechain hai.”
         """
         create_image_text_layout("attached_assets/chapter3/3.75.jpg", text1, layout="side", image_position="left") 
         
         text2 = """
+🌸 Pampa Sarovar ki Taraf Safar
 
+Dono bhai Matanga Rishi ke van se bahar nikle
+aur Pampa ki or chal pade.
+
+Raste bhar unhe
+pushpit ped, rang-birange phool,
+aur chhote chhote talab dikhe
+jahan saras (cranes), mor, woodpecker, aur anek pakshi
+apni madhur aawaaz se jangal ko jaga rahe the.
+
+Kuch hi der me unhe Matanga jheel ka ek pyara sa tila mila,
+jiska paani meetha aur thanda tha.
+Wahan kuch pal baith kar dono man hi man dhyaan karne lage.
+
+Par acaanak…
+
+Rama ka mann phir se Sita ki yaad se bhar gaya.
+Uska hraday (heart) phir se bhaari ho gaya.
+
+🌺 Pampa Sarovar ka Saundarya
+
+Rama ne Pampa Sarovar ko dekha
+aur use pehli nazar me hi laga
+jaise koi saji hui dulhan ho.
+
+Jheel ke chaaron taraf the—
+
+Tilaka ped
+
+Ashoka
+
+Punnaga
+
+Vakula
+
+Kadamba
+
+Malati aur Kunda ke jhaad
+
+Mango ke bagichay
+
+Hazaroon rangon ke phool
+
+Hawa me phoolon ki sugandh thi.
+Jheel me kamal (lotus) khile hue the.
+Neelam jaise neele phool paani me chamak rahe the.
+Hiran, pakshi, kinnar (celestial beings), yaksha aur gandharva
+kabhi-kabhi yahan dikh jaate.
+
+Rama aur Lakshman ne jheel ke kinare
+khade hokar is saundarya ko dekha…
+
+Aur phir Rama ne dard bhari awaaz me kaha:
+
+“Lakshman…
+Kab tak Sita mere bina rehti hogi?
+Kaise rehti hogi?”
+
+Dukh se bhare ye shabd keh kar
+Rama ne dheere se
+Pampa jheel me pravesh kiya.
+
+Lakshman bhi unke saath utar gaya.
+
+Shaant, sunder, sugandhit jheel ke paani me
+dono bhai kuch der tak khade rahe—
+aur Rama ke mann me bas ek hi baat thi:
+
+“Sita ko kaise dhoondhoon?”
         """
         create_image_text_layout(text_content=text2, layout="full")
