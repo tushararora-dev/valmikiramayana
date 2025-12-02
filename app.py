@@ -319,13 +319,13 @@ def main():
     st.sidebar.image("Lord1.gif", use_container_width=True)
 
     chapter_names = {
-        1: "Bala-kanda",
-        2: "Ayodhya-kanda",
-        3: "Aranya-kanda",
-        4: "Kishkindha-kanda",
-        5: "Sundara-kanda",
-        6: "Yuddha-kanda",
-        7: "Uttara-kanda",
+        1: "Bala-kanda (The Book of Childhood)",
+        2: "Ayodhya-kanda (The Book of Ayodhya)",
+        3: "Aranya-kanda (The Book of the Forest)",
+        4: "Kishkindha-kanda (The Book of Monkey Kingdom)",
+        5: "Sundara-kanda (The Book of Beauty)",
+        6: "Yuddha-kanda (The Book of War)",
+        7: "Uttara-kanda (The Last Book)",
     }
 
     # -----------------------
