@@ -60,7 +60,7 @@ def display_content():
 
 
     text0 = """
-    <h2>Chapter 3: Aranya kanda</h2>
+    <h2>Chapter 3: kishkindha kanda</h2>
     """
     create_image_text_layout(text_content=text0, layout="full")
 
@@ -798,7 +798,8 @@ def display_content():
 
     # Chapter 4.6
     with st.expander("Chapter 4.6 – Sugriva shows Rama Sita’s clothes and jewelry"):
-        text1 = """Sugriva, dosti ke is naye bandhan se khush hokar,
+        text1 = """
+    Sugriva, dosti ke is naye bandhan se khush hokar,
     Rama se phir bola:
 
     “Rama, mujhe tumhari poori kahani
@@ -823,7 +824,8 @@ def display_content():
 
         create_image_text_layout("attached_assets/chapter4/4.6.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ 🌪️ “Maine Sita ko dekha tha…”
+        text2 = """ 
+    🌪️ “Maine Sita ko dekha tha…”
 
     Sugriva yaad karta hai:
 
@@ -919,7 +921,8 @@ def display_content():
 
     # Chapter 4.7
     with st.expander("Chapter 4.7 – Sugriva comforts Rama"):
-        text1 = """Rama ab bhi Sita ke dukh me toot chuke the.
+        text1 = """
+    Rama ab bhi Sita ke dukh me toot chuke the.
     Unki aankhon me aansu the, awaaz kaap rahi thi.
 
     Tab Sugriva, jisne abhi-abhi Rama se dosti ki thi,
@@ -942,7 +945,8 @@ def display_content():
 
         create_image_text_layout("attached_assets/chapter4/4.7.jpg", text1, layout="side", image_position="left")
 
-        text2 = """💬 “Tum jaise veer purush ko aise tootna shobha nahi deta.”
+        text2 = """
+    💬 “Tum jaise veer purush ko aise tootna shobha nahi deta.”
 
     Sugriva ne apna dukh yaad kiya, phir dheere se bola:
 
@@ -1007,7 +1011,8 @@ def display_content():
 
     # Chapter 4.8
     with st.expander("Chapter 4.8 – Sugriva asks Rama to help him fight Bali"):
-        text1 = """Sugriva, Rama ki baaton se bahut prasan ho gaya.
+        text1 = """
+    Sugriva, Rama ki baaton se bahut prasan ho gaya.
     Uske chehre par pehli baar varshon baad aastha ki roshni chamki.
 
     Woh apne hriday se bol pada:
@@ -1028,7 +1033,8 @@ def display_content():
 
         create_image_text_layout("attached_assets/chapter4/4.8.jpg", text1, layout="side", image_position="left")
 
-        text2 = """🍃 Sala Par Baithkar Do Dost
+        text2 = """
+    🍃 Sala Par Baithkar Do Dost
 
     Agli subah, Sugriva ne Rama ko apne paas dekha.
     Jungle ka maahol shaant tha, aur unke paas ek bada sa, phoolon se bhara Sala vriksha khada tha.
@@ -1114,7 +1120,8 @@ def display_content():
 
     # Chapter 4.9
     with st.expander("Chapter 4.9 – Sugriva tells Rama the story of Bali and Mayavi"):
-        text1 = """Sugriva ne gehri saans li, jaise purani yaadon ka bojh phir se kandhon par aa gaya ho.
+        text1 = """
+    Sugriva ne gehri saans li, jaise purani yaadon ka bojh phir se kandhon par aa gaya ho.
     Usne Rama ki taraf dekha, aur dheere-dheere batane laga—
 
     💬 “Rama, mera bhai Bali kabhi mera sab kuch tha…”
@@ -1130,7 +1137,8 @@ def display_content():
 
         create_image_text_layout("attached_assets/chapter4/4.9.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ 🔥 Mayavi ka Badla
+        text2 = """ 
+    🔥 Mayavi ka Badla
 
     “Ek raat,” Sugriva ki awaaz me thodi dehshat thi,
     “jab sab so rahe the, ek daharna raat ke sannate ko cheer kar aayi.
@@ -1250,7 +1258,8 @@ def display_content():
 
     # Chapter 4.10
     with st.expander("Chapter 4.10 – Sugriva explains why Bali became angry with him"):
-        text1 = """Sugriva ne dheere se Rama ki taraf dekha.
+        text1 = """
+    Sugriva ne dheere se Rama ki taraf dekha.
     Uski aankhon me dard bhi tha… aur thodi si sharam bhi—
     jaise ek bhai apna ghav phir se khol raha ho.
 
@@ -1278,7 +1287,8 @@ def display_content():
 
         create_image_text_layout("attached_assets/chapter4/4.10.jpg", text1, layout="side", image_position="left")
 
-        text2 = """👑 “Main ne rajya nahi manga tha…”
+        text2 = """
+    👑 “Main ne rajya nahi manga tha…”
 
     Sugriva ne aage kaha:
 
@@ -1375,51 +1385,679 @@ def display_content():
 
     # Chapter 4.11
     with st.expander("Chapter 4.11 – Sugriva tells Rama about Bali’s great strength"):
-        text1 = """ """
+        text1 = """ 
+Sugriva ne Rama ke saamne haath jodkar kaha:
+
+“Rama, mujhe aap par pura vishwas hai…
+par Bali ki taakat samajhna zaroori hai.”
+
+Uski awaaz me darr bhi tha, aur sachchai bhi.
+
+🌏 Bali ki Asambhav Shaktiyaan
+
+Sugriva bolta gaya:
+
+“Rama… Bali itna shaktishaali (powerful) hai ki…”
+
+Subah hone se pehle poora prithvi chakra ghoom sakta hai—
+west ocean se east ocean, north se south ocean tak.
+
+Woh pahaadon ki chotiyan tod kar aasman me uchhal deta hai.
+
+Ek saath kai-kai ped tod deta hai, jaise patle lakdi ho.
+
+Rama chupchap sunte rahe—
+Lakshmana ke chehre par bhi halki chinta aa gayi."""
 
         create_image_text_layout("attached_assets/chapter4/4.11.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🦬 Dundubhi Rakshas (buffalo demon) ka ghamand
+
+Sugriva ne phir Rama aur Lakshmana ki taraf dekhkar kaha:
+
+“Ek baar ek maha-shaktishaali rakshas (demon),
+Dundubhi naam ka,
+jo pahad ke barabar bada aur
+1,000 hathi ki shakti (strength) rakhta tha,
+sab par apni taakat jatata phirta tha.”
+
+⚔️ Dundubhi ka pehla challenge — Samudra Dev
+
+Dundubhi garaj kar bolta hai:
+
+“Aao Samudra, mujhse yuddh karo!”
+
+Par Samudra Dev (Ocean God) shanti se jawab dete:
+
+“Main lad nahi sakta.
+Par ek aadmi hai—
+Himavat (Himalaya)—
+voh tum jaisa parakrami (valiant) se lad sakta hai.”
+
+Dundubhi samajh gaya—Samudra ladna nahi chahta.
+Toh woh seedha Himalaya ki taraf bhaag pada.
+
+🏔️ Himavat se bhi haar
+
+Himalaya ne bhi haath jodkar kaha:
+
+“Main yoddha nahi, tapasiyon ka rakshak (protector) hoon.
+Par agar ladne ka shauk hai—
+Bali ko dhoondo!
+Voh tumhare jaisa hi hai.”
+
+Yeh sunkar Dundubhi bhaaga Kishkindha ki taraf…
+Rage se bhar kar!
+
+🐃 Dundubhi ka Kishkindha par prahar
+
+Woh gaayab se ek bhayankar bhais (buffalo) ban gaya—
+kale badal jaisa bhayanak aur bada!
+
+Darwaze tod diye
+
+Ped ukhaad diye
+
+Poora shehar hila diya
+
+Tab Bali apne mahal se bahar aaya—
+Tara aur anya patniyon ke saath.
+
+Bali ne thande sur me poocha:
+
+“Dundubhi, kyun chilla raha hai?”
+
+Dundubhi cheekha:
+
+“Akele lad!
+Main ek raat ruk sakta hoon…
+Tu apni patniyon se vidai le le!
+Kal subah teri maut nishchit hai.”
+
+⚔️ Bali vs Dundubhi — Mahadangal
+
+Bali ne hansi se kaha:
+
+“Sharab (intoxication) yoddhaon ka bal hota hai!
+Chalo, ladte hain!”
+
+Aur yuddh shuru ho gaya.
+
+Bali ne uske sing pakad liye
+
+Usse zameen par patak diya
+
+Ped, pathar, ghutne, mukke—sab se maara
+
+Dundubhi ki taakat ghatti gayi
+
+Bali ki shakti badhti gayi
+
+Phir—
+
+Bali ne uska pura badan utha kar 4 mile door pheka!
+
+Dundubhi mar chuka tha.
+
+🌧️ Khoon ki Boondein aur Matanga Rishi ka Shraap (curse)
+
+Dundubhi ke moonh se nikla khoon hawa me udata hua
+Matanga Rishi ke ashram par gira.
+
+Rishi bahut krodhit hue.
+
+“Kaun hai yeh paapi?
+Isne mere van ko kalaankit kar diya!
+Agar yeh bandar phir yahaan aaya…
+Toh woh mar jayega!
+Aur yahan aane wale sare vanar pathar ban jayenge (turn to stone).”
+
+Yeh shraap sunkar Sare vanar bhaag gaye.
+
+😨 Bali ka dar — Rishyamuka se doori
+
+Bali Rishi se maafi maangne gaya,
+par Rishi ne ek shabd bhi nahi suna.
+
+Tab se Bali ne kasam kha li—
+
+“Main Rishyamuka pahad ke 4 kos paas bhi nahi jaaunga.”
+
+Isi liye Sugriva kehta hai:
+
+“Rama, main yahaan Rishyamuka par isliye reh sakta hoon—
+kyunki Bali ka shraap usse yahan aane nahi deta.”
+
+🦴 Dundubhi ki Haddi aur Sala ke Ped — Bali ki Shakti ka Saboot
+
+Sugriva Rama ko ek pahaad jaise dher par le gaya:
+
+“Yeh Dundubhi ki haddi hai.
+Aur Bali ne yeh 7 Sala ke ped—
+ek ke baad ek—
+apni ungli se bhida kar ched daale the.”
+
+Sugriva ki awaaz dar se kaanp rahi thi:
+
+“Rama… mujhe nahi lagta koi insaan Bali ko hara sakta hai.”
+
+Lakshmana muskura diye:
+
+“Sugriva, tumhe Rama ki shakti ka saboot chahiye?”
+
+Sugriva ne faint si awaaz me kaha:
+
+“Haan… agar Rama ek teer me
+yeh 7 ped ched de,
+toh main maan jaaunga ki woh Bali ko hara sakta hai.”
+
+🌬️ Rama ka Shant Muskaan — “Tum par bharosa paida karunga”
+
+Rama ne mithaas bhari muskaan ke saath kaha:
+
+“Sugriva, tumhara vishwas zaroori hai.
+Main usse jagaaunga.”
+
+Rama ne dheere se apna paon uthaya
+aur Dundubhi ki sookhi haddi ko aise uchaala
+jaise ek patta hawa me lehrata ho.
+
+Sugriva ne turant kaha:
+
+“Rama, jab Bali ne pheka tha,
+tab Dundubhi ka sharir taaza tha—bhaari tha.
+Ab to yeh sookhi haddi hai!
+Isse main kaise Tulna (comparison) karoon?”
+
+“Aap ek baar Sala ke ped me teer chalaiye…
+tab main poora vishwas karloonga.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.12
     with st.expander("Chapter 4.12 – Sugriva and Bali fight"):
-        text1 = """ """
+        text1 = """
+Sugriva ki baat sunte hi Rama muskura diye.
+Unke chehre par woh shant par atoot vishwas tha.
+
+🎯 Rama ne apni shakti dikhayi — 7 Sala Ped ek teer me!
+
+Rama ne apna dhanush uthaya,
+ek chamakta hua sunehra laathe wala teer nikaala,
+aur nishana liya.
+
+Phir TWAANG!!!
+
+Teer aisi gati se chala
+ki hawa bhi kaanp uthi.
+
+Pehle ped ko cheda
+
+Phir doosra
+
+Teesra
+
+Chautha…
+
+Saathva tak ek hi teer guzar gaya
+
+Phir pahaad ko bhi ched diya
+
+Aur zameen me ghus kar phir wapas Rama ke tarquiver me aa gaya.
+
+Sugriva aankh phaad kar dekhte reh gaye.
+
+Unke muh se bas ek hi baat nikli:
+
+“Rama… aap Bhagwan ho!”
+
+Khushi se bhar kar woh Rama ke pairon me gir pade. """
 
         create_image_text_layout("attached_assets/chapter4/4.12.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """
+💛 Sugriva ka naya vishwas
+
+Sugriva ne kandhe jhuka kar kaha:
+
+“Aap to devtaon ko bhi hara sakte ho.
+Bali to phir kya cheez hai?
+Rama, ab main poori tarah nishchint hoon.
+Mere dushman ko maar dijiye!”
+
+Rama ne Sugriva ko gale laga liya,
+jaise Lakshmana ko lagate the.
+
+⚔️ Chalo, ab Bali ko aawaaz dete hain
+
+Rama ne kaha:
+
+“Chalo Kishkindha.
+Tum Bali ko challenge do.
+Main peeche se sab dekh raha hoon.”
+
+Phir Rama, Lakshmana aur Sugriva Kishkindha ke paas pahad ke peeche chhup gaye.
+
+Sugriva ne zor se garaj kar Bali ko lalkara:
+
+“BAALIII!
+Bahaar aa!”
+
+Uski garaj se pura van kaanp utha.
+
+😡 Bali nikla — Sooraj ki tarah bhayankar
+
+Bali ne apne mahal se nikalte hi Sugriva ko dekha
+aur uska khoon khaulta gaya.
+
+Phir jo hua, woh apni aankhon se dekhne layak tha—
+
+Dono bhai ek dusre par toot pade
+
+Haath, mukke, pair, dharti—sab hila diya
+
+Unki takkar aisi thi jaise Mangal aur Brihaspati grah takra rahe ho
+
+Rama teer tayyar karke dekh rahe the.
+
+Par ek samasya thi…
+
+❗ Rama ne teer kyun nahi chalaaya?
+
+Bali aur Sugriva dono bilkul ek jaise dikhe:
+
+Ek hi rang
+
+Ek hi aavaaz
+
+Ek hi shakti
+
+Ek hi kapde
+
+Ek hi chal
+
+Rama soch rahe the:
+
+“Agar galti se Sugriva ko maar diya toh?
+Yeh paap hoga.”
+
+Isliye woh teer nahi chala sake.
+
+🩸 Sugriva pit kar bhaaga
+
+Bali ki taakat Sugriva par bhaari padi.
+Usne Sugriva ko zor se patka,
+uski chhati par ghamand se vaar kiya,
+aur Sugriva khoon se latpat bhaag gaya,
+seedha Rishyamuka parvat ki taraf.
+
+Bali peecha kar sakta tha,
+par shraap ki wajah se wahan nahi jaa sakta tha.
+
+उसने चिल्लाकर कहा:
+
+“Jaa! Aaj chhod diya!”
+
+😢 Sugriva ki shikayat
+
+Rama aur Lakshmana, Hanuman ke saath Sugriva ke paas pahunche.
+Sugriva rote hue bola:
+
+“Rama… aapne mujhe marne ke liye kyun chhod diya?
+Aap ne kaha tha ‘Challenge karo’,
+par aapne mujhe bachaya nahi.
+Agar aap nahi maarna chahte the Bali ko…
+toh mujhse pehle hi keh dete.”
+
+Sugriva ka dil toot gaya tha.
+
+🤲 Rama ka sachcha jawaab
+
+Rama ne Sugriva ka haath pakadkar kaha:
+
+“Mere dost…
+tum dono ek jaise lag rahe the.
+Main tumhe pehchaan hi nahi sakta tha!
+Main kaise teer chalata?
+Agar tum galti se mar jaate
+toh mera dharm, meri kshatriyata, sab nasht ho jaata.”
+
+Lakshmana ne turant Gajapushpi mala tod kar Sugriva ke gale me pehna di.
+
+Rama ne kaha:
+
+“Ab jab tum Bali se ladne jaoge,
+main door se tumhari mala dekh kar pehchaan jaaunga.
+Is baar Bali bach nahi payega.”
+
+Sugriva ka chehra phir chamak utha.
+
+Woh phir se Bali ko lalkarne ke liye tayyar ho gaya. """
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.13
     with st.expander("Chapter 4.13 – Rama visits the hermitage of the seven sages"):
-        text1 = """ """
+        text1 = """
+Rama, Lakshmana aur Sugriva Rishyamuka se nikal pade.
+Rama ke haath me sona jaisa chamakta dhanush,
+peeche Lakshmana,
+aur unke piche Hanuman, Nala, Neela, aur senapati Taara jaise veer vanar chal rahe the.
+
+Sugriva ke gale me Gajapushpi ki mala chamak rahi thi—
+jo ab Rama ki pehchaan ka nishaan banne wali thi.
+
+🌺 Jungle ka saundarya — ek chalti hui painting
+
+Raaste me:
+
+Ped phoolon ke bhaar se jhuk gaye the
+
+Nadiyan shaanti se samundar ki taraf beh rahi thi
+
+Ghatiyan aur pahaadiyon me gehre ched, chasmey aur anokhe paudhe
+
+Neel-jal ke jhilmil sarovar
+
+Unme khilte kamal
+
+Hans, bagle, jal-kukkut aur baaki pankhi madhur swar bhar rahe the
+
+Hiran bina kisi dar ke doobte-soobte ghaas kha rahe the.
+
+Mada-rasa me matwaale, bade-bade haathi
+pahaadon par sir takraate hue chal rahe the—
+poore deodar van ko hila dene wale.
+
+Vanar-dal un sabhi drishyon ko dekh kar hairan tha. """
 
         create_image_text_layout("attached_assets/chapter4/4.13.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """
+🌳 Rama ka prashna — “Yeh kaise anokhe ped hain?”
+
+Kuch hi door chal kar Rama ne ek ajeeb sa jhund dekha.
+
+Unhone Sugriva se pucha:
+
+“Sugriva, yeh ped badalon jaise kyun lag rahe hain?
+Unpar dhuaan kyun chadha hua hai?
+Unka rang itna ajeeb hara aur sunehra kyun lag raha hai?”
+
+Sugriva ne dheere se kaha:
+
+🕉️ “Rama… yeh Saptajanon ka Ashram hai.”
+
+Sugriva ne chal-te chal-te us paavan jagah ka rahasya sunaaya:
+
+“Yeh woh ashram hai jaha 7 mahan rishi — Saptajana — rehte the.
+Ve 700 saal tak tapasya karte rahe.
+Saath din paani me kandhe tak doobe rehte…
+Aur sirf hawaa ko bhojan banate.”
+
+Rama aur Lakshmana chok gaye.
+
+Sugriva bolte gaye:
+
+“Inki tapasya itni bhayankar thi ki ve shareer samet swarg gaye.”
+
+“Unki shakti se yeh ashram devtaon aur asuron tak ke liye apraveshya ban gaya.”
+
+“Pakshi, jangli jaanwar — koi iske andar nahi jaata.”
+
+“Jo bhool se jaaye… wapas nahi aata.”
+
+Kabhi-kabhi andar se:
+
+veena jaise sangeet
+
+swargiya geet
+
+ek uncha dhuaan
+
+aur divya sugandh nikalti
+
+Sugriva ne zor se bola:
+
+“Rama, Lakshmana — haath jod kar pranaam karo.
+In Rishiyon ka samman karne wale ko kabhi kasht nahi hota.”
+
+🙏 Rama–Lakshmana ka pranam aur pavitra sankalp
+
+Rama aur Lakshmana ne dono haathon se pranaam kiya.
+Ek shanti ki lehar un par chhaa gayi.
+
+Phir teeno — Rama, Lakshmana, Sugriva —
+aur pura vanar sena
+aage badh gayi.
+
+🏰 Kishkindha saamne thi — aur Bali ka ant bhi
+
+Ashram piche reh gaya.
+Ab saamne khadi thi Bali ki rajdhani — Kishkindha.
+
+Rama ne apna dhanush kas liya.
+Lakshmana ne teer nikaale.
+Sugriva ki saanse tez ho gayi.
+
+Vanar sena garaj uthi.
+
+Yahi jagah thi jahan Bali ka ant likha jaana tha. """
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.14
     with st.expander("Chapter 4.14 – Sugriva challenges Bali again"):
-        text1 = """ """
+        text1 = """
+Kishkindha ke paas pahunchte hi
+Rama, Lakshmana, Sugriva aur sab vanar
+ghane pedon ke peeche chup gaye.
+
+Hawa me tanav tha.
+Jungle khamosh tha.
+Bas Sugriva ki saanse tez ho rahi thi—
+gusse, apmaan aur badle ke saath.
+
+🦁 Sugriva ki dahad — jo aasman ko cheer gayi
+
+Rama ke taraf dekhkar Sugriva bol utha:
+
+“Yeh hai Kishkindha!
+Yeh Bali ka rajya, sunehre deewaron se ghira hua.
+Aaj… aaj tu apne vaada poora karega, Rama!”
+
+Yeh keh kar Sugriva ne
+apna seena phulaaya
+aur ek bhayankar garaj maari.
+
+Uski dahad:
+
+badalon se bharpur tufaan jaisi
+
+ek sher ki chaal jaisi
+
+suraj ke udte hue prakaash jaisi
+
+Pura aakash usi se goonj utha. """
 
         create_image_text_layout("attached_assets/chapter4/4.14.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🎯 Rama ka vachan — “Aaj Bali marega”
+
+Rama ne shant swar me kaha:
+
+“Sugriva, tumhare gale me jo Gajapushpi ki mala hai,
+us se main tumhe pehchan loonga.
+Aaj tumhara dushman, jo bhai hone ke kaabil nahi,
+zaroor gir jayega.”
+
+Phir Rama ne gambihta se add kiya:
+
+“Maine tumhare saamne 7 Sala vriksh ek teer se cheer diye.”
+
+“Bali ka pata bhi nahi chalega jab mera baan usse chhoo lega.”
+
+“Main apna vachan kabhi nahi todta— na sukh me, na kasht me.”
+
+“Toh Sugriva, garaj…
+vo garaj jo Bali ko nikaal laayega.”
+
+Sugriva ki aankhen chamak uthi.
+Rama ka vachan— kisi bhi jeev ke liye
+amogh astra ki tarah hota hai.
+
+🌪️ Sugriva ki pratidhwani— jisme dard, gussa aur badla tha
+
+Sugriva ne phir ek bhoom-phaad garaj maari—
+itni tez, itni bhayankar,
+ki:
+
+gaayen dara kar bhaag gayi
+
+hiran teer ki tarah jungle ki taraf udd gaye
+
+pankhiyon ka santulan bigad gaya, vo zameen par gir pade
+
+hawa tak hil gayi
+
+Yeh dahad sirf awaz nahi thi…
+yeh saalon ke dard ki cheekh thi,
+apmaan ka badla tha,
+apne chheen liye parivaar ki pukaar thi.
+
+Aur sabse zyada—
+yeh Rama ko di gayi apni aakhri aas thi.
+
+Sugriva— Surya ka putra—
+ek baar phir is tarah garja
+jaise doobte hue samundar me se
+dhoop phatkar bahar aa rahi ho.
+
+Bali ne is dahad ko suna.
+Aur yeh dahad…
+uske ant ki shuruaat thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.15
     with st.expander("Chapter 4.15 – Tara gives advice to Bali"):
-        text1 = """ """
+        text1 = """ 
+Bali apne raj mahal ke andar,
+apni ranion se ghira baitha tha—
+shaant, sukh me, jeet ke guman me…
+
+Tabhi—
+Sugriva ki dahad ne
+poori Kishkindha hila di.
+
+Ek dahad…
+jisme saal-on ka dard, beizzati aur badla tha.
+
+Jis pal Bali ne woh garaj suni,
+uski aankhen laal ho gayi,
+tan gusse se kaap utha,
+aur jo pehle sone jaisa chamak raha tha,
+vah sooraj grahan jaise dhundhla pad gaya.
+
+Usne zameen par pair patka jaise dharti ko tod dalega.
+
+👑 Tara — jiski sune to raaj bache, par Bali ne na suna
+
+Bali gusse me aage badhne hi wala tha
+ki Tara ne use baahon me rok liya.
+
+Uski awaaz me pyar tha, par dar bhi.
+Uski aankhon me vishwas tha, par shanka bhi.
+
+Tara boli—
+“Mere Veer, yeh gussa mat karo.
+Yeh aaj tumhe behakar le jayega.”
+
+Phir bohot shaant, bohot dheere,
+par bilkul saaf shabdon me kaha:"""
 
         create_image_text_layout("attached_assets/chapter4/4.15.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """
+🔱 “Sugriva ka dusra aahvaan… kuch to gadbad hai.”
+
+Tara ne kaha:
+
+“Pehli baar Sugriva aaya tha—
+usse tune hara kar bhaga diya.
+Aaj woh phir garaj raha hai,
+khuli chunauti de raha hai…
+aur bina kisi wajah ke koi aise lautkar nahi aata.
+
+Isme koi raaz hai.”
+
+Phir Tara ne apna andesha bataya:
+
+“Sugriva akela nahi aaya.
+Uske peeche koi shaktishaali aashray hai.”
+
+“Woh kisi ki shakti par bharosa karke hi
+fir yeh dahad laa sakta hai.”
+
+“Main ispar Bharosa karti hoon…
+ki yeh kisi mahaveer ka saath lekar aaya hai.”
+
+Aur phir Tara ne sach bata diya—
+wo sach jise Bali sun hi nahi raha tha.
+
+🌘 Rama ka ullekh — jo Bali ke vinaash ka sanket bana
+
+Tara aage boli:
+
+“Suna hai Sugriva ne dosti ki hai do rajkumar se—
+Ayodhya ke putron se—
+Rama aur Lakshmana se.
+
+Woh Rama…
+jiska naam hi dand hai, shastra hai, dharma hai.
+Jisne asuron ko jala diya,
+jo pralay agni jaisa hai.
+
+Uska saath Sugriva ko mila hai.
+Woh van me reheta hai,
+par uske teer me pura brahmand base hain.”
+
+Tara ne Bali ki aankhon me aankhen daal kar kaha:
+
+“Rama se dushmani mat lo.
+Yeh tumhare hit me nahi.
+Aaj shanti hi jeet hai.”
+
+❤️ Tara ka antim vinamra prarthna
+
+Gadgad swar me Tara boli:
+
+“Bali…
+Sugriva tumhara bhai hai.
+Use gale laga lo.
+Dushmani chhod do.
+Rama se bhi dosti kar lo.
+Yehi tumhara surakshit raasta hai.
+
+Agar tum mujhse prem karte ho…
+to meri baat mano.”
+
+Tara ke shabdon me patni ka pyar tha,
+samajhdaar rani ki drishti thi,
+aur ek tapasvini ka satya bhi.
+
+⚔️ Par Bali… apni kismat ki taraf chal pada
+
+Usne ek shabd bhi na maana.
+Uski aankhon me sirf gussa tha,
+uske kaano me sirf Sugriva ki dahad.
+
+Aur Bali apne antim yudh ki taraf badh gaya—
+jahaan uska saamna Rama se hone wala tha.
+Jahaan se wapas lautna…
+kisi bhi roop me sambhav nahi tha. """
         create_image_text_layout(text_content=text2, layout="full")
 
 
