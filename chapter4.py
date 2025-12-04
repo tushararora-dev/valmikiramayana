@@ -2063,51 +2063,658 @@ kisi bhi roop me sambhav nahi tha. """
 
     # Chapter 4.16
     with st.expander("Chapter 4.16 – Rama fatally wounds Bali"):
-        text1 = """ """
+        text1 = """ 
+Tara — jiska chehra chand ki tarah shant aur ujla tha —
+Bali ko rokte hue boli.
+Par Bali ne unki baat ko tarah-tarah ki taanon se taal diya:
+
+⭐ Bali ka Aham
+
+“Sugriva ne mujhe lalkara hai,”
+Bali garajte hue bola,
+“Main kaise chup reh jaun, Tara?
+Veer log be-izzati bardasht nahi karte.
+Maut manzoor hai, par apmaan nahi!”
+
+Phir usne Tara ko dilasa diya:
+
+“Raghava (Rama) dharm ko jaante hain,
+woh kabhi galat kaam nahi karenge.
+Tum wapas jao, mere liye chinta mat karo.”
+
+Bali ne kasam kha kar kaha:
+
+“Main Sugriva ka ghamand tod dunga, par uski jaan nahi loonga.
+Bas uski had hoti hui himmat ko dikhana hai.
+Tum yahin se laut jao.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.16.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+        ⭐ Tara ka Vishad
+
+Tara ne Bali ko gale lagaya.
+Uski aankhon me aansu bhar aaye…
+Usne parikrama ki,
+mangal-mantra bole,
+aur dukh se bhaari dil lekar mahal ke andar laut gayi.
+
+Bali sheher se bahar nikla —
+gusse se phat padta hua,
+jaise koi vish–bhara naag!
+
+⭐ Do Bhai Jakdte Hue
+
+Kuch hi door, Bali ne Sugriva ko dekh liya —
+sona-sa chamakta hua,
+kavach pehne,
+purane dard aur naye sahas se bhara.
+
+Dono bhai ek dusre ki taraf badhe —
+muthiyan kas-ke, aankhen laal,
+aur zameen unke kadmon se hilti hui.
+
+Bali garja:
+
+“Is ek muthi se tumhari jaan nikal dunga!”
+
+Sugriva bhi pichhe na hata:
+
+“Meri muthi tumhara mastak tod degi!”
+
+Aur fir…
+woh dono pahadon ki tarah takra gaye.
+Khoon dharaon ki tarah behne laga,
+jaise kisi pahaad se laal jharne phoot pade ho.
+
+⭐ Jung ki Chingariyan
+
+Sugriva ne ek bada sa Sala vriksh ukhaad liya,
+aur Bali par patthar jaisa bharaunda gira diya!
+Bali dagmagaya —
+jaise bojh se dubti hui koi naav.
+
+Do bade devtaon jaise veer yodhaon ki tarah
+yeh dono jangal ko kaampte hue lad rahe the.
+
+Par Bali ka bal adhik tha…
+Aur Sugriva dheere-dheere kamzor padne laga.
+Usne aankhon se Rama ko sanket diya:
+
+“Ab waqt aa gaya hai.”
+
+⭐ Rama ka Faisla
+
+Rama door khade sab dekh rahe the—
+Sugriva ka dard,
+Bali ka ghamand,
+aur dharma ki rekha jo tut‐si rahi thi.
+
+Jab Sugriva ke pair dagmagane lage,
+Rama ne apna dhanush uthaya.
+Ek teer – zeher bhari sarp ki tarah
+unke haath me chamak utha.
+
+Dhanush ki taar ka “TWANG!”
+aakash me bijli jaisa gajaa.
+Panchi ud gaye…
+jangal ke janwar bhag gaye…
+
+Aur phir—
+
+🌩️ “THUNDER!”
+
+Teer aasmaan cheerta hua gaya,
+aur Bali ke seene me seedha ghus gaya.
+
+Bali jhatke se peeche gira —
+jaise poornima ki raat
+Indra ka jhanda toot kar dharti par aa gira ho.
+
+Khoon uske seene se nadiyon ki tarah behne laga.
+Uski saanson me ruddh-si ghutan aa gayi…
+aur veer Bali
+zameen par nirjeev pad gaya.
+
+⭐ Bali ka Patan
+
+Rama ka teer
+samay ke chakra jaise tha—
+na roka ja sakne wala,
+na modha ja sakne wala.
+
+Bali dharti par girte hi
+ghargharaane laga,
+fir chup ho gaya…
+
+Ek yug ka ant ho chuka tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.17
     with st.expander("Chapter 4.17 – Bali questions and blames Rama"):
-        text1 = """ """
+        text1 = """ 
+Rama ka teer seene ko cheerta hua gaya,
+aur Bali — woh maha–veerta, woh janglon ka raja —
+lakdi se kaate hue vriksh ki tarah dharti par gir pada.
+
+Uska sona jaisa ang, Indra ka diya hua haar,
+aur uska gira hua deh
+mil kar aise chamak rahe the
+jaise shaam ke aasman me laalima faili ho.
+
+Par aashcharya ye tha—
+Bali mara nahi tha.
+Indra ka diya hua divya haar
+ab bhi use jeevan de raha tha,
+use tej aur shakti se bhar raha tha,
+chahe wo zameen par hi kyon na pada ho.
+
+Dharti andhera ho gayi—
+jaise chaand bina raat ho gayi ho.
+
+Rama aur Lakshman dheere-dheere,
+shraddha se,
+usse dekhte hue paas aaye.
+
+Bali ki aankhon me aag thi—
+dard bhi, rosh bhi, satya bhi.
+Usne zameen par padhe–padhe hi
+kadvi par sachchi baatein kahi."""
 
         create_image_text_layout("attached_assets/chapter4/4.17.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Bali ka Prashna – “Rama, yeh kaisa dharm?”
+
+Bali karwahat bhari awaaz me bola:
+
+“Rama… mujhe pichhe se maar kar
+tumne kaunsa punya kamaya?
+Tum to veer ho, maryada ke rakhwale.
+Pehle mujhe ye lagta tha.”
+
+Usne Rama ke gun ginaaye:
+
+shant,
+
+dayalu,
+
+dharm par chalne wale,
+
+sabka kalyaan karne wale.
+
+Phir bola:
+
+“Par aaj main dekh raha hoon—
+tum kuch aur ho.
+Bahar se dharm ka chola pehne hue ho,
+andar se kisi chhupi hui kuen ki tarah—
+dhokebaaz.”
+
+Bali ki saansein bhaari thi,
+par shabd bijli ki tarah gir rahe the.
+
+⭐ “Maine tumhara kya bigaada tha?”
+
+Bali bohot dard se par kathor sach me bola:
+
+“Na maine tumhari zameen chhui,
+na tumhari nagri ko haani pahunchayi,
+na tum par haath uthaya.
+Phir kyon?
+Kyon mujhe maara
+jab main kisi aur se lad raha tha?”
+
+Phir usne dharm ki baat ki:
+
+“Raja ka kaam hota hai nyay.
+Tumhara dhanush tumhari awaz ban gaya hai,
+aur tumhara gussa tumhari akal ko kha gaya hai.”
+
+Bali ke shabd chubhte the:
+
+“Hum vanvasi hai, phal-mool khane wale.
+Humein kya mila hoga jo tumne humse cheen liya?
+Tum to manav ho, dharm ke rakhwale!”
+
+⭐ “Mera dosh kya tha?”
+
+Bali ne Rama ko seedhe dekhkar kaha:
+
+“Tum Raghu vansh me janme ho?
+Mujhe to vishwas nahi hota.
+Ye kaisi maryada?
+Kahan gaya tumhara dharm?
+Aisa kaarya to
+koi chhal karne wala hi karta hai.”
+
+Aur phir—
+Bali ne wo baat kahi jo uske dil ka dard thi:
+
+“Agar tum samne aate,
+mujhe dhokha na dete,
+to Rama… aaj tum yahan khade na hote.
+Main hota, tumhe dhool chata kar.”
+
+⭐ “Main tumhare liye Sita ko ek din me laa deta!”
+
+Bali ne karuna aur gham se kaha:
+
+“Agar tum mujhe apna dukh batate,
+ek din… sirf ek din me
+main Sita ko tumhare paas le aata.
+Ravana ko gale me baandh kar laata,
+chahe woh samundar ke tal me
+ya narak me kyon na chhupa hota!”
+
+Usne fir kaha:
+
+“Sugriva ko gaddi main khushi se de deta.
+Par tumne uske liye mujhe chhal se maara.”
+
+Bali ki awaaz dheemi padne lagi…
+
+“Maut to sabko aani hai, Rama.
+Par tum apne aap ko kaise samjhaoge?”
+
+Aur itna keh kar
+woh maha–vanar
+chup ho gaya.
+Uska rosh hawa me goonjta reh gaya…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.18
     with st.expander("Chapter 4.18 – Rama explains his reasons to Bali"):
-        text1 = """ """
+        text1 = """ 
+Bali ka kathin, dard se bhara hua ilzaam Rama par gir chuka tha.
+Wo dharti par pada hua tha — sooraj bina roshni,
+badal bina barsaat,
+aag bina lau jaisa.
+
+Par uski awaaz me ab bhi veerta thi.
+
+Rama aur Lakshman shant nigaahon se uske paas aaye.
+Bali ke kathor shabd hawa me goonj rahe the…
+
+⭐ Rama ka shant par teekha jawaab
+
+Rama ne gehri, sthir awaaz me kaha—
+
+“Bali, tum bachchon ki tarah kyun baat kar rahe ho?
+Tum dharm, nyay aur maryada ki maryada ko jaante hi nahi.”
+
+Rama ne use jataaya:
+
+“Yeh dharti Ikshvaku vansh ki hai.”
+
+“Bharata is prithvi ke rakshak raja hain.”
+
+“Hum unke pratinidhi hain — hum dharm ko sthapit karte hain.”
+
+Rama ke shabd shaant the, par bijli jaisi satya se bhare.
+
+“Tumne dharm ka ullanghan kiya hai, Bali.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.18.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Rama ka mukhya aarop – “Tumne Ruma ka apmaan kiya”
+
+Rama ki awaaz kathin ho gayi:
+
+“Sugriva zinda hote hue tumne Ruma ko,
+apne chhote bhai ki patni ko,
+apni iccha ka vishay bana liya…
+Ye dharm ka atyant bhayanak paap hai.”
+
+Rama ne dharm-shastra ka vidhan bataya:
+
+“Jo vyakti apni behen, beti,
+ya bhabhi ko ichcha ka vishay banata hai —
+uska dand mrityu hai. Yeh raj-dharma hai.”
+
+Bali chup ho gaya…
+
+⭐ “Humne tumhare saath dvesh se nahi, dharm se vyavahar kiya”
+
+Rama ne kaha:
+
+“Yeh dand mera nahi — dharm ka hai.”
+
+Phir kaha:
+
+“Shikar me shikari kab puchhta hai
+pashu samne hai ya pichhe?
+Vah apna kartavya karta hai.”
+
+“Tum to ek vanar the, ek praja —
+aur main raj-dharm ka palankarta.”
+
+Rama ka swaabhavik gyaan Bali ko bechain kar raha tha.
+
+⭐ “Tumne mujhse jo kaha, wo tumhari agyaan se tha”
+
+Rama ne narmi se par gambhir roop me kaha:
+
+“Tumne mujhe alpasamajh se dhoosa.
+Par tum kanoon nahi jaante.
+Tumhare aas-paas ke mantri bhi andhe the,
+aur tum unke peeche chal rahe the.”
+
+“Tumhara dand sahi tha,
+sahi samay par, sahi karan se.”
+
+⭐ Bali ka parivartan – satya ka prakaash
+
+Rama ki baatein sunkar,
+Bali ka ghamand pighal gaya.
+Wo aansuon bhari awaaz me bola:
+
+“Rama… tum sach ke pratirup ho.
+Main agyaan me tha.
+Jo kuch maine kaha, dukh aur bhranti me kaha.”
+
+Usne haath jod diye:
+
+“Mujhe kshama karo.
+Tumhara nyay sahi hai.”
+
+Phir Bali ka dil apne bete ki yaad me dagmagaya.
+
+⭐ “Rama… Angada ka dhyaan rakhna”
+
+Bali ne kampte huye swar me kaha:
+
+“Main apne liye nahi ro raha…
+par Angada… mera baccha…
+wo toot jaayega.”
+
+Uski awaaz ruk gayi.
+Phir bola:
+
+“Sugriva ko sahi raasta dikhana.
+Angada ko apne putra jaise sambhalna.”
+
+“Jaisa Bharata aur Lakshmana tumhari raksha karte hain,
+waisa hi Sugriva aur Angada ki raksha tum karna.”
+
+Bali ab bilkul narm ho chuka tha.
+
+⭐ Rama ka dukh ko mitaane wala vachan
+
+Rama ne uske maathay par haath rakhkar kaha:
+
+“Bali, chinta mat karo.
+Angada mera putra samana rahega.
+Sugriva ko main sambhalunga.
+Tara ko samman milega.”
+
+Rama ne usse dharm ka antimsatya samjhaya:
+
+“Jo apraadh karta hai aur jo dand deta hai—
+dono hi is sansaar ke karan–kaarya chakra ko poora karte hain.”
+
+“Tumhara paap tumhare dand se dhul chuka hai.
+Ab tum pavitra ho.”
+
+⭐ Bali ka antimsparsha
+
+Bali, jiski saansein toot rahi thi,
+aakhri baar Rama ko dekh kar bola:
+
+“Prabhu, maine tumhe anjaane me dukh pahunchaya.
+Ab mujhe kshama karo….”
+
+Uski awaaz dheemi pad gayi…
+aur vanar–raj Bali
+Rama ki charanon me apni aakhri saans leta gaya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.19
     with st.expander("Chapter 4.19 – Tara cries in sorrow"):
-        text1 = """ """
+        text1 = """ 
+Bali, vanaron ka mahaan raja, Rama ke teer se ghaayal hokar
+dharti par be-hosh pada tha.
+Uske shareer par paththaron ke nishaan,
+darakhthon ke ghaav,
+aur Rama ka teer uske seene me gahra dhansa hua tha.
+
+Wo ab antim saansen le raha tha.
+
+🌕 Tara ko pata chalta hai
+
+Jab Tara ko yeh khabar mili ki Bali ko Rama ka teer lag gaya,
+aur ab wo mrityu ke kareeb hai,
+toh uska dil toot gaya.
+
+Wo Angada ka haath pakad kar
+tez kadam se gufa se bahar nikli.
+
+Par jaise hi wo bahar aayi,
+usne dekha — monkeys bhaag rahe the.
+Bilkul waise hi jaise hiran apne neta ko marha hua dekh kar bikhar jate hain."""
 
         create_image_text_layout("attached_assets/chapter4/4.19.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🐒 Monkeys ka dar
+
+Monkeys ne Rama ko dhanush ke saath khada dekha,
+toh dar se bhaag utte—
+
+Tara ne pukara:
+
+“O Vanaro! Tum Bali ke sevak ho!
+Bhaag kyon rahe ho?
+Kya tum sochte ho Sugriva ne usse mara?”
+
+Monkey sainik bole:
+
+“O Devi, hum Rama ke dar se bhaag rahe hain!
+Rama ka teer Bali ko gira chuka hai.
+Hum kya kar sakte hain?”
+
+Unhone aage kaha:
+
+“Angada ko raja banao!”
+
+“Tum Angada ko bachao!”
+
+“Agar tum nahi manogi, hum dusre jungle chale jayenge.”
+
+Phir unhone ek kathin baat kahi:
+
+“Jungle me kuch vanar bina patni ke rehte hain,
+kuch ek patni ko sabke saath baant-te hain…
+par sab, patni kho chuke vanaron se darte hain.”
+(uncommon: darne ka karan – jealousy/territorial fear)
+
+Tara ne sab sun liya.
+
+🌙 Tara ka tootna
+
+Tara ne unki baatein suni
+aur aansu bhar aayi.
+
+Usne kaha:
+
+“Agar Bali hi mar raha hai,
+toh na Angada kaam ka hai,
+na rajya ka.
+Main apne pati ke paas jaungi.”
+
+Apne seene par dono haath maar kar,
+roti hui, daudti hui
+wo kshetra ki taraf gayi
+jahan Bali gira pada tha.
+
+🦁 Bali ka antim drishya
+
+Tara ne dekha:
+
+Bali — veerta ka devta,
+jo kabhi piche nahi hataa,
+jo pahaad utha leta tha,
+jo Indra jaisa shaktishaali tha —
+ab ek hi teer se gira hua pada tha.
+
+Bilkul waise jaise:
+
+shikaar hua hiran, sher ke panjon me
+
+ya mandir ka jhanda, tijori, sab kuch tod diya gaya ho
+
+Uska body ab bhi shaurya se chamak raha tha,
+par wo bejaan lag raha tha.
+
+🌧️ Tara ki cheekh
+
+Tara ne Rama ko dekha —
+woh dhanush par jhuke khade the,
+Lakshmana unke saath,
+aur Sugriva kuch hi door.
+
+Tara apni saari shakti kho baihti.
+
+Wo dharti par gir padi.
+Phir dheere se uth kar
+Bali ke pass gayi…
+
+“O Raja…”
+usne dard bhari cheekh nikali.
+
+Uski awaaz
+bilkul osprey (water-hawk) (a bird with sharp cry) ki cheekh jaisi thi —
+tez, tootati hui, dil cheer deti hui.
+
+Sugriva ka dil bhi us dard se hil gaya.
+Angada ka chhota sa mann bhi kaap utha.
+
+⚡ Chapter 19 samapt
+
+Yeh tha Tara ka dard…
+pati ka virah, bete ka bhavishya,
+aur ek nari ka tutta hua sansaar."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.20
     with st.expander("Chapter 4.20 – Tara continues to mourn for Bali"):
-        text1 = """ """
+        text1 = """ 
+Tara ne apne pati Bali ko zameen par pada dekha.
+Uske seene me Rama ka mrityu-deta teer tha.
+Bali ek bade ghaayal haathi jaisa lag raha tha—
+gir gaya, bejaan, par ab bhi shaurya se chamak raha.
+
+Tara daud kar uske paas aayi,
+aur use gale laga liya.
+
+Phir Tara ka dil toot gaya.
+Aansu ruk hi nahi rahe the.
+Usne ro kar kaha:
+
+🌙 Tara ka pehla vilap
+
+**“O Veer Bali!
+O mere raja!
+O vanaron ke sher!
+Tum mujhse baat kyon nahi kar rahe ho?
+Utho!
+Aise zameen par kyon so gaye?
+
+Kya tumhe dharti mujhse zyada pyari lagti hai?
+Marte waqt bhi tum dharti ko gale laga kar lete ho?
+
+Tum jaise bade raja kabhi zameen par nahi sote.
+Kya tumne swarg me nayi Kishkindha bana li hai?”**"""
 
         create_image_text_layout("attached_assets/chapter4/4.20.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🌧 Dard aur yaad
+
+Tara ne aansuon ke saath kaha:
+
+**“Hamare saath-bitaye din…
+jungle ki khushboo, hamari baatein…
+sab khatam ho gaye.
+Aaj main akeli ho gayi.
+
+Tum paanch tattvon me laut rahe ho.
+Mera dil paththar ka hona chahiye jo itna dard seh kar bhi toot nahi raha!”**
+
+Phir usne apne hi pati par sach bol diya:
+
+“Tumne Sugriva ki patni chura li.
+Tumne usse vanvaas diya.
+Aaj tum usi paap ka phal bhugat rahe ho.”
+
+🌪 Tara ke sachche shabd
+
+Tara ne ro kar bola:
+
+**“Main ne hamesha tumhe sahi salah di.
+Par tumne meri ek na suni.
+Aaj tum Apsaraon ko dikhnay ja rahe ho…
+aur main yahan toot rahi hoon.
+
+Tumhe koi hara nahi sakta tha,
+par kismat ne tumhe hara diya.”**
+
+⚔️ Rama aur Sugriva ke liye teekhi baat
+
+Tara boli:
+
+**“Rama ne tumhe bina wajah gira diya.
+Par wo paap nahi karega,
+kyonki usne sirf Sugriva ki baat maani hai.
+
+Sugriva, khush ho jao!
+Ruma tumhe wapas mil jayegi.
+Rajya tumhara ho gaya.
+Tumhara bada bhai yahan mar raha hai.”**
+
+🦁 Tara ka Bali ko antim sandesh
+
+Tara ne Bali ka haath pakad kar kaha:
+
+“Tum mere dard ka jawab kyon nahi dete?
+Tumhare itne saari sundar ranian tumhare paas khadi hain.
+Ye sab tumhari ek jhalak ka intezar kar rahi hain.”
+
+Uski cheekh dekh kar
+saari vanar-ranian rone lagi.
+Unhone Angada ko beech me le liya
+aur har taraf dard ki aawazein gunjne lagin.
+
+🌑 Angada ka bhavishya
+
+Phir Tara ne fir ro kar kaha:
+
+**“Angada ko kyon chhod ja rahe ho?
+Wo tumhari shakal, tumhari veerta,
+sab kuch lekar paida hua hai.
+
+Agar maine kabhi galti ki ho,
+toh mujhe maaf kar do.
+Main tumhare charanon me sar rakhti hoon.”**
+
+🌒 Tara ka nirnay
+
+Tara aur dusri ranian
+Bali ke paas hi baithi rahi.
+
+Tara ne faisla kar liya:
+
+“Main yahi rahungi.
+Na khaungi, na piyungi.
+Main bhi Bali ke saath hi marungi.”
+
+Aur wo Bali ke paas dharti par
+be-hosh si gir gayi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
