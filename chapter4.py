@@ -2720,51 +2720,749 @@ be-hosh si gir gayi."""
 
     # Chapter 4.21
     with st.expander("Chapter 4.21 – Hanuman speaks to comfort and guide everyone"):
-        text1 = """ """
+        text1 = """ 
+Tara ke shok ko shaant karne ki ek gambhir, komal, aur dharm-gyan se bhari gatha.
+
+Bali giri pada tha… van ka maha-simha ab nishchal. Tara dharti par bikhri hui thi—jaise aasman se koi taara toot kar zameen par aa gira ho. Uske aanchal me dard hi dard tha.
+
+Tab Hanuman, Vanaron ka mahan neta, bade komal swar me Tara ke paas aata hai. Uska hriday daya se pighal raha tha. Dheere se woh Tara ko sambhalte hue bolta hai—
+
+🕊️ Hanuman ka Dharm-yukt Santvan Vachan
+
+“O Devi,” Hanuman ke swar me karuna thi,
+“Yeh shareer ka janm–mrityu ka chakra,
+punya–paap ka phal…
+sab kuchh iss prani-jagat ka niyam hai.
+
+Jo karte hain, uska fal avashya paate hain—
+chahe veer ho ya mrit,
+rajya ho ya van.
+
+Tum kisliye shok kar rahi ho?
+Kiske liye ro rahi ho?
+Jeevan swayam ek bulbule ki tarah hai—
+kshan bhangur, asthir, nasht hone ko sada taiyaar."""
 
         create_image_text_layout("attached_assets/chapter4/4.21.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+Par Angada—
+woh abhi jeevit hai.
+Yuvraj, tumhara putra.
+Ab tumhara kartavya uske prati hai.”
+
+Hanuman ne Tara ki aankhon me gehra shok dekha aur dheere se samjhaya—
+
+“Samay ka niyam anivarya hai.
+Bali ne dharm-nishta se raj kiya,
+daanon me mahaan tha,
+samdrishti, kripa aur tyaag se bhara hua.
+
+Aise punyatma veer ab devon ke loka me virajmaan honge.
+Unke liye kyun shok?
+
+Devi, ab tum vansh ki rakshika ho.
+Angada ka sahara tum ho.
+Aur Sugriva, tumhare pati ka bhai—
+rajya usi ka adhikaarik haq hai.
+
+Tum shant ho jao.
+Angada ko sambhalo.
+Usse dhairya do.
+Uske bhavishya ki raksha karo.
+Rajya ka bhavishya tumhare haath me hai.”
+
+Hanuman ki nishtha aur maryada bhare vachan
+swayam van ko bhi shant kar dene saksham the.
+
+🌑 Tara ka Shokbharit Uttaar
+
+Par Tara ke hriday me ek hi baat dhadak rahi thi: Bali.
+Uska praan, uska sukh, uska sehara.
+
+Aansuon me bheegi hui,
+Hanuman ko uttar deti hai—
+
+“Hanuman…
+Mere liye Angada jaisa sau putra bhi ho,
+to bhi main un sabse pehle
+iss veer ke sharir se lipat kar jeena–marna chahungi.
+
+Mujhme rajya chalane ki shakti nahi.
+Angada bhi abhi kishor hai—
+rajya sambhalne yogya nahi.
+
+Rajya ka adhikaar
+putra ke pita ke bhai, yane Sugriva ko milta hai.
+Waris ka sachcha sanrakshak maata nahi— chacha hota hai.
+Ye vansh-ka-dharma hai, raja-dharma hai.
+
+Mere liye iss sansaar me,
+ya parlok me,
+koi shrey ya sukh nahi—
+bas apne pati ke paas rehna hi meri gati hai.
+
+Main to usi shayya par marna chahti hoon
+jahan mera swami,
+yudh me shatru se mukh morh kar
+veer-gati paaya hai.”
+
+Tara apne shok ki seema par khadi thi—
+uska praan Bali ke tatpraya me hi basa hua tha.
+
+Hanuman chup ho jaata hai—
+kshatriya-dharma aur pativrat-dharma ka
+ye karuna-mishrit sangam
+uske hriday ko bhi chhed deta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.22
     with st.expander("Chapter 4.22 – Bali says his final words"):
-        text1 = """ """
+        text1 = """ 
+Bali—mahaveer, vanar-raj, Sugriva ka jyeshth bhai—
+ab antim saans le raha tha.
+Uski saans halki thi, uska ur gahari peeda se uth-baith raha tha,
+par uski drishti—ab bhi teekhi, saaf, aur prem se bhari hui.
+
+Usne dheere se aankhein ghumayi
+aur apne saamne Sugriva ko khada dekha.
+
+Antim shakti jodkar, Bali ne
+apne chhote bhai ko sneh aur karuna se bhare shabdon me sambodhit kiya—
+
+🕊️ Bali ka Sugriva se Antim Sambodhan
+
+“Sugriva…
+Mere kareeb aa,
+par dvesh lekar nahi.
+
+Main bhrant ho gaya tha…
+moha ne, krodh ne, ahankaar ne
+mujhe andha kar diya.
+Ham dono bhai the—
+par humare bhagya ne hume kabhi ek hone nahi diya.
+
+Aaj tum vanar-rajya ka adhikaar
+phir se praapt karoge.
+Aur main…
+iss mrityu-lok ko chhod kar jaa raha hoon.
+
+Main jeevan, rajya, yash, sab ek pal me
+tyaag raha hoon.
+Par ek cheez hai jo
+mai tumhare bina nahi chhod sakta…”
+
+Bali ki aankhen Angada par ja tikti hain—
+jo zameen par baitha, aansuon se bheega hua,
+pita ko tak raha tha."""
 
         create_image_text_layout("attached_assets/chapter4/4.22.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+“Angada…
+Mera putra.
+Meri aanch.
+Meri dhadkan.
+
+Sugriva—
+uski raksha karna.
+Uska pita, uska mitra, uska sharan ban jaana—
+jaise main tha.
+Woh abhi nirbal hai, jawaan hai,
+par veerta uske lahu me hai.
+
+Use kabhi akela mat chhodna.
+Woh tumhara putra jaisa hi hai.”
+
+Bali ruk kar phir dheere se bolta hai—
+
+“Tara—Sushena ki putri—
+samay ko pehchanti hai,
+bhavishya ko jaanti hai.
+Jab woh tumse kahe ‘Yeh karo, yeh uchit hai,’
+to bina hichkichaye karo.
+Uske drishti ka bhram kabhi nahi hota.
+
+Aur ek baat…
+Rama jo kahe, wahi karna.
+Uska avagya tumhe dukh aur dand donon dega.”
+
+Phir Bali apni suvarna-mala ko pakad kar Sugriva ki aur badhata hai—
+
+“Yeh raj-rekha…
+Shri ka aabha isme hai.
+Mere mrityu ke baad yeh mujhe chhod degi—
+isliye tum ise le lo, Sugriva.”
+
+Sugriva,
+jisne yuddh jeeta tha,
+par mann se poora haar chuka tha—
+royi hui aankhon se yeh suvarn-mala le leta hai.
+
+Woh apne bhai ke charanon me gir padta hai.
+
+🌿 Bali ka Angada se Antim Updesh
+
+Ab Bali apne putra Angada ke paas bulata hai.
+Uski awaaz halka sa kamp rahi thi—
+
+“Putra…
+Samay, sthiti, aur maryada ko pehchanna seekho.
+
+Sukh-dukh ko samaan samajhkar jeena.
+Sugriva ko apna swami,
+apna raja,
+apna pita mankar chalna.
+
+Uske mitron se mitrata,
+uske shatruon se doori—
+yeh tumhari raksha karegi.
+
+Adhik sneha bhi nahi,
+adhik virakti bhi nahi—
+dono adharm ke raaste hain.
+Madhyam marg pakadna, Angada…”
+
+Bali ki saans tej ho jaati hai.
+Uski aankhen phail jaati hain.
+Dant bhedte hain,
+aur ek gambhir, dirgha peeda ke saath—
+
+mahaveer Bali antar-dhan ho jaata hai.
+
+🌑 Vanaron ka Vilap
+
+Jaise hi Bali ne praan tyaage,
+van ki praja par ek aandhi si chha gayi.
+
+“Hamare raja chale gaye!”
+“Hamari shaan, hamara sahara—sab chala gaya!”
+“Hamara rakshak, hamara Indra-tulya simha—
+kaise gir gaya?”
+
+Unhone Bali ki paraakrama bhari yuddh katha yaad ki—
+Golaba Gandharva ke saath solah saal tak yuddh;
+jitne bhi rakshas, yatudhan, daitya aaye—
+sab usne dhool chataayi.
+
+Par aaj woh simha,
+woh parvata-sam Bali,
+ek teer me bhu-tal par so raha tha.
+
+🌘 Tara ka Mahaa-Shok
+
+Tara—
+jo apne shok me samudra ho chuki thi—
+apne pati ke nishpran deh ko dekhkar
+phir se zameen par gir padti hai.
+
+Jaise koi laata, jhada hua vriksha ho
+aur us par latakti koi bali hui bel.
+
+Uske karuna-bhare chil-laah
+poore van ko kaamp dete hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.23
     with st.expander("Chapter 4.23 – Tara cries over Bali’s body"):
-        text1 = """ """
+        text1 = """ 
+Bali—vanaron ka raja, apar shakti ka dhani—
+ab nishchala pada tha,
+mrityu ke sukh-shaant sparsh me lepta hua.
+
+Uska chehra—jo kabhi garv, tej aur veerta se chamakta tha—
+ab shaant, sthir, aur gungunati mrityu-jyoti se bhara tha.
+
+Tara,
+jiski pratishtha teenon lokon me phaili thi,
+jiski buddhimatta aur saundarya dono prasiddh the—
+apne patidev ke mukh ko
+komal haath se chhoote hue
+rukhi saans ke saath boli:"""
 
         create_image_text_layout("attached_assets/chapter4/4.23.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🌘 Tara ka Bali se Vilap
+
+“He Veer!
+Meri baat na maankar
+dekho kis kathor, patharili zameen par aaj pade ho tum…
+
+Kya tumne dharti ko apni priya chuni,
+mujhse zyada?
+Main yahi hoon—tumhare paas—
+par tum ek shabd bhi nahi bolte…
+
+Haay!
+Vidhata ne Sugriva ka saath diya—
+aaj woh veer kehlayega,
+kathin yuddh ka vijeta ban kar.
+
+Vanar aur Rishabha-neta
+sab tumhari veerta ko yaad kar rahae hain…
+Unki pukaar,
+Angada ka dard,
+aur mera shok—
+kya yeh sab bhi tumhe jagaa nahi pa rahe?
+
+O Maharathi,
+jiske liye yuddh ek khel tha—
+aaj mujhe be-sahara chhod kar
+paanch tattvon me vilin ho gaye tum…
+
+Kaun si patni sukh paati hai,
+jab uska pati yuddh me gir jaaye?
+Chahe putra ho, dhan ho—
+widwa toh widwa hi kehlati hai,
+yeh ved-vyawahaar ka vidhan hai.
+
+Tumhara shareer,
+jo kabhi rakta-rangi silk se saja rehta tha,
+aaj tumhare apne lohu se lipta hua pada hai…
+
+Tumhare shaurya ke dhwaj patak rahe hain—
+par main tumhe gale tak nahi laga sakti,
+kyunki Rama ka teer
+ab bhi tumhare hriday me virajmaan hai…”
+
+🩸 Teer ka Nikalna
+
+Tab Nala, vanaron ka sena-nayak,
+aage badha
+aur Bali ke ango se
+Rama ka teer nikaala—
+
+Woh teer, jo pahad ki gufa se nikalti
+krodhit sarp-jaisi jwala sa lag raha tha,
+suryakirnon ki tarah chamak raha tha.
+
+Jaise hi teer nikla,
+Bali ke ghaavon se
+nadi ki tarah laal dhaara behne lagi—
+jaise kisi parvat se chhootkar
+lal-chandan se rangin jal
+niche aa raha ho.
+
+💧 Tara apne Aansuon se Bali ko Dhoti Hai
+
+Tara ne
+yuddh ki mitti aur khoon
+jo Bali ke shareer par laga tha—
+apne aansuon se dhona shuru kiya.
+
+Woh aansu—
+jo prem, shok, samarpan aur pativrat dharm
+ka sangam the—
+Bali ke shareer par moti ki taal ki tarah girte ja rahe the.
+
+Phir usne Angada se kaha:
+
+💔 Tara ka Angada se Sambodhan
+
+“Beta…
+Dekho apne pita ka yeh kathin ant…
+
+Yeh vahin bali ka phal hai
+jo kapat se janma tha…
+Tumhare pita ka deh,
+jo kabhi udit surya ki tarah chamakta tha,
+aaj mrityu-lok me lete hue
+panch-bhuto me sama raha hai.
+
+Jaao…
+jaakar unhe gale lagao.”
+
+🧒 Angada ka Vilap
+
+Angada—jiski aankhen lal ho chuki thi
+aur hriday toote hue shankh ki tarah dard se bhar gaya tha—
+pita ke pairon se lipat kar rota hua bola:
+
+“**Pitashri!
+Main hoon, Angada!
+Pehle jab main aapko gale lagata tha,
+aap hamesha kehte the—
+‘Jeete raho, mere beta…’
+
+Aaj kyun nahi keh rahe?
+Kyun nahi bol rahe…?”
+
+🌙 Tara ka Antim Dukh
+
+Tara,
+apne shok se dubbti hui,
+phir se Bali ke sharir par jhuk gayi—
+
+“Main yahin hoon—
+tumhari mrityu-deh ke paas—
+bilkul us gaay ki tarah
+jo apne saand ki mrityu par khadi roti hai…
+
+Tumhari suvarna-mala—
+jo Indra ne tumhe asur vijay ke baad di thi—
+woh kahan gayi?
+
+Par nahi—
+rajya ke alankaar
+mrityu ke baad bhi raja ka saath nahi chhodte.
+Parvat ka raj-tattva
+suryast ke baad bhi chamakta hai…
+
+Tumne meri salah nahi maani—
+aur main tumhe rok nahi pai…
+
+Tumhari mrityu ne
+mujhe bhi maar diya—
+aur Angada ko bhi.
+
+Lakshmi ne
+aaj tumhe bhi chhod diya,
+aur mujhe bhi…”
+
+Iske baad
+Tara ka shok poorn roop se phoot padta hai,
+jaise ek nadi apne bandhan tod kar behne lage."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.24
     with st.expander("Chapter 4.24 – Sugriva feels guilty and sad"):
-        text1 = """ """
+        text1 = """ 
+Tara ko
+shok ke gehre, behad, doobte hue sagar me vilin dekhkar,
+Sugriva ka hriday phat gaya.
+
+Apne hi bhai ke mrityu ka drishya—
+aur us par Tara ka dard—
+uske mann ko dagmagane laga.
+Uska mukh aansuon se bhig gaya,
+aur bhare saans ke saath
+woh dheere-dheere Rama ke paas pahuncha,
+jo apni sena aur parivaar se ghiray hue
+ab bhi rajatva ke sabhi lakshan dharan kiye khade the—
+dhanush haath me,
+teer uske kandhe par sarpon ki jaise lakate hue."""
 
         create_image_text_layout("attached_assets/chapter4/4.24.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🌘 Sugriva ka Rama se Vilap
+
+“He Purushottam!
+Aapne jo vachan diya tha—
+aapne woh pura kiya…
+Aur dekhiye—yeh uska phal hai…
+
+Meri jeet ke beech mein,
+Iss laashe ke saamne
+mera hriday shant ho hi nahi pa raha.
+
+Tara vilap kar rahi hai,
+Angada ka jeevan toot gaya hai,
+aur poori Kishkindha ro rahi hai.
+Aise rajya ka kya sukh,
+jiska mool hi khoon aur dard ban gaya ho?
+
+Pehle—
+krodh, rosh aur dvesh ne
+mujhe hansne diya tha mere bhai ki mrityu par…
+
+Par jaise hi Maine uska sharir dekha—
+mere andar ka maanas ro pada.
+Aaj samajh aata hai—
+ki Rishyamuka par vanvaasi rehna hi behtar tha
+bhai-hatya kar raj milne se…”
+
+💔 Sugriva ka Apraadhi-hriday
+
+“Woh bolta tha,
+‘Main tumhe maarna nahi chahta, jao yahan se…’
+Kitni udaar, kitni shresth vaani thi woh!
+
+Aur main?
+Maine kya kiya, Rama?
+Maine uska khoon baha diya.
+
+Yeh paap…
+vishwa me kaun baant sakta hai?
+Meri jaati ka rakshak main hi uska naash karne wala ban gaya!
+
+Indra ne bhi jab Vishwarupa ko maara tha,
+toh paap dharti, vrikshon, paani aur striyon me vibhakt ho gaya…
+Par mera paap?
+Kaun sa jeev mere saath is bojh ko baantega?
+
+Main rajya ke layak nahi hoon,
+na hi samman ka adhikari.
+Aaj main paap se jal gaya hoon—
+jaise sona aag me jhulas kar bas bhasm reh jaata hai.
+
+Angada—
+woh ek anmol ratan hai,
+par beta toh har ghar me janma le sakta hai.
+Par bhai?
+Bali jaisa bhai
+kis yug me, kis lok me mil sakta hai?
+
+Uske bina main jee nahi sakta.
+Main agni me pravesh kar
+apne bhai ka prem dobara paaunga…”
+
+🌑 Sugriva ki Antim Vinati
+
+“Jab chaaho hum vanar sena ko Sita ki khoj me bhejenge…
+par main—
+jo apne vansh ka shatru ban gaya hoon—
+main aapko pranaam kar ke
+apne paap ka prayashchit karne jaa raha hoon, Rama…”
+
+🌕 Rama ka Shok
+
+Sugriva ke shabd—
+dard se pade,
+tukdo me toote—
+sun kar Rama ke chakshu bhi aansuon se bhar gaye.
+
+Raghuvansh ka woh shreshtha putra
+ro pada,
+kyunki uska hriday bhi
+Tara ke shok aur Sugriva ke pashchattapa se bhaari ho gaya tha.
+
+Jab usne idhar-udhar drishti ghumayi,
+usne dekha—
+Tara apne pyaare Bali ke sharir ko
+bahon me bandh kar vilap kar rahi hai.
+
+Mantriyon ne usse halka sa piche kiya,
+aur woh, kaampti hui,
+tevar me dukh ka sagar liye
+Rama ke paas aa pahunchi.
+
+🌙 Tara ka Rama se Antim Aagrah
+
+“He Kakutstha…
+Aap apar shaurya ke swami,
+aprameya bal ke adhikari…
+Aapne mere pati ko apne teer se chir diya—
+toh ab yeh teer mujhe bhi de dijiye.
+
+Woh akele swarg nahi jayega—
+main bhi uske bina ek pal nahi jeeungi.
+
+Agar aap sochte ho ki ‘stree-hatya paap hai’—
+toh mujhe uska ardhang hi samajhiye.
+Aap mere pati ko hi wapas unka ardhang de rahe honge.
+
+Unke bina
+main na iss lok me rah sakti hoon,
+na uss lok me jahan apsarayein unhe gherengi—
+woh wahan bhi mere bina sukhi nahi honge.”
+
+🌄 Rama ka Adhyatmik Uttar
+
+Rama,
+dayaal aur vivek ka roop,
+us dukhit rani se mradul swar me bole:
+
+“Devi, shok mat karo…
+Jo kuchh hota hai—
+Narayan ki ichha se hota hai.
+Karm, phal, janma aur mrityu—
+sab ek anant niyam me bandhe hain.
+
+Angada rajya ka yuvaraj banega.
+Tumhara kalyan nishchit hai.
+Aur veer ke sanginiyon ka dharm hai—
+dharna, sahana, aur dheeraj.”
+
+Rama ke vachan,
+amrit ki boondon ki tarah
+Tara ke dard se tapte hriday par tapak padey—
+aur dheere-dheere
+uska vilap shaant hone laga."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.25
     with st.expander("Chapter 4.25 – Bali’s funeral is performed"):
-        text1 = """ """
+        text1 = """ 
+Sugriva, Tara, aur Angada ke dukh ko dekhkar
+Kakutstha—daya ka saagar,
+Lakshmana ke saath
+aage badhe
+aur mṛidu madhur vaani me bole—
+
+🌕 Rama ka Dharma-sankalp
+
+“Viyog se kisi ka kalyān nahi hota, Sugriva!
+Jo hona tha—ho chuka.
+Ab tumhara kartavya tumhari aankhon ke saamne khada hai.
+
+Rona, shok—yeh sab lokaachaar ka ek ang hai—
+par adhik aakranth hokar
+koi mrityu ko rok nahi sakta.
+
+Samay—hi sab kuchch chalata hai—
+samay hee janm deta hai,
+samay hee sangharsh banata hai,
+samay hee visraam karwata hai."""
 
         create_image_text_layout("attached_assets/chapter4/4.25.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+Na koi karta hai,
+na koi karwata hai—
+prakriti apne niyam se chalti hai.
+
+Bali—apne punya se
+apne uchch sthaan par pahunch chuka hai.
+Usne raj dharm nibhaya,
+daana, udarta, aur nyaya ka palan kiya—
+isliye woh devalok ka adhikari hua.
+
+Ab shok tyago.
+Aur apne bhai ke antim sanskaar shuru karo.”
+
+🌘 Lakshmana ka Aadesh
+
+Rama ke shant hone par,
+Sumitra-nandan Lakshmana,
+veerta ka agni-shikha,
+Sugriva se bole—
+
+“Sugriva!
+Antyeshti me vilamb uchit nahi.
+Tara aur Angada ke saath
+turant prarambh karo.
+
+Vrikshon ka sukha lakda,
+chandan ki lakdi,
+ghrita, tel, sugandh,
+aur shobha ke vastra—
+sab ikattha karvao.
+
+Tara!
+jaldi se ek vaahan—palki—le aaon.
+Jo log yatra-sewa me nipun aur balvan hain,
+unhe taiyaar rakho.”
+
+Lakshmana ke shabdon ka prabhav
+taar ki tarah sidha Tara ke hriday me utar gaya.
+Dhadakte mann se
+woh tezi se andheri guhā me gayi—
+aur kuchh hi kshanon me
+majboot vanaron dwara uthayi ja rahi
+shobha-yukt divya palki lekar laut aayi.
+
+🌄 Divya Palki ka Darshan
+
+Palki—
+jaise kisi Siddha ka vimaan,
+mrigasaar wood se nirmit,
+kanthas, chitrankit stambhon,
+moti ki malaon,
+rajabhoomi ke pushpon aur gandhon se yukt.
+
+Rama ne usse dekh kar Lakshmana se kaha—
+“Bali ka sharir isme stith karo. Sanskaar prarambh ho.”
+
+Sugriva, aansuon se bhara,
+Angada ke saath milkar
+Bali ka sharir utha kar
+palki par rakhta hai.
+
+Pushp, vastra, kaanchan alankar—
+sab Bali ke sharir par sajaye gaye—
+jaise veer ko divya yatra ke liye su-shobhita rakha jaye.
+
+🌒 Vanara Sena ka Maharaja ko Antim Samman
+
+Vanar-senapati
+palki ke aage-aage
+ratnon ki varsha karte chale.
+
+Aaj—
+Bali ne bhale hi sharir chhod diya,
+par vanaron ne usse Rajyapurush ki
+poori maryada di.
+
+Stree-yon ke “He Veer! He Veer!”
+vilap ki dhvani
+ghane vanon ke vistar me
+garaj kar gunj uthi.
+
+🌘 Shok ki Ragini — Tara aur Angada
+
+Nadi ke kinare—
+jahan pahadon se girta jal
+koomltā hua ek ret ka dweep banata hai—
+wahan
+ek vishal chita sajayi gayi.
+
+Bali ka sharir jab us par rakha gaya,
+Tara, uska mastak apni god me rakhkar
+vilap karne lagi—
+
+🌹 Tara ka Vilap
+
+“He Prān-nāth!
+Ab toh ek nazar bhi nahi karoge?
+Hum sab ro rahe hain—
+par tumhari simti hui muskaan,
+mrityu me bhi suryoday si chamak rahi hai…
+
+Rama ke ek teer ne
+tumhe humse cheen liya—
+hum sab ko vidhava bana diya.
+
+Tumhare bina
+yeh junglee raaste,
+yeh parvat,
+yeh rashtra—kis ka sahara lenge?
+
+Tumhare mantri yahan hain,
+Sugriva bhi yahan hai—
+sab tumhari ek jhalak ko tars rahe hain.
+
+Utho, he Pawan-putr ke saman balwaan!
+Jaise pehle hum sabko van me le jaate the—
+vaise hi ab hume
+antim yatra me saath le chalo…”
+
+Striyon ne usse pakda,
+usse sambhala—
+par Tara girti hi ja rahi thi.
+
+🌑 Angada ka Agni-pradip
+
+Angada—
+hriday me peda ka pahad liye—
+apne pita ke sharir ko
+chaaron or parikrama karta hua
+aag lagata hai.
+
+Aankhon se aag jaisi lahu-jaisi dhara beh rahi thi—
+par dharm ke anusaar
+usne pita ko mukhagni di.
+
+Chita ki tezi se bhasm hoti lauon ke beech
+Bali—
+veeron ka veer—
+divya lok ki disha me chal diya.
+
+🌄 Antim Sanskaar ki Poorti
+
+Sugriva, Tara, aur Angada
+snan karke
+Rama ke paas aaye.
+
+Raghunandan—
+jinhe devon ne bhi maryada ka devata kaha—
+Sugriva ke shok me saath khade rahe,
+aur Bali ko antim dharm se sambodhit kiya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
