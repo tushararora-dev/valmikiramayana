@@ -3468,51 +3468,567 @@ aur Bali ko antim dharm se sambodhit kiya."""
 
     # Chapter 4.26
     with st.expander("Chapter 4.26 – Sugriva is crowned as king"):
-        text1 = """ """
+        text1 = """ 
+⭐ Sugriva Ka Rajyabhishek — Hinglish Kahani
+
+Bali ki maut ke baad,
+Sugriva bahut udaas tha.
+Uske kapde bheege the,
+aur dil dard se bhara hua tha.
+
+Tab uske mantriyon ne use gher liya
+aur sab milkar Rama ke paas le gaye.
+Sugriva haath jodkar
+Rama ke saamne khada ho gaya—
+bilkul waise hi jaise Rishis Brahma ke saamne khade hote hain."""
 
         create_image_text_layout("attached_assets/chapter4/4.26.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Hanuman Ki Vinati
+
+Hanuman, jiska chehra suraj ki tarah chamak raha tha,
+bohot vinamr awaaz me bola:
+
+“Prabhu, kripya karke Sugriva ko
+uska rajn ki gaddi wapas de dijiye.
+Woh apne logon ke saath milkar
+apne rajya ko sambhal lega.
+
+Aap iss pahaad ke andar bani
+sundar cave me aaram se reh sakte hain,
+aur monkeys ko bhi ek naya raja mil jayega.”
+
+⭐ Rama Ka Shant Jawab
+
+Rama pyaar se bole:
+
+“Hanuman, main 14 saal tak
+kisi shehar ya gaon me nahi ja sakta,
+yeh mera pita ka vachan hai.
+
+Isliye Sugriva hi Kishkindha jaaye
+aur raja bane.
+
+Aur yaad rakhna,
+Angad ko rajya ka yuvaraj banana—
+wo Bali ka beta hai,
+bahadur aur imaandar bhi.”
+
+Rama ne Sugriva se kaha:
+
+“Ab barsaat ka mausam aa gaya hai,
+yudh ka samay nahi hai.
+Kartik ka mahina aate hi
+hum Ravana ko maarne niklenge.
+
+Tab tak tum raja ban kar
+apne rajya ko sambhalo.”
+
+⭐ Sugriva Ka Raj Tilak
+
+Rama ki baat sunkar
+Sugriva apni rajdhani Kishkindha laut gaya,
+jahaan sab monkeys ne zameen ko chho kar
+apne raja ka swagat kiya.
+
+Phir Sugriva apne bhai Bali ke
+androni mahal me gaya
+aur wahan uska rajyabhishek hua.
+
+Monkeys ne ek safed chhatra,
+yak ke pankhe,
+sunehri saaman,
+phool,
+chandan,
+kapde,
+sona,
+madhu,
+aur sugandhit jal laya.
+
+Vidhiyon ke anusaar
+Rishi, pandit aur veer monkeys
+sona ke kalashon me shuddh jal bhar kar
+Sugriva ke sir par chhidakte gaye.
+
+Poora mahal
+“Jai! Jai!” ki awaazon se goonj utha.
+
+⭐ Angad Banaye Gaye Yuvaraj
+
+Rajyabhishek ke turant baad
+Sugriva ne Angad ko gale lagaya
+aur use yuvaraj bana diya.
+
+Monkeys khush ho kar bole:
+
+“Bahut accha! Bahut accha!”
+
+Poora Kishkindha jhandaon se bhar gaya—
+har gali khushi se chamak rahi thi.
+
+⭐ Sugriva Ka Naya Adhyay
+
+Rama ko khabar bhejne ke baad
+Sugriva apni patni Ruma se mila
+aur dono ne apne rajya ko dobaara sambhala.
+
+Sugriva ab asli arth me
+Vaanaron ka Maharaja ban chuka tha—
+bilkul waise hi jaise Indra devon ka raja hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.27
     with st.expander("Chapter 4.27 – Rama describes the Prasravana mountain"):
-        text1 = """ """
+        text1 = """ 
+⭐ Prasravana Par Rama Aur Lakshman — Hinglish Kahani
+
+Sugriva ka rajyabhishek ho chuka tha,
+aur woh Kishkindha laut gaya.
+Rama aur Lakshman ek sundar pahaad, Prasravana, par rehne aa gaye.
+
+Yeh pahaad sheron ki dahad,
+hiran ki cheekh,
+aur jangli awaazon se bharpura tha.
+Har taraf bade-bade peedh, belen aur ghani jhadiaan thi.
+Pahaad aisa lagta tha jaise badalon ka ek chamakta hua pahaad ho.
+
+Choti par ek badi si gufa thi—
+Rama aur Lakshman ne wahi apna ghar banaya."""
 
         create_image_text_layout("attached_assets/chapter4/4.27.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Rama Ka Prasravana Ka Sundar Varnan
+
+Ek din Rama ne halka sa muskura kar
+Lakshman se kaha:
+
+“Saumitri, yeh jagah barsaat ke mausam me rehne ke liye perfect hai.
+Dekho, yeh pahaad kitna sundar hai—
+kale, safed aur bhure pathar,
+nadiyon me uchhalte medhak,
+aur har taraf rang-birangi belen aur phool.
+
+Idhar ek pyara sa talaab bhi hai—
+lotus se bharahua.
+Aur gufa ke paas hawa bhi tez nahi chalti.
+Yeh jagah humare liye bohot sukoon wali rahegi.”
+
+Rama ne Lakshman ko nadi ka sundar nazara bhi dikhaya:
+
+“Is nadi ka paani bilkul saaf hai,
+aur iske kinare par
+sandal, bakula, ketaki, ashoka aur kitne hi peedh hain.
+
+Hans, bagule aur jal-chidiyaan
+yahan masti kar rahi hain.
+Kabhi neele kamal chamak rahe hain,
+kabhi laal, kabhi safed.
+
+Yeh sab dekhkar mann khush ho jata hai.”
+
+Phir Rama muskura kar bole:
+
+“Kishkindha bhi yahin paas me hai.
+Aajkal Sugriva aur monkeys
+nagare baja kar khushiya mana rahe honge.”
+
+⭐ Par Rama Ka Dil Udaas
+
+Par jitni sundar jagah thi,
+Rama utne hi udaas the.
+
+Sita ki yaad unhe sone nahi deti thi.
+Raat ko woh bas aasman ki taraf dekhkar
+ghehri saanse bharte rehte.
+
+Lakshman apne bhai ko dukh me dekhkar
+bohot pareshaan hua.
+
+⭐ Lakshman Ki Dilasa Deti Baatein
+
+Lakshman pyaar se bole:
+
+“Bhaiya, aap yun gham me dubkar
+apni shakti kam mat karo.
+
+Jo vyakti hamesha roye,
+uska kaam kabhi safal nahi hota.
+
+Aapko dharm, himmat aur bhagwan par vishwas rakhna hoga.
+Ravana chalak hai—
+agar mann kamzor hua
+to hum Sita Mata ko kaise bachayenge?
+
+Barsaat khatam hote hi
+aap poori duniya hila doge.
+Bas thoda intezaar karo
+aur apna junoon jagao.”
+
+⭐ Rama Ka Sankalp Wapas Jaga
+
+Rama ne Lakshman ki baat suni
+aur dheere-dheere unke chehre par
+phir se veerta chamakne lagi.
+
+Rama बोले:
+
+“Tumne theek kaha, Lakshman.
+Ab main apna dukh pee jaunga
+aur Ravana ko dhoond kar hi rahunga.
+
+Sugriva barsaat ke baad zaroor madad karega.
+Aur main uska upkar kabhi nahi bhoolunga.”
+
+Lakshman ne haath jodkar kaha:
+
+“Bhaiya, hum dono yeh chaar mahine
+yahin shanti se guzaarenge.
+Phir hum Ravana ka anth karenge.”
+
+Aur is tarah,
+Rama aur Lakshman ne Prasravana par
+apna intezaar ka samay shuru kiya—
+par Rama ke dil me
+Sita ki yaad hamesha dard ki tarah ane lagi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.28
     with st.expander("Chapter 4.28 – Rama talks about the rainy season"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 28 – Barish Ka Mausam Aur Rama Ka Dard (Hinglish Kahani)
+
+Bali ki maut aur Sugriva ka rajyabhishek ho chuka tha.
+Ab Rama, Lakshman ke saath Malyavat parvat par reh rahe the.
+Barish ka mausam aa gaya tha.
+
+Rama aasman ki taraf dekh kar Lakshman se bole:
+
+“Lakshman, dekho… badal pahaadon jaisa lag raha hai.
+Nau mahine samundar ka paani sooraj ne sukha liya,
+ab aasman fir se us paani ko barsa raha hai.
+
+Aasman pe laal, peele, kaale rang ek saath milkar
+bilkul chot khaaye hue insaan jaisa lagta hai.
+Thandi hawa me ketaki aur mitti ki khushboo ghul rahi hai.
+
+Zameen garmi se jal gayi thi,
+ab barish me aankhon ki tarah aansu baha rahi hai—
+bilkul Sita ki tarah.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.28.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Pahaad Aur Jungle Ka Sundar Roop
+
+Rama ne aas-paas ki khoobsurti ko dekhkar kaha:
+
+“Yeh pahaad dekho Lakshman—
+barish se chamak raha hai.
+Arjuna ke peedh phoolon se bhare hain.
+Gufaaon me hawa gusar rahi hai,
+aur awaaz nikal rahi hai jaise brahmin Ved gunguna rahe ho.
+
+Bijli ko dekho—
+jaise aasman ko peeli chabuk se maara ja raha ho.”
+
+Rama ko bijli ki chamak me
+Sita ki jhulti tasveer nazar aayi.
+
+Phir Rama bole:
+
+“Yeh badal pehadiyon jaise jambooke phal ban gaye hain.
+Hans, bagule aur mor yahan wapas aa gaye hain.
+Peacocks khushi me nach rahe hain.”
+
+⭐ Barish Ke Mausam Ki Badalti Duniya
+
+Rama barish ke nazare dekh kar bolte ja rahe the:
+
+“Raste dube hue hain,
+gaadiyaan chal nahi sakti.
+Nadiyan tez bhaav le kar peedh ke phool utha rahi hain.
+
+Jambu ka phal pak gaya hai—
+mitha aur rangin.
+Aam neeche gir rahe hain.
+
+Badal girte paani se moti jaisi boondein gira rahe hain.
+Hawa me madhumakhiyon ki gunjan,
+maine-mand peeli bijli,
+aur jangal me mor ka naach—
+yeh sab ek bada sangeet jaisa lag raha hai.
+
+Hawaa thandi ho gayi hai.
+Mitti me laal bindi jaise ladybirds chamak rahi hain.
+Jungle me jangli hathi,
+mor aur bees sab apni apni masti me hain.”
+
+⭐ Rama Ka Dard Gehraa Hota Gaya
+
+Par jitna hi jangal sundar hota gaya,
+Rama utne hi udaas hote gaye.
+
+Rama ne dukhi awaaz me kaha:
+
+“Lakshman… Sugriva shayad iss barish ka maza le raha hoga—
+usey sab wapas mil gaya:
+patni, rajya, shanti.
+
+Par main?
+Main to Sita ke bina us nadi ke kinaare jaisa hoon
+jiska kinara toot kar beh gaya ho.
+Barish me raaste band ho gaye hain.
+Main kuch kar bhi nahi sakta.
+
+Aur Ravana…
+vo mujhe ab aur bhi bhayanak lagta hai.”
+
+Rama ki awaaz bhar aayi.
+
+⭐ Lakshman Ka Dharam, Himmat Aur Dilasa
+
+Lakshman haath jod kar bole:
+
+“Bhaiya, aapka dukh main samajh sakta hoon…
+par barish me kuch nahi ho sakta.
+
+Sugriva apna vaada nibhayega—
+aapne uske liye sab kuch kiya hai.
+Aap bas sharad ritu ka intezaar karo.
+
+Jaise hi barsaat khatam hogi,
+hum dono milkar Ravana ka anth kar denge.”
+
+Rama ne dheere se sir hila kar kaha:
+
+“Tum theek kehte ho, Lakshman.
+Main intezaar karunga—
+barish, Sugriva aur samay
+sab mere paksh me aayenge.”
+
+Aur is tarah,
+Rama rainy season me bhi
+Sita ki yaad me jalte rahe,
+lekin Lakshman ki baaton ne
+unka sankalp phir se majboot kar diya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.29
     with st.expander("Chapter 4.29 – Hanuman reminds Sugriva of his promise to help find Sita"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 29 – Hanuman Ne Sugriva Ko Yaad Dilaya Apna Vaada
+
+Barsaat khatam ho chuki thi.
+Aasman saaf tha—na bijli, na badal.
+Sirf chaand ki roshni aur saras ke panchhiyon ki awaaz.
+
+Par Sugriva…
+jo kabhi apne dukh me dooba hua tha…
+ab apne rajya, apni patni Ruma aur Tara ke saath sukh-masti me dooba hua tha.
+
+Rajya ka kaam mantriyon ke hawale,
+aur din-raat bas manoranjan.
+Rama ka vaada?
+Jaise use yaad hi na raha ho."""
 
         create_image_text_layout("attached_assets/chapter4/4.29.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Hanuman Ne Sab Samajh Liya
+
+Hanuman, jo hamesha samay aur kartavya ko samajhta tha,
+usey pata chal gaya ki Sugriva raaste se hat raha hai.
+
+Woh shaant lekin majboot awaaz me Sugriva ke paas gaya
+aur bola:
+
+“Sugriva, tumne apna rajya wapas le liya, apni patni ko bhi.
+Ab tumhara agla kartavya hai—
+apne dost Rama ka kaam poora karna.
+Jo dost hum par badi kripa karta hai,
+uska upkaar chukana hi sabse bada dharm hota hai.”
+
+⭐ Hanuman Ki Seekh (Simple Aur Seedhi)
+
+Hanuman ne pyar aur samajhdaari se samjhaya:
+
+“Jo raja apne doston ko bhool jaata hai, uska dushman jaldi badh jaata hai.”
+
+“Jo dost ki mushkil me saath nahi deta, vo kabhi sachha veer nahi hota.”
+
+“Rama ne tumhare liye apni jaan tak daav pe laga di.
+Ab tumhari baari hai, Sugriva.”
+
+Phir Hanuman ne gahri baat kahi:
+
+“Rama ne tumhe abhi tak yaad nahi dilaya…
+kyunki Rama vinamra hai.
+Par iska matlab yeh nahi ki tumhe bhool jana chahiye!
+Agar hum der kar denge, to sharmindagi bhi hogi
+aur paap bhi lagega.
+
+Chalo, turant Sita ki talaash shuru karte hain!”
+
+⭐ Sugriva Ko Baat Samajh Aayi
+
+Hanuman ki baatein seedhi dil me utar gayi.
+
+Sugriva ne turant faisla kiya.
+
+Vo Nila ko bulakar bola:
+
+“Nila, turant pura vanar sena ikatthi karo!
+Pahaad, jungle, samundar—
+jahaan bhi vanar tainat hain, sabko bulao.
+
+Jo vanar 15 din ke andar nahi aaya,
+uski sazah sakht hogi.
+Angada ke saath jaakar
+har ek veer ko yudh ke liye tayaar karo!”
+
+Aise kehkar Sugriva
+wapas apne mahal ki taraf chala gaya—
+par iss baar zimmedaari samajh kar."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.30
     with st.expander("Chapter 4.30 – The autumn season is described"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 30 – Sharad Ritu Aur Rama Ka Dukh
+
+Barsaat khatam ho gayi thi.
+Aasman bilkul saaf, badal bilkul gayab.
+Chaand ki roshni itni nirmal thi ki dil ko shanti milti…
+par Rama ke dil ko nahi.
+
+Rama ne dekha ki Sugriva to palace me apni nayi khushi me mast hai—
+par Sita abhi bhi durr, akeli, dukhi.
+
+Is soch ne Rama ka dil phir se bhaari kar diya."""
 
         create_image_text_layout("attached_assets/chapter4/4.30.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Rama Ka Dard
+
+Rama pahad ki choti par baitha tha.
+Neeche chamakte jungle, aasman me udte hans,
+aur hawa me thandi thandak…
+
+Phir bhi woh udaas tha.
+
+Woh dheere se bola:
+
+“Autumn itna sundar lag raha hai…
+par Sita ke bina mujhe kuch acha nahi lagta.
+
+Vo cranes ki awaaz pasand karti thi…
+ab jab ye awaaz sunegi… to kitna roegi?
+
+Vo kamal jaise phoolon ko pasand karti thi…
+aur ab vo akeli kaise muskuraayegi?”
+
+Rama ka dil toot gaya.
+Usse Sita ki yaad ruk hi nahi rahi thi.
+
+⭐ Lakshmana Ka Samjhana
+
+Isi waqt Lakshmana fruits lekar wapas aaya.
+Usne Rama ko itna udaas dekha to bola:
+
+“Bhaiya, aap himmat kyu haar rahe ho?
+Yeh samay ro-ne ka nahi,
+sochne ka hai.
+
+Sita jaise agni ko dushman choo bhi nahi sakta.
+Hum usey wapas laayenge.”
+
+⭐ Rama Ka Naya Sankalp
+
+Rama ne gehri saans li aur bola:
+
+“Lakshmana, tum theek kehte ho.
+Jab shakti ho, himmat ho,
+to darr ki koi jagah nahi.
+
+Ab sharad ritu aa chuki hai.
+Aasman saaf hai.
+Yeh hi ladayi ki shuruaat ka samay hota hai.”
+
+Lekin phir Rama ka mann phir Sita ki yaad me bhar gaya.
+
+⭐ Rama Autumn Ka Varnan Karte Hain
+
+Rama aasman ki aur dekhte hue bola:
+
+“Dekho Lakshmana—
+
+Badal chala gaye
+
+pahaad fir chamak rahe hain
+
+nadiyaan shaant beh rahi hain
+
+hans aur crane wapas aa gaye
+
+hathi aaraam se jal me chal rahe hain
+
+jungle me ful phir se khil gaye
+
+teekhi dhoop me mitti sookh rahi hai
+
+Ye sharad ritu sabke liye khushi laati hai…
+
+Par mere liye nahi, Sita ke bina nahi.”
+
+⭐ Rama Ka Krodh Badhta Hai
+
+Fir Rama ne gahri udaasi me kaha:
+
+“Lakshmana… 4 mahine beet gaye.
+Saara samay to Raghuvanshi ne dhairya se intezaar kiya.
+
+Par Sugriva?
+Woh to apni masti me hi laga hai.
+Usne apna vaada bhool gaya.”
+
+Rama ki awaaz sakht ho gayi:
+
+“Jab maine Bali ko maara,
+Sugriva ne vaada kiya tha
+ki barsaat khatam होते hi woh Sita ki talaash karega.
+
+Par aaj vo rajya me mast hai—
+Na koi taiyari, na koi sena ka bulawa…”
+
+Rama ne Lakshmana ki taraf dekha aur bola:
+
+⭐ Rama Ka Sandesh Lakshmana Ke Liye
+
+“Lakshmana, tum Kishkindha jao.
+
+Sugriva se kehna:
+
+‘Jo aadmi upkaar ka badla nahi deta,
+vo sabse nichla aadmi hota hai.’
+
+‘Rama ne tumhari jaan bachai, tumhara rajya diya.
+Ab tumhara kartavya hai apna vaada nibhaana.’
+
+‘Agar tumne apna vachan tod diya,
+to Bali jaise anjaam se tum bhi nahi bachoge.’”
+
+Lakshmana ne bhai ke krodh ko dekha
+aur uska khoon bhi garam ho gaya.
+
+Usne socha:
+“Ab Sugriva ko jagana hi hoga.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
