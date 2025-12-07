@@ -4034,51 +4034,528 @@ Usne socha:
 
     # Chapter 4.31
     with st.expander("Chapter 4.31 – Lakshmana goes to Kishkindha"):
-        text1 = """ """
+        text1 = """ 
+⭐ Lakshmana Ka Gussa Aur Kishkindha Ka Dar
+
+(Hinglish Kahani — Chapter 31)
+
+Rama ka dil dukh se bhaar ho gaya tha.
+Sita ki yaad, Sugriva ki be-parwahi… sab kuchh unhe chubh raha tha.
+
+Ye dekh kar Lakshmana, jo sher jaise shaktishaali aur dil se komal tha,
+gusse se kaamp uthaa.
+
+⭐ Lakshmana Ka Gussa
+
+Lakshmana bola:
+
+“Bhaiya, Sugriva ne to hadd kar di!
+Aapne uska rajy wapas dilaya, aur woh…
+bas dosti ka karz bhool kar maze le raha hai!
+
+Aisi bewafaayi bardasht nahi hoti.
+Main abhi jaake usse sabak sikha deta hoon!”
+
+Lakshmana ka gussa bijli ki tarah chamak raha tha."""
 
         create_image_text_layout("attached_assets/chapter4/4.31.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Rama Ka Shaant Updesh
+
+Par Rama ne haath pakad kar kaha:
+
+“Lakshmana, shant ho jao.
+Bada veer wahi hota hai jo gusse ko rok sake.
+
+Sugriva ne galti ki hai,
+par tum usse pyar se samjhana.
+Kathor shabd mat kehna.
+Bas yaad dilana ke waqt nikal raha hai.”
+
+Rama ke shabd thande paani jaise the.
+Lakshmana ne unhe maana, par dil me aag ab bhi jal rahi thi.
+
+⭐ Lakshmana Kishkindha Me
+
+Apna dhanush pakde, Lakshmana aandhi ki tarah Kishkindha ki taraf badhe.
+Raaste ke ped—Sala, Tala, Saral—
+sab unke zor se hil rahe the.
+
+Monkeys unki aahat sun kar dar gaye.
+Kuchh ne pahad ke tukde utha liye,
+kuchh ne bade-bade ped jad se ukhaad liye,
+par Lakshmana ki aag dekh kar
+sab idhar-udhar bhaag gaye.
+
+Lakshmana sach me krodh-kaal jaise dikh rahe the.
+
+⭐ Angada Ka Dar
+
+Angada, jo Bali ka beta tha,
+himmat jutaa kar aage aaya.
+
+Lakshmana garajte hue बोले:
+
+“Beta, jao Sugriva ko bolo—
+Lakshmana, Rama ka chhota bhai,
+darwaaze par khada hai.
+Woh gusse se dahak raha hai.
+Usse turant bulao!”
+
+Angada ghabra kar andar bhaaga.
+
+⭐ Sugriva Behosh Si Neend Me
+
+Sugriva tab tak
+daaru aur manoranjan me dooba hua so raha tha.
+Tara uske paas thi,
+aur woh sab kuchh bhool chuka tha—
+dosti, vaada, Sita ki dhoondh… sab.
+
+Angada ne paon chhu kar bola:
+“Maama… Lakshmana aaye hain!”
+
+Par Sugriva ne aankh bhi nahi kholi.
+
+⭐ Monkeys Ka Shor Aur Dar
+
+Baahar, monkeys Lakshmana ko dekh kar
+dar ke maare zor zor se cheekhne lage—
+jaise bijli garaj rahi ho!
+
+Iss shor se Sugriva ki neend toot gayi.
+Aankhen laal, sharab ka nasha,
+aur ghabrahat sab ek saath aa gaye.
+
+Uske do buddhimaan mantri—Yaksha aur Prabhava—
+aur Angada uske paas aaye.
+
+⭐ Mantriyon Ka Seedha Sandesh
+
+Unhone kaha:
+
+“Raja, Rama aur Lakshmana dono dev-samaan veer hain.
+Lakshmana bahar aag ki tarah khaRa hai.
+Monkeys uski ek jhalak se darr rahe hain!
+
+Woh tumse baat karne aaye hain.
+Unka gussa shant karo—
+sir jhuka kar unke charanon me pranaam karo.
+Aur Rama ka kaam turant poora karo.
+Vaada nibhana hi sachchi shaurya hai, Rajan.”
+
+Sugriva ab poori tarah hosh me aa gaya.
+Use samajh aa gaya ki uski badi galti ho chuki hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.32
     with st.expander("Chapter 4.32 – Hanuman speaks to calm Lakshmana"):
-        text1 = """ """
+        text1 = """ 
+⭐ Hanuman Ka Samajhdari Bhara Updesh
+
+(Hinglish Kahani — Chapter 32)
+
+Angada aur mantriyon ki baat sunkar
+Sugriva ki neend aur nasha dono utar gaye.
+Ab use mehsoos hua ki baat bahut bigad gayi hai.
+
+Sugriva ghabra kar bola:
+
+“Main ne kya galat kiya?
+Lakshmana mujhse itna kyon gussa hai?
+Kahin koi dushman hum dono ke beech fasad to nahi kar raha?
+
+Rama ne mere liye itna kuchh kiya…
+Aur main unka udhaar abhi tak chuka nahi paaya.
+Dosti nibhaana aasaan nahi hota…
+Bas, isi baat ka darr hai.”
+
+Sugriva ki awaaz me pachtawa tha."""
 
         create_image_text_layout("attached_assets/chapter4/4.32.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Tab Hanuman Utha — Buddhi Ka Sagar
+
+Hanuman, jo sabse buddhimaan, sabse wafadaar aur sabse shaktishaali
+vanaron me pramukh tha,
+shant aur saaf man se bola:
+
+“Rajan, ye bilkul sahi hai ki Rama ne tumhara kabhi na bhoolne wala upkaar kiya.
+Unhone Bali jaise shaktishaali vir ko tumhare liye maar giraya.
+Aisa kaun karta hai?
+
+Par dekho, ab mausam badal chuka hai.
+Sharad ritu aa gayi hai—
+aasmaan saaf hai, sitaare chamak rahe hain,
+nadia shant hain…
+Ye hi woh samay hai jab hum Sita ki talaash shuru karne wale the.
+
+Lekin tum to manoranjan me doob gaye, Rajan…
+Tumne waqt ki pukaar sun hi nahi paayi.
+
+Issi liye
+Rama ne apne bijli-jaise bhai Lakshmana ko bheja hai.
+Jab bada veer naram shabd ke bajay kathor shabd bheje…
+To samajh lo uske dil me chot pahunchi hai.
+
+Isliye ye gussa swabhavik hai.”
+
+⭐ Hanuman Ki Sachchi Salah
+
+Hanuman phir jhuk kar par honsle se bola:
+
+“Rama ko naraz karna samajhdari nahi.
+Woh dhanush utha le to devtaon, asuron aur gandharvon ko bhi hila de.
+
+Rajan, humne unka ehsaan liya hai.
+Ab unki madad karna humara kartavya hai.
+Aise veer se dosti todna… ya unki baat ko nazarandaz karna…
+Bahut badi chook hogi.
+
+To mera vichaar ye hai—
+Lakshmana ke saamne jhuk kar unse kshama maango.
+Angada aur poori sena ke saath jao.
+Dosti me vinamrata hi shobha deti hai.
+
+Aur sabse zaroori—
+Apna vaada nibhao, Rajan.
+Sita ki talaash abhi shuru honi chahiye!”
+
+Hanuman ki baat
+sach, seedhi aur sahi thi.
+Sugriva ne unhe dhyan se suna—
+Uska mann ab sharm aur samajh dono se bhar chuka tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.33
     with st.expander("Chapter 4.33 – Tara gently stops Lakshmana from getting angry"):
-        text1 = """ """
+        text1 = """ 
+⭐ Tara Ne Kaise Shant Kiya Lakshmana
+
+(Hinglish Kahani — Chapter 33)
+
+Lakshmana, Rama ka wafadaar bhai,
+Kishkindha ki chamakdar nagri me ghusse ja raha tha.
+Uske chehre par gussa saaf dikhta tha—
+jaise aandhi apna rasta banati hai.
+
+Darwaze par bade-bade vanar pehredaar
+haath jod kar khade ho gaye.
+Lakshmana ki bhari saanson aur tej nazron se
+woh dare hue the, par uska rasta rokne ki himmat nahi kar paye."""
 
         create_image_text_layout("attached_assets/chapter4/4.33.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Kishkindha Ki Chamak
+
+Lakshmana ne shehar dekha—
+hara-bhara, phoolon se saja,
+mehenge pattharon aur sona-chandi se chamak raha.
+Har taraf bade mahal, unme gaana, veena ki dhun,
+khush vanaron ki chal-phir.
+Sab kuchh itna sundar, par
+Lakshmana ke mann me bas ek hi cheez thi—Rama ka dukh.
+
+Jab woh andar badha,
+usne Sugriva ke mahal se
+nupur ki jhankar aur hasta-khelta geet suna.
+Ye sab dekh kar Lakshmana ka gussa
+phir se bhadak utha—
+aur usne apna dhanush ka taar khinch kar
+ek zor ka tan-tan! kiya.
+
+Pura mahal kaanp uthaa.
+Sugriva, jo madh-seen tha,
+turant hosh me aaya aur dar gaya.
+
+⭐ Sugriva Ka Pachtawa
+
+Sugriva ne Tara se ghabra kar kaha:
+
+“Lakshmana gussa kyon hai?
+Rama jaise mitra ko main kaise naraaz kar sakta hoon?
+Agar koi galti mujhse ho gayi ho…
+to tum jaakar uska gussa thanda karo, Tara.
+Veer purush auraton se kathor nahi bolte.”
+
+⭐ Tara — Buddhi aur Komalta Ka Sangam
+
+Tara, jise sab sundar aur samajhdar jaante the,
+halke ladkhadate kadmon se Lakshmana ke paas aayi.
+Lakshmana ne ek pativrata aurat ko dekh kar
+apna gussa turant rok liya
+aur sir jhukakar samman dikhaya.
+
+Tara ne naram awaaz me poocha:
+
+“Hey Rajputra, ye itna gussa kyon?
+Kisne tumhari baat nahi mani?
+Kaun aag lekar sookhe jungle me ghus gaya?”
+
+⭐ Lakshmana Ka Dard
+
+Tara ki komal baaton se Lakshmana ka gussa halka hua,
+par dard abhi bhi tha.
+
+Lakshmana ne shant par kathor shabdon me kaha:
+
+“Sugriva apni zimmedari bhool gaya hai, Tara.
+Usne Rama se vaada kiya tha.
+4 mahine beet gaye…
+Par woh prem, nasha aur manoranjan me dooba hua hai.
+
+Aise kaise chalega?
+Dosti ka matlab hota hai—vaada nibhaana.
+Aur samay par madad dena.
+
+Tum hi batao,
+ab kya kiya jaye?”
+
+⭐ Tara Ka Samjhaav
+
+Tara ne pyaar aur samajh se bola:
+
+“Hey Lakshmana,
+gussa chhodo.
+Sugriva ne galti ki hai, par jaan-boojh kar nahi.
+Kabhi-kabhi manushya bhi vasana me beh jate hain—
+to ye to vanar hai, prakriti se chanchal.
+
+Par suno—
+Sugriva ne tumhare kaam ki tayari kar rakhi hai.
+Duniya bhar ke vanar—
+hazaron, laakhon, karodon—
+sab pahunch chuke hain.
+
+Tum andar aao,
+hamara ghar tumhare liye pavitra hai.”
+
+⭐ Lakshmana Ka Andar Jana
+
+Tara ki baat sunkar Lakshmana ne
+apna gussa ek taraf rakha
+aur andar gaya.
+
+Wahan Sugriva sona jaise chamakta,
+rajasi pehnawa, sugandhit pushp,
+aur sundar mahal me ruma ko gale lagaye baitha tha.
+
+Par jaise hi usne Lakshmana ko dekha,
+uski aankhon ki neend aur madira sab gaayab ho gayi.
+
+Ab samay aa gaya tha—
+Sugriva ko apni galti sudhaarni thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.34
     with st.expander("Chapter 4.34 – Lakshmana scolds Sugriva"):
-        text1 = """ """
+        text1 = """ 
+⭐ Lakshmana Ki Sakht Daant – Sugriva Ko Yaad Dilayi Zimmedari
+
+(Hinglish Kahani — Chapter 34)
+
+Sugriva ne jaise hi Lakshmana ko andar aate dekha—
+aankhen laal, saans tez, gussa agni ki tarah,
+uska dil ghabra gaya.
+
+Woh turant apne sone ke singhasan se uth kar
+Lakshmana ke saamne khada ho gaya,
+aur uske peeche Ruma aur anya vanar-stree jaise
+chaand ke aas-paas taaron ki tarah khadi ho gayin.
+
+Lakshmana ne Sugriva ko dekha—
+raat ke aasman me chaand jaise,
+par aas-paas vasana aur aalas ka badal.
+Tab Lakshmana ka gussa aur bhadak gaya."""
 
         create_image_text_layout("attached_assets/chapter4/4.34.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Lakshmana Ki Teekhi Par Sachchi Baatein
+
+Lakshmana ne kadak awaaz me kaha:
+
+“Sugriva!
+Sacha raja woh hota hai
+jo daya-bhara ho,
+jo apne vaade nibhaaye,
+jo doston ka ehsaan yaad rakhe.
+
+Par jis raja me
+na wafadari ho, na shukrana,
+woh duniya me badnaam hota hai."
+
+Lakshmana ne ek ek shabd
+tez talwar ki tarah chalaya:
+
+"Jo aadmi jhooth bolkar
+ghodon ka nuksaan karta hai,
+woh sau ghodon ka papi hota hai.
+Jo jhooth gai ke baare me bole,
+woh hazaar gaayon ka papi hota hai.
+Par jo insaan ke baare me jhooth bole—
+woh apni aur apne khandaan ki barbaadi bulaata hai.
+
+Par sabse bada paap kya hai?
+Ahankaar aur ahsaan-faramoshi.
+Iska koi prayashchit nahi!”
+
+Sugriva ka chehra nichla pad gaya.
+
+⭐ Lakshmana Ki Krodh-Vaaniyon Ka Bijli Jaisa Prabhav
+
+Lakshmana ne sakht shabdon me kaha:
+
+“Rama ne tera sab kuchh lautaya—
+tera rajya, tera maan,
+tera jeevan tak bachaya!
+
+Aur tu?
+Tu to vaada nibhaana hi bhool gaya.
+Tu sukh-bhogon me dooba hua,
+jabki Rama dukh se jal raha hai.
+
+Tu un logon me se hai
+jo saap to hote hain,
+par awaaz mazedaar mendhak jaise nikaalte hain—
+dhokebaaz.
+
+Yad rakh…
+Bali ka raasta abhi band nahi hua.
+Agar tu apna vaada nahi nibhaaya,
+to Rama ke teer tujhe bhi wahi le jayenge!”
+
+Sugriva ka kaleja dahal gaya.
+Usne apni aankhen neeche kar li.
+
+Lakshmana ne aakhri baar sakhti se kaha:
+
+“Abhi samay hai, Sugriva.
+Apna vaada nibhao.
+Rama ka dukh khatam karo.
+Varna tumhari raah bhi Bali ki raah ban jayegi.”
+
+Yeh sunte hi, Sugriva ki aankhon se nasha aur madh-matra ka rang udd gaya.
+Usse samajh aa gaya—
+ab kaam karne ka samay aa chuka hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.35
     with st.expander("Chapter 4.35 – Tara explains and defends Sugriva"):
-        text1 = """ """
+        text1 = """ 
+⭐ Tara Ka Bachav — Sugriva Ki Taraf Se Prem aur Buddhi Ki Baat
+
+(Hinglish Kahani — Chapter 35)
+
+Lakshmana gusse se bhara hua tha—
+jaise garajta hua baadal,
+jaise agni ki laal-lal jaan se nikli chamak.
+
+Tabhi Tara, jiska chehra poornima ke chaand jaise komal aur shant tha,
+aage badh kar dheemi, par drit, awaaz me boli:"""
 
         create_image_text_layout("attached_assets/chapter4/4.35.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ “Lakshmana, Sugriva itna bura nahi!”
+
+“O Lakshmana,” Tara ne kaha,
+“Yeh kathor shabd Sugriva ke laayak nahi…
+aur woh bhi tumhare muh se!
+
+Sugriva na bewafa hai, na jhootha,
+na ehsaan-faramosh!
+Woh dhokebaaz bhi nahi,
+aur na hi koi kapati!”
+
+Tara ki awaaz me sachchai thi.
+Woh jaanti thi ke Lakshmana ka gussa dukh se paida hua hai,
+isliye usne pyar aur buddhi dono se baat rakhi.
+
+⭐ “Sugriva ne Rama ka ehsaan kabhi nahi bhoola.”
+
+Tara ne shant hoke samjhaya:
+
+“Rama ne uske liye woh kiya
+jo koi aur nahi kar sakta tha.
+Rama ne use phir se rajya diya,
+phir se samman diya,
+aur phir se Ruma aur mujhe uski zindagi me laaya.
+
+Par Lakshmana…
+bahut saalo tak dukh jhelne ke baad,
+jab kisi ko achanak sukh mile—
+toh kabhi kabhi woh waqt ka andaza kho deta hai.”
+
+⭐ “Vishvamitra jaise maha-rishi bhi kabhi bhatak gaye the.”
+
+“Ek baar Vishvamitra rishi bhi,” Tara boli,
+“10 saal tak Apsara Ghritachi ki sangati me
+samay hi bhool gaye the!
+Woh bhi waqt pehchaanne me maahir the—
+phir bhi bhatak gaye.
+
+Sugriva ne itne dino baad
+thodi si khushi paayi hai,
+isliye thoda bhatak gaya hai.
+Rama ko use maaf kar dena chahiye.”
+
+⭐ “Sugriva sab kuchh chhod sakta hai—Rama ke liye.”
+
+Tara ne sacche mann se kaha:
+
+“Mujhe poora yakeen hai—
+Sugriva Rama ke liye
+Ruma, Angada, main khud, rajya, dhan,
+gaaye-bhaise—sab kuchh tyaag dega!
+Bas ek baar Sita ko dhoondhne ka kaam shuru ho jaaye.”
+
+⭐ “Lanka me rakshas hazaaron me hain—Sugriva akela nahi lad sakta.”
+
+Tara ne Lakshmana ko sach bataya:
+
+“Lanka me to ajeeb-shakal wale,
+bhayankar balwale rakshas
+hazaaron, lakhi aur milioni sankhya me rehte hain.
+
+Unka saamna bina taiyyari ke—
+aasan hi nahi, namumkin hai.
+
+Isliye Sugriva ne
+saare vanar sena,
+saare shaktishaali sainiko—
+bears, golangulas, aur kotiyon vanaron ko
+bulaaya hai.
+
+Woh sab aaj hi aa rahe hain.”
+
+⭐ “Lakshmana, apna gussa shaant karo.”
+
+Ant me Tara ne nivedan kiya:
+
+“O Lakshmana,
+tumhara chehra gusse se laal ho gaya hai.
+Tumhari aankhen bijli ki tarah chamak rahi hain.
+
+Yeh dekh kar vanaron ki patniyaan
+phir se dara hui hain—
+jaise pehle Bali ke samay dar gayi thi.
+
+Kripya apna krodh shaant karo.
+Sab taiyyar hai—
+Sugriva ne kuchh bhi nahi bhoola.”
+
+Tara ki meethi, buddhi-bhari baatein
+Lakshmana ke dil tak pahunchne lagi.
+Aandhi jaisa uska krodh
+ab halki si hawa me badalne laga…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
