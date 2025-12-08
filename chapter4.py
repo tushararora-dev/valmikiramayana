@@ -4561,51 +4561,662 @@ ab halki si hawa me badalne laga…"""
 
     # Chapter 4.36
     with st.expander("Chapter 4.36 – Lakshmana forgives Sugriva"):
-        text1 = """ """
+        text1 = """ 
+⭐ Lakshmana aur Sugriva ka Milap
+
+(Hinglish Kahani — Chapter 36)
+
+Tara ki pyari, samajhdaari bhari baatein
+Lakshmana ke dil me utar gayin.
+Saumitri, jo apne swabhaav se hi komal aur vinamra tha,
+ab dheere dheere shant ho gaya.
+
+Usne dekha ki Tara imaandari se
+Sugriva ka paksh rakh rahi hai—
+aur uski baaton me sachchai hai.
+Lakshmana ka gussa pighalne laga
+jaise dhoop me barf."""
 
         create_image_text_layout("attached_assets/chapter4/4.36.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Sugriva ne apna dar utaar phenka
+
+Lakshmana ke shant hote hi
+Sugriva ka dar bhi mit gaya—
+jaise koi bheega kapda utaar kar fek deta hai.
+
+Usne apne gale se
+woh rang-biranga, shandar haar bhi utaar diya
+jo uski rasiya zindagi ka prateek tha.
+
+Ab woh bilkul hosh me tha.
+Aankhon me satarkta,
+dil me vinamrata.
+
+Woh Lakshmana ke aage jhuk kar bola:
+
+⭐ “Rama ne mujhe sab kuchh diya hai…”
+
+“O Saumitri,” Sugriva ne gahri awaaz me kaha,
+“Rama ne mujhe sab lauta diya—
+mera rajya,
+mera maan,
+meri izzat…
+aur meri parivaar tak.
+
+Kaun hai jo Rama ka ehsaan chuka sakta hai?
+Main toh unka udhaar kabhi nahi utaar sakta!
+
+Rama to apni hi shakti se
+Sita ko wapas layenge,
+aur Ravana ko maar girayenge.
+Main?
+Main toh bas unke saath chalunga.”
+
+Sugriva ne yaad kiya—
+kaise Rama ne ek teer se
+saat saal ke drakshya vriksha,
+ek pahaad,
+aur zameen ko chhed diya tha!
+
+“Jis veer ka dhanush tanne se hi
+duniya kaanp uthe—
+use meri madad ki kya zaroorat?”
+
+Phir Sugriva ne haath jod kar kaha:
+
+“Par agar main kisi baat me galat pada hoon,
+kisi farz me dheela pada hoon,
+toh Rama mujhe maaf karen—
+kyonki kaun sa insaan bina galti ke hota hai?”
+
+⭐ Lakshmana ka dil pighal gaya
+
+Lakshmana ne Sugriva ki baatein suni…
+aur unke chehre par naram si muskaan aa gayi.
+
+Woh bola:
+
+“O Sugriva,
+agar tum saath ho
+toh Rama ko kisi sahayata ki kami nahi.
+
+Tumhara vinamr swabhaav,
+tumhari bahaduri,
+aur tumhari wafadaari—
+ye sab tumhe monkey-rajya ka
+sabse yogya raja banati hain.
+
+Tumne galti maani—
+aur jo apni galti maanta hai,
+woh asli veer hota hai.
+Tum aur Rama—
+dono ek jaise ho—
+bal me bhi,
+veerata me bhi.”
+
+Phir Lakshmana ne haath badha kar kaha:
+
+“Chalo, Sugriva!
+Rama dukhi hain—
+unhe hamari zaroorat hai.
+Chalo unke paas chalein.”
+
+Aur phir halka sa jhuk kar bola:
+
+“Jo kathor shabd maine gusse me kahe…
+unhe maaf kar dena, Sugriva.”
+
+Lakshmana aur Sugriva—
+dono ke dil ka bojh halka ho gaya.
+Dosti fir se phool jaisi khil gayi.
+Aur ab—
+Sita ki talaash ka yuddha
+sach much shuru hone wala tha…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.37
     with st.expander("Chapter 4.37 – Sugriva gathers his monkey army"):
-        text1 = """ """
+        text1 = """ 
+⭐ Sugriva Bulata Hai Duniya Bhar Ke Vanaron Ko
+
+(Hinglish Kahani — Chapter 37)
+
+Lakshmana ke madhur aur samajhdaari bhare shabdon ko sun kar
+Sugriva ka hausla badh gaya.
+Ab woh poori taiyaari se Rama ka saath nibhane ke liye khada tha.
+
+Woh Hanuman ki taraf mudkar bola—
+
+⭐ “Hanuman, poori duniya ke vanaron ko bulao!”
+
+“Hanuman!
+Mahendra parvat ki chotiyon par jo rehte hain…
+Himavat ke kathor pahaadon par jo tap karte hain…
+Vindhya, Kailash, Mandara aur Pandu parvat ke veer…
+Aur Panch-parvat ke vanar…
+
+Sea ke pashchimi kinaare,
+Suryadev ke nikat pahadon,
+Padmachalu ke ghane vanon,
+Aur Anjana parvat ke veer—
+jinme hathi jaisi shakti hai—
+sab ko bulao!"""
 
         create_image_text_layout("attached_assets/chapter4/4.37.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+Jo vanar sona jaisi chamak rakhte hain,
+jo guhaon me rehte hain,
+jo Meru, Dhoomra aur Maharuna parvaton me baste hain…
+
+Jahan jahan ho sakta hai—
+sab ko ek saath jama karo!
+
+Agar koi aaram kare,
+ya mazaa lete hue mere aadesh ko bhool jaye,
+to use kaha do—
+das din ke andar na aaye, to dand milega.”
+
+Sugriva ki awaaz aadesh se bhari thi—
+raja hone ka garaj usme mehsoos ho raha tha.
+
+⭐ Hanuman jaise hawa ki tarah daud pade
+
+Vaayuputra ne jhuk kar aadesh svikaar kiya,
+aur turant
+team by team, toliyaan toliyaan
+vanaron ko chaaro dishaon me bhej diya.
+
+Woh aasman ki un ungliyon se guzre
+jin par pakshi bhi kabhi kabhi hi jaate —
+Rahu, Ketu, Surya aur Chandrama ke margon se bhi pare.
+
+Hawa, pahaad, dariya, samundar—
+sab ko paar kar ke
+monkey-messengers
+Sugriva ka sandesh pohcha rahe the:
+
+“Rama ke liye jama ho jao!”
+
+⭐ Duniya bhar se Vanaron ka maha-saagar umad pada
+
+● Anjana parvat se —
+teen koti ka kaala, kajal jaisa sena-dal!
+
+● Pashchim ke din dhalne wale pahaad se —
+das koti sona-jaisey chamakdar vanar!
+
+● Kailash se —
+sher ke ghar ke rang ke hazaar vanar!
+
+● Himavat se —
+aulaukik tapasvi vanar—das-das million tak!
+
+● Vindhya ke laal-coal jaisey bhayanak vanar—
+sau sau million ki tezi se daudte hue!
+
+● Samundar ke safed kinaaron se,
+● Tamala van se,
+● Nariyal ke vanon se—
+itne vanar aaye ki ginti ka bhi pata nahi chal sakta tha!
+
+Poori prithvi ka har vanar lag raha tha
+jaise Rama ke liye tayaar ho kar nikla ho.
+
+⭐ Himavat ke shikhar par paaya gaya divya vriksha
+
+Jab kuchh vanar dusron ko bulane gaye,
+to unhe Himavat ke shikhar par
+ek prakritik, divya vriksha mila.
+
+Kehte hain ki purva kal me
+Mahadeva ke samman me wahan yagya hua tha—
+aur us yagya se
+amrit jaise phal, jadibootiyan aur beej
+janm le liye the.
+
+Unhe kha kar
+ek mahine tak bhookh nahi lagti thi.
+
+Vanaron ne woh sab divya phal, jadibootiyan,
+sugandhit pushp ikattha kiye
+aur Sugriva ko arpan karne laut padey.
+
+⭐ “Maharaj, poori duniya ke vanar aa gaye!”
+
+Jab sab messenger laut aaye,
+to Sugriva ke raj-dwar par
+laakhon-croadh vanar
+samudra ki tarah umad rahe the.
+
+Unhone kaha—
+
+“Hum ne pahaad, dariya, jungle sab khoj liye—
+duniya ka koi bhi vanar baaki nahi.
+Sab aapke aadesh par aa gaye hain.”
+
+Sugriva ka chehra chamak utha.
+Usne saare phal, jadibootiyan aur pushp
+khushi se accept kiye—
+
+Kyunki ab—
+Rama ki sena tayaar thi.
+Sita ki talaash ka asli mahasangram
+shuru hone wala tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.38
     with st.expander("Chapter 4.38 – Sugriva goes to meet Rama"):
-        text1 = """ """
+        text1 = """ 
+⭐ Sugriva Rama Se Milne Chalta Hai
+
+(Hinglish Kahani — Chapter 38)
+
+Sugriva ne jab sab monkeys ke laaye hue phal, phool aur jadibootiyan accept ki,
+to woh bade khush hua.
+Usse lag raha tha—
+Rama ka kaam ab sach-much shuru ho chuka hai.
+
+Jab sab vanar apna kaam karke chale gaye,
+tab Lakshmana ne namrata se kaha—
+
+“Mitra, ab Kishkindha se nikalne ka samay aa gaya hai.”
+
+Sugriva ne turant kaha—
+
+“Theek hai Lakshmana, chalo. Main poori tarah tumhare adhesh me hoon.”
+
+Usne Tara aur sab mahilaon ko wapas bhej diya
+aur zor se apne senapatiyon ko bulaya—"""
 
         create_image_text_layout("attached_assets/chapter4/4.38.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+“Idhar aao!”
+
+Jitne bhi vanar raj-mahal ke andar the,
+sab daud kar aa gaye, haath jod kar.
+
+Sugriva ne kaha—
+
+“Jaldi jao, ek shandar palki lao!”
+
+Vanar bijli ki tarah bhaage
+aur thodi der me ek sunahari palki,
+prabha se chamakti hui, le aaye.
+
+Sugriva ne Lakshmana se kaha—
+
+“Saumitri, pehle aap palki par baithiye.”
+
+Lakshmana bete ho gaye.
+Phir Sugriva bhi baith gaya.
+
+Vanaron ne palki utha li—
+upar safed chhatra tha,
+aur yak-ke-poonchh ke pankhe hil rahe the.
+Shankh aur nagade baj rahe the,
+aur Sugriva poore rajsi andaaz me
+Rama se milne chala.
+
+⭐ Rama apne mitra ko aate dekh kar khush ho gaya
+
+Jab vanaron ki badee sena keechindha se bahar nikli
+to woh ek kamal se bhare sarovar jaisi lag rahi thi.
+
+Rama ne Sugriva ko dekhkar muskura diya.
+Sugriva palki se utar kar
+Rama ke charanon me gir gaya.
+
+Rama ne use utha kar gale laga liya—
+dosti ki garamjoshi se bhara ek aalingan.
+
+Phir Rama ne pyaar se kaha—
+
+⭐ Rama ka updesh
+
+“Sugriva, sachcha raja woh hota hai
+jo apna samay theek se baant kar chalata ho—
+kartavya, sukh aur dharma ke beech.
+Jo in sab ko bhool jata hai,
+woh us aadmi jaisa hota hai
+jo ped ki choti par so jaye
+aur neeche girne par hi jaage.”
+
+“Ab kaam karne ka waqt aa chuka hai.
+Apne mantriyon se salah karo,
+O Vanar-Raj!”
+
+⭐ Sugriva ka vinamr jawab
+
+Sugriva ne haath jod kar kaha—
+
+“Rama, mere paas kuch bhi nahi tha—
+na rajya, na samman, na parivaar.
+Aapki kripa se sab wapas aaya.
+
+Aise upkaar ka badla kaun chuka sakta hai?
+Main kabhi bhi nakara nahi ho sakta.
+
+Mere duta chaaro dishaon me gaye hain.
+Sankhya me hazaaron, laakhon, croreon—
+vanar, bhalu, kapis—
+sab aa rahe hain.
+
+Yeh sab veer,
+jo devtaon aur gandharvon ke vansh se janme hain,
+jo ichha se roop badal sakte hain,
+Ravana ke viruddh aapka saath dene ke liye
+tezi se aa rahe hain.
+
+Jab yeh sab sena ikatthi ho jayegi,
+hum sab milkar Ravana ko hara denge
+aur Sita ko wapas laayege.”
+
+Rama ne Sugriva ki taiyaari dekhkar
+neele kamal jaisa khil utha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.39
     with st.expander("Chapter 4.39 – Sugriva’s huge monkey forces arrive"):
-        text1 = """ """
+        text1 = """ 
+⭐ Sugriva ki Sena Rama ke Paas Pahunchti Hai
+
+(Hinglish Kahani — Chapter 39)
+
+Sugriva haath jod kar Rama ke saamne khada tha.
+Rama ne pyaar se usse gale laga kar kaha—
+
+“Sugriva, tumhare jaise nishtha-waan mitra ka pavitra charitra dekhkar mujhe bilkul haarani nahi hoti.
+Jaise Indra barsaat karta hai,
+jaise Surya andhera mita deta hai,
+waise hi tum apne doston ko khushi dete ho.”
+
+Rama muskuraya aur bola—
+
+“Tum mere saath ho, Sugriva.
+Ab main apne sabhi dushmanon ko hara sakta hoon.
+Ravana ne Sita ko chura kar apni hi barbaadi bulaayi hai.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.39.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Achanak Aasmaan Andhera Ho Gaya…
+
+Rama ke shabdon ke turant baad,
+aasmaan me ek ajeeb sa andhera chhaa gaya.
+Dhool hawa me ghoomne lagi,
+dharti hilne lagi—
+jaise pahaad, jungles sab kamp rahe hon.
+
+Aur tab…
+poori dharti monkeys se bhar gayi!
+
+Unki sankhya itni zyada thi
+ki lagta tha jaise pahaadon ki fasal chal padi ho.
+Vanar sena ek second me
+aasmaan, samundar aur pahaadon se nikal kar
+Sugriva ke charon taraf ikatthi ho gayi.
+
+⭐ Har Taraf se Nayak aa Rahe The!
+🌄 Shatavali ki sena
+
+Surya jaise laal,
+chand jaise safed,
+kamal ke dhaagon jaise peele vanar—
+hazaaron ki sankhya me Shatavali ke saath aaye.
+
+🏔️ Tara ke pita
+
+Sunehre pahaad jaise bade aur tej.
+Hazaaron koti vanar lekar aaye.
+
+🌸 Ruma ke pita
+
+Udit Surya jaise chamakte hue,
+woh bhi hazaaron koti vanar sang laaye.
+
+🐾 Hanuman ke pita Kesharin
+
+Tez aur veer monkeys ke sath.
+
+🐻 Dhumra – bhaalu senapati
+
+Do hazaar bhaaluon ki gajab sena.
+
+🐒 Nila
+
+Kaajal jaise kaale,
+10 koti monkeys ke maalik.
+
+🌙 Gavaya
+
+Sunehre pahaad jaise tej.
+5 kotis ke saath.
+
+🦁 Mainda aur Dvivida – Ashwini Kumaron ke putra
+
+Ek hazaar million vanaron ka netritva!
+
+🐘 Gaja
+
+3 kotis ki sena ke saath.
+
+🐻 Jambavan – Reechhon ka raja
+
+10 kotis ke maha-veer bhalu.
+
+🐒 Angada – Bali ka putra
+
+Anant sankhya me sena—
+jaise ant na ho, aakhri ginti hi na mile!
+
+⭐ Hanuman
+
+Apne hazaaron vanar-veeron ke saath
+Rama ke charanon me jaakar khade ho gaye.
+
+Aur phir—
+Sharabha, Kumuda, Vahni, Rambha, Durmukha…
+aise hazaaron neta apni-apni senaon ko lekar aaye
+jinhe gin paana namumkin tha!
+
+Poora jagat
+pahaad, nadi, jangal—
+sab monkeys se bhar gaya.
+
+Jaise badalon ki bheed Surya ko gher leti hai,
+waise hi ye Bhutan, Vanar aur Bhalu Sugriva ko gher kar
+garaj garaj kar Rama ka swagat kar rahe the.
+
+⭐ Sugriva ka Adesh
+
+Sab neta aage badhe,
+haath jod kar Raja Sugriva ke paas aaye.
+
+Sugriva ne Rama ki or dekh kar kaha—
+
+“Prabhu, sab vanar aa gaye hain.
+Duniya bhar ki sena aapke aadesh ki prateeksha kar rahi hai.”
+
+Phir Sugriva apne senapatiyon se bola—
+
+“O Vanar-Veeron!
+Apni-apni sena ko pahaadon, nadion aur jangal ke paas theek se tainaat karo.
+Aur apni sena ki theek-theek ginti bhi pata karo.”
+
+Aur is tarah
+Rama ki sabse vishal, adbhut aur tej se bhari sena
+Ravana ke khilaaf yuddh ke liye tayyar ho gayi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.40
     with st.expander("Chapter 4.40 – Sugriva sends monkeys to search for Sita in the East"):
-        text1 = """ """
+        text1 = """ 
+⭐ Sugriva Apne Vanaron Ko Poorab (East) Mein Bhejata Hai
+
+(Hinglish Kahani — Chapter 40)
+
+Rama ke saamne khade Sugriva ne kaha—
+
+“Prabhu, meri poori vanar sena taiyaar hai.
+Ye sab Mahendra jaise shaktishaali, tej aur buddhimaan hain.
+Aapka ek ishara mile, toh ye duniya ke kisi kone tak pahunch sakte hain.”
+
+Rama ne use gale lagaya aur pyaar se bola—
+
+“Mere priya mitra, pehle ye pata karna zaroori hai ki Sita maa zinda hain ya nahi…
+Aur Ravana kis jagah chhupa hua hai.
+Tum hi is yatra ke neta ho.
+Tum waqt aur paristhiti ko sabse achchi tarah samajhte ho.”
+
+Sugriva ne haath jod kar kaha—
+
+“Aadesh dijiye, Prabhu.”
+
+Phir usne apne praabal senapati Vinata ko bulaya—
+jo pahaad jaise bade the, aur jinki garaj bijli ki tarah lagti thi."""
 
         create_image_text_layout("attached_assets/chapter4/4.40.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Vanaron Ka Poorab Ki Taraf Safar
+
+Sugriva ne Vinata se kaha—
+
+**“Vinata! Tum hazaaron vanaron ko saath lekar Poorab ki aur jaao…
+
+Sita aur Ravana ko dhoondo.”**
+
+Fir Sugriva ne unhe ek ek jagah ka naam bataya, jahan tak unhe dhoondhna tha.
+
+⭐ 🗺️ Yeh Sab Jagah Dhoondhni Hain:
+🌊 Bade Nadi aur Pahaad
+
+Bhagirathi
+
+Sarayu
+
+Kaushiki
+
+Kalindi
+
+Yamuna
+
+Sarasvati
+
+Sindhu
+
+Shona (laal paani wali nadi)
+
+Mahi aur Kalamahi
+
+🏞️ Desh aur Shehar
+
+Brahmamala
+
+Videha
+
+Malavana
+
+Kashi-Koshala
+
+Magadh
+
+Pundra
+
+Anga
+
+Ye sab van-sampann aur kai khoj se bhare hue desh the.
+
+⭐ 🐾 Ajeeb Aur Anokhe Logon Ka Desh
+
+Sugriva ne kaha—
+
+“Vinata, tum un logon ke beech bhi dhoondhna…
+Jinke kaan zameen tak latakte hain,
+jo ek pair par bhaagte hain,
+jo kala rang aur bhayanak roop rakhte hain,
+aur kuch jo manushya-maans khaate hain.”
+
+Fir bola—
+
+“Kirata jaisi jaatein bhi milengi—
+sunehre rang wale, lambe baal baandhne wale,
+macheli khaane wale shikari.
+Unke beech bhi Sita ko dhoondhna.”
+
+⭐ 🌏 Doop, Tapu Aur Gehri Gufaayein
+
+Sugriva ne unhe anek islands (tapus) ki or jaane ko kaha—
+
+Suvama Tapu (sona)
+
+Rupayaka Tapu (chaandi)
+
+Yava ka Tapu
+
+Tez laharon wale samudron ka kinaara
+
+Bhayanak praantar jahan Asura rehte hain
+
+Woh Asura jo upar se guzarti cheez ki parchai tak pakad lete hain!
+
+⭐ Garuda ka Tej Mahal Jaise Ghar
+
+Fir Sugriva ne unhe ek vishesh jagah ke baare mein bataya—
+
+“Aage tumhe ek vishal Shaalmali ka vriksh milega.
+Uske paas Vishwakarma ka banaya hua
+Garuda ka chamakta mahal hoga—parvat jaisa uncha.”
+
+Wahan ek dushman jaati bhi rehti thi—Mandeha Rakshas,
+jo roz suraj ugte hi suraj ki garmahat se gir jaate the,
+phir dubara pahado par latak jaate the.
+
+⭐ Samudron Ke Paar – Doodh Jaisa Samundar
+
+Sugriva ne kaha—
+
+“Phir tum Doodh-sa Kshiroda Samudra aayega, jisme Rishabha Pahaad hai.
+Wahan Sone jaise kamal, Chaandi jaisi pankhudiyaan milengi.
+Yaksha, Kinner, Apsara—sab wahan khelte mil sakte hain.”
+
+Uske baad bhi unhe anek samudron aur pahaadon ka naam bataya—
+Jahan tak ek mahina mein dhoondhna sambhav ho.
+
+⭐ Udaya Parvat – Suraj Ugaane Ki Jagah
+
+Ant mein Sugriva ne kaha—
+
+“Poorab ka antim seema Udaya Parvat hai—
+jahaan se Suraj ugta hai.
+Uske aage andhera hi andhera hai.
+Wahan tak hi tum jaa sakte ho.”
+
+⭐ ⏳ Kash Pehle Lautna Zaroori Hai
+
+Sugriva ne sakht chetavani di—
+
+“Ek poora mahina tumhare paas hai.
+Udaya Parvat tak dhoondho,
+par ek mahine se zyada mat lagana.
+Wapas nahi aaye toh dand—mrityu hogi.”
+
+Phir pyaar se bola—
+
+“Maithili ko paakar mere paas badhiya samachar lekar aana.
+Mahendra parvat aur uske aas-paas ka poora kshetra dhyaan se dhoondhna.”
+
+Aur is tarah—
+Vinata aur hazaaron vanar Poorab ki or udd chale,
+Rama ki priya Sita mata ki talaash mein."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
