@@ -5222,51 +5222,717 @@ Rama ki priya Sita mata ki talaash mein."""
 
     # Chapter 4.41
     with st.expander("Chapter 4.41 – Sugriva sends another team to search in the South"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 41 – Dakshin Ki Ore Talash
+
+(Hinglish Retelling)
+
+Sugriva ne jab apni pehli badi sena ko poorab ki taraf bhej diya,
+to ab usne doosri shaktishaali sena ko dakshin disha mein bhejna shuru kiya.
+
+Is baar sena ka neta Angad tha—Bahut veer, bahut hoshiyaar.
+
+Uske saath chale:
+
+Hanuman, tej, samajhdaar, diler;
+
+Nila, Agni ka putra;
+
+Jambavan, buddhi aur shakti ka khazana;
+
+Suhotra, Sharari, Sharagulma, Gaja, Gavaksha,
+Gavaya, Sushena, Vrishabha;
+
+Mainda, Dvivida, Gandhamadana;
+
+Ulkamukha aur Ananga,
+aur kai aur mahan vanar-nayak.
+
+Sab taiyaar the — Sita Maa ki talash ke liye."""
 
         create_image_text_layout("attached_assets/chapter4/4.41.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Sugriva Ka Map-Samjhaana
+
+Sugriva ne unhe dhyaan se kaha:
+
+“Pehle tumhe Vindhya parvat dikhai dega—
+hazaaron chotiyon wala, ped-paudhon se bhara hua.”
+
+Woh aage bole:
+
+Narmada ka saaf nadi-jal, jahan bade-bade saanp rehte hain.
+
+Godavari, jiska kaala-naal ghaas se bharpoor kinara.
+
+Krishnaveni, khoobsurat aur shant.
+
+Phir:
+
+Mekhala aur Utkal ki bhoomi,
+
+Dasharna nagri,
+
+Avanti, Vidarbha, Nishtika,
+
+Mahishaka,
+
+Matsya, Kalinga, Kaushika —
+sab jagah Sita ji ko dhoondhna.
+
+Aur phir:
+
+Dandakaranya ka gahan jungle, pahaad, nadiyan, aur guhaayein.
+
+⭐ Dakshin Ki Gehraaiyon Mein…
+
+Sugriva ne unhe aage ke raaste bataye:
+
+Andhra, Paundra, Chola, Pandya, Kerala —
+har jagah khoj karna.
+
+Phir aata hai:
+
+Ayomukha Parvat – lohe jaise chamakdar pattharon se bhara,
+sundar sandalwood ke jungle ke saath.
+
+Wahan se aage:
+
+Kaveri nadi, jahan Apsarayein khelti hain.
+
+Malaya Parvat jahan Rishi Agastya rehte hain.
+Unki ijazat se hi tum Tamraparni nadi ko paar kar paoge.
+
+Phir Sugriva ne unhe ek sundar drishya bataya:
+
+“Tamraparni ki beech-beech mein jo chhote-tatte islands hain,
+wahan sandalwood ke forests hain…
+jaise koi naveli dulhan apne var ki taraf ja rahi ho.”
+
+⭐ Samudra aur Pariyojanayein
+
+Sugriva ne kaha:
+
+“Pandya rajya ke motiyon se sajjey hue sone ke dwar dekhoge.
+Phir samudra ke kinare pohonch kar yeh dekhna hoga
+ki tum samudra paar kar sakte ho ya nahi.”
+
+Samudra ke beech:
+
+Mahendra Parvat — poora sunehra,
+devon aur Rishiyon ka ghar,
+jahan Indra har amavas ko aata hai.
+
+Uske paar:
+
+“Ek lambi si 400-mile wali island hai—
+jahaan Ravana rehta hai.
+Vahin Sita ho sakti hain.
+Bahut dhyaan se khojna.”
+
+Samudra mein ek raaz bhi tha:
+
+Angaraka Rakshasi –
+jo upar uddne walon ki parchai pakad leti hai!
+
+⭐ Aage Ki Duniya: Jahan Khauf Bhi Hai, Roop Bhi
+
+Sugriva ne aur aage bataya:
+
+Pushpitaka Parvat – sooraj jaise chamakdar.
+
+Uske baad Suryavan – mushkil pahaad.
+
+Phir Vaidyuta Parvat – hamesha hare pedon se bhara,
+saalon tak phal deta hua.
+
+Aage:
+
+Kunjara Parvat – jahan Vishvakarma ne
+Rishi Agastya ke liye ek sundar,
+sunehra, uncha mahal banaya.
+
+Aur phir:
+
+Bhogavati – saapon ki rajdhani,
+jahan Vasuki Raja rehta hai.
+Bahut khatarnak, par zaroori khoj.
+
+Aur aage:
+
+Rishabha Parvat,
+
+aur ek saatvik sandalwood ka jungle
+jahan Rohita Gandharva aur uske paanch tej-saathis
+hifazat rakhte hain —
+yeh jungle enter nahi karna.
+
+Aur sabse aakhir:
+
+“Wahan Rishiyon ka aashram hai,
+phir Pitron ka pranta —
+jahan jeevit log kabhi nahi jaate.”
+
+⭐ Mission Ki Shart
+
+Sugriva ne un sab ko siddhe shabdon mein kaha:
+
+“Ek mahine ke andar
+jisne bhi ‘Sita mil gayi!’ bol diya,
+woh mera sabse pyaara dost hoga.
+Uske saare dukh door kar doonga.
+Chahe usmein kitni bhi kamiyaan kyon na ho,
+woh mera apna ban jayega.”
+
+Aur ant mein kaha:
+
+“Tum sab bahadur ho.
+Tumhari shakti apar hai.
+Ab jao —
+aur apni veerta sabit karo.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.42
     with st.expander("Chapter 4.42 – More monkeys are sent to the West"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 42 – Vanaron Ko Pashchim Ki Ore Bheja Gaya
+
+(Hinglish Retelling)
+
+Dakshin ki sena ko bhejne ke baad,
+ab Sugriva ne pashchim disha ke liye ek aur bada mission shuru kiya.
+
+Is baar unhone bulaaya:
+
+Sushena, unka sasur, bahut buddhi aur shakti wale;
+
+Marica aur uske veer putra;
+
+Archismat aur Archirmalayas—
+sab hi mahaan vanar-nayak.
+
+Sugriva ne kaha:
+
+“Aap sab milkar 2 lakh vanaron ko le jao.
+Sita Mata ko dhoondhna hai—
+jahan-jahan zarurat pade.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.42.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Pashchim Ka Lamba Safar
+
+Sugriva ne samjhana shuru kiya:
+
+“Saurashtra, Bahlikas, Chandrachitra—
+sab shetron ko achchhe se dekhna.
+Jungle, ped, nadiyan, sab jagah khojna.”
+
+Vanaron ko kaha gaya:
+
+Punnaga pedon wale ghane van,
+
+Bakula aur Uddalaka se bhare jungle,
+
+Ketaka ke jhund,
+
+aur thandi hawaaon wali paschimi nadian.
+
+Sabhi shetron ko dhoondhna tha.
+
+Phir:
+
+“Jahan jahan tapasviyon ke ashram hain,
+pahadi jharne hain, kathin ghatiyaan hain—
+wahan bhi jao.
+Kabhi kabhi raaste registan jaise sukhhe honge.”
+
+Aur jab aur aage jaoge:
+
+“Tumhe samudra dikhega—
+jisme bade-bade whales aur crocodiles rehte hain.”
+
+⭐ Samudra ke Kinare Aur Rahasya-Jagahen
+
+Sugriva ne kaha:
+
+Tamala aur coconuts se bhare bade-bade van,
+
+Murachipattana,
+
+Jatapura, Avanti, Angalapa,
+
+aur Alakshita ka van.
+
+Ye sab jagah khojni thi Sita ji ke liye.
+
+Phir:
+
+“Jahan Sindhu nadi samudra se milti hai,
+wahan Somagiri Parvat hai—
+sau chotiyon wala.”
+
+Wahan rehte:
+
+Sher jaise Sinhas,
+jo whales aur elephants ko utha le jaate hain!
+
+Sugriva ne kaha:
+
+“Wahan jaakar har ek choti aur ghaati ko khojna.”
+
+⭐ Samudra Ke Beech Ke Chamatkari Parvat
+
+Sugriva ne bataya:
+
+1. Pariyatra Parvat
+
+Pure sunehre chamak wala,
+
+beeson yojan tak vishal,
+
+jahan Gandharva rehte hain—
+bohot shaktishaali, kabhi kabhi shaitani bhi.
+
+“Unke khaas fal mat khana,
+par Sita ko dhoondhna zaroor!”
+
+2. Vajra Parvat
+
+Emerald jaise hara,
+
+heere ki tarah chamakdar.
+
+Sau yojan ka pahaad,
+
+jismein gehri-gehri guhaayein.
+
+3. Charavat Parvat
+
+Jahan Vishvakarma ne
+Sudarshan Chakra ka roop banaya tha!
+
+Boht sundar gufaayein aur jharne yahan hain.
+
+Sita ko wahan bhi khojna.
+
+⭐ Aage Aur Bhayanak-Sundar Duniya
+Varaha Parvat
+
+64 yojan ka sunehra parvat.
+
+Yahan hai Pragjyotisha,
+jahaan rakshas Naraka rehta hai.
+
+Sarvasauvarna Parvat
+
+Chaaron taraf sunehre jharne aur ped.
+
+Sher, hathi, jangli suar, sab jor se garajte honge.
+
+Megha Parvat
+
+Jahan Devtaon ne Indra ka rajyabhishek kiya tha.
+
+Uske baad:
+
+60,000 sunehre pahadon ki shreni!
+
+Poore aasman ko roshan karte hue.
+
+Aur beech mein:
+
+Meru Parvat
+
+Sugriva ne kaha:
+
+“Ye sabse mahan parvat hai.
+Surya Dev ne isse ashirvaad diya tha
+ki yahan ke parvat aur devta
+hamesha sunehre chamkenge.”
+
+Wahan Varuna ka ek bada sunehra mahal bhi hai.
+
+⭐ Andheri Seema: Aage Mat Jaana
+
+Meru ke aage:
+
+Ek bada sunehra Tala ped,
+
+Aur phir Astachala Parvat —
+jahan Surya ast hota hai.
+
+Usse aage:
+
+“Andhera hi andhera hai.
+Wahan koi nahi jaata.
+Wahan se lautna mushkil hai.”
+
+Sugriva ne sabko chetavani di.
+
+⭐ Antim Nirdesh
+
+Sugriva ne pyaar aur kathorata dono ke saath kaha:
+
+“Pashchim mein jitna maine bataya hai,
+utna hi khojna.
+Ek mahine ke andar wapas aa jaana.
+Jo der karega… woh mar jayega.”
+
+Aur aakhri baat:
+
+“Sushena tumhare neta honge.
+Unki baat sunna.
+Woh buddhi, shakti, sab mein sabse aage hain.”
+
+Vanar sab Jhukkar bole:
+
+“Aapka aadesh sarakhon par!”
+
+Aur fir woh sab Varuna Dev ke disha ki taraf
+vega se nikal pade."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.43
     with st.expander("Chapter 4.43 – A group is sent to search in the North"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 43 – Vanaron Ko Uttar Disha Ki Ore Bheja Gaya
+
+(Hinglish Retelling)
+
+Sugriva ne jab pashchim ki sena ko bhej diya,
+to ab unhone uttar disha ke liye taiyari shuru ki.
+
+Unhone Shatavali, ek bahadur aur buddhimaan vanar, ko bulaya.
+
+Sugriva ne kaha:
+
+“Shatavali, tum 1 lakh vanaron ke saath
+Himalaya ki taraf jao.
+Har pahad, har ghati, har jungle mein
+Sita Mata ko dhoondhna.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.43.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Dayitva aur Krtagyata
+
+Sugriva ne sab ko yaad dilaya:
+
+“Rama ne humare liye bahut bada upkaar kiya hai.
+Agar hum unki sahayata karein,
+to hamari zindagi safal ban jayegi.
+Jo humein bhala chahte hain,
+unhe is kaam mein poora man lagana hoga.”
+
+Vanaron ne Rama ke prati apna vachan pakka kiya
+aur mission shuru hua.
+
+⭐ Uttari Deshon Ka Safar
+
+Sugriva ne kaha:
+
+“Mleccha, Pulinda, Shurasena, Bharata, Kuru,
+Madra, Kamboja, Yavana—
+in sab deshon mein khojna.”
+
+Jahan shehre the, wahan khojna.
+Jahan pahad the, wahan khojna.
+Har nadi, har jungle mein khojna.
+
+Phir:
+
+Himavat ke gahre van
+
+Lodhra aur Padmaka ke ped
+
+Devadaru ka jungle
+
+Saare gupt raste aur gufaayein
+
+“Ravana aur Sita ko wahan dhoondhna.”
+
+⭐ Himalaya ke Pavitra Sthaan
+
+Shatavali ki sena ko jaana tha:
+
+Soma Ashram — jahan Devta aur Gandharva aate hain
+
+Kala Parvat — bade plateaus aur gehri ghatiyon wala
+
+Sudarshana aur Devasakha Parvat —
+jahan har tarah ke pakshi rehte hain
+
+Sugriva ne kaha:
+
+“Har gufa, har chattan, har chhota kone-ko khojna.
+Ho sakta hai Sita wahi kahin ho.”
+
+⭐ Vishal Registan Aur Kailash Ki Khoj
+
+Vanaron ko bataya gaya:
+
+400 mile lamba sukha registan,
+jahan na ped, na nadi, na jeev.
+
+Uske baad:
+
+⭐ Kailash Parvat
+
+Chand jaisa safed, sundar aur shant.
+
+Wahan:
+
+Kuvera ka sunehra rajmahal
+
+Phoolon se bhare sarovar
+
+Hans, bagule aur apsarayein
+
+Guhyakaon ki bhoomi
+
+“Is poore shetra ko achchhi tarah khojna.”
+
+⭐ Krauncha Aur Manasa Parvat
+
+Phir vanaron ko jaana tha:
+
+Krauncha Parvat
+
+Boht mushkil gufaayein
+
+Bade rishi jo apna roop badal sakte hain
+
+Manasa Shikhar
+
+Jahan Kaamdev ne tapasya ki
+
+Jahan koi devta ya rakshas bhi aasani se nahi ja sakta
+
+Sugriva:
+
+“Phir bhi, jitna ho sake utna khojna.”
+
+⭐ Mainaka, Siddhaon Ki Bhoomi Aur Vaikhanasa Sarovar
+
+Vanaron ko fir jaana tha:
+
+Mainaka Parvat
+
+Jahan daanav Maya ka mahal hai
+
+Jahan ghodon jaise chehre wali स्त्रियाँ rehti hain
+
+Siddhaon ki jagah
+
+Bahut shuddh tapasviyon ka sthaan
+
+Wahan jaake vinamrta se Sita ke baare mein poochhna
+
+Aur:
+
+Vaikhanasa Sarovar
+
+Sunehri kamal
+
+Hans aur sundar panchhi
+
+Kuvera ka hathi Sarvabhauma yahan ghoomta hai
+
+⭐ Uttara Kuru Aur Aage Ka Andhera
+
+Sugriva ne kaha:
+
+“Uttara Kuru tak jaa sakte ho.
+Par uske aage mat jaana.
+Wahan sada raat hoti hai,
+koi raasta nahi, na hi wapas aana sambhav.”
+
+Aur:
+
+“Somagiri Parvat bhi aayega—
+usse bas dekhna, chadhna nahi.”
+
+⭐ Antim Sandesh
+
+Sugriva ne pyaar aur majbooti saath kaha:
+
+“Maine jitne sthaan ginaaye hain aur jinhe bhool gaya hoon,
+sab jagahon par khojna.
+Tum hawa aur agni jaise shaktishaali ho.
+Sita ko dhoondkar Rama ko sukh do—
+isi mein tum sab ki veerta aur samman hai.”
+
+Phir:
+
+“Jab tum successful ho kar aaoge,
+to main tum sab ko samman, sukh aur aadar dunga.
+Tumhara dushman khatam hoga
+aur tum poori duniya mein izzat paoge.”
+
+Vanar-nayakon ne sir jhukaya.
+Purvaas ki hawa chal rahi thi.
+Aur veer vanar uttar disha ki taraf nikal pade—
+mission poora karne ke liye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.44
     with st.expander("Chapter 4.44 – Rama gives his ring to Hanuman"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 44 – Rama Apna Anguthi Hanuman Ko Dete Hain
+
+(Hinglish Retelling)
+
+Sugriva ko sabse zyada bharosa Hanuman par tha.
+Isliye unhone sabse pehle Hanuman ko apna poora yojana batayi.
+
+Sugriva ne Hanuman se kaha:
+
+“Hanuman, tumhare raste mein
+dharti ho, asmaan ho, samundar ho
+ya dev–danav—
+koi tumhe rok nahi sakta!
+
+Tumhara gyaan, tumhari tezi, tumhari urja—
+sab tumhe kisi bhi jeev se alag banati hai.
+Tum bilkul apne pita, Pawan Dev, ki tarah ho.
+
+Sita Maa ko dhoondh kar lana tumhare hi bas ki baat hai.”
+
+Hanuman chup chaap sunte rahe,
+aur Sugriva ki baaton se unmein aur himmat bhar gayi."""
 
         create_image_text_layout("attached_assets/chapter4/4.44.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Rama ka Vishwas
+
+Rama ne ye sab dekha aur socha:
+
+“Sugriva ko pura vishwas hai Hanuman par…
+aur Hanuman ko bhi apni shakti par bharosa hai.
+Jis ko uska swami parakh chuka ho,
+woh kaam zaroor poora karta hai.”
+
+Rama ke mann mein ek shanti chaa gayi—
+jaise unko pehle hi pata chal gaya ho
+ki ab Sita mil jayengi.
+
+⭐ Rama ki Anguthi – Sita ke liye Nishani
+
+Phir Rama ne apne haath se ek anguthi nikali.
+Uspar Rama ka naam khoda hua tha.
+
+Rama ne Hanuman ke haath mein woh anguthi rakhte hue kaha:
+
+“Hanuman, yeh anguthi Sita Maa ko sabit karegi
+ki tum mere dhoota ho.
+
+Tumhari buddhi, himmat aur anubhav—
+sab tumhari safalta ka sanket de rahe hain.”
+
+Hanuman ne anguthi ko apne maathe se lagakar pranam kiya.
+Unki aankhon mein himmat chamak uthi.
+
+⭐ Yatra ki Shuruaat
+
+Phir Hanuman,
+taaron se ghire chand jaise chamak rahe the—
+apni poori vaanar sena ke saath nikal pade.
+
+Rama ne unhe ruk kar ek baar aur bulaya:
+
+“Hanuman, tum sher ki shakti rakhte ho.
+
+Main poori tarah tum par nirbhar hoon.
+
+Apni poori taakat, buddhi aur saahas se
+Sita Maa ko wapas lekar aao.”
+
+Hanuman ne apne dono haath jod kar pranam kiya
+aur shabdhin nikal pade—
+ek aise kaam ke liye
+jo unke naam ko amar kar dega."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.45
     with st.expander("Chapter 4.45 – The monkey search teams leave"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 45 – Vaanaron ka Maha-Prasthaan
+
+(Hinglish Retelling)
+
+Sugriva ne ek bada sa sabha bulaayi.
+Jitne bhi vanar-senapati the—sabke sab ek saath aa gaye.
+
+Sugriva ne unhe Rama ke kaam ki yaad dilaai aur bola:
+
+“O Vanar Veeron,
+jo disha maine batayi hai,
+usi taraf jao
+aur Sita Maa ko dhoondh kar lao!”
+
+Jaise hi aadesh mila,
+poori vanar sena zameen par tiddi jaisi fail gayi—
+har taraf hil-jul, shor, gajab utsaah!"""
 
         create_image_text_layout("attached_assets/chapter4/4.45.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Chaar Dishaon Mein Chaar Maha-Senayen
+
+🟦 Uttar – Shatavali lightning ki speed se nikal pada,
+jahaan barfili pahaadiyon ka raja, Himalaya, khada hai.
+
+🟧 Poorab – Vinata apne balwaan vanaron ke saath aage badha.
+
+🟥 Dakshin – Tara, Angada aur Pawan-putra Hanuman
+Agastya Muni ki bhoomi ki taraf nikal pade.
+
+🟩 Pashchim – Sushena, sher jaisa shaktishaali vanar,
+Varuna Dev ke rakshit shetra ki ore chal diya.
+
+Sugriva ne charon taraf apni sena bhej kar
+gehri saans li—
+ab yeh yatra sach* mein shuru ho chuki thi.
+
+⭐ Vanaron ka Josh!
+
+Jab vanar nikal pade,
+toh dharti unke kolahal se goonj uthi—
+cheeche, cheekh, josh bhare naray,
+jaise prakriti bhi unki himmat badha rahi ho.
+
+Sab bol rahe the:
+
+“Hum Sita Maa ko wapas layenge!”
+“Hum Ravana ko maar girayenge!”
+
+Kuch apni shakti ka danka baja rahe the:
+
+🐒 “Main akela Ravana ko hara kar Sita Maa ko launga!”
+🐒 “Main jahan bhi ho—paataal ho ya samundar—usse dhoondh nikalunga!”
+🐒 “Main ped ukhaad dunga!”
+🐒 “Main pahaad tod dunga!”
+🐒 “Main samundar ko churn kar daalunga!”
+
+Aur fir shaurya ka mukhya daava:
+
+🐒 “Main ek hi chhalang mein 4 kos paar kar sakta hoon!”
+🐒 “Main 100 kos tak kud sakta hoon!”
+🐒 “Main to us se bhi zyada ud sakta hoon!
+Na zameen mujhe rok sakti hai, na asmaan, na samundar!”
+
+Poora jungle unki garjanon se goonj raha tha.
+Har vanar apne aap ko sabse shaktishaali samajh raha tha—
+aur sabka ek hi sankalp tha:
+
+“Sita Maa ko khoj kar lana hai!”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
