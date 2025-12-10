@@ -5938,51 +5938,567 @@ aur sabka ek hi sankalp tha:
 
     # Chapter 4.46
     with st.expander("Chapter 4.46 – Sugriva tells about his travels around the world"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 46 – Sugriva tells Rama about his Journey around the World
+
+(Hinglish Story Rewrite)
+
+Jab saare vanar-sena ke nayak apne-apne dishaon mein nikal gaye,
+Rama ne pyaar se Sugriva se poochha:
+
+“Sugriva, tumhe dharti ke itne saare kona-kaunsa kaise pata hai? Tum ne sab kuch kaise dekha?”
+
+Sugriva ne Vinamrata se pranam kiya aur bola:"""
 
         create_image_text_layout("attached_assets/chapter4/4.46.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Bali, Dundubhi aur Ek Darawani Gufa
+
+“Prabhu, ek baar Bali ek maha-atikrami asur Dundubhi ka peecha kar raha tha.
+Dundubhi ne mahisa (bhains) ka roop le liya aur Malaya parvat ke paas ek gufa me ghus gaya.
+
+Bali uske peeche gufa ke andar chala gaya.
+
+Main gufa ke darwaze par rukkar pratiksha karta raha…
+Ek din… do din… ek mahina… ek saal!
+
+Par Bali wapas na aaya.
+
+Phir achanak gufa se jhag waala khoon bahar behta dikha.
+Main ghabra gaya!
+Maine socha, ‘Bali toh ab nahi raha…’”
+
+Dukhi Sugriva ne gufa ka muh pahad jitne bade pathar se band kar diya,
+sochte hue —
+“Ab Dundubhi bhi yahin mar jaayega.”
+
+Phir woh dil toot kar Kishkindha laut gaya.
+
+⭐ Prabhutva, Phir Dar, Phir Bhaagna
+
+“Kishkindha jaakar maine rajya sambhala,
+Tara aur Ruma mere saath the,
+sab kushal chalta raha…
+
+Tabhi ek din, Bali wapas aa gaya—
+jeevit aur gussay se dehla dene wala!
+
+Main turant uske charon taraf se bachkar nikalne laga,
+par Bali ne mujhe maar dene ka sankalp kar liya tha.
+
+Main bhaagta gaya, vah peechhe aata gaya.”
+
+⭐ Dharti ka Pradakshina – Poora Vishva ki Yatra
+
+Sugriva aage bola:
+
+“Bali se bachne ke liye main itna dauda,
+itna dauda…
+ki poori duniya dekh daali!
+
+Dharti mujhe lag rahi thi
+jaise aag ka gola ghoom raha ho.”
+
+⭐ Purv (East) ki Yatra
+
+“Main purv ki disha gaya—
+wahan sundar pahaad, gehri gufaayein,
+jheel, nadiyaan aur Udaya parvat jiska sona chamakta hai…
+
+Aur maine dekha Safed Samudra,
+jahan apsaraayein rehti hain.”
+
+⭐ Dakshin (South) ki Yatra
+
+“Phir main dakshin ki taraf bhaaga—
+Vindhya vanon se guzra
+jahaan chandan ke pedon ki khushboo hamesha bashti hai.”
+
+⭐ Pashchim (West) ki Yatra
+
+“Bali phir bhi mere peeche tha—
+main paschim ki taraf mud gaya.”
+
+⭐ Uttar (North) ki Yatra
+
+“Aage chalkar main Astachala parvat pahunch gaya.
+Phir uttar ki taraf bhaaga,
+Himavat, Meru aur Uttar Samudra tak pahunch gaya.”
+
+⭐ Rishyamuka – Ek Surakshit Sthaan
+
+“Ab main poori duniya ghoom chuka tha…
+par Bali se bachne ka ek lauta sthan mila—
+
+Rishyamuka Parvat.
+
+Hanuman ne mujhe bataya:
+
+‘Rajaa, yahin rishi Matanga ka aashram hai.
+Bali ko ek shraap mila hai—
+agar woh yahan aaya, uska sir sau tukdon mein phoot jaayega.’
+
+Isliye Bali kabhi hamaare paas nahi aaya.”
+
+⭐ Ant mein Sugriva ne kaha—
+
+“Is tarah, he Raghava,
+poori prithvi par bhaagte-bhaagte
+maine har disha ko apni aankhon se dekha
+aur aakhirkar yahin sharan lee.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.47
     with st.expander("Chapter 4.47 – The monkeys return from their search"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 47 – Vanaron ka Wapasi Yatra
+
+(Hinglish Story Rewrite)
+
+Vaidehi ko dhundhne ke liye, Sugriva ke saare vanar-nayak
+tej gati se apni–apni dishaon me nikal pade.
+
+Woh jheelon, nadiyon, gaon, shehron,
+aur baarish se ajeeb bane jungleon tak pahunch gaye—
+har woh jagah jahaan Sita mili ho sakti thi.
+
+Din bhar woh vanar simh-hardayi se khoj karte,
+aur raat ko thak kar pedon ke neeche su jaate,
+jahaan hamesha har mausam ke phal lage rehte the."""
 
         create_image_text_layout("attached_assets/chapter4/4.47.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Ek Mahine Ki Khoj… Par Koi Sita Nahi
+
+Ek mahine ki seema Sugriva ne rakhi thi.
+Din pehla jise woh apne ravana-se samay maante the—
+lagataar dhundte rahe… par kuch na mila.
+
+Mahina poora hotey hi,
+thake-haare vanaron ki toliyan
+Prasravana parvat ki ore
+wapas lautne lagi.
+
+⭐ Purv se Vinata Ka Wapasi
+
+Sabse pehle shaktishaali Vinata apni sena ke saath aaya.
+
+Usne kaha—
+
+“Humne poora purv khoj dala…
+par Sita ka koi pata nahi chala.”
+
+⭐ Uttari Disha se Shatabali
+
+Phir maha-vanar Shatabali
+puri uttari disha ko chhanne ke baad
+hath jode khada hua—
+
+“Prabhu, humne pahaad, ghatiyan,
+barfili bhoomi—sab dekh li…
+par Janaki ji ka koi nishan nahi.”
+
+⭐ Pashchim se Sushena
+
+Teesre aaye Sushena,
+lion-like warrior and Tara ke pita.
+
+Unhone bhi pair padte hi pranam kiya
+aur bola:
+
+“He Sugriva, he Raghava,
+humne saare pashchimi parvat,
+gehre van, ghaatiyan,
+samudra-tat tak ki bhoomiyan
+sab-sab baar-baar talashi hain.
+
+Bade-bade janwar mile,
+kuch humne maara,
+kuch hame talaash ke liye dar dar bhatakna pada…
+par Sita mil nahi paayi.”
+
+⭐ Sabki Nazar Ek Hi Vanar Par
+
+Phir Sushena ne muskurate hue,
+par asha bhari awaaz me kaha:
+
+“Prabhu…
+Hanuman milenge.
+Wo hi Vaidehi ka pata lagayega.
+Pavana-putra maha-balvaan hai.
+Aur nishchit roop se woh wahin gaya hai
+jahan Sita ko le jaya gaya tha.”
+
+Rama ne ye shabd sun kar
+andar hi andar santosh ka saans li—
+kyonki unke hriday me bhi
+Hanuman par sabse adhik vishwas tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.48
     with st.expander("Chapter 4.48 – Angada kills an Asura"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 48 – Angada ne Asur ko Maara
+
+(Hinglish Story Rewrite)
+
+Hanuman, Tara aur yuvaraj Angada
+tez hawa ki tarah
+apni dakšin disha ki yatra par nikal pade,
+waisi hi jaise Sugriva ne unhe aadesh diya tha.
+
+Unke saath vanaron ke pramukh senapati bhi the,
+sabhi ek man se Sita ki talaash mein.
+
+Un sab ne Vindhya parvat-mala ke janglon,
+gufāon, nadiyon, jheelon,
+aur gahri ghaatiyon ko chhan maara…
+par Janaki ka koi nishaan nahi."""
 
         create_image_text_layout("attached_assets/chapter4/4.48.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Sunsaan, Kathor Bhoomi
+
+Janglon ke beech woh sirf
+jadon, kand-mool aur kuch berries khakar
+apna jeevan chalate rahe.
+
+Fir unhe ek aisi bhoomi mili
+jahan na pedh the, na phool, na patte,
+na hi janwar ki koi aahat…
+
+Na hiran, na gajraj, na shyen pakshi—
+sab kuch sookh-chuka,
+jaise prakriti par kisi ne abhishaap de diya ho.
+
+Yeh wo hi bhoomi thi
+jise mahān tapasvi Rishi Kandu
+apne putra ki mrityu se shok-grast ho kar
+shraapit kar chuke the.
+
+Unki tapasya ki agni se
+yeh pura jangl bejaan ho gaya tha.
+
+Vanaron ne is bhayanak sthal ko bhi
+koni-koni chhan dala…
+par Sita ya Ravana ka koi pata nahi.
+
+⭐ Ek Daravna Asur saamne!
+
+Fir vanar ek aise van mein ghuse
+jo kaanton aur baelon se bhara hua tha—
+aur tab saamne aya ek bhayankar Asur!
+
+Uchchai khada hua,
+jaise koi jeevit pahaad,
+akhand roop se bhayanak,
+devtaon tak se na darne wala.
+
+Usne garaj kar kaha:
+
+“Tum sab to nishchay hi mar gaye!”
+
+Aur apni muṭṭhiyan kas kar
+vanaron par jhapta.
+
+Saare vanar ek saath ho gaye—
+par sabse aage badhe Angada,
+Bali putra, veerta ka roop.
+
+⭐ Angada ka Ek Pralay-Jaisa Prahar!
+
+Angada ne socha ki shayad
+yeh Ravana hi ho…
+
+To bina ek pal gavaaye
+apni khuli hui haath ki talwar jaise talhī
+us Asur ki chhati par maari—
+
+Ek hi prahar mein
+Asur jhaad ki tarah jhulta hua gira
+aur lahu ugalte-ugalte
+zamin par nishchesth ho gaya.
+
+Vanaron ne vijay ke nara lagaye!
+Angada ki shakti dekh kar sab romanchit ho uthe.
+
+⭐ Khoj jaari… par Dil Bhaari
+
+Us Asur ki guha ko vanaron ne
+chhor-chhor kar talashi li.
+
+Jab kuch na mila,
+woh ek aur andheri guha mein ghuse—
+jahan unki thakan
+jaise haddi tak utar gayi ho.
+
+Bahut der khojne ke baad
+jab wahan bhi Sita ka koi pata na mila,
+toh sabhi vanar veer
+thak kar, udaas ho kar,
+ek akela sa pedh tha,
+uske neeche jaakar
+shaant ho kar baith gaye…
+
+Unke hriday bhar aa rahe the—
+“Kahin hum Maithili ko kabhi dhoond hi na paaye?”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.49
     with st.expander("Chapter 4.49 – The monkeys searching in the South do not find Sita"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 49 – Vanaron ki Vyarth Khoj Dakshin Disha Mein
+
+(Hinglish Story Rewrite)
+
+Angada — prajnāvan, buddhimān aur veerta ka roop —
+apni thaki-hāri vanar sena ke beech khade hue.
+
+Khud bhi thak chuke the, par unki awaaz mein
+ab bhi utsāh ki bijli chamak rahi thi."""
 
         create_image_text_layout("attached_assets/chapter4/4.49.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Angada ka Utsaah Badhane Wala Sandesh
+
+Angada boli:
+
+“Humne har jangal, pahad, nadi, gufa, ghaati aur
+van ke kathin se kathin hisson mein khoj ki…
+par na Janaki mili, na Ravana ka koi nishaan.
+
+Sugriva ne jo ek mahina diya tha—
+uska bada hissa beet chuka hai.
+
+Ab thakan, neend, udaasi—
+sabko dil se nikaal do!
+
+Aao, aaj hi aaj, phir se sab jagah khoj daalein!
+
+Yahi samay hai apna shaurya dikhane ka.
+Safalta hamesha milti hai
+lagan, buddhi aur hausle se.
+
+Aur tum jaante ho—
+Sugriva ka prakop bahut bhayanak hota hai…
+aur Rama ka dukh humse dekha nahi jaata.
+
+Main tumhare hi hit ki baat kar raha hoon.
+Agar tum sahmat ho, to chalo,
+varna koi behtar sujhaav ho to batao.”*
+
+Angada ke shabdon mein
+sachchai aur chinta dono thi.
+
+⭐ Gandhamadana ki Sahmati
+
+Sabhi vanar thake hue the—
+kuchh to pyaas se behaal…
+
+Par tahzeeb se, dridh awaaz mein
+Gandhamadana bole:
+
+“Angada bilkul sahi keh raha hai!
+Aao, hum phir se pahadon, guhon,
+jharnon, pathron aur junglon ko
+Sugriva ke aadesh ke mutabik chhan maaren!”
+
+Unke shabdon se
+vanaron mein nayi jaan aa gayi.
+
+⭐ Phir Shuru Hui Khoj Dakshin Ki
+
+Saare vanar ek saath
+utsāh aur veerta se bhar kar
+Vindhya ki ghaatiyon aur janglon mein daud pade.
+
+Unhone pahadon ko chadha,
+jo sharad ritu ke baadal ki tarah
+chandi si chamak rahe the.
+
+Inke shikhar, ghaatiyan,
+Saptaparna ke van, Lodhra ke janglat—
+koi jagah chhodi nahi…
+
+Par phir bhi Sita ka koi pata nahi.
+
+Pahadon ke choti tak chadhkar
+vanar veeron ke pair laraz rahe the—
+thakan hadh se zyada ho chuki thi.
+
+Neeche utarte waqt
+sab ek pedh ke neeche thodi der
+thahar gaye,
+jahaan thandi hawa se
+unke shareer ko aaraam mila.
+
+Jab thodi taqat laut aayi,
+tab Angada, Hanuman aur anya pramukh vanar
+phir se uthkar bole:
+
+“Chalo! Dakshin ki khoj phir se shuru karte hain!”
+
+Aur is prakar
+Sita ki talaash mein,
+wo dusri baar Vindhya parvat-mala ki or
+naye hausle ke saath badhe."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.50
     with st.expander("Chapter 4.50 – Hanuman and friends enter the dark Rikshabilā cave"):
-        text1 = """ """
+        text1 = """ 
+⭐ Chapter 50 – Hanuman aur Vanaron ka Rikshabila Gufā Mein Pravesh
+
+(Hinglish Story Rewrite)
+
+Hanuman — Pavanputra, parvat-samaan, dridh-sankalp —
+Tara aur Angada ke saath phir ek baar
+Vindhya parvat ke gehre janglon aur
+darārun ghaatiyon ki khoj mein nikal pade.
+
+Un vanaron ne un guhon ko bhi chhān daala
+jahan sher aur bāgh ki dahāḍ ghoonjti thi,
+aur un teevra pravāhon ko bhi jahan
+kadam rakhna mushkil ho jaata tha.
+
+Khojte-Khojte ve dakshin-pashchim ki unchaiyon tak aa pahunche,
+jahaan kuch der ke arāam ne unhe samay ka ehsaas hi na hone diya."""
 
         create_image_text_layout("attached_assets/chapter4/4.50.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+⭐ Kabhi-Na-Khattam Hone Wale Jungle
+
+Vindhya ka woh hissa—
+ghane van, gehri ghaatiyan,
+aur andheri guhayen—
+jaise antheen paheli ho.
+
+Par Hanuman ne, apni tej buddhí aur
+anant urja se, sab kuchh khoj daala.
+
+Thodi-thodi door par the:
+Gaja, Gavaksha, Gavaya, Sharabha, Gandhamadana,
+Mainda, Dvivida, Jambavan, Angada, Tara,
+aur swayam Hanuman.
+
+Sab ek hi lakshya lekar—
+Sita ki talaash mein—dakshin ki aur barhte gaye.
+
+⭐ Rahasyamay Gufā ka Darshan
+
+Tabhi unhone dekha—
+ped-paudhon aur bel-latas se ghiri
+ek vishal, bhayanak, rahasyamay gufa: Rikshabila.
+
+Uska dwar kisi danav ne jaise raksha ki ho,
+par andar se aa rahe the:
+bagule, hans, jal-pakshi—
+sabke pankhon se tapakta paani,
+aur un par kamal ke parāg ki chamak.
+
+Pyaas aur bhook se pareśān vanaron ke liye
+ye drishya ek asha ki kiran bana.
+
+Hanuman bole:
+
+“Dekho! Yahan se jo pakshi nikal rahe hain,
+zaroor andar paani hoga.
+
+Hume itna dhoondhte ek mahina ho gaya—
+thak gaye hain hum sab.
+
+Aao, iss gufa mein chalte hain.
+Yahan jeevan ke chinhn nazar aa rahe hain.”
+
+Vanar khushi se bhar uthe.
+Sab ne ek saath gufa ka dwar paar kiya,
+jahan na suraj ka prakash tha, na chand ki roshni.
+
+⭐ Andhere ka Samandar
+
+Andhera itna gehra
+ki ret ka kan, hawa ki resham—
+sab bas ek saaya-sa lag raha tha.
+
+Gufa ke andar sher ki dahad,
+hiranon ki halchal,
+pakshiyon ki awaaz goonj rahi thi.
+Aur un veer vanaron ka
+dil pehli baar halka sa kaamp utha.
+
+Par unki aankhen—
+vanar-jaati ki var-datta tej drishti—
+andhere ko chhedti chali gayi.
+
+Chaar kos andar,
+anakher, unhe laga jaise sharir saara
+thakawat se toot jaye.
+Paani ki talaash mein
+wo neeche-hi-neeche utarte gaye.
+
+Tab hi—
+ek prakash ka bindu
+andhere mein chamka.
+
+⭐ Ek Anokhi, Adbhut Jagah
+
+Wahan pahunch kar vanar stambhit reh gaye.
+
+Ped—jaise sone ke bane,
+phool—jaise aag ke angaare,
+tan—jaise emerald,
+chhaal—jaise jalti roshni.
+
+Kamal ke talāon mein
+sona jaise machhliyan,
+vishal neele kamal,
+shant jal,
+aur har taraf prakash ki laali.
+
+Mahal—
+sone aur chandi ke,
+khidkiyon par motiyon ki jhallar.
+Farsh—heere-moti se jada hua.
+Aalas ki jagah nahi—
+ye to Indra ka swarg lagta tha!
+
+Khan-peen, phal-mool,
+madhur peene yogya ras,
+bahumulya kapde,
+sone-chandi ke bartan,
+aur sugandhit lakdi ke dher—
+sab yahan bhare pade the.
+
+⭐ Ek Rahasyamay Vrudhha Tapasvini
+
+Par sabse adbhut drishya to tab dikha—
+ek vrudhha tapasvini,
+mriga-charma aur valkala pehne,
+bahut hi prakashmay aur gambhir.
+
+Vanar thithak gaye.
+Hanuman aage badhe,
+sir jhukaakar bole:
+
+“Hey Mata, aap kaun hain?
+Yeh gufa kiski hai?
+
+Yeh divya van, yeh dhan-daulat,
+yeh prabha—
+sabka swami kaun hai?
+
+Kripya batayiye,
+hum pathik hain,
+Sita ki talaash mein bhatak rahe hain.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
