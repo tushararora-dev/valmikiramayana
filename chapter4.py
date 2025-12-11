@@ -6504,51 +6504,407 @@ Sita ki talaash mein bhatak rahe hain.”"""
 
     # Chapter 4.51
     with st.expander("Chapter 4.51 – They hear the story of an old ascetic"):
-        text1 = """ """
+        text1 = """ 
+Chapter 51: 
+🌟 Gufa Mein Ek Rahasyamayi Tapasvini
+
+Hanuman aur saare vanar bahut thake hue the.
+Bhookh, pyaas aur andhera unhe bilkul thaka chuka tha.
+
+Jab woh gufa ke andar ghus gaye,
+to unki aankhen khulī ki khulī reh gayin—
+
+sunehre ped
+
+hira-moti se sajhe mahal
+
+sona-chandi ke bartan
+
+sunehri machhliyaan aur kamal
+
+khushboo se bhare phool
+
+Sab kuch itna chamak raha tha jaise suraj ugne wala ho."""
 
         create_image_text_layout("attached_assets/chapter4/4.51.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+Hanuman hairaan hokar bole:
+
+“Mata, yeh sab kis ka hai?
+Yeh sunehre ped, yeh mithai jaisi roots aur fruits…
+Yeh sona-chandi ke mahal…
+Yeh sab kiska kamaal hai?
+Aapka, ya kisi aur ka?”
+
+🌺 Tapasvini Swayamprabha Ka Jawaab
+
+Woh tapasvini—bark ke kapde aur mriga-charm pehne—
+pyaar se muskurayi aur boli:
+
+“Hey Vanar-shreshtha, suno.”
+
+Unhone bataya:
+
+Maya naam ka ek maha-jaadugar yeh sab banaya tha.
+
+Maya pehle Daityon ka maha-architect tha.
+
+Usne hazaar saal tapasya ki, aur Brahma ji se vardaan mila.
+
+Is vardaan se usne yeh poora sone ka van aur mahal bana dala.
+
+Phir ek din Maya ko apsara Hema se prem ho gaya.
+Lekin Indra ko yeh pasand nahi aaya,
+aur vajra se Maya ko maar diya.
+
+Brahma ji ne phir yeh poora sone ka van,
+aur sundar mahal,
+Hema ko gift kar diya.
+
+Tapasvini ne kaha:
+
+“Mera naam Swayamprabha hai.
+Main Merusavarni ki beti hoon.
+Hema meri priya sakhī hai.
+Uski kripa se main is sone ke van ki raksha karti hoon.”
+
+🐒 Vanaron Se Sawal
+
+Phir Swayamprabha pyaar se puchti hai:
+
+“Ab tum batao, kis kaam se yahan aaye ho?
+Itne kathin jangalon me kyun bhatak rahe ho?
+Pehle kuch phal kha lo, paani pee lo…
+phir mujhe sab sach-sach batao.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.52
     with st.expander("Chapter 4.52 – Swayamprabha frees the monkeys from the cave"):
-        text1 = """ """
+        text1 = """ 
+Chapter 52: 🌟 Swayamprabha Ne Vanaron Ki Madad Ki
+
+Vanar ab thode shaant ho chuke the.
+Tab tapasvini Swayamprabha ne pyaar se poocha:
+
+“O Vanaro, agar tum log thakawat se thode theek ho gaye ho,
+to mujhe batao tum yahan kaise aaye?”
+
+Hanuman ne haath jodkar sab sach-sach bataya:
+
+🐒 Hanuman Ka Sachha Vrittant
+
+“Hum Raja Rama ke sevak hain.
+Rama ki patni Sita ko Ravana chheen kar le gaya.
+Unki talaash hum sabka farz hai.
+
+Sugriva ne humein south direction mein bheja.
+Hum ne pahaadon, samudron, jangalon—sab jagah dhoondha.
+Phir bhookh-pyaas se thak kar hum ped ke neeche baith gaye.
+Umeed tootne lagi thi."""
 
         create_image_text_layout("attached_assets/chapter4/4.52.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+Tab humein ek badi si gufa dikhi.
+Andhera tha, lekin andhar se
+paani se bhige huye pankh waale pakshi bahar aa rahe the.
+Humne socha—shayad andar paani ya phal mil jaaye.
+Isliye hum sab haath pakad kar gufa mein chale gaye.
+
+Andar andhera aur bhayanak tha,
+lekin phir humein woh sunehra van dekhne ko mila
+aur aapne humein phal, jhad, sab kuch diya.
+Aapne humein bacha liya.
+Ab bataiye, hum aapke liye kya kar sakte hain?”**
+
+🌺 Swayamprabha Ka Nirmal Uttar
+
+Swayamprabha muskurai aur boli:
+
+“Mujhe tum se kuch nahi chahiye,
+main to bas apna kartavya nibha rahi hoon.”
+
+😟 Vanaron Ki Chinta
+
+Par Hanuman ne vinamrta se fir kaha:
+
+“Mata, ek badi mushkil hai.
+Hum bahut din yahan gufa mein ruk gaye.
+Sugriva ne ek niyat time diya tha.
+Agar hum der kar gaye… to humein dand milega.
+Kripya humein bahar nikaal dijiye.”
+
+✨ Tapasya Ki Shakti
+
+Swayamprabha boli:
+
+“Beta, is gufa se zinda bahar nikalna mushkil hota hai.
+Lekin meri tapasya ki shakti se main tum sab ko bahar le jaa sakti hoon.
+Ek baat yaad rakhna—
+Jab tak main kuch na kahoon, apni aankhen mat kholna.”
+
+Sab vanaron ne turant apni aankhen
+haathon se dhak li.
+
+Aur ek pal mein—
+jaise jadoo ho gaya ho—
+wo saare vanar gufa ke bahar aa gaye!
+
+🌄 Bahaar Ka Drishya
+
+Swayamprabha boli:
+
+“Dekho, yeh Vindhya Mountain hai.
+Wahan Prasravana parvat dikhta hai.
+Aur samne bada sa sagar bhi hai.
+Tumhari yatra mangalmay ho!
+Ab main apne ghar laut rahi hoon.”
+
+Aur itna keh kar
+Swayamprabha wapas andheri gufa mein sama gayi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.53
     with st.expander("Chapter 4.53 – Angada and his friends discuss what to do next"):
-        text1 = """ """
+        text1 = """ 
+Chapter 53: 🌊 Samundar Ke Kinare Vanaron Ki Chinta
+
+Vanar log aage badhe aur saamne dekha—
+bahut bada, daraavna samundar, jismein bade-bade leher uth rahe the.
+Yeh Varuna ka samundar tha.
+
+Gufa mein ek poora mahina beet chuka tha.
+Sugriva ne jo time diya tha… woh khatam ho gaya tha.
+Sab vanar Vindhya parvat ke neeche baith kar pareshaan ho gaye.
+
+Phoolon se bhare ped, belon se latpat jhadiyan—
+sab kuch sundar tha,
+par vanaron ke mann mein sirf dar tha."""
 
         create_image_text_layout("attached_assets/chapter4/4.53.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🐒 Angada Ka Dukh
+
+Angada, jo sher jaise kandhe aur lambe baahu wala yuva rajkumar tha,
+buzurg vanaron ko samman dekar bola:
+
+“Hum sab Sugriva ke hukum par nikle the.
+Par gufa mein waqt zyada lag gaya…
+Mahina beet gaya.
+Humne Sita ko nahi dhoonda.
+Ab kya hoga?”
+
+Woh udaas hokar bola:
+
+“Sugriva hamari galti kabhi maaf nahi karega.
+Raja ka aadesh todna—yeh badi saza deta hai.
+Hum yahan se khaali haath laut gaye, to hum zinda nahi bachenge.
+Isse achha yahi samundar ke paas upwaas karke mar jaana behtar hai.”
+
+Angada ne apna kasht bhi bataya:
+
+“Mujhe Sugriva nahi, Rama ne rajkumar banaya tha.
+Sugriva mujhe pasand nahi karta.
+Galti yahan hui hai… aur wo mauka pakad kar mujhe maar dalega.”
+
+Yeh sunkar saare vanar rote hue bole:
+
+“Haan! Sugriva kathor hai…
+Aur Rama Sita ji ke bina dukhi hain.
+Hum apna kaam nahi kar paaye—
+wo humein marwa denge.
+Isse behtar yahi hai ki hum yahin mar jaayein.”
+
+🦁 Tara Ka Samajhdaar Salah
+
+Tab General Tara ne shant swar mein kaha:
+
+“Darne se kya hoga?
+Chalo hum sab wapas us gufa mein jaate hain.
+Wahan phool, paani, phal sab kuch hai.
+Aur koi humein wahan dhoond bhi nahi sakta—
+na Indra, na Sugriva, na Rama.”
+
+Angada ko bhi yeh baat sahi lagi.
+
+⭐ Vanaron Ka Nirnay
+
+Sab vanar zor se bole:
+
+“Haan!
+Hum wahi karte hain jo humein zinda rakh sake.
+Chalo wapas gufa mein chalte hain!”
+
+Aur is tarah,
+darte-par-girte,
+vanaron ne tay kiya ki
+pehle apni jaan bachana zaroori hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.54
     with st.expander("Chapter 4.54 – Hanuman tries to stop Angada’s hopeless plans"):
-        text1 = """ """
+        text1 = """ 
+Chapter 54: 🐒 Hanuman Aur Angada Ki Baat
+
+Tara ne jab gufa mein chhupne ka idea diya,
+Hanuman ne dekha ki Angada ka mann hil chuka hai.
+Woh soch raha tha ki shayad Angada ab apne aap ko raja jaisa samajh raha hai.
+
+Hanuman jaanta tha ki Angada
+— bahut buddhimaan,
+— bahadur,
+— aur apne pita Bali jaisa shaktishaali tha.
+Isliye agar uska mann bhatak gaya,
+to poori vanar sena mushkil mein pad sakti thi."""
 
         create_image_text_layout("attached_assets/chapter4/4.54.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+Hanuman ne socha:
+"Angada ko right path par lana hoga."
+Aur isliye usne ek chal sochi—
+pehle vanaron mein halka sa doubt paida kare,
+phir Angada ko sachchi aur kadvi baat bataye.
+
+⚠️ Hanuman Ki Kadvi Par Sachchi Salah
+
+Hanuman Angada ke paas gaya aur bola:
+
+“Angada, tum bahut shaktishaali ho,
+shayad Bali se bhi zyada.
+Par vanar log… woh hamesha bechain hote hain.
+Apne ghar, apni patni, apne bachche—
+unhe sab yaad aayega.
+Woh kabhi tumhari nai sarkar nahi manenge.”
+
+Phir Hanuman ne seedha sach keh diya:
+
+“Jambavan, Nila, Suhotra… aur main—
+hum tumhari taraf nahi aa sakte.
+Aur tum yeh jaante ho—
+takatwar hamesha kamzor ko hara deta hai.
+Isliye strong logon se dushmani mat karo.”
+
+Hanuman ne gufa ka bhi sach bataya:
+
+“Tum jis gufa ko surakshit samajh rahe ho,
+Lakshman apne teer se use patte ki tarah ched denge.
+Unke teer bijli ki tarah tez hain—
+parvat tak tod sakte hain.”
+
+🐾 “Vanar Tumhe Chhod Denge”
+
+Hanuman ne Angada ko samjhaya:
+
+“Vanar apne parivaar ko yaad karenge,
+aur tumhara saath chhod denge.
+Phir tum akela pad jaoge.
+Aur jab aadmi ya vanar akela hota hai,
+to chhoti si awaaz bhi darr paida karti hai.”
+
+Hanuman ne ek aur kadvi baat kahi:
+
+“Lakshman tumhein chhodenge nahi.
+Chahe tum gufa mein chup jao,
+unke teer tumhein dhoondh hi lenge.”
+
+🌿 “Sahi Raasta Yeh Hai…”
+
+Phir Hanuman ne narm swar mein kaha:
+
+“Agar tum vinamr hokar humare saath Sugriva ke paas chalo,
+to woh tumhein maaf kar dega.
+Woh ek achha raja hai—
+vachan ka pakka,
+dil ka saaf.
+Tumhare maata se pyar karta hai,
+aur tum uske bhatije ho.
+Woh kabhi tumhein nahi marega.
+Tum wapas rajkumar ban sakte ho.”
+
+Hanuman ne haath jodkar kaha:
+
+“Chalo Angada…
+humein Sita ji ko dhoondhna hai.
+Galti ho gayi, par rasta abhi bhi khula hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.55
     with st.expander("Chapter 4.55 – The monkeys think of giving up and starving"):
-        text1 = """ """
+        text1 = """ 
+Chapter 55: 🌊 Angada Ka Dukh Aur Vanaron Ka Faisla
+
+Hanuman ki baat seedhi, samajhdaar aur pyaar se bhari thi.
+Par Angada ka mann ab bhi toot chuka tha.
+Usne dard bhari awaaz mein jawab diya:
+
+💔 “Main Sugriva Par Bharosa Nahi Kar Sakta”
+
+Angada bola:
+
+“Sugriva na to stable hai, na daya rakhta hai.
+Usne apne bhai ki patni ke saath rehna chun liya…
+apne bhai ko gufa mein chhod diya…
+aur Rama ji ka upkaar bhi bhool gaya.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.55.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+Angada ka dard aur bada tha:
+
+“Agar main wapas gaya, to Sugriva mujhe kabhi zinda nahi chhodega.
+Woh mujhe Bali ka beta samajhkar dushman maanta hai.
+Bandhva dega… saza dega…
+Iss se achha hai ki main yahin mar jaoon.”
+
+Angada ne zor se saans li aur bola:
+
+“Main gufa ya rajya nahi jaunga.
+Yahin samundar ke paas upwaas karke apni jaan de dunga.”
+
+Phir usne apni aankhen nam karke kaha:
+
+“Hanuman… mere pranam Sugriva aur Rama ji ko keh dena.
+Aur meri maa Tara ko bata dena…
+woh bahut dukh mein mar jayegi.”
+
+🐒 Vanaron Ka Dil Toot Gaya
+
+Angada kusha grass par baith gaya—
+thaka hua, ro raha tha, bilkul akela.
+Usse dekh kar saare vanar bhi ro pade.
+
+Unhone socha:
+
+“Agar Angada marne ja raha hai,
+to hum bhi usse akela nahi chhod sakte.”
+
+Sab vanar Angada ke paas baith gaye.
+Samundar kinaare, darbha ghaas par,
+poora toli ek saath bol uthi:
+
+“Hum bhi yahin upwaas karke mar jayenge.”
+
+Unki aankhon se aansu beh rahe the.
+Woh Raghav ki kahani yaad karte ja rahe the:
+
+— Rama ka vanvaas
+— Raja Dashrath ki mrityu
+— Janasthan ka yudh
+— Jatayu ki shahadat
+— Sita ji ka apaharan
+— Bali ka vinaash
+— Aur ab Raghav ka gussa…
+
+Yeh sab soch kar vanaron ka dil dar se bhar gaya.
+Poora pahaadi ilaqa unke rote hue swaron se goonj utha—
+jaise aasman mein bijli garaj rahi ho."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
