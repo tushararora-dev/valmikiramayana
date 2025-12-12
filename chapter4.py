@@ -6910,51 +6910,573 @@ jaise aasman mein bijli garaj rahi ho."""
 
     # Chapter 4.56
     with st.expander("Chapter 4.56 – Sampati suddenly appears"):
-        text1 = """ """
+        text1 = """ 
+Monkeys ek bade pahad ke plateau par baithe the.
+Woh sab thak gaye the.
+Sita ko dhoondhte-dhoondhte unki ummeed toot rahi thi.
+Sab ne socha:
+“Agar hum Sita ko nahi dhoond paaye…
+to hum yahin bina khaaye-piye praan tyag kar denge.”
+
+Tabhi achanak, ek bada sa vulture wahan aaya.
+Woh tha Sampati, Jatayu ka bhai.
+Bahut purana, bahut samajhdaar, aur shaktishaali pakshi.
+
+Woh apni gufa se bahar nikla aur monkeys ko dekha.
+Usne khush hoke kaha:"""
 
         create_image_text_layout("attached_assets/chapter4/4.56.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+“Ah, lagta hai mere purane karmon ka phal mil gaya.
+Aaj mujhe tyaar khaana mil raha hai!
+Jab yeh bandar ek-ek karke mar jayenge,
+main sabko kha jaaunga.”
+
+Uski baat sunkar sab monkeys ghabra gaye.
+Angad ne halki si awaaz mein Hanuman se kaha:
+
+“Dekho, lagta hai hamare jeevan ka anth aa gaya…
+Sita ke liye humne sab kuch kiya,
+phir bhi unka pata nahi mila.
+Aur ab mrityu — Vivasvat ke vanshaj —
+jaise yahan hamara intezaar kar rahi ho.
+
+Hanuman, tumhe yaad hai Jatayu?
+Woh bhi Sita ke liye ladte-ladte shaheed ho gaya.
+Kitne praani, janwar tak,
+Rama ke liye apni jaan dene ko taiyyar ho jaate hain.
+
+Jatayu kitna bhaagyashaali hua.
+Woh Ravana se ladte hue veergati ko prapt hua,
+aur ab hume Sugriva ka dar bhi nahi hai.
+Hum bechare, bina Sita ke, yahan marne wale hain.”
+
+Angad dukhi tha.
+Monkeys zameen par lete the.
+Koi aas nahi bachi thi.
+
+🦅 Sampati ko sachai sunai deti hai
+
+Sampati ne unki baatein suni.
+Uska dil kaanp gaya.
+Usne zor se pukara:
+
+“Yeh kaun hai jo mere bhai Jatayu ki maut ka zikr kar raha hai?
+Woh mera laadle bhai tha.
+Mujhe batao —
+uski Ravana se ladaai kaise hui?
+Woh kaise shaheed hua?
+
+Aur yeh bhi batao,
+Rama — Dasaratha ka beta —
+uska dost kaise bana?”
+
+Sampati ab uda nahi sakta tha.
+Kabhi woh suraj ke kareeb gaya tha
+aur uske pankh jal gaye the.
+
+Isliye usne vinamrta se kaha:
+
+“Hey veer bandaron,
+mera uddhar karo.
+Mujhe is pahad se neeche utarne mein madad do.
+Main tumse sab kuch sunna chahta hoon.
+Main Jatayu ki kahani poori sunna chahta hoon.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.57
     with st.expander("Chapter 4.57 – Angada tells his story to Sampati"):
-        text1 = """ """
+        text1 = """ 
+Sampati ka awaaz dukh se kaanp raha tha…
+par monkeys abhi bhi us par bharosa nahi kar rahe the.
+Unhe laga —
+“Pata nahi yeh pakshi kya chahta hai…”
+
+Sab bandar fasting par baithe the,
+marne ka sankalp lekar.
+Unhone baithke ek faisla kiya:
+
+“Chalo is vulture ko neeche utaar dete hain.
+Phir yeh chahe toh hume kha le.
+Hum toh waise bhi yahin marne wale hain.
+Agar yeh hume kha kar apna pet bhar le,
+toh hamara prayas bhi safal ho jaayega.”
+
+Is tarah sochkar, monkeys ne Sampati ko pahad se neeche utarne mein madad ki."""
 
         create_image_text_layout("attached_assets/chapter4/4.57.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🐒 Angad bolna shuru karta hai
+
+Phir Angad ne pyaar se Sampati se kaha:
+
+“Hey Pakshi-raaj,
+Hamare vansh ke praarambhik raja the Riksharajas —
+meri par-dadaji.
+
+Unke do putr the: Bali aur Sugriva.
+Dono bahut shaktishaali aur dharmic the.
+Mere pitashri Bali to poori duniya mein prasiddh the.”
+
+Angad ne thoda saans li, phir kahani aage badhai…
+
+🌲 Ram, Lakshman, aur Sita ka vanvaas
+
+“Ek din,
+Ayodhya ke veer raja Rama,
+jo King Dasaratha ke putr aur Ikshvaku vansh ke deepak the,
+apne pita ki aagya se vanvaas gaye.
+
+Sita aur Lakshmana unke saath the.
+Dandaka van mein shanti se jee rahe the…”
+
+Phir Angad ki awaaz udaas ho gayi:
+
+“Par ek din,
+Ravana Sita mata ko utha le gaya.
+Us samay tumhare bhai Jatayu ne unhe dekha.
+Jatayu ne himmat se Ravana ka rath toda,
+Sita ko chhudaya…
+
+Par woh budha aur thaka hua tha.
+Ravana ne use maar dala.
+
+Rama ne apne haathon se
+Jatayu ki antimsanskaar kiya.
+Woh swarg ko prapt hua.”
+
+⚔️ Sugriva aur Rama ki mitrata
+
+“Iske baad Rama ne mere chacha Sugriva se dosti ki.
+Sugriva ne unki madad maangi…
+
+Aur phir Rama ne mere pita Bali ko maar diya.
+Bali ne Sugriva ko raajya se nikala tha,
+isliye Rama ne nyay ki taraf se uska saath diya.
+
+Bali ki mrityu ke baad
+Sugriva raaja bane.”
+
+🔍 Sita ki talaash… aur monkeys ka dukh
+
+“Rama ne hum sab monkeys ko
+chaaron dishaon mein bheja
+taaki hum Sita mata ko dhoondh sakein.
+
+Par hum nahi dhoondh paaye.
+
+Dandaka van se nikle,
+phir ek badi si gufa mein chhale gaye
+jo Maya ne banayi thi.
+
+Wahan humne poora ek mahina guzaar diya.
+Isse hum Sugriva ke dwara diye gaye samay se
+bahut zyada der ho gaye.
+
+Ab agar hum khali haath laut jaate,
+toh Sugriva, Lakshmana, aur Rama ka krodh
+hum bardasht nahi kar paate.
+
+Isliye humne faisla kiya…
+ki hum yahin upwas karke
+pran tyag kar denge.”
+
+Angad ne apni baat sambhaal kar puri ki.
+Uski aankhon mein udaasi thi.
+Par uske shabdon mein sachchai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.58
     with st.expander("Chapter 4.58 – Sampati tells the monkeys where Sita is hidden"):
-        text1 = """ """
+        text1 = """ 
+Monkeys ki dukhi kahani sunkar
+Sampati, Jatayu ka bada bhai,
+aankhon mein aansu bhar kar bola:
+
+“Hey vanaro…
+Tumne bataya ki mera pyaara bhai Jatayu
+Ravana se ladte-ladte shaheed ho gaya.
+Main budha ho chuka hoon,
+aur mere pankh bhi jal gaye the…
+Isliye main uska badla nahi le sakta.”
+
+Uska dil toot gaya tha."""
 
         create_image_text_layout("attached_assets/chapter4/4.58.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🌞 Sampati ki purani kahani
+
+Sampati ne yaad kiya:
+
+“Pehle, jab Indra ne Vritra-asur ko maara tha,
+main aur Jatayu soch rahe the
+kaun zyada shaktishaali hai.
+
+Dono aasman mein suraj ki taraf udd gaye.
+Par jab suraj bilkul upar aa gaya,
+Jatayu ki shakti kam hone lagi.
+Woh jalne laga.
+
+Maine usse bachane ke liye
+apne pankhon se use dhak diya…
+par usse bachate-bachate
+mere hi pankh jal gaye!
+
+Main Vindhya par gir gaya
+aur usse alag ho gaya.
+Tab se mujhe nahi pata tha
+uske saath kya hua.”
+
+Sampati ro pada.
+
+🐒 Angad ka sawaal
+
+Angad ne aadab se poocha:
+
+“Hey Sampati,
+Agar tum Jatayu ke sachmuch bhai ho
+aur tumne hamari kahani sun li,
+toh batao —
+kya tum jante ho Ravana kahan rehta hai?
+Sita mata kahan chhupakar rakhi gayi hai?”
+
+🦅 Sampati ka bada rahasya
+
+Sampati ne gehri, shant awaaz me kaha:
+
+“Vanaro,
+Mere pankh nahi rahe,
+par meri drishti aur buddhi ab bhi shaktishaali hai.
+Main Ram ka kaam karunga —
+sirf apne shabdon se.”
+
+Usne bataya:
+
+“Maine Devtaon aur Asuron ke yudh dekhe hain.
+Samudra manthan bhi dekha hai.
+Vishnu ke teen bade kadam bhi janta hoon.
+Par sabse zaroori baat yeh hai—
+
+Maine Sita ko dekha tha.
+
+Ravana ek sundar, jawan aur roti hui stree ko
+aasman mein le ja raha tha.
+Woh baar-baar pukaar rahi thi:
+‘Hey Rama!’
+‘Hey Lakshmana!’
+
+Uske gehne neeche gir rahe the…
+uska peela, chamakta hua vastra
+Ravana ki kaali deh par
+bijli ki tarah chamak raha tha.
+
+Main samajh gaya —
+woh Sita hi thi.”
+
+Monkeys ka saans ruk gaya.
+
+🌴 Lanka ka varnan
+
+Sampati ne kaha:
+
+“Ravana, Vishravas ka putra aur Kuber ka bhai,
+Lanka naam ki nagri mein rehta hai.
+Yeh nagri Vishvakarma ne banayi hai.
+
+Yeh samundar ke beech ek island par hai.
+Yahan se 100 yojan door —
+lagbhag 400 miles.
+
+Sone ke dwar, sone ki deeware,
+ucch mahal, tej se chamakti kalakritiyan—
+Lanka bahut shandaar hai.
+
+Aur wahi,
+Ravana ke andar-ke mahal mein,
+rakshasiyon ki pehredari mein,
+Sita mata bandi hai.”
+
+Monkeys ke chehre par umeed chamak uthi.
+
+🕊️ Pakshiyon ka gyaan aur Sampati ki drishti
+
+Sampati ne bataya:
+
+“Hum bade pakshi
+janam se hi door-dar tak dekh sakte hain.
+Hum 400 miles door bhi sapasht dekh lete hain.
+Isliye main aaj bhi
+Ravana aur Sita ko dekh sakta hoon.”
+
+Phir usne monkeys ko salah di:
+
+“Tumhe samundar paar karna hoga.
+Sita ko dhundna hoga.
+Aur phir Rama ke paas lautna hoga.
+
+Ab mujhe tum Varuna ke teer le chalo —
+main wahan apne bhai Jatayu ke liye
+jal-anjali dena chahta hoon.”
+
+🌊 Monkeys ki madad — aur khushi ka pal
+
+Vanaro ne bada prem dikhaya.
+Unhone be-pankh Sampati ko
+sambhaal kar samundar kinaare le gaye.
+
+Phir use wapas Vindhya par chhod diya.
+
+Aur jab unhe Sita ke baare mein
+puri jankari mil gayi…
+
+toh unke dil khushi se bhar gaye.
+Aasha phir jaag uthi.
+Sita ko dhundhna ab sambhav tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.59
     with st.expander("Chapter 4.59 – Sampati encourages them to continue their mission"):
-        text1 = """ """
+        text1 = """ 
+Sampati ne jo meethi—amrit jaisi—baatein batayi,
+unhe sun kar sab monkeys ki umeed wapas aa gayi.
+Sab ke dil halka ho gaye.
+
+Tab Jambavan, sabse purane aur gyaani vanar,
+zameen se uthkar bole:
+
+“Hey Vulture King,
+Sita kahan hai?
+Kisne use dekha?
+Kisne use chhupaya?
+Mithila ki beti kaun le gaya?
+
+Humein sab batao—
+taaki hum jungle ke sab praaniyon ko bachaa sakein.
+Aur humein yaad hai—
+Dasaratha ji ke teeron ki shakti koi nahi bhool sakta!
+Aur Lakshmana ke bijli-jaisi baan to sabko hila kar rakh dete hain!”"""
 
         create_image_text_layout("attached_assets/chapter4/4.59.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🦅 Sampati phir kahani batata hai
+
+Monkeys ab fasting chhod chuke the.
+Sampati unhe tasalli deta hua bola:
+
+“Suno, vanaro…
+Main tumhe batata hoon
+ki maine Sita ke baare mein kaise jaana,
+aur kisne mujhe uska pata diya.
+
+Bahut saal pehle,
+jab main is kathin Vindhya par gira tha—
+tab se main yahin chala aaya.
+Ab main bohot budha ho gaya hoon.
+Par mera beta Suparshva,
+jo sabse accha pakshi hai,
+roze mujhe khana laata tha.”
+
+Sampati thodi der rukkar bola:
+
+“Hum pakshiyon ka swabhaav hi kuch alag hai—
+Gandharv log manoranjan pasand karte hain,
+Saanp log gusse wale hote hain,
+Hiran bahut sharmile hote hain…
+Aur hum—hum bahut bhookhe-sookhe prakriti ke hain!”
+
+🍃 Suparshva ka anokha drishya
+
+Ek din Sampati bhookh se pareshaan tha.
+Suparshva subah-subah uda aur shaam tak wapas aaya—
+par bina khane ke.
+
+Woh dukhi hoke bola:
+
+“Pitaji,
+Aaj main Mahendra Parvat ke paas
+samay kaat raha tha.
+Wahan main un praaniyon ko rok raha tha
+jo samundar paar aate-jate hain.
+
+Tabhi maine dekha—
+aankhon ke saamne jaise kaali megh ka tukda chal raha ho.
+Woh Ravana tha.
+Aur uske haath mein ek sundar stree thi—
+jo subah ki roshni jaise chamak rahi thi.
+
+Main socha,
+‘In dono ko pakad loon toh pitaji ka bhojan ho jaaye.’
+Par Ravana ne vinamrta se kaha:
+‘Mujhe jaane do.’
+
+Aur hum shaant praaniyon ko
+shaant logon ko thoda toh daya deni hi chahiye…”
+
+Suparshva aage bola:
+
+“Phir aasman ke praaniyon—
+Siddha, Rishi, aur Devtayein—
+mere paas aaye.
+
+Unhone kaha:
+
+‘Bhale hi Sita dukh mein hai,
+par woh zinda hai!
+Aur tumhare liye accha hua
+ki Ravana tumhare saamne se nikal gaya.’
+
+Phir Siddhayein boli:
+
+‘Woh jo stree tumne dekhi,
+woh Rama ki patni Sita hai.
+Uska vastra phata hua tha,
+baal bikhar gaye the,
+aur woh roti hui
+“Rama!” “Lakshmana!” pukaar rahi thi.’”
+
+🦅 Sampati ka sankalp
+
+Sampati fir monkeys ki taraf mudkar bola:
+
+“Sito ki gati sunkar mera dil toot gaya tha.
+Par bina pankhon ke main kuch nahi kar sakta tha.
+Lekin main apne gyan se tumhari madad karunga.
+Main Rama ke kaam ko apna kaam maan chuka hoon.”
+
+Usne monkeys ki taraf gaur se dekha:
+
+“Tum sab itne shaktishaali ho
+ki devta bhi tumhe rok nahi sakte.
+Rama aur Lakshmana ke teer
+teenon lokon ko hila sakte hain.
+Aur tum sab milkar—
+Ravana ko puri tarah hara sakte ho!
+
+Isliye der kis baat ki?
+Jis kaam ko karna sahi ho—
+usme tezi dikhani chahiye.
+Aage badho, vanaro!
+Tumhara lakshya tumhari pratishtha banega.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.60
     with st.expander("Chapter 4.60 – The story of the ascetic Nishakara"):
-        text1 = """ """
+        text1 = """ 
+Jab Sampati ne apne bhai Jatayu ke liye
+jal-anjali aur snan kar liya,
+toh sab monkey chiefs us adbhut pahad par baith gaye.
+Sampati ko beech mein rakha gaya,
+jaise veer praja apne buzurg ko gher leti hai.
+
+Tab Sampati ne Angad se muskurate hue kaha:
+
+“Hey vanaro,
+Shant ho kar meri baat suno.
+Main tumhe sach-sach bataunga
+ki maine Maithili (Sita) ke baare mein kaise jaana.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.60.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+☀️ Sampati ka gira hua din
+
+Sampati ne yaad kiya:
+
+“Bohot saal pehle,
+main Vindhya par gir gaya tha.
+Mere pankh suraj ki garmi se jal gaye the.
+Main be-hosh tha.
+
+Chhe din baad jab mujhe hosh aaya,
+main kamzor tha, bhooka tha,
+aur aas-paas kuch samajh nahi pa raha tha.
+
+Phir dheere-dheere
+jab maine jheelon, pattharon, nadiyon,
+ghane jangal aur pahaadon ko dekha—
+toh mujhe yaad aaya:
+
+‘Haan! Yeh to Vindhya parvat hi hai!
+Yeh wahi jagah hai jahan devta bhi aate hain.’”
+
+🧘‍♂️ Sant Nishakara ka aashram
+
+Sampati bole:
+
+“Yahin ek pavitra ashram tha
+jahan Rishi Nishakara rehte the.
+Woh bahut kathor tapasvi the.
+Devta bhi unka samman karte the.
+
+Main iss parvat par 8,000 saal tak pada raha.
+Phir jab maine rishi ko kahin nahi dekha,
+toh main bohot mushkil se—
+ghas aur kaante chalte hue—
+pahaad se neeche utara.
+
+Main unse milna chahta tha.
+Pehle main aur Jatayu
+bahut baar un sant ke paas ja chuke the.”
+
+🌺 Vrikshon se bhara sundar tapovan
+
+Sampati ne kaha:
+
+“Us aas-paas ki hawa meethi lagti thi.
+Har ped phool aur phal se bhara hota tha.
+
+Main ashram ke paas ek ped ke niche ruk gaya.
+Thodi door maine rishi ko dekha—
+unke sharir se tej nikal raha tha,
+jaise suraj ki chamak ho.
+
+Woh snan karke aa rahe the.
+Unke aas-paas janwar saath chal rahe the—
+bhale bhalu, sher, hiran,
+aur rang-birange saanp.
+
+Jab rishi ashram mein ghus gaye,
+sab janwar chupchaap chale gaye—
+jaise raja andar jaaye
+toh mantri bahar ruk jaate hain.”
+
+🙏 Nishakara aur Sampati ki mulaqat
+
+Rishi ne jab Sampati ko dekha,
+toh unke chehre par dayaa aa gayi.
+Woh andar gaye,
+phir wapas aaye
+aur puchha:
+
+“Hey mitra,
+tumhari paron ka rang kyun badal gaya?
+Tumhari chaal kamzor kyun ho gayi?
+Tumhari saansein itni tez kyun chal rahi hain?
+
+Pehle do vulture hote the—
+bijli ki tarah tej,
+mann ke mutabik roop badal lene wale.
+Ek tum Sampati…
+aur doosre tumhare bhai Jatayu!
+
+Tum dono human-roop lekar
+mere pair dabate the.
+Aaj tum itne badhal gaye ho…
+kaise?
+
+Kaunsi chot lagi?
+Kaun sa rog aaya?
+Tumhare pankh kisne jala diye?
+
+Sab batao, hey veer!”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
