@@ -60,7 +60,7 @@ def display_content():
 
 
     text0 = """
-    <h2>Chapter 3: kishkindha kanda</h2>
+    <h2>Chapter 4: kishkindha kanda</h2>
     """
     create_image_text_layout(text_content=text0, layout="full")
 
@@ -7482,70 +7482,944 @@ Sab batao, hey veer!”"""
 
     # Chapter 4.61
     with st.expander("Chapter 4.61 – Sampati tells his story to Sage Nishakara"):
-        text1 = """ """
+        text1 = """ 
+Sampati ne gehri saans li
+aur Rishi Nishakara se bola:
+
+“Hey Mahatma,
+mere zakhm, meri thakaan,
+aur meri sharm…
+mujhe lambi kahani bolne nahi dete.
+Phir bhi main sach bataunga.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.61.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+☀️ Suraj ki taraf udaan
+
+“Guroor mein aakar,
+main aur mera bhai Jatayu
+apni udne ki shakti par itra gaye.
+
+Humne Kailash par rishiyon ke saamne
+kasam khayi—
+hum suraj ke saath-saath udte rahenge,
+jab tak woh Astachal Parvat ke peeche na chala jaaye.”
+
+Hum aasman mein uthe.
+Bahut upar.
+Neeche dharti chhoti lag rahi thi—
+shehr rath ke pahiye jaise dikh rahe the.
+
+Kabhi humein sangeet ki awaaz sunai deti,
+kabhi gehno ki jhankar.
+Kahin laal kapdon mein ladkiyan gaati hui dikhti.
+
+🌍 Dharti chhoti hoti gayi
+
+“Hum tezi se udte gaye.
+Neeche ke drishya badalte gaye.
+
+Jangal hari lakeeron jaise lag rahe the.
+Nadiyan patli dhagon jaisi.
+Bade-bade parvat—
+Himavat, Vindhya, Meru—
+jaise pani mein khade haathi lag rahe the.”
+
+🔥 Thakaan aur bhay
+
+“Par dheere-dheere
+hum paseene se bheeg gaye.
+Thakaan badhne lagi.
+Darr bhi lagne laga.
+
+Humein dishaayein samajh nahi aa rahi thi—
+na dakshin,
+na paschim,
+na agni ki disha.
+
+Dharti humein aisi lag rahi thi
+jaise pralaya ki aag mein jal rahi ho.
+Meri aankhen aur mann dono thak gaye the.”
+
+Phir Sampati ki awaaz bhari ho gayi.
+
+🕊️ Bhai ko bachane ka pal
+
+“Maine mushkil se
+apni nazar suraj par tikaayi.
+Woh itna bada lag raha tha—
+jaise poori dharti se bhi bada.
+
+Tab achanak…
+Jatayu girne laga.
+Usne kuch nahi kaha.
+Bas neeche jaane laga.”
+
+Sampati ne aansu pochhe.
+
+“Maine turant
+aasman se neeche jhuk kar
+apne pankhon se use dhak liya.
+
+Jatayu bach gaya.
+Par…
+mere pankh jal gaye.
+
+Guroor ki saza mujhe mili.
+Main hawa ke rukh se gir gaya.”
+
+🪨 Vindhya par girna
+
+“Main samajh gaya
+Jatayu Janasthana ke paas gira hoga.
+
+Par main kamzor ho chuka tha.
+Mere pankh jale hue the.
+Isliye main Vindhya Parvat par gir pada.”
+
+💔 Toota hua dil
+
+Sampati ne dheere se kaha:
+
+“Ab mere paas kuch nahi bacha.
+Na mera raaj.
+Na mera bhai.
+Na mere pankh.
+Na meri shakti.
+
+Is dukh ke saath jeena mushkil hai.
+Kabhi-kabhi mann karta hai—
+is parvat se kud jaaun
+aur sab khatam kar doon.”
+
+Uski awaaz kaanp rahi thi.
+Pura aashram shaant ho gaya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.62
     with st.expander("Chapter 4.62 – The sage tells Sampati where Sita is"):
-        text1 = """ """
+        text1 = """ 
+Sampati bolte-bolte ro pada.
+Dukh uski aankhon se beh raha tha.
+Usne apni poori peeda Rishi Nishakara ko suna di.
+
+Rishi kuch der shaant rahe.
+Phir gambhir awaaz mein bole:
+
+“Hey Sampati,
+tum udaas mat ho.
+Tumhare pankh wapas ug aayenge.
+Tumhari aankhon ki roshni,
+tumhari shakti,
+aur tumhara parakram
+sab laut aayega.”
+
+Sampati hairaan ho gaya."""
 
         create_image_text_layout("attached_assets/chapter4/4.62.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🔮 Bhavishya ki baat
+
+Rishi Nishakara ne kaha:
+
+“Main Puranon se jaanta hoon.
+Aur apni tapasya se dekh chuka hoon.
+Ek bahut bada kaarya hone wala hai.
+
+Ikshvaku vansh mein
+Dasaratha naam ke raja honge.
+Unka ek veer putra hoga—
+uska naam hoga Rama.
+
+Pita ki aagya se
+Rama apne bhai Lakshmana ke saath
+vanvaas jayega.”
+
+🖤 Ravana aur Sita
+
+Rishi ne aage kaha:
+
+“Usi van mein,
+Ravana, jo Rakshason ka raja hai,
+aur jise devta bhi maar nahi sakte,
+Sita ko utha le jayega.
+
+Sita dukh se bhar jaayegi.
+Use sone, khane, sukh—
+kuch bhi accha nahi lagega.
+
+Tab Indra ko yeh baat pata chalegi.
+Woh Sita ke liye
+amrit jaisa payasa bhejega.”
+
+🌸 Sita ka pavitra karm
+
+Rishi bole:
+
+“Sita samjhegi
+ki yeh bhojan Indra ne bheja hai.
+Woh us payasa ka ek hissa
+zameen par gira kar kahegi:
+
+‘Agar mere pati Rama
+ya unke bhai Lakshmana
+abhi zinda hain,
+ya swarg mein hain—
+yeh bhojan un tak pahunch jaaye.’”
+
+Sampati sun kar chup ho gaya.
+
+🐒 Vanaron ka aana
+
+Rishi Nishakara ne kaha:
+
+“Baad mein,
+Rama ke doot—
+vanar—
+yahaan aayenge.
+
+Us samay tumhara kaam hoga
+unhe Sita ke baare mein batana.”
+
+Sampati ne kaha,
+“Par maharaj,
+main toh yahin pada hoon.
+Main kahin ja bhi nahi sakta.”
+
+🕊️ Pratiksha ka mahatva
+
+Rishi muskuraye:
+
+“Isliye tum yahin rukna.
+Tum kahin mat jaana.
+Samay aane par
+tumhare pankh khud wapas aa jaayenge.
+
+Main chaahun toh
+aaj hi tumhe pankh de sakta hoon.
+Par agar tum yahin rukoge,
+toh tum poori duniya ka bhala kar paoge.
+
+Tum Rama-Lakshmana,
+Brahmano,
+Rishiyon,
+aur Indra—
+sab ka kartavya nibhaoge.”
+
+🙏 Rishi ki antim ichchha
+
+Ant mein Rishi ne kaha:
+
+“Mujhe bhi
+Rama aur Lakshmana ko
+apni aankhon se dekhna hai.
+Uske baad
+main shanti se
+apna sharir tyag dunga.”
+
+Sampati ne sir jhuka liya.
+Ab uske mann mein nayi umeed thi.
+Usse samajh aa gaya tha—
+uska jeevan abhi bekaar nahi gaya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.63
     with st.expander("Chapter 4.63 – Sampati’s wings grow back"):
-        text1 = """ """
+        text1 = """ 
+Sampati bola:
+
+“Rishi Nishakara ne mujhe samjha kar
+apne ashram mein wapas chale gaye.
+Uske baad main dheere-dheere
+apni gufa se nikla
+aur Vindhya parvat par chadh gaya.
+
+Main yahin baitha raha.
+Tum sab ka intezaar karta raha.
+
+Us din se 100 saal beet gaye.
+Rishi ke shabd
+main hamesha apne dil mein rakhta raha.”"""
 
         create_image_text_layout("attached_assets/chapter4/4.63.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🌧️ Intezaar aur dukh
+
+Sampati ne gehri saans li:
+
+“Nishakara swarg chale gaye.
+Aur main akela reh gaya.
+Kabhi-kabhi itna dukh hota tha
+ki marne ka khayal aa jaata.
+
+Par jaise hi yeh soch aati,
+mujhe rishi ke shabd yaad aa jaate.
+Unki baat
+mere dukh ko aise mita deti
+jaise jalti hui mashaal
+andhere ko bhaga deti hai.”
+
+🐦 Bete se shikayat
+
+Sampati ne aage kaha:
+
+“Main Ravana ki shakti jaanta hoon.
+Phir bhi maine apne bete Suparshva se poocha:
+
+‘Tumne Sita ki pukaar suni.
+Tumne do rajkumaron ka dukh dekha.
+Phir tumne use chhudaya kyon nahi?’
+
+King Dasaratha ke prati prem ke kaaran
+main apne bete se bhi naraz ho gaya tha.”
+
+✨ Chamatkar ka pal
+
+Jab Sampati yeh sab keh raha tha,
+achanak ek chamatkar hua.
+
+Uske sharir par
+naye pankh ugne lage.
+Sunahare rang ke,
+mazboot aur chamakdar.
+
+Vanar dekhte reh gaye.
+
+Sampati ki aankhen chamak uthi.
+Woh khushi se bola:
+
+“Yeh sab Rishi Nishakara ki kripa hai!
+Mere pankh wapas aa gaye hain.
+Meri jawani ki shakti
+phir se laut aayi hai.”
+
+🦅 Umeed ka sandesh
+
+Sampati ne monkeys se kaha:
+
+“Aaj main phir se
+taakat aur urja mehsoos kar raha hoon.
+
+Tum log bina dare
+Sita ko dhoondhne niklo.
+Mere pankhon ka wapas aana
+tumhari safalta ka sanket hai.”
+
+Itna keh kar
+Sampati udaan bhar kar
+pahad ki choti par jaa pahuncha.
+Woh apni shakti parakhna chahta tha.
+
+🐒 Vanaron ka naya utsaah
+
+Sampati ki baatein sun kar
+sab monkeys bahut khush ho gaye.
+Unka bharosa aur mazboot ho gaya.
+
+Ab unhe yakeen tha—
+jeet unki hi hogi.
+
+Hawa ki raftaar se,
+veer vanar
+Sita mata ko dhoondhne
+dakshin disha ki taraf nikal pade—
+us disha ki taraf
+jahan Abhijit ka raj hai.
+
+Unke dil mein sirf ek sankalp tha:
+“Sita ko dhoondhna hai!”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.64
     with st.expander("Chapter 4.64 – The monkeys feel scared when they see the huge ocean"):
-        text1 = """ """
+        text1 = """ 
+Sampati ki baat sunkar
+sab vanar khushi se uchhal pade.
+Unki awaazein goonj uthi.
+Dil mein ek hi soch thi—
+“Ab Sita mil jayegi!”
+
+Woh sab sheron jaise balwaan the.
+Khushi aur umeed ke saath
+woh samundar ke kinaare pahunch gaye."""
 
         create_image_text_layout("attached_assets/chapter4/4.64.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🌊 Samundar ka darshan
+
+Jab vanaron ne samundar dekha,
+toh woh hairaan reh gaye.
+
+Kabhi samundar shaant lagta tha,
+jaise so raha ho.
+Kabhi woh khelta hua lagta—
+badi-badi lehron ke saath.
+
+Andar machhliyan, whale, aur ajeeb-jeev the.
+Samundar itna bada tha
+ki dekh kar rongte khade ho gaye.
+
+Vanar ruk gaye.
+Unka mann bhari ho gaya.
+
+“Isse kaise paar karein?”
+“Yeh toh aasmaan jaisa hai!”
+“Ab kya hoga?”
+
+Sab ghabra gaye.
+Nirasha chha gayi.
+
+🐒 Angad ka hausla dena
+
+Tab Angad, sabse veer vanar,
+aage aaya.
+Usne sena ki udaasi dekhi
+aur zor se bola:
+
+“Darna sabse badi galti hoti hai.
+Ghabrahat insaan ko tod deti hai—
+jaise gussa hua saanp
+chhote bachche ko kaat leta hai.
+
+Jab veerta dikhane ka samay ho,
+aur hum ghabra jaayein,
+toh hum kamzor ho jaate hain.
+Aur lakshya haath se nikal jaata hai.”
+
+Vanaron ne Angad ki baat suni.
+Thoda sa hausla aaya.
+
+🌙 Raat ka vichaar
+
+Raat guzar gayi.
+Subah Angad ne
+buzurg vanaron se salaah ki.
+
+Vanaron ki bheed
+uske chaaron taraf thi—
+jaise Indra ke chaaron taraf
+Marut devta hote hain.
+
+Angad jaanta tha—
+sirf Bali ka beta
+ya Hanuman hi
+is sena ko sambhaal sakte hain.
+
+🗣️ Angad ka sawaal
+
+Angad ne sab buzurgon ko
+aur poori sena ko bulaya.
+Unhe pranam karke bola:
+
+“Kaun hai jo
+is vishaal samundar ko paar kar sakta hai?
+
+Kaun Sugriva ke aadesh ko poora karega?
+Kaun 400 miles ka leap laga sakta hai
+aur hum sab ko is chinta se mukt karega?
+
+Kaun humein safalta ke saath
+ghar wapas le jaayega—
+apni patniyon,
+bachchon,
+aur ghar tak?
+
+Kaun humein
+Rama, Lakshmana
+aur Sugriva ke saamne
+sar utha kar khada karega?”
+
+Angad ruk gaya.
+Sab ki taraf dekha.
+
+“Agar koi aisa veer hai,
+toh aage aaye.
+Aur humein
+is dar se mukt kare!”
+
+🤐 Khamoshi ka pal
+
+Angad ki baat sun kar
+poori sena chup ho gayi.
+Koi kuch nahi bola.
+Sab ke chehre shaant the,
+par mann mein sankoch tha.
+
+Phir Angad ne dobara kaha:
+
+“Hey veer vanaro,
+tum sab parakrami ho.
+Apne vansh aur shaurya par garv karo.
+
+Bas yeh batao—
+tum mein se har ek
+kitni door tak chhalaang laga sakta hai?”
+
+Samundar shaant tha.
+Vanar soch mein doobe the.
+Aur kahani ek naye mod par aa khadi hui…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.65
     with st.expander("Chapter 4.65 – The leaders of the monkey army discuss their plan"):
-        text1 = """ """
+        text1 = """ 
+Angad ki baat sunkar
+sab vanar neta ek-ek karke bolne lage.
+Har koi bata raha tha—
+“Main kitni door tak chhalaang laga sakta hoon.”
+
+Sab ka mann ek hi baat par tha—
+Sita ko dhoondhna."""
 
         create_image_text_layout("attached_assets/chapter4/4.65.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🐒 Vanaron ki himmat
+
+Sabse pehle Gaya bola:
+“Main 100 miles chhalaang laga sakta hoon!”
+
+Phir Gavaksha aage aaya:
+“Main 200 miles tak ja sakta hoon!”
+
+Sharabha ne seena taan kar kaha:
+“Main 300 miles paar kar loonga!”
+
+Rishabha bola:
+“Main 400 miles bina rukhe ja sakta hoon!”
+
+Phir Gandhamadana bola:
+“Main 500 miles ka jump laga dunga!”
+
+Mainda ne kaha:
+“Main 600 miles tak pahunch jaaunga!”
+
+Dvivida hansa aur bola:
+“700 miles? Mere liye mushkil nahi!”
+
+Aur phir Sushena ne kaha:
+“Main 800 miles chhalaang laga sakta hoon!”
+
+Sab ne ek-doosre ki taraf dekha.
+Himmat toh thi…
+par samundar bahut bada tha.
+
+🐻 Jambavan ka sach
+
+Tab sabse buzurg aur gyaani Jambavan ne
+sabko pranam kiya aur bola:
+
+“Pehle main bhi bahut shaktishaali tha.
+Par ab main boodha ho gaya hoon.
+
+Is mission ki safalta bahut zaroori hai—
+Rama ke liye bhi,
+Sugriva ke liye bhi.
+
+Main poori koshish karunga.
+Par sach yeh hai—
+main sirf 300 miles hi ja paunga.”
+
+Jambavan ne thoda ruk kar kaha:
+
+“Pehle main itna balwaan tha
+ki maine Vishnu ke teen kadmon ke chakkar lagaye the.
+Par aaj meri shakti kam ho chuki hai.
+Itni door jaakar
+kaam poora nahi ho paayega.”
+
+Uski awaaz mein dukh tha.
+
+🐒 Angad ki chinta
+
+Angad ne Jambavan ko pranam kiya
+aur soch mein doob kar bola:
+
+“Main 400 miles tak toh ja sakta hoon.
+Par…
+kya main wapas aa paunga?
+Yeh pakka nahi hai.”
+
+Uske mann mein dar tha—
+jaana asaan,
+lautna mushkil.
+
+🐻 Jambavan ka gyaan
+
+Jambavan ne pyaar se Angad se kaha:
+
+“Beta,
+tumhari shakti sab jaante hain.
+Par 800 miles ka kaam tumhara nahi hai.
+
+Tum hamare neta ho.
+Neta ko khatre mein nahi daalte.
+
+Jaise ped ki jad ko bachaya jaata hai,
+waise hi sena ke neta ko.
+Jad sahi rahegi
+toh phal bhi sahi milega.”
+
+Usne Angad ke kandhe par haath rakha:
+
+“Tum Bali ke putra ho.
+Tum hi is sena ki taakat ho.
+Tumhara jeevit rehna
+sabse zaroori hai.”
+
+⚖️ Angad ka kathor faisla
+
+Angad ne gambhir hokar kaha:
+
+“Agar main nahi gaya
+aur koi aur bhi nahi gaya,
+toh humein phir se upvaas karna padega.
+
+Agar hum Sugriva ke hukm ke bina
+khali haath laut gaye,
+toh jeena mushkil ho jaayega.
+
+Chahe Sugriva daya dikhaye
+ya gussa—
+uska hukm todna matlab maut.
+
+Isliye,
+ab sirf ek hi raasta bacha hai.
+Aap sab sochiye.”
+
+🌟 Umeed ki kiran
+
+Jambavan ne muskurate hue kaha:
+
+“Hey veer,
+yeh kaam zaroor poora hoga.
+
+Main usse bulaata hoon
+jo yeh kaam kar sakta hai.”
+
+Phir Jambavan ne
+door shaant baitha hua
+sabse mahaan vanar bulwaya—
+
+Hanuman.
+
+Wahin kahani
+ek naye ujale ke saath ruk jaati hai…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.66
     with st.expander("Chapter 4.66 – Jambavan reminds Hanuman of his great powers"):
-        text1 = """ """
+        text1 = """ 
+Hazaaron vanaron ki sena udaas thi.
+Sab ke chehron par chinta thi.
+Tab Jambavan ne dekha—
+Hanuman shaant baithkar
+sabse alag chupchaap baithe hain.
+
+Jambavan ne zor se kaha:
+
+“Hey Veer Hanuman!
+Tum yahan alag kyun baithe ho?
+Chup kyun ho?
+
+Tum shastra-gyani ho.
+Tumhari shakti Rama, Lakshmana,
+aur Sugriva ke barabar hai!
+Phir bhi tum khud ko chhupa rahe ho?”"""
 
         create_image_text_layout("attached_assets/chapter4/4.66.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🦅 Garuda ka udaharan
+
+Jambavan ne aage kaha:
+
+“Main Garuda ko jaanta hoon—
+Vainateya, Arishtanemi ka putra.
+Woh pakshiyon ka raja hai.
+
+Maine use kai baar dekha hai
+samundar se nagon ko uthate hue.
+Uske pankhon ki shakti
+tumhari baahon ki taakat jaisi hai.
+
+Tumhari buddhi,
+tumhari veerta,
+tumhari bhakti—
+sab tumhe sabse alag banati hai.
+
+Isliye taiyaar ho jao.
+Tum hi samundar paar kar sakte ho.”
+
+🌸 Hanuman ka janm — maa Anjana ki kahani
+
+Jambavan ne pyar se kaha:
+
+“Tumhari maa Anjana
+pehle ek divya apsara thi—
+Punjika-Sthala.
+Ek shraap ke kaaran
+unhone vanar roop liya.
+
+Woh bahut sundar thi.
+Ek din woh pahad ki choti par
+ek yuva stree ke roop mein ghoom rahi thi.
+
+Tab Vayu Dev ne
+unki peeli saadi udaa di.
+Unki sundarta dekh kar
+Vayu Dev ka mann dol gaya.
+
+Anjana dar gayi aur boli:
+‘Kaun ek pativrat stree ka dharm todna chahta hai?’
+
+Vayu Dev ne kaha:
+‘Ghabrao mat.
+Main tumhe nuksaan nahi dunga.
+Tumhare garbh se
+ek aisa putra paida hoga
+jo shakti, buddhi, gati aur sahas mein
+mere jaisa hoga.’”
+
+Aur wahi putra the—
+Hanuman.
+
+☀️ Bachpan ka adbhut kaam
+
+Jambavan muskurate hue bola:
+
+“Jab tum chhote the,
+tumne suraj ko phal samajh liya.
+
+Tum 1000 yojan upar kud gaye!
+Suraj ki garmi bhi
+tumhe rok nahi paayi.
+
+Tab Indra ne gusse mein
+tum par vajra fenk diya.
+Tum gir pade
+aur tumhari thodi (jaw) chotil ho gayi.
+Isi se tumhara naam pada—
+Hanuman.”
+
+🌬️ Vayu Dev ka krodh aur vardaan
+
+“Jab Vayu Dev ne tumhe gira hua dekha,
+woh bahut gussa ho gaye.
+Unhone poori duniya mein
+hawa chalani band kar di.
+
+Devta ghabra gaye.
+Sab ne milkar Vayu Dev ko shaant kiya.
+
+Tab Brahma ne tumhe vardaan diya—
+tum yudh mein ajey rahoge.
+
+Aur Indra ne bhi kaha:
+‘Tum tab tak nahi maroge
+jab tak tum khud na chaho.’”
+
+🐒 Jambavan ka antim sandesh
+
+Jambavan ne gehri awaaz mein kaha:
+
+“Beta,
+main budha ho gaya hoon.
+Meri shakti ab kam ho chuki hai.
+
+Par tum—
+tum sabse yogya ho.
+Tumhare jaise koi nahi.
+
+Poora vanar dal
+tumhari taraf dekh raha hai.
+Kya tum sabke dukh ko
+aise hi dekhte rahoge?
+
+Utho, Hanuman!
+Apni shakti dikhao.
+Jaise Vishnu ne
+teen kadmon mein trilok naap liya,
+waise hi tum
+is samundar ko paar karo!”
+
+🔥 Hanuman ka badhta hua roop
+
+Jambavan ke shabdon ne
+Hanuman ke dil ko jaga diya.
+
+Hanuman khade hue.
+Unka sharir bada hone laga.
+Aankhon mein tej tha.
+Chehre par vishwas.
+
+Unka roop dekh kar
+sab vanar khush ho gaye.
+Unke dil phir se umeed se bhar gaye.
+
+Ab yeh tay tha—
+Samundar paar hoga.
+Aur Hanuman hi jaayenge. 🌊🐒"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 4.67
     with st.expander("Chapter 4.67 – Hanuman gets ready to leap to Lanka"):
-        text1 = """ """
+        text1 = """ 
+Jaise hi sab vanaron ne dekha
+ki Hanuman samundar paar karne ke liye
+apne sharir ko taiyaar kar raha hai,
+sabki udaasi turant khatam ho gayi.
+
+Vanar zor-zor se chillane lage.
+“Tum mahaan ho, Hanuman!”
+“Tum veer ho!”
+“Tum hi hamari umeed ho!”"""
 
         create_image_text_layout("attached_assets/chapter4/4.67.jpg", text1, layout="side", image_position="left")
 
-        text2 = """ """
+        text2 = """ 
+🌍 Devta bhi hairaan
+
+Sirf vanar hi nahi,
+har lok ke jeev hairaan ho gaye.
+Sab khush hue—
+jaise jab Bhagwan Vishnu ne
+teen kadmon mein
+teenon lok naap liye the.
+
+🦍 Hanuman ka viraat roop
+
+Hanuman ne apna sharir aur bada kar liya.
+Uski poonch khushi se hilne lagi.
+Uski shakti saaf dikh rahi thi.
+
+Woh aise laga
+jaise sher gufa ke muh par
+angdaai le raha ho.
+
+Usne jamhai li.
+Uska muh
+jalti hui agni jaisa chamak raha tha.
+
+Uske rom-rom khade ho gaye.
+Dil mein sirf utsaah tha.
+
+🙏 Buzurgon ko pranam
+
+Hanuman ne sab buzurg vanaron ko pranam kiya
+aur garv se bola:
+
+“Main Vayu Dev ka putra hoon.
+Wahi Vayu jo pahaadon ko tod deta hai.
+Jo agni ka mitra hai.
+Jo poori duniya mein ghoomta hai.
+
+Main Meru Parvat ke
+hazaar chakkar bina ruke laga sakta hoon.
+Main apni baahon se samundar ko hila sakta hoon.
+Main apne pairon se
+Varun ke samundar ko uchaal sakta hoon.
+
+Main Garuda ke saath bhi
+daud laga sakta hoon.
+Main suraj tak jaa kar
+wapas aa sakta hoon
+bina dharti ko chhuye.”
+
+⚡ Aasman ka veer
+
+Hanuman bolta raha:
+
+“Main taaron aur grahon se aage ja sakta hoon.
+Main pahadon ko tod sakta hoon.
+Main samundar ko sukha sakta hoon.
+
+Aaj jab main udunga,
+toh ped-paudhon ke phool
+mere saath udd jayenge.
+Mera raasta
+Akash Ganga jaisa lagega.
+
+Log mujhe upar-neeche
+aasman mein ghoomte dekhenge.
+Bijli ki tarah
+main pal bhar mein ud jaaunga.”
+
+🌸 Sita ka vishwas
+
+Hanuman ne kaha:
+
+“Mera dil kehta hai—
+main Sita mata ko zaroor dhoondh lunga.
+
+Main hawa ki tarah tez hoon.
+Garuda jaisa fast hoon.
+Main Lanka ko ulta-pulta kar dunga
+aur wapas laut aaunga.”
+
+Uski garajti awaaz sun kar
+sab vanar khushi se bhar gaye.
+
+🐻 Jambavan ka aashirvaad
+
+Jambavan khushi se bola:
+
+“Veer Hanuman!
+Tumne sabki chinta door kar di.
+
+Rishiyon ka aashirvaad tumhare saath hai.
+Buzurgon ki anumati tumhare saath hai.
+Guruon ka vardaan tumhare saath hai.
+
+Tum jao.
+Hum sab ek pair par khade hokar
+tumhara intezaar karenge.
+Poore vanar-lok ki zindagi
+ab tum par nirbhar hai.”
+
+🏔️ Mahendra Parvat se udaan
+
+Hanuman ne kaha:
+
+“Main Mahendra Parvat se chhalaang lagaunga.
+Yeh pahaad
+mera bojh sambhaal lega.”
+
+Woh phoolon se bhare,
+hiranon, sheron, haathiyon se bhare
+us vishaal pahaad par chadh gaya.
+
+Jaise hi usne kadam rakhe,
+pahaad garaj utha.
+Chattanon se paani behne laga.
+Janwar darr kar bhaagne lage.
+Ped hilne lage.
+
+Gandharva bhaag gaye.
+Pakshi udd gaye.
+Naag apni bilon mein chhup gaye.
+
+Pahaad kaanp utha—
+jaise sher ne haathi par hamla kar diya ho.
+
+🌊 Man se Lanka pahunch gaya
+
+Aur woh veer vanar,
+tej, shakti aur sankalp se bhara,
+mann hi mann Lanka pahunch chuka tha.
+
+Yahin Kishkindha Kand samaapt hota hai.
+Aur yahin se shuru hoti hai
+Hanuman ki mahaan yatra 🌊🐒🔥"""
         create_image_text_layout(text_content=text2, layout="full")
 
