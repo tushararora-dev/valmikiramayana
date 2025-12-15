@@ -1422,101 +1422,1867 @@ unhe milegi—
     # Chapter 5.11
     with st.expander("Chapter 5.11 – Hanuman sees the grand dining hall"):
         text1 = """
-        """
+        Chapter 11: Bhoj–Sabhā (Banqueting Hall) ka Varṇan
+
+🕉️ Hanumān ji ka vichār-parivartan
+
+Sītā ke baare mein pehle jo bhram aaya tha, use chhodkar Mahābalī Hanumān ne socha—
+
+“Rām se bichhudi hui wo pavitra nārī
+na to sukh se soyegi,
+na bhojan karegi,
+na shṛṅgār;
+aur Indra jaise Devon ke rājā ko bhi svīkār na karegi.
+Rām ka tulya koi Dev-lok mein bhi nahin.
+Isliye yeh Sītā nahi ho sakti—yeh koi aur hai.”
+
+Is nishchay ke saath, Sītā ko dhoondhne ke liye Hanumān fir se Bhoj–Sabhā ki talāsh mein lage."""
         create_image_text_layout("attached_assets/chapter5/5.11.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🍷 Bhoj–Sabhā ka drishya
+
+Vahān—
+
+ḍhol, mṛdaṅg, celikā par tik kar
+
+ya komal palangon par letī hui
+
+gānā–vādan, nṛtya aur madirā se thakī hui
+hazāron sundar striyān gahrī nidrā mein so rahi thīn।
+
+Kuch—
+
+apni–apni sundartā par charchā karte hue so gayīn,
+
+kuch gāyan–kalā par tark karte hue,
+
+kuch samay–sthān ki samajh rakhne wali, avsar-vivek par baat karte hue,
+
+aur kuch keval hās–vinod mein magn hokar nidrā ko prāpt ho chukī thīn।
+
+In sab ke beech Rāvaṇ,
+jaise gāyon se ghirā hua ek balvān bail,
+ya van mein māda hāthiniyon ke madhya ek mahā-gaj,
+shobhā pā raha tha.
+
+🍖 Bhojan aur Vilās
+
+Hanumān ne dekha—
+
+bhains, hiran, bhalū ka māṁs alag-alag thālon mein,
+
+mor, murghā sone ke patraon par,
+
+suar, machhli, bakrī, khargosh, dahi aur namak ke saath pakāye hue,
+
+kuch bhojan adha khāya hua, kuch bilkul chhua bhi nahi gaya.
+
+🍶
+
+uttam madirā,
+
+phalon–phoolon se bani madhur pey,
+
+sugandhit dravyaon se taiyār ki hui sharāb.
+
+💎
+
+sone ke pyāle, ratnon se jadit madirā–kalash,
+
+kahin poore bhare, kahin aadhe, kahin bilkul khaali.
+
+🌸
+
+phal chhote patraon mein sajāe gaye,
+
+phool bikhre hue,
+
+gehne aur payal idhar–udhar pade hue,
+
+aur poori sabhā agni ke saman chamak rahi thi।
+
+😴 Sundar striyon ka nidrā–drishya
+
+Kahin—
+
+khali palang,
+
+kahin ati-sundar yuvatiyān ek–dusre ko baahon mein bhare hue so rahi thīn।
+
+Ek yuvati ne—
+
+doosri ki razāī chheen kar
+
+usi mein lipat kar nidrā le li thi।
+
+Unki shwās itni komal thi
+ki vastron ya mālāon ko keval sparsh kar rahi thi—
+jaise hawa unhein sneh se chhoo rahi ho.
+
+Sugandhit chandan,
+madhur sidhu,
+phool–mālā,
+dhūp aur lepan—
+sab milkar Pushpak Viman aur poore bhavan ko mahkā rahe the।
+
+Striyān—
+
+kuch śyām varṇ,
+
+kuch kanchan–svarṇ jaise rang ki,
+
+sab vilās se thak kar soye hue kamalon si lag rahi thīn।
+
+❌ Sītā ka abhaav aur Hanumān ka dharm–chintan
+
+Parantu—
+
+👉 Janak–nandini Sītā kahin bhi nahin milī.
+
+Sab ke chehron ko dekh lene ke baad Hanumān ke man mein chintā hui—
+
+“Kya main apne kārya mein asafal to nahi ho gaya?”
+
+Fir ek aur vichār aaya—
+
+“Doosre ki patnī ko sote hue dekhna
+nishchit hi dharm–viruddh hai.
+Yeh mera uddeshya kabhi nahi tha.
+Par yeh sab to Rāvaṇ ki patniyān hain—
+jisne swayam par–striyon par drishti dali hai.”
+
+🧠 Antim Vivek aur Atma–shuddhi
+
+Tab buddhimān Hanumān ne apne man ko parakhā—
+
+“Main in sab ko bina unke gyaan ke dekh aaya,
+par mere man mein ratti bhar bhi vikār nahi aaya.
+Man hi indriyon ka mool hai—
+aur mera man sthir aur pavitra hai।
+
+Sītā ko dhoondhne ka aur koi upāy bhi nahi tha.
+Nārī ko nāriyon mein hi khoja jātā hai—
+jaise hiran ko hiranon mein,
+nārī ko mṛgon mein nahi.
+
+Isliye pavitra hriday se
+main Rāvaṇ ke antahpur tak gaya,
+par Sītā yahān nahi hai.”
+
+Dev, Dānav aur Nāg–kanyāon ke chehre dekh kar bhi
+jab Sītā nahi milī,
+to Hanumān Bhoj–Sabhā chhod kar
+anya disha mein talāsh karne lage।
+
+🌼 Adhyāy 11 ki Seekh
+
+Kartavya ke liye shuddh drishti avashyak hai
+
+Sharīrik drishya se adhik man ki shuddhata mahatvapurn hai
+
+Dharm aur uddeshya pavitra ho to kārya bhi pavitra hota hai
+
+Satya ki khoj mein dridhta aur vivek hi margdarshak hain
+
+🌙 Chapter 11 yahin samāpt hota hai 🌙"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.12
     with st.expander("Chapter 5.12 – Hanuman feels sad and worried"):
         text1 = """
-        """
+        Chapter 12: Hanumān ka Udaas ho jana
+
+🏰 Antahpur mein antim talāsh
+
+Rāvaṇ ke mahal ke andar hi ruk kar
+Hanumān ji ne fir se khoj shuru ki.
+
+bagīche dekhe
+
+galleries dekhi
+
+sone ke kamre dekhe
+
+Par Sītā kahin bhi nazar nahi aayi.
+Na wo sundar, shaant aur pavitra nārī.
+
+Tab Hanumān ke man mein bhārī vichār aaye।"""
         create_image_text_layout("attached_assets/chapter5/5.12.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😔 Man ke andheron mein uthte vichār
+
+Hanumān ne socha:
+
+“Itni mehnat ke baad bhi
+agar main Mithilā ki betī ko nahi paaya,
+to shayad Sītā ab jeevit hi nahi hai.
+
+Shayad usne apni maryādā bachāne ke liye
+Rāvaṇ ke haathon prāṇ tyāg diye.
+Ya phir us bhayānak rākshasiyon ko dekh kar
+uska hriday toot gaya ho.
+
+Meri saari shakti, meri saari veerta
+vyarth chali gayi.”
+
+Uska man aur bhi bhārī ho gaya.
+
+⚖️ Sugrīva aur vānar–senā ka bhay
+
+Hanumān ne aage socha:
+
+“Main Sugrīva ke saamne
+kaise jaaun?
+Jo kathor dand deta hai.
+
+Sab vānar mujhse poochhenge—
+‘Samudra paar jaakar
+kya laakar diye tum?’
+
+Main kya uttar dunga?
+‘Main Sītā ko nahi dhoondh paaya’?”
+
+Yeh soch kar
+Hanumān ka hriday kamp utha.
+
+🔥 Tyāg ka vichār, par dhairya ki yaad
+
+Ek pal ke liye
+unhone socha:
+
+“Shayad upvaas karke
+prāṇ tyāg dena hi uchit hai.”
+
+Par turant hi
+ek aur shuddh vichār aaya—
+
+“Parishram hi safalta ki jad hai.
+Dhairya hi samriddhi ki jad hai.
+Aur lagan se hi param sukh milta hai.
+
+Jab tak saans hai,
+tab tak prayās chhodna paap hai.”
+
+🔍 Antim aur poori talāsh ka sankalp
+
+Hanumān ne nishchay kiya:
+
+jo sthaan chhoot gaye hain, unhe dekhunga
+
+jo pehle dekhe the, unhe dobāra dekhunga
+
+Unhone talāsh ki:
+
+bhoj–sabhā
+
+udyān
+
+khel–mandap
+
+aangan
+
+ghar
+
+sadak
+
+gali
+
+rath
+
+Ek–ek kona.
+Chaar ungli jitni jagah bhi nahi chhodi.
+
+👹 Darāwani drishya, par Sītā nahi
+
+Hanumān ne dekhi—
+
+bhayānak rākshasiyan
+
+vikrit sharīr
+
+bhayanak chehre
+
+Unhone dekhi—
+
+Vidyādharon ki patniyan
+
+Nāg–kanyāyen,
+jinke mukh poorn chandrama jaise chamak rahe the
+
+Par Sītā kahin nahi thi.
+
+Na Rāghav ki priya.
+Na Janak–nandini.
+
+🌧️ Gehri niraasha
+
+Itni sundar striyon ke beech bhi
+jab Sītā nahi mili,
+to Hanumān ka hriday toot sa gaya.
+
+Unhe laga—
+
+“Sab vānar–veeron ka parishram
+aur mera samudra laanghna
+sab vyarth ho gaya.”
+
+Is bhār ke saath
+Hanumān Pushpak Viman se neeche utar aaye.
+
+🌑 Udaasi ka andhera
+
+Ab—
+
+chehra gambhir tha
+
+man bhaari tha
+
+aatma udaas thi
+
+Pavan–putra Hanumān
+gehri soch mein doob gaye.
+
+🌙
+Is adhyāy ke saath
+Hanumān ki sabse badi parīkshā shuru hoti hai—
+jab sab kuch andhera lagta hai,
+tab bhi ummeed ko zinda rakhna।
+
+✨ Is Adhyāy ki Seekh
+
+Asafalta ke baad bhi prayās chhodna nahi chahiye
+
+Dhairya hi veerta ka sachcha roop hai
+
+Andhere ke baad hi ujaala aata hai
+
+Jo rukta nahi, wahi jeetta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.13
     with st.expander("Chapter 5.13 – Hanuman feels confused and troubled"):
         text1 = """
-        """
+        Chapter 13: Hanumān ka Mahā-Dwand (Dilemma)
+
+🌩️ Diwāron par utarte hue Hanumān
+
+Pushpak Vimaan se ramparts par utarte hue
+Hanumān ji bijli ki chamak jaise lag rahe the.
+
+Par unka mann…
+andhere se ghira hua tha.
+
+Unhone socha:
+
+“Main ne poori Lankā ko baar-baar chhaan maara,
+par Janak-nandini Sītā kahin nahi mili.
+
+Jatayu ke bhai Sampāti ne kaha tha
+ki Sītā Rāvaṇ ke mahal mein hai,
+par main use dekh nahi paaya—
+yeh kaise ho sakta hai?”"""
         create_image_text_layout("attached_assets/chapter5/5.13.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😟 Bhayānak sambhāvanāyen
+
+Hanumān ke mann mein ek-ek kar
+bhayānak vichār ubharne lage:
+
+Kahin Sītā ne Rāvaṇ ke bhay se prāṇ to nahi tyāg diye?
+
+Kahin samudra ke upar le jaate samay
+Rāvaṇ ke pakad se chhoot kar jal mein gir to nahi gayi?
+
+Kahin us dusht ne Sītā ko maar diya ho?
+
+Ya phir kisi andhere kaid-khaane mein band kar diya ho?
+
+Par ek baat par unka vishwās atal tha:
+
+“Rāma ki patnī
+kabhi Rāvaṇ ko sweekār nahi kar sakti.”
+
+⚖️ Satya bolun ya chhupāun?
+
+Tab sabse kathin prashn saamne aaya:
+
+“Agar main Rāma se kahun
+ki maine Sītā ko nahi paaya—
+to yeh unke liye prāṇ-ghātak hoga.
+
+Par agar main satya chhupaun—
+to woh bhi adharma hai.
+
+Main kya karun?”
+
+Hanumān uljhan mein pad gaye.
+
+💔 Ek samachar jo sab kuch tod de
+
+Unhone kalpanā ki:
+
+Rāma Sītā ka naam sunkar prāṇ tyāg denge
+
+Lakshmaṇ bhai ke bina jee nahi paayenge
+
+Bharata aur Shatrughna bhi jeevan chhod denge
+
+Teenon raniyaan—Kaushalyā, Sumitrā, Kaikeyī—
+apne putron ke shok mein mar jaayengi
+
+Sugrīva apne mitra ke dukh mein prāṇ de dega
+
+Ruma, Tārā, Angad—sab vināsh ki ore badh jaayenge
+
+Puri vānar-senā nashṭ ho jaayegi
+
+“Meri ek asafal yātrā
+poori srishti ka vināsh ban jaayegi.”
+
+🔥 Maut ya Asha?
+
+Hanumān ne socha:
+
+“Agar main laut jaaun bina Sītā ke,
+sab mar jaayenge.
+
+Agar main yahin ruk jaun,
+toh kam se kam asha zinda rahegi.”
+
+Unhone apne mann mein do raaste dekhe:
+
+Aatma-tyāg
+
+Antim prayās
+
+Par turant hi buddhi boli:
+
+“Jab tak jeevan hai,
+safalta sambhav hai.
+
+Jeevit rehne mein hi
+Rāma–Sītā ke milan ki sambhāvanā hai.”
+
+⚔️ Veerta ka sankalp
+
+Hanumān ne dridh nishchay kiya:
+
+“Ya toh main
+Rāvaṇ ko maar dunga,
+ya use ghaseet kar Rāma ke saamne laaunga.
+
+Par bina Sītā ko paaye
+main Lankā chhod kar nahi jaaunga.”
+
+🌳 Ashok Vatika ka smaran
+
+Tab unhe yaad aaya:
+
+“Ek sthaan abhi baaki hai—
+Ashok Vatika.
+
+Woh pavitra van
+jahan dukh ko bhi shanti milti hai.
+
+Shayad wahin
+Rāma ki priya ho.”
+
+🙏 Devtaon se prārthanā
+
+Hanumān ne sab devtaon ko pranām kiya:
+
+Rāma aur Lakshmaṇ
+
+Pavan Dev
+
+Agni, Chandra, Surya
+
+Indra, Varuṇ, Marut
+
+Rishiyon aur sab adrisht shaktiyon ko
+
+“Mujhe safalta do,
+mujhe Sītā tak pahunchāo.”
+
+🐒 Laghu roop aur gupt yātrā
+
+Hanumān ne apna roop bahut chhota kar liya:
+
+“Ashok Vatika mein
+kathor rākshas pahre par honge.
+
+Gupt rehna hi
+Rāma ki seva hai.”
+
+🌸 Antim prashn, jo hriday se nikla
+
+Aur unke mann se nikla ek hi sawāl:
+
+“Kab main us pavitra rani ko dekhunga—
+jinke daant motiyon jaise,
+jinki muskaan chandrama jaisi,
+aur jinki aankhen kamal-patra si hain?
+
+Woh komal, pavitra nari
+mujhe kaise milegi?”
+
+🌿 Adhyāy ka Saar
+
+Dharm aur kartavya ke beech ka dwand
+
+Asha ka diya jo andhere mein bhi jalta hai
+
+Hanumān ka sachcha veer roop—
+jo toot kar bhi haar nahi maanta
+
+🌙 Chapter 13 yahin samāpt hota hai 🌙"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.14
     with st.expander("Chapter 5.14 – Hanuman reaches the Ashoka garden"):
         text1 = """
-        """
+        Chapter 14: Ashok Vatika
+
+🧘‍♂️ Thoda ruk kar, mann ko shant karke…
+
+Thodi der dhyān karke,
+Hanumān ji ka mann phir Sītā ji ke khayal mein jud gaya.
+
+Aur phir—
+ek zordaar chhalaang!
+
+Woh rampart se kood kar
+Ashok Vatika ki deewar par aa khade hue.
+Unka hriday khushi se kaanp raha tha."""
         create_image_text_layout("attached_assets/chapter5/5.14.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌼 Basanti bahaar ka adbhut drishya
+
+Wahan basant ritu thi.
+Har taraf ped, phool aur khushboo thi।
+
+Hanumān ji ne dekha:
+
+Ashok, Champa, Aam, Kadamb, Nagkesar jaise ped
+
+Lataon mein lipte hue sau-sau bel
+
+Rang-birange phool jo hawa mein jhoom rahe the
+
+Phir woh teer ki tarah
+seedhe Ashok Vatika ke andar utar gaye.
+
+Yeh bagicha
+ugte hue suraj jaisa chamak raha tha।
+
+🐦 Pakshiyon ka sangeet, prakriti ki muskaan
+
+Har taraf:
+
+Pakshiyon ki madhur awaaz
+
+Madhumakhiyon ki gunjan
+
+Moron ki pukaar
+
+Hiran aur pakshi shanti se ghoom rahe the
+
+Sab jeev khush lag rahe the.
+
+Yeh dekh kar
+dekhne wale ka dil bhi khil jaata tha 🌷
+
+🌺 Phoolon ki baarish
+
+Hanumān ji jab aage badhe,
+toh sote hue pakshi ud gaye.
+
+Unke pankhon ki hawa se
+phoolon ki baarish hone lagi 🌸🌸
+
+Rang-birange phool
+Hanumān ji par girne lage.
+
+Aisa lag raha tha jaise
+phoolon se dhaka hua ek parvat chal raha ho.
+
+Sab jeev sochne lage:
+
+“Yeh to Basant Dev khud aa gaye hain!”
+
+🌳 Haste hue ped, jhoomti dharti
+
+Ped hil rahe the,
+phool, patte aur phal gir rahe the.
+
+Kuch ped aise lag rahe the
+jaise sab kuch haar chuke hon 😄
+
+Ashok Vatika ka drishya
+aisa tha jaise—
+
+“Ek yuva nari,
+jiske baal bikhre ho gaye ho,
+par phir bhi sundar ho.”
+
+💎 Sone–chandi ke talab
+
+Aage badhte hue
+Hanumān ji ne dekha:
+
+Sone aur chandi se bane raaste
+
+Sheeshe jaise saaf talab
+
+Kinare par motiyon, moongon aur ratnon ki seedhiyaan
+
+Kamal aur kumud se bhare jalashay
+
+Hans, batakh aur pakshi
+un talabon ki shobha badha rahe the।
+
+🏞️ Pahaad aur behte jharne
+
+Phir unhone dekha
+ek sundar pahaad—
+badalon jaisa chamakta hua ☁️
+
+Us pahaad se
+ek nadi beh rahi thi।
+
+Woh nadi aisi lag rahi thi
+jaise koi yuva kanya
+apne priya se rooth kar ja rahi ho…
+aur phir thodi door jaakar
+maan kar wapas aa rahi ho 💞
+
+🌳 Shingshapa vriksh — vishesh drishya
+
+Sabse aakhir mein
+Hanumān ji ne dekha—
+
+ek akela, sunehra Shingshapa ped 🌳✨
+Uske chaaron taraf
+sone ka chabutra tha।
+
+Ped ke patte aur phool
+hawa mein hil rahe the,
+aur aisi awaaz aa rahi thi
+jaise gehne khanak rahe ho।
+
+Hanumān ji hairaan reh gaye।
+
+🐒 Ped par chadh kar, aas lagaye hue
+
+Hanumān ji turant
+us Shingshapa ped par chadh gaye
+aur mann mein socha:
+
+“Yahin se shayad
+main Vaidehi Sītā ko dekh paun.
+
+Woh dukhi nari
+jo Rāma ke bina ro rahi hogi.
+
+Yeh Ashok Vatika
+unke rehne ke yogya hai.
+
+Jo van mein ghoomne ki aadat wali thi,
+woh yahin zaroor aayegi.
+
+Jo jeevon se prem karti thi,
+woh is nadi ke paas pooja ke liye aayegi.”
+
+🌙 Antim vishwas
+
+Hanumān ji ne socha:
+
+“Agar Sītā ji zinda hain,
+toh woh yahin aayengi.
+
+Is shant, pavitra jagah par.”
+
+Yeh soch kar
+Hanumān ji ped ke patton aur phoolon mein chhup gaye
+aur poori Vatika ko
+chupchaap dekhne lage 👀🌸
+
+🌿 Adhyāy ka Saar
+
+Ashok Vatika = asha aur shanti ka sthal
+
+Prakriti bhi Sītā ji ke dukh ko mehsoos karti hai
+
+Hanumān ka dhairya aur vishwas ab aur majboot ho chuka hai
+
+🌼 Chapter 14 yahin samāpt hota hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.15
     with st.expander("Chapter 5.15 – Hanuman sees Sita for the first time"):
         text1 = """
-        """
+        Chapter 15: Hanumān ne Sītā ko dekha
+
+🐒 Ped par baithe Hanumān
+
+Shingshapa ped par baithe hue,
+Hanumān ji chaaron taraf dhyaan se dekh rahe the.
+
+Unki aankhen
+sirf Sītā ko dhoondh rahi thi 👀
+
+Poora Ashok Vatika
+swarg jaise lag raha tha—
+
+Lataon se lipte ped
+
+Phoolon ki sugandh
+
+Koyal ki madhur awaaz
+
+Sone jaise kamal, chandi jaise kumud
+
+Sab kuch Nandan Van jaisa sundar tha 🌿✨"""
         create_image_text_layout("attached_assets/chapter5/5.15.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌳 Ashok Vatika ki adbhut shobha
+
+Ashok ke ped phoolon ke bojh se jhuk rahe the.
+Aisa lag raha tha
+jaise jad tak phool hi phool ho 🌸
+
+Kimshuk, Karnikar, Champa, Punnag—
+sab ped aag jaise chamak rahe the.
+
+Pura vatika
+jaise doosra swarg ho.
+
+🏛️ Ek divya mandir
+
+Tab Hanumān ji ki nazar padi
+ek safed mandir par.
+
+Kailash parvat jaisa safed
+
+Hazaar stambhon par tika hua
+
+Moonga jaise seedhiyaan
+
+Sone jaise farsh
+
+Mandir itna uncha tha
+jaise aasmaan ko choo raha ho 🌕
+
+😔 Aur tab… woh drishya
+
+Achaanak…
+
+Hanumān ji ne dekha
+ek stri.
+
+Woh—
+
+Maili si peeli saadi mein thi
+
+Bahut dubli ho chuki thi
+
+Aas-paas rakshasiyan khadi thi
+
+Baar-baar gehri saansein le rahi thi
+
+Uski chamak
+ab dhuaan mein ghiri lau jaisi lag rahi thi 🔥💨
+
+🌙 Dukh mein doobi sundarta
+
+Woh bina gehno ke thi.
+Bilkul aise
+jaise kamal bina phool ke.
+
+Aankhon se aansu beh rahe the 😢
+Chehra udaas tha.
+
+Woh aisi lag rahi thi
+jaise hirni shikariyon ke beech phans gayi ho.
+
+Uske lambe kaale baal
+peeche latak rahe the—
+jaise baarish ke mausam ki kaali dharti 🌧️
+
+💔 Hanumān ka hriday kaanp utha
+
+Hanumān ji ne use dekha
+aur mann mein socha:
+
+“Yeh wahi hai…
+yeh hi Sītā hai.”
+
+Uska chehra
+ab bhi poornima ke chaand jaisa tha 🌕
+
+Bhale hi dukh ne use kamzor kar diya ho,
+par garima aur pavitrata ab bhi saaf dikh rahi thi।
+
+🌺 Sītā ki pehchaan
+
+Hanumān ji ne dhyaan diya—
+
+Kamal jaise netra
+
+Bimba jaise honth
+
+Patli kamar
+
+Shant aur maryada bhari baithak
+
+Woh dharti par baithi thi,
+jaise tapasyā kar rahi ho 🙏
+
+Uska dukh
+jaal ki tarah uski sundarta ko dhak raha tha।
+
+🧠 Nishchay
+
+Hanumān ji ne mann hi mann kaha:
+
+“Rāma ne jaisa varnan kiya tha,
+yeh wahi nishaniyaan hain.
+
+Jo gehne raste mein gira diye the,
+woh yahan nahi.
+
+Par jo bachaye the,
+woh ab bhi uske sharir par hain.”
+
+Uski saadi purani thi,
+par rang ab bhi chamak raha tha—
+bilkul uski apni roshni jaisa ✨
+
+❤️ Rāma–Sītā ka bandhan
+
+Hanumān ji ne socha:
+
+“Yahi woh hai
+jiske liye Rāma dukh mein jee rahe hain.
+
+Prem, daya, shok aur virah—
+sab isi ke liye.”
+
+Dono ek-doosre ke sahare jee rahe the.
+Ek ke bina doosra
+shayad zinda na reh paata 💞
+
+🙏 Mann hi mann pranām
+
+Sītā ko dekh kar
+Hanumān ji ka hriday bhar aaya 😌
+
+Unhone mann hi mann:
+
+Rāma ko pranām kiya
+
+Sītā ko pranām kiya
+
+Aur kaha:
+
+“Mera kaam safal ho gaya.”
+
+🌼 Chapter 15 ka Saar
+Hanumān ne akhirkaar Sītā ko dekh liya
+
+Dukh mein bhi Sītā ki pavitrata aur gaurav chamak raha tha
+
+Hanumān ka vishwas aur kartavya aur majboot ho gaya"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.16
     with st.expander("Chapter 5.16 – Hanuman thinks deeply after seeing Sita"):
         text1 = """
-        """
+        Chapter 16: Sītā ko dekhkar Hanumān ke vichār
+
+🙏 Mann hi mann pranām
+
+Sītā ko dekhkar
+aur man hi man Rāma ko pranām karke,
+vanaron mein shreshṭh Hanumān
+fir se gehre vichār mein doob gaye।
+
+Unki aankhon mein aansu the 😢
+aur hriday karunā se bhar aaya tha।"""
         create_image_text_layout("attached_assets/chapter5/5.16.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🕊️ Bhāgya ke aage kaun jeet sakta hai?
+
+Hanumān ji ne socha:
+
+“Bhāgya ke bal ko kaun taal sakta hai?
+Dekho, Lakṣmaṇ ke bade bhai,
+maryādā puruṣ Rāma ki patnī Sītā
+aaj is dukh ko jhel rahi hain.”
+
+Phir unhone mann hi mann kaha:
+
+“Rāma aur Lakṣmaṇ ke parākram ko jaankar bhi
+yeh devī bilkul vyākul nahi hain—
+jaise varṣā ke aane par
+Ganga kabhi ghabrāti nahi.”
+
+👑 Rāma aur Sītā — ek-doosre ke yogya
+
+Hanumān ji ne nishchay kiya:
+
+“Kul, svabhāv, ācharaṇ aur āyu—
+har roop se Rāma aur Sītā barābar hain।
+Rāghava hi Vaidehī ke yogya hain
+aur Vaidehī hi Rāma ke.”
+
+Sītā ki chamak
+ab bhi naye sone jaisi thi ✨
+bilkul Lakṣmī devī ke samaan.
+
+🔥 Sītā ke liye hue maha-yuddh
+
+Hanumān ji ne Rāma ke saare parākram yaad kiye:
+
+Sītā ke liye Bāli ka vadh hua
+
+Kabandh maara gaya
+
+Vīrādha van mein gira
+
+Janasthān mein 14,000 rākṣas jale
+
+Khara, Dūṣaṇa, Triśirā— sab ka ant
+
+Sugrīv ko Bāli ka rajya mila
+
+Aur samudra bhi paar kiya gaya 🌊
+
+Hanumān bole:
+
+“Agar Rāma Sītā ke liye
+poori dharti ko ulat dete,
+toh bhi woh uchit hota!”
+
+🌍 Teen lok vs. Sītā
+
+Hanumān ka vichār aur gehra ho gaya:
+
+“Agar ek taraf teenon lok ka raj ho
+aur doosri taraf Janak-nandini Sītā—
+toh teenon lok
+Sītā ke ek ansh ke bhi barābar nahi!”
+
+Woh dharti se utpann hui thi—
+hal ki rekha se
+kamal ke parāg jaisi dhool se nikli hui 🌾🌸
+
+Woh Dasharath ki badi bahu,
+veer aur dhairya se bhari,
+kabhi peechhe na hatne wali.
+
+🌲 Van ko mahal samajhne wali patnī
+
+Hanumān bole:
+
+“Rāma ke prem mein
+Sītā ne sab sukh tyāg diye।
+
+Mahal chhodkar
+phal-mool par jeena
+unhe kisi rajya se kam na laga।
+
+Pati-sevā hi unka sukh tha।”
+
+Par aaj—
+
+Kanaka jaise ang wale
+
+sada muskurane wali
+
+wahi Sītā
+akalpaniya dukh jhel rahi hai 💔
+
+💧 Virah ka dard
+
+Hanumān ne socha:
+
+“Rāma unke darshan ke liye
+pyāse vyakti jaise tadap rahe hain।
+
+Sītā mil jaaye
+toh Rāma ka sukh
+gire hue rajya ke wapas milne jaisa hoga.”
+
+Sītā—
+
+Sab se door
+
+Sab sukh se vanchit
+
+Sirf Rāma ki āsha mein jee rahi thi
+
+🌙 Rāma ke bina shobha bhi feeki
+
+Hanumān bole:
+
+“Stri ka sabse bada gehna
+uska pati hota hai।
+
+Rāma ke bina
+itni sundar hote hue bhi
+Sītā ki shobha feeki pad gayi hai।”
+
+Aur Rāma—
+
+“Sirf apni veertā ke bal par
+jeevit hain,
+varna virah ka dukh
+kisi aur ko jeene na deta।”
+
+🌧️ Karun drishya
+
+Sītā—
+
+Prithvi jaisi sahanśīl
+
+Kamal netron wali
+
+Kabhi Rāma–Lakṣmaṇ se surakshit
+
+Aaj ped ke neeche baithi
+
+bhayānak rākṣasiyon se ghirī hui 😔
+
+Hanumān bole:
+
+“Jaise palaa se kata kamal,
+waise hi Sītā
+vipattiyon ki varṣā mein murjha rahi hain।
+
+Jaise jhund se bichhdi hirni,
+waise hi woh akeli pad gayi hain।”
+
+Ashok ke phool,
+basant ka chand—
+sab kuch unke dukh ko
+aur badha raha tha 🌸🌕
+
+🧠 Antim nishchay
+
+Yeh sab soch kar
+veer Hanumān poori tarah nishchit ho gaye—
+
+“Yeh Sītā hi hain.”
+
+Aur woh
+Shingshapa ped par chupchaap
+sthir ho kar baith gaye 🌳
+— sahi samay ka intezaar karte hue।
+
+🌼 Chapter 16 ka Saar
+
+Hanumān ne Sītā ke dukh ko gehra mehsoos kiya
+
+Sītā ke liye Rāma ke sab parākram yaad aaye
+
+Rāma–Sītā ke prem aur maryādā par unka vishwas aur pakka ho gaya
+
+Ab Hanumān agla kadam sochenge…"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.17
     with st.expander("Chapter 5.17 – Hanuman sees the demon women guarding Sita"):
         text1 = """
-        """
+        Chapter 17: Sītā ki Rakṣā karne wālī Rākṣasiyān ka Bhayānak Varnan
+
+🌕 Chandramā ka uday
+
+Us samay nirmal, shvet kamal jaisa chandramā
+nirdosh aakash mein uday hua।
+Woh neele jal par tairte hue hans ke samaan
+aakash-mandal mein vicharan kar raha tha।
+
+Jaise Hanumān ki sahāyata ke liye hi,
+us shītल chandrika ne
+Pavan-putra Hanumān ko
+apni thandi roshni se dhak liya ✨"""
         create_image_text_layout("attached_assets/chapter5/5.17.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        💔 Dukh se jhuki hui Sītā
+
+Chandni mein Hanumān ne dekha—
+
+Sītā, jinka mukh chandramā ke samaan tha,
+aaj dukh ke bojh se dabi hui
+us naav jaisi lag rahi thi
+jo lehron mein doobne wali ho।
+
+Unhe dekhkar
+Maruti ka hriday aur bhi karun ho utha।
+
+👹 Bhayanak Rākṣasiyān ka darśan
+
+Hanumān ne dekha ki
+Sītā se thodi door
+kai bhayanak rākṣasiyān pahra de rahi hain—
+
+Kisi ki ek hi aankh ya ek hi kaan
+
+Kisi ke kaan hi chehre ko dhak rahe the
+
+Kisi ke maathe par naak
+
+Kisi ke bahut bade sir aur lambe gale
+
+Kisi ke baal itne kam, kisi ke itne zyada
+jaise kambal lapeta ho
+
+Kuchh—
+
+Tedhi–medhi
+
+Kubdi
+
+Buni
+
+Baune
+
+Gande baalon wali
+
+Aankhen laal, chehra bhayankar 😨
+
+🐗 Pashu-sadrish roop
+
+Kuch rākṣasiyān—
+
+Bhalu ki naak, hirni ka muh
+
+Sher, oont, bhains, bakri, giddh jaise chehre
+
+Kisi ke hathi, ghode, oont ke pair
+
+Kisi ke sir seene mein dhanse hue
+
+Kisi ke—
+
+Ek hi haath ya ek hi pair
+
+Gadhe, ghode, gai, bandar jaise kaan
+
+Hathi jaisi soondh-nāk
+
+Ya naak hi nahi
+
+Sach mein,
+unko dekhkar ronte khade ho jaane wale the 😖
+
+⚔️ Khoon aur madira se bhari rakṣā
+
+Woh sab—
+
+Bhale, gadaa, hathode pakde hue
+
+Jhagda-priya, krodhi
+
+Hamesha madira aur maans ka sevan karne wali
+
+Unke sharir khoon se sane hue
+
+Woh sab
+us bahu-shakhā wale ped ke chaaron or
+ghera banaye baithi thi
+jiske neeche Janak-nandini Sītā thi।
+
+🌸 Sītā ka karun saundarya
+
+Hanumān ne dekha—
+
+Sītā—
+
+Apni tej se rahit
+
+Dukh se jali hui
+
+Dhool se bhare hue baalon wali
+
+Jaise punya-kshaya ke baad gira hua tara ✨➡️🌍
+
+Vishv-vikhyāt pativrata hone par bhi
+unke milan ki aasha bahut kam lag rahi thi।
+
+🌑 Upamāon se bhara drishya
+
+Hanumān ke man mein upamāen utri—
+
+Jhund se bichhdi hathini, jis par sher ne aakraman kiya ho
+
+Varsha ke ant mein badalon se dhaki chandni
+
+Bina chhede rakha hua veena
+
+Keechad se lipta kamal 🌸
+
+Ashok Vatika ke beech,
+rākṣasiyon se ghiri hui Sītā
+Rohini nakshatra jaise lag rahi thi
+jise Rahu nigalne ko tatpar ho।
+
+🪷 Sundarta ke pare pavitrata
+
+Haan—
+unke vastra phate hue the,
+saundarya dhundhla gaya tha—
+
+Par—
+
+🔥 Unki aatma ab bhi divya thi
+
+Kyoki—
+
+Unka man Rāma ke yash mein sthir tha
+
+Unki rakṣā unke apne charitra ne ki
+
+Yahi unki asli shakti thi 💎
+
+😭 Hanumān ka anand aur aansu
+
+Sītā ko jeevit dekhkar
+Maruti ke hriday mein
+apaar anand bhar aaya।
+
+Unhone—
+
+Khushi ke aansu bahaye 😭
+
+Mann hi mann Rāma ko pranām kiya 🙏
+
+🙇 Gupt avasthā
+
+Rāma aur Lakṣmaṇ ko pranām kar
+veer Hanumān—
+
+🌳 Poorn roop se chhupe hue
+usi vriksh par sthir rahe
+— sahi samay ka intezaar karte hue।
+
+🌺 Chapter 17 ka Saar
+
+Chandramā ke prakāsh mein Sītā aur unki rakṣak rākṣasiyān ka darśan
+
+Rākṣasiyān ka atyant bhayanak aur vikrit varnan
+
+Dukh se jali hui, par charitra se divya Sītā
+
+Hanumān ka anand, aansu aur gupt sthiti"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.18
     with st.expander("Chapter 5.18 – Ravana comes to the Ashoka garden"):
         text1 = """
-        """
+        Chapter 18: Rāvaṇ ka Aśoka Vāṭikā mein āgaman
+
+🌌 Rātri ka ant aur prabhāt ki aahat
+
+Phoolon se lade hue van ko nihārte hue,
+Sītā ko nikat se dekhne ki icchā se bhare Hanumān ne
+mehsoos kiya ki rātri apne ant ki or badh rahi hai।
+
+Us samay, titanon mein jo Vedoṅ, Śāstroṅ aur unke chhah aṅgoṅ ke gyaata the,
+unke mukh se Vaidik mantraon ka uchchāran sunāi dene laga।
+Woh dhvani pavitra thi, shubh thi—
+aur prabhāt ka sanket de rahi thi 🔔"""
         create_image_text_layout("attached_assets/chapter5/5.18.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        👑 Daśagrīv Rāvaṇ ka jagna
+
+Isi shubh dhvani ke saath
+das siron wala Mahābali Rāvaṇ nidrā se jagā।
+
+Sangeet madhur tha, manohar tha—
+jaise kisi rājā ko jagāne ke liye devatā svayam ga rahe hon।
+
+Jagte hi—
+
+uske haar aur vastra vyavasthit na the
+
+man turant Vaidehī Sītā ki or chala gaya 💔
+
+Sītā ke prati ati-vyāmoha mein dooba hua
+woh ghamandi rākṣas
+apni icchāon par niyantran na rakh saka।
+
+🌺 Aśoka Vāṭikā mein praveś
+
+Apne sharir ko—
+
+anek prakār ke ābhūṣaṇon se sajā kar
+
+ati bhavya vastron mein dharan kar
+
+Rāvaṇ ne Aśoka Vāṭikā mein praveś kiya 🌸
+
+Woh van—
+
+anant vrikṣon se bhara tha
+
+har prakār ke phal–phool se ladā hua
+
+kamal aur kumud se sajjit sarovaron se yukt
+
+prem mein magna sundar pakshiyon se gungunata
+
+aur adbhut shilp-kala se bane hue bhaiyon (wolves) se sajā hua tha
+
+👸 Sang mein sau sau sundar striyān
+
+Rāvaṇ ke pichhe—
+
+sau sundar striyān chal rahi thi
+
+jo Dev aur Gandharvon ki putriyan thi
+
+Bilkul waise hi
+jaise Indra ke pichhe apsarāyen chalti hain ✨
+
+Unmein se—
+
+kuchh sone ke deep uthaaye hue thi
+
+kuchh chanvar aur pankhe
+
+kuchh sone ke kalash mein jal liye aage chal rahi thi
+
+kuchh sone ka sinhaasan aur gaddiyan
+
+ek uske daahine taraf ratn-jadit madira-pātra
+
+aur ek hans jaisa chhatra,
+sone ki dandi aur chandrama jaisi chamak wala ☂️
+
+🍷 Rāvaṇ ki patniyon ka varnan
+
+Rāvaṇ ki patniyan—
+
+neend aur madira ke prabhāv mein
+
+ladkhadati hui chal rahi thi
+
+Unke—
+
+motiyon ke haar aur chūḍiyan jhool rahi thi
+
+chandan lep mit chuka tha
+
+baal bikhre hue the
+
+maathe par paseene ki boondein thi
+
+phool murjha gaye the
+
+gajron ke tukde baalon mein atke the
+
+Fir bhi—
+
+unmein garv tha
+
+saundarya tha
+
+aur apne pati ke prati ākarṣaṇ aur anurāg bhi
+
+Is tarah woh komal striyān
+Rākṣas-rāj ke pichhe chal rahi thi।
+
+🐘 Icchā ka gulām Rāvaṇ
+
+Rāvaṇ—
+
+apni kāmanāon ka dās ban chuka tha
+
+man poori tarah Sītā par sthir tha
+
+Isliye—
+
+👉 woh dheere–dheere
+👉 ghamand ke saath
+👉 Aśoka Vāṭikā mein aage badh raha tha
+
+🔔 Hanumān ka darśan
+
+Hanumān ne—
+
+striyon ke kamarbandh aur nupuron ki ghantiyon ki dhvani suni
+
+aur dekha—
+
+🔥 Rāvaṇ, jiska bal aur parākram
+akalpanīya tha।
+
+Chāroṅ or—
+
+sugandhit tel se jalte anek deep
+
+unki roshni mein Rāvaṇ chamak raha tha
+
+Madira, ghamand aur kāmanā se matwala
+uski laal-tāmbey jaisi aankhen
+use Manmatha (Kāmdev) jaisa bana rahi thi
+— lekin binā dhanush ke 🎯
+
+🧥 Rāvaṇ ka rūp
+
+Usne apna—
+
+phoolon se sajā hua
+
+amrit-manthan ke jhaag jaisa nirmal
+
+bhavya uttarīya (cloak)
+
+theek kiya
+jo ek sundar clasps se bandha hua tha।
+
+🌿 Hanumān ka gupt darśan
+
+Patton aur shaakhāon ke parde ke peeche chhupe hue
+Mahābalī Hanumān ne
+us rākṣas-rāj ko dhyān se dekha।
+
+Unhone pehchān liya—
+
+“Yahi hai woh lambe bhujāon wala Rāvaṇ,
+jo pehle nagar ke madhya bhavya mahal mein so raha tha.”
+
+🌑 Rāvaṇ ke tej ke saamne Hanumān
+
+Yadyapi Hanumān—
+
+atyant veer the
+
+tej se bhare hue the
+
+Phir bhi—
+
+⚡ Rāvaṇ ka prabhāv itna prachand tha
+ki Hanumān ne apne aap ko
+aur adhik patton mein chhupa liya।
+
+🔥 Rāvaṇ ka lakṣya
+
+Rāvaṇ—
+
+nirdosh, sundar, shyām-keshī Sītā ko dekhne ke liye
+
+jinki stan paraspar sparsh karte the
+
+aur jo nirdoṣ angon wali thi
+
+👉 nishchit kadmon se aage badhta chala gaya।
+
+🌺 Chapter 18 ka Saar
+
+Rātri ke ant mein Rāvaṇ ka jagna
+
+Sītā ke prati uski ati-kāmanā
+
+Bhavya shobha ke saath Aśoka Vāṭikā mein praveś
+
+Sau sau sundar striyon ka anuyāyi samūh
+
+Hanumān ka gupt darśan aur satarkta
+
+Rāvaṇ ka Sītā ki or badhna"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.19
     with st.expander("Chapter 5.19 – Sita feels great sorrow"):
         text1 = """
-        """
+        Chapter 19: Sītā ka Śok (Sita’s Grief)
+
+👑 Rāvaṇ ko dekhkar Sītā ka kampan
+
+Jab Sītā ne Rāvaṇ, rākṣason ke rājā ko dekha—
+jo yauvan se yukt, sundar, ati-mulyavān ābhūṣaṇon aur bhavya vastron se sajā hua tha—
+toh woh pavan se hilte hue tāḍ vrikṣ ki bhānti kaanp uthi 🌴
+
+Lajjā aur bhay se—
+
+apne stan aur udar ko haathon se dhak liya
+
+aur peeche hat gayi, apne aap ko chhupane ka prayās karte hue"""
         create_image_text_layout("attached_assets/chapter5/5.19.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌊 Śok mein doobi Vaidehī
+
+Daśagrīv Rāvaṇ ne dekha—
+
+Vaidehī, jo bhayanak rākṣasiyon se ghiri hui thi
+
+aur jo duḥkh se toot chuki thi
+
+Woh—
+
+samudra mein doobti hui nāv ke saman lag rahi thi ⚓
+
+🌾 Zameen par baithi dharm-nishṭh Sītā
+
+Nangi bhoomi par baithi hui—
+
+Sītā, jo sadaiv dharm mein sthir rahi
+
+kata hua daal jaise vrikṣ se tootkar gir padi ho
+
+Maili vastron se dhaki hui—
+
+jo ābhūṣaṇon ke yogya thi
+
+ab nirābharaṇ thi
+
+Woh—
+
+kichad se lipta hua kamal-dand jaise lag rahi thi 🌸
+tej toh tha, par saundarya dhundhla chuka tha
+
+🛕 Man mein Rām ka āśray
+
+Apne man mein—
+
+nar-shreshṭh Rām ka āśray liya
+
+uska man ek rath ke saman tha
+jise sankalp ke ashva kheench rahe the 🐎
+
+Woh—
+
+Rām ke prati poori tarah samarpit
+
+kshin sharir, rote hue
+
+apne parijanon se bichhudi
+
+chintā aur śok ka shikār
+
+Aur use apne duḥkh ka koi ant dikhai nahi deta tha।
+
+🌪️ Upmāon mein Sītā ka duḥkh
+
+Dukh se hilti-dulti hui Sītā—
+
+Nāg-rāj ki patni jaise mantra se bandhi ho
+
+ya Rohiṇī, jo Dhumaketu ke peechhe lagne se peedit ho
+
+ya koi kulīn aur sādhvī strī, jo vivāh ke kaaran neech kul mein aa padi ho
+
+Woh aisi thi jaise—
+
+khoi hui pratishṭhā
+
+tyaagi hui shraddhā
+
+andhakaar se dhaka hua man
+
+tooti hui āśā
+
+ujda hua bhavishya
+
+galat samjha gaya ādeś
+
+pralaya mein mit chuka desh
+
+devon dwara thukrāya gaya yajña
+
+badalon se dhaka poornimā ka chandrama
+
+ujda hua kamal-sarovar
+
+yoddhāon se rahi hui sena
+
+grahaṇ mein pada chandrama
+
+sookhi hui nadi
+
+apavitra kiya gaya vedi
+
+bujhi hui agni
+
+phoolon se rahit kamal-van,
+jiske pakshi haathiyon ke garjan se bhaybhīt ho gaye hon 🐘
+
+🌑 Virah mein shoonya hoti Sītā
+
+Apne pati se bichhud kar—
+
+woh sookhi hui nadi jaise ho gayi
+
+ang na dhone ke kaaran
+krishna paksha ki raat si lag rahi thi 🌘
+
+Jo kabhi—
+
+ratnon se bhare mahal mein rehti thi
+
+komal aur sukumār thi
+
+Aaj—
+
+dhoop mein murjhata hua kamal-dand jaise lag rahi thi ☀️
+
+🐘 Bandhi hui hathni ki tarah
+
+Jaise—
+
+pakdi hui hathni
+
+khambhe se bandhi
+
+apne saathi ko yaad kar
+
+baar-baar aah bharti hai
+
+Waise hi—
+
+Sītā bhi—
+
+baar-baar saans bhar rahi thi
+
+apne priyatam Rām ke liye 💔
+
+Uske—
+
+lambe, kaale baal
+
+bilkul asanvarit
+
+peeth par bikhar gaye the
+
+Aur woh—
+
+varsha ritu ke ant mein ghane van se dhaki prithvi jaise dikh rahi thi 🌧️🌳
+
+🙏 Prārthanā aur tapasya
+
+Bhookh, śok, bhay aur chintā se peedit—
+
+ati-kshin
+
+ekākinī
+
+upvās aur tapasya se kamzor
+
+Fir bhi—
+
+devī ke saman tej yukt
+
+haath jod kar
+
+Rām se prārthanā kar rahi thi—
+
+“Rāvaṇ ka vināś ho” 🔥
+
+🔥 Rāvaṇ ka vināś-yukt prayās
+
+Is prakār—
+
+nirdosh
+
+niraparādh
+
+shyām-netron wali
+
+komal palakon wali Maithilī
+
+ko dekh kar—
+
+⚠️ Rāvaṇ, apne hi vināś ki or badhte hue,
+use mohit karne ka prayās karne laga।
+
+🌺 Chapter 19 ka Saar
+
+Rāvaṇ ko dekh Sītā ka bhay aur lajjā
+
+Uska sharirik aur mansik kṣay
+
+Rām mein poorn āśray
+
+Upmāon ke madhyam se gahan śok ka varnan
+
+Rāvaṇ ka adharm-purn lobh — jo uske vināś ka kāraṇ banega"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.20
     with st.expander("Chapter 5.20 – Ravana asks Sita to marry him"):
         text1 = """
-        """
+        Chapter 20: Rāvaṇ ka Sītā se Vivāh ka Prastāv (Ravana begs Sita to wed him)
+
+👑 Rāvaṇ ka madhur par vishayukt prastāv
+
+Tab Rāvaṇ,
+us asahāy Sītā ke nikat aaya—
+jo rākṣasiyon se ghiri hui,
+tapasyā aur sanyam ka vrat dhāran kiye hue thi।
+
+Mithyā madhur vākya aur vinīt bhaav dikhāte hue Rāvaṇ bola—"""
         create_image_text_layout("attached_assets/chapter5/5.20.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        💬 Rāvaṇ ke vachan
+
+“O Sundarī,
+jinki jaṅghāen hāthi ke sund jaise hain,
+jo mujhe dekhkar apne stan aur sharīr ko dhak rahi ho,
+jaise mujhse bhaybhīt ho —
+main tumse prem karta hoon, Maithilī ❤️
+
+O Vishāl-netrā,
+poore jagat dwārā pūjit,
+mujh par kripā karo।
+Yahan na koi purush hai,
+na koi aisa rākṣas jo rūp badal sake,
+isliye apne hriday se bhay ko nikaal do, O Sītā।
+
+⚠️ Rākṣas dharm ka adharm-purn tark
+
+Rāvaṇ aage bola—
+
+“Rākṣason ke liye yeh sadiyon purānā adhikār hai
+ki ve dusron ki patniyon ko
+ya to apni ichchhā se grahan karein
+ya bal-pūrvak haran karein।
+
+Phir bhi, O Maithilī,
+main tumhe sparsh tak nahi karūnga
+kyunki tum mere prati anurāg nahi rakhti।
+Lekin main poori tarah tumhare vash mein hoon,
+isliye mujh par vishvās karo aur
+mere prem ko svīkār karo।”
+
+🌺 Sītā ke sanyam par vyangya
+
+“O Devī,
+bhay tyāg do, sahas dhāran karo।
+Ek jata bandhkar rehna,
+maili vastron mein bhoomi par sona,
+aur anāvashyak upvās—
+yeh tum jaise saundarya ko shobha nahi dete।
+
+Mere saath rehkar
+tum pushp-mālā, sugandh, chandan,
+ratna-ābhūṣaṇ, madirā,
+rājasi shaiyā, gān, nritya aur sangeet ka anand lo 🎶
+
+Tum striyon mein moti ho,
+is dasha mein rehna tumhare yogya nahi।
+Apne purāne saundarya ko phir se dhāran karo।”
+
+⏳ Yauvan ka bhay dikhaana
+
+“O Sundarī,
+tumhara yauvan behta hua nadi-jal hai—
+jo ek baar chala gaya
+phir kabhi laut kar nahi aata।
+
+Tumhari rachna karne ke baad
+Vishvakritā ne apna kaam rok diya,
+kyunki tum jaisi sundar koi aur nahi!
+Tumhe dekhkar kaun sthir reh sakta hai?
+Brahmā tak vichlit ho jaate hain,
+phir anya jeev ka kya kehna?”
+
+👑 Rājya, dhan aur shakti ka pralobhan
+
+“O Chandra-vadanī,
+meri rani ban jao aur
+meri anek sundar striyon mein
+shreshṭh maharānī bano।
+
+Jo dhan maine teenon lokon se jeeta hai,
+woh sab tumhara hai।
+Mera sampoorn rājya tumhe samarpit karta hoon।
+
+Tumhare liye
+poori prithvī jeetkar
+usse Rājā Janak ko lauta dūnga।
+
+Dharti par koi meri shakti ka muqabla nahi kar sakta।
+Dev aur Dānava—
+sab mere yuddh mein asahāy ho gaye the।
+Unke dhwaj toot gaye, sainya bikhar gaya!”
+
+⚔️ Rām ka apmān
+
+Phir Rāvaṇ ne Rām ko nicha dikhāte hue kaha—
+
+“Meri sampatti aur vaibhav dekho, Maithilī।
+Rām se tum kya paogi?
+
+Woh valkal (bark) pehenta hai,
+rājya se vanchit ho chuka hai,
+bhoomi par sota hai,
+tapasvī ban chuka hai।
+
+Kaun jaane woh jeevit bhi hai ya nahi?
+Tum us taare ki tarah ho
+jo kaale badalon ke peechhe chhup gaya ho।
+
+Rāghav tumhe kabhi dhundh nahi paayega।
+Jaise Hiranyakashipu
+Indra se apni patni Kirti ko
+wapas nahi la saka—
+waise hi Rām bhi asamarth hai।”
+
+💎 Antim pralobhan
+
+“O Madhur-hāsini,
+tum mere hriday ko
+usi tarah har leti ho
+jaise Suparna ne nāg ko utha liya।
+
+Tumhare vastra phate hue hain,
+tum ābhūṣaṇ-rahit ho—
+phir bhi tumhe dekhkar
+mera man meri sabhi raniyon se
+virakt ho jaata hai।
+
+O Janak-nandinī,
+meri raniyon par shāsan karo,
+yeh sab tumhari dāsiyan banengi
+jaise Apsarāyen Shri Lakshmī ki seva karti hain।
+
+Mere saath is sansār ke sukh bhogo,
+Kuver ke dhan ka poora anand lo।
+Tapasya, shakti, yash, dhan—
+kisi mein bhi Rām mere barābar nahi।
+
+Isliye piyo, khao, anand lo,
+main tumhe poora jagat de dunga!”
+
+🌊 Rāvaṇ ka swapn
+
+“O Komalāṅgī,
+mere saath samudra-tat ke pushpit upvanon mein vihar karo,
+jahan kaale bhramar gunjan karte hain 🐝
+aur tumhare sone ke kangan chamakte hain।”
+
+🔥 Adhyāy 20 ka Saar
+
+Rāvaṇ ka madhur par vishay-lobh se bhara prastāv
+
+Dhan, rājya, shakti aur yauvan ka pralobhan
+
+Rām ka apmān aur adharm-purn tark
+
+Rāvaṇ ka ahankār — jo uske vināś ka beej hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.21
