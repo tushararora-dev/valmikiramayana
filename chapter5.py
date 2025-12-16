@@ -3288,101 +3288,1399 @@ Rāvaṇ ka ahankār — jo uske vināś ka beej hai"""
     # Chapter 5.21
     with st.expander("Chapter 5.21 – Sita strongly refuses Ravana"):
         text1 = """
-        """
+        Chapter 21 – Sita Ravana ko thukraati hai (Hinglish Moral Story)
+
+Ravana ke kathor shabd sun kar
+Sita ka dil dukh se bhar gaya.
+Woh kaanp rahi thi,
+awaaz halki aur kamzor thi.
+Phir bhi uska mann Rama par atal tha ❤️
+
+Sita ne ek tinka (straw) uthaaya
+aur apne aur Ravana ke beech rakh diya.
+Ye uski maryada ka chinh tha.
+
+Phir woh shaant muskura kar boli—"""
         create_image_text_layout("attached_assets/chapter5/5.21.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Apna mann
+apni patniyon par lagao, Ravana.
+
+Jaise paapi swarg nahi pa sakta,
+waise hi tum mujhe nahi paa sakte.
+
+Jo kaam ek pativrata stree ke liye paap hai,
+woh main kabhi nahi karungi.
+
+Main achhe kul mein paida hui hoon,
+aur dharmic parivaar ki bahu hoon.”
+
+Itna kehkar
+Vaidehi ne apna mukh pher liya
+aur aage boli—
+
+“Main kisi aur ki patni hoon,
+isliye tumhari patni kabhi nahi ban sakti.
+
+Achhe logon ke niyam follow karo.
+
+Dusron ki patni
+tumhari patni jaise hi raksha ke yogya hoti hai.
+
+Apni patniyon mein hi santosh rakho.
+
+Jo vyakti apni patniyon se bhi khush nahi hota,
+woh dusron ki wajah se vinaash paata hai.”
+
+Sita ki awaaz mein dard tha,
+par shabd sach aur balwaan the ✨
+
+“Jo raja apne mann par niyantran nahi rakhta,
+uske haathon rajya aur nagar nash ho jaate hain.
+
+Lanka dhan se bhari hai,
+par tum jaise raja ke kaaran
+iska vinaash nischit hai.
+
+Jab tumhara ant aayega,
+log kahenge—
+
+‘Achha hua, ek atyachaari gira.’”
+
+Phir Sita ne Rama ka naam liya,
+aur uski aankhon mein vishwas chamak utha ✨
+
+“Tum mujhe dhan ya vaibhav se nahi khareed sakte.
+
+Jaise surya se uski roshni alag nahi hoti,
+waise hi main Raghava se alag nahi ho sakti.
+
+Jis bhuj par main tiki hoon,
+woh Rama ki bhuj hai.
+
+Kisi aur par main kaise aashrit ho sakti hoon?”
+
+“Mujhe Rama ke paas lauta do.
+
+Yeh tumhare hi hit mein hai.
+
+Agar tum Lanka bachana chahte ho,
+toh Rama se mitrata karo.
+
+Woh sharan lene walon ka rakshak hai.”
+
+Sita ki awaaz ab chetavani ban chuki thi ⚡
+
+“Agar tumne aisa nahi kiya,
+toh tumhara vinaash tay hai.
+
+Tum Indra ke vajra se bach sakte ho,
+par Rama ke dhanush ki garaj se nahi.
+
+Jab us dhanush ki pratidhwani hogi,
+Lanka ka har kona kaanp uthega.”
+
+“Rama aur Lakshmana ke baan
+aag ugalte saanp jaise honge.
+
+Woh poori Lanka ko dhak lenge,
+aur rakshason ka ant kar denge.”
+
+Sita ne ant mein kaha—
+
+“Jaise Vishnu ne teen pag mein
+Shri ko Asuron se chheen liya tha,
+waise hi mere swami mujhe tumse chheen lenge.
+
+Tumne mujhe chori se uthaya,
+kyunki tum unke saamne khade hone ki himmat nahi rakhte.
+
+Sheron ke saamne
+kutte kabhi nahi tikte.”
+
+“Chahe tum Kubera ke lok mein chhupo
+ya Varun ke rajya mein bhaago,
+Rama ke baan se bach nahi paoge.
+
+Jaise bijli ped ko gira deti hai,
+waise hi tumhara ant hoga.”
+
+🌸 Moral (Seekh):
+
+💠 Pativrata aur maryada sabse badi shakti hoti hai
+
+💠 Dharma par atal rehna hi sachchi vijay hai
+
+💠 Ahankar aur anyay apna hi vinaash laata hai
+
+💠 Sach aur shuddh prem kabhi harta nahi"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.22
     with st.expander("Chapter 5.22 – Ravana threatens Sita"):
         text1 = """
-        """
+        Chapter 22 – Ravana ki Dhamkiyan (Hinglish Moral Story)
+
+Sita ke sakht aur sachche shabdon ko sunkar
+Ravana ka gussa bhadak utha 😠
+Usne kathor awaaz mein jawab diya—
+
+“Duniya kehti hai,
+aurat jitni narmi dekhe, utni pighal jaati hai.
+
+Par main jitni daya dikhata hoon,
+tum utni hi mujhe thukraati ho.
+
+Sirf mera prem hi
+mere krodh ko roke hue hai.
+
+Warna main ab tak
+tumhe maar chuka hota.”"""
         create_image_text_layout("attached_assets/chapter5/5.22.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ravana ki aankhon mein agni thi 🔥
+
+“Tumne jo kadve shabd bole hain,
+unke liye tum mrityu ki yogya ho.
+
+Fir bhi prem ke kaaran
+main tumhe jeene de raha hoon, Maithili.”
+
+Phir Ravana ne bhayanak dhamki di—
+
+“Main tumhe do mahine ka samay deta hoon.
+
+Uske baad
+tumhe meri patni banna hoga.
+
+Agar tumne mana kiya,
+toh mere rasoiyye
+tumhare ang kaat kar
+mere bhojan ke liye tayaar karenge.”
+
+Yeh sunkar
+Apsaraon aur Gandharv kanyaon ka dil kaanp gaya 😨
+Unhone ankhon aur isharo se
+Sita ko himmat di 🌸
+
+Unse shakti paakar
+Sita ne phir Ravana se kaha—
+ab uski awaaz mein bhay nahi, chetavani thi ⚡
+
+“Lagta hai Lanka mein
+koi tumhara bhala chahne wala nahi.
+
+Isliye koi tumhe
+is paap se rok nahi raha.
+
+Teenon lokon mein kaun
+Rama ki patni ko chhoone ka
+sahas karega?”
+
+“Jaise gusse mein haathi
+jungle ke khargosh ko kuchal deta hai,
+
+waise hi tum, Ravana,
+Rama ke saamne
+tinke ke samaan ho.”
+
+Sita ki aankhen aag si chamak rahi thi ✨
+
+“Tum tabhi tak garajte ho
+jab tak Rama saamne nahi hote.
+
+Jab tumne
+Dasaratha ke putra ki patni ko dhamkaya,
+
+tumhari jeebh
+sookh kyun nahi gayi?”
+
+“Agar Rama ka aadesh hota,
+toh main apni tapasya se
+tumhe isi kshan
+raakh bana deti.”
+
+“Tumne mujhe chhal se uthaya,
+Rama ko van se door bhej kar.
+
+Yeh tumhari veerta nahi,
+tumhari kayarata hai.”
+
+Yeh sunkar
+Ravana ka chehra aur bhi bhayanak ho gaya 😡
+Woh kaale baadal jaisa lag raha tha,
+badi-badi bhujaon ke saath,
+aankhen laal,
+jeebh agni si 🔥
+
+Woh pahad jaise khada tha,
+gehne aur malaon se saja hua.
+
+Usne phir zehreeli awaaz mein kaha—
+
+“Aaj main tumhe nasht kar dunga,
+jaise sandhya mein
+surya ki roshni mit jaati hai.”
+
+Phir Ravana ne
+bhayanak rakshasiyon ko dekha—
+koi ek aankh wali,
+koi haathi ke pair wali,
+koi ghode jaise pair wali,
+koi baal se bhari,
+koi vikrit muh wali 😱
+
+Ravana ne hukm diya—
+
+“Dhamki se, lalach se,
+meethi baaton se,
+tohfe dekar—
+
+kisi bhi tarah
+Sita ko mere paksh mein karo.”
+
+Tab ek rakshasi
+Dhanyamalini aage badhi
+aur Ravana ko gale lagakar boli—
+
+“Maha Raja,
+is manushya stree ke peeche kyun pade ho?
+
+Main hoon na tumhare saath.
+
+Jo zabardasti prem karta hai,
+use sirf dukh milta hai.
+
+Par jahan prem dono taraf ho,
+wahan hi sachcha sukh hota hai.”
+
+Dhanyamalini Ravana ko le jaane lagi.
+Ravana thahaka maar kar hansa 😏
+aur phir mahal ki ore chal pada.
+
+Dharti uske kadmon se kaap uthi 🌍
+Aur Ravana
+apne chamakte mahal mein chala gaya.
+
+Sita wahin reh gayi…
+kaamp rahi thi,
+par uska mann ab bhi Rama mein sthir tha ❤️
+
+🌸 Moral (Seekh):
+
+💠 Dhamki aur bal se prem nahi jeeta ja sakta
+
+💠 Ahankar ant ko bulata hai
+
+💠 Dharma aur satya sabse badi raksha hote hain
+
+💠 Sita jaise dridh vishwas se hi burai harti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.23
     with st.expander("Chapter 5.23 – The demon women try to convince Sita"):
         text1 = """
-        """
+        Chapter 23 – Rakshasiyan Sita ko Ravana se shaadi ke liye manati hain
+
+Ravana dhamki dekar
+aur rakshasiyon ko aadesh dekar
+wahan se chala gaya.
+
+Woh apne mahal ke andar chala gaya.
+
+Jaise hi Ravana gaya,
+bhayanak dikhne wali rakshasiyan
+Sita ke paas aa gayin 😠
+Unki awaaz kathor thi,
+aankhon mein gussa bhara tha."""
         create_image_text_layout("attached_assets/chapter5/5.23.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Unhone Sita se kaha—
+
+“O Sita,
+tum Ravana jaise mahaan rakshas ke saath
+sambandh ki keemat nahi samajh rahi.
+
+Woh Paulastya ke vansh ka hai,
+Dashagriva, mahaan aur shaktishaali!”
+
+Phir unmein se ek rakshasi,
+Ekjata, gusse se boli—
+
+“Sita, suno!
+Paulastya
+Brahma ke chhe putron mein se ek the.
+
+Unse Vaishravas hue,
+aur unke putra hain Ravana.
+
+Itne mahaan vansh ka raja
+tumhe apni patni banana chahta hai.
+
+Tum mana kyun karti ho,
+O sundar roop wali?”
+
+Phir doosri rakshasi
+Harijata aage aayi.
+Uski aankhen billi jaisi ghoom rahi thi 😡
+
+“Woh Ravana hai
+jisne 33 devtaon ko
+aur unke raja Indra ko
+yudh mein hara diya.
+
+Tum aise veer ke saath
+shaadi kyun nahi karna chahti?
+
+Woh kabhi yudh se peechhe nahi hatta.
+
+Mandodari jaisi rani ko chhod kar
+woh sirf tumhe chahta hai.
+
+Tum uske sundar mahal mein rahogi,
+hazaaron abhushan pehnogi,
+aur woh tumhari pooja karega!”
+
+Uske baad ek aur rakshasi,
+Vikata, boli—
+
+“Ravana baar-baar
+Gandharvon, Nagas aur Danavon ko
+yudh mein hara chuka hai.
+
+Itna dhanwaan aur shaktishaali raja
+jab khud tumhe chaahe,
+toh tum kyun inkaar karti ho?”
+
+Phir Durmukhi naam ki rakshasi
+aage badhi aur boli—
+
+“O sundar netron wali nari,
+us Ravana se kyun nahi darti
+jiske bhay se
+suraj tej se nahi chamakta,
+hawa dheemi behne lagti hai,
+ped phool gira dete hain,
+aur pahaad aur badal
+paani barsa dete hain?”
+
+Uski awaaz aur kathor ho gayi 😠
+
+“Yeh sab hum
+tumhare bhale ke liye keh rahe hain.
+
+Ravana ko apna pati maan lo.
+
+Agar tumne mana kiya,
+toh nishchit samjho—
+tumhari mrityu ho jayegi!”
+
+Sita chup thi…
+kamzor nahi,
+par dridh aur sthir 🌸
+
+Uska mann ab bhi
+sirf Rama mein basa tha ❤️
+
+🌼 Moral (Seekh):
+
+💠 Bal aur bhay se dharma nahi badalta
+
+💠 Sachcha prem dabav se nahi hota
+
+💠 Sita ka vishwas humein sikhata hai –
+satya par tikke rehna hi sabse badi shakti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.24
     with st.expander("Chapter 5.24 – The demon women scare and threaten Sita"):
         text1 = """
-        """
+        Chapter 24 – Rakshasiyon ki bhayanak dhamki (Menace of the Female Titans)
+
+Sabhi bhayanak rakshasiyan
+ek saath Sita par chilla padiं 😠
+Unke shabd kathor the,
+dil ko chubhne wale.
+
+Woh boli—"""
         create_image_text_layout("attached_assets/chapter5/5.24.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Sita,
+tum Ravana ke mahal mein
+sukh se kyun nahi rehti?
+
+Woh mahal sona-chaandi se bhara hai,
+komal bistar aur sukh hi sukh hai.
+
+Tum kyun ek saadharan insaan Rama
+ke liye ro rahi ho?
+
+Rama ko bhool jao.
+Tum use dobara kabhi nahi dekhogi.
+
+Ravana teenon lokon ka dhan rakhta hai.
+Usi ke saath raho aur khush raho.
+
+Tum ek aurat ho,
+phir kyun us aadmi ke liye dukh karti ho
+jo rajya se nikaal diya gaya hai
+aur kasht bhari zindagi jee raha hai?”
+
+Yeh sab sunkar
+Sita ki kamal jaisi aankhon mein aansu aa gaye 🌸😢
+Par uski awaaz shant thi,
+par vishwas se bhari.
+
+Sita boli—
+
+“Tum jo keh rahi ho,
+woh adharm hai.
+
+Ek manav stree
+rakshas ki patni nahi ban sakti.
+
+Agar chaho toh
+mujhe kha jao,
+par main kabhi haan nahi kahungi.
+
+Mera pati chahe gareeb ho,
+chahe rajya se vanvaasit ho,
+par wahi mere liye
+guru aur devta hai.
+
+Jaise
+Saci Indra ke saath rehti hai,
+Arundhati Vasishtha ke saath,
+Damayanti Nala ke saath—
+
+waise hi
+main sirf Rama ke saath hoon.”
+
+Sita ke shabd sunkar
+rakshasiyan aur bhi gusse mein aa gayin 🔥
+Unhone use gher liya.
+
+Hanuman chupchaap
+Shingshapa vriksh par baitha
+sab kuch dekh aur sun raha tha 🐒🌳
+
+Rakshasiyan bhala-bhala bolte hue,
+honth chaat-te hue,
+bhale bhale hathiyaaron ke saath
+Sita ko dhamkane lagin—
+
+“Kya tumhe lagta hai
+Ravana tumhara pati banne layak nahi? 😡”
+
+Dar se kaanpte hue,
+Sita ne apne aansu ponchhe
+aur Shingshapa ke neeche baith gayi.
+Uske kapde gande ho chuke the,
+chehra peela pad gaya tha,
+dil dukh se bhara tha 💔
+
+Par uska dharm ab bhi majboot tha.
+
+Phir ek bhayanak rakshasi
+Vinata chilla kar boli—
+
+“Bas karo ab!
+Tum apni pativratta dikha chuki ho.
+
+Ab hamari baat maan lo.
+
+Ravana ko apna pati maan lo.
+
+Rama bechara hai,
+uski zindagi bhi zyada nahi bachi.
+
+Agar tumne hamari baat na maani,
+toh hum tumhe abhi kha jayenge!”
+
+Doosri rakshasi Vikata ne gusse mein
+mutthi bheench kar kaha—
+
+“Sita,
+tum samajhti kyun nahi?
+
+Tum samundar ke us paar ho
+jahan koi nahi aa sakta.
+
+Ravana ne tumhe qaid kiya hai.
+Indra bhi tumhe chhuda nahi sakta.
+
+Jawani jaldi khatam ho jaati hai.
+
+Jab tak hai,
+Ravana ke saath sukh bhogo.
+
+Agar mana kiya,
+toh main tumhara dil phaad kar kha jaungi!”
+
+Phir Chandari naam ki rakshasi
+bhala ghumate hue boli—
+
+“Is stree ko dekh kar
+mujhe ise kha jaane ka mann kar raha hai.”
+
+Praghasa boli—
+
+“Isse baat karna bekaar hai.
+Iski saans bandh kar dete hain.”
+
+Ajamukhi aur Shurpanakha bhi hans kar boli—
+
+“Isse maar kar
+hum naachenge aur sharab piyenge!”
+
+Yeh sab bhayanak dhamkiyan sunkar
+Sita ka dhairya toot gaya 😢
+Devkanya jaisi Sita
+phoot-phoot kar rone lagi.
+
+Par uske aansuon ke beech bhi
+ek sach chamak raha tha—
+
+✨ Rama ke prati uska vishwas abhi bhi zinda tha.
+
+🌼 Moral (Seekh):
+
+💠 Sita ka dhairya dikhata hai ki sachcha dharm akela bhi majboot hota hai
+
+💠 Dhamki aur bhay se satya nahi badalta
+
+💠 Andhkaar jitna bhi ghera ho, vishwas ki roshni bujh nahi sakti"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.25
     with st.expander("Chapter 5.25 – Sita feels hopeless"):
         text1 = """
-        """
+        Chapter 25 – Sita ka mann tootna (Sita gives way to Despair)
+
+Rakshasiyon ki bhayanak dhamkiyon ne
+Sita ka dil tod diya 😢
+Janak ki beti, Vaidehi,
+ab apne aansu rok nahi paayi.
+
+Tooti hui awaaz mein,
+siskiyon ke beech,
+woh boli—
+
+“Ek manav stree
+kabhi rakshas ki patni nahi ban sakti.
+
+Chahe tum mujhe tukdon mein kaat do,
+par main tumhari baat
+kabhi nahi maanungi.”"""
         create_image_text_layout("attached_assets/chapter5/5.25.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rakshasiyon se ghiri hui,
+Ravana ke darr se kaanpti hui,
+Sita ko kahin bhi sharan nahi mili.
+Woh zor-zor se kampne lagi,
+jaise jungle mein
+hirni apne jhund se bichhad jaaye
+aur charon taraf bhookhe bhediye hon 🦌🐺
+
+Ashoka ke ped ki phoolon bhari shaakh
+ko pakad kar,
+Sita gham mein doob gayi. 🌸
+Uska mann sirf
+apne prabhu Rama ko yaad kar raha tha.
+
+Aansoon ki dhaar
+uske komal vaksh par beh rahi thi.
+Dukh itna gehra tha
+ki use uska ant dikhai nahi de raha tha.
+
+Woh zameen par gir padi,
+jaise aandhi mein
+kele ka ped jad se ukhad jaata hai 🌪️
+Darr se uska chehra safed pad gaya.
+Uski lambi choti
+hil rahi thi,
+jaise koi saanp sarakta ho 🐍
+
+Dukh se bhar kar,
+Sita rone lagi
+aur karun swar mein pukaarne lagi—
+
+“O Rama!” 😭
+“O Lakshmana!”
+“O Maa Kaushalya!”
+“O Maa Sumitra!”
+
+Phir woh boli—
+
+“Sach hi kaha hai rishiyon ne—
+koi bhi jeev
+apne samay se pehle nahi marta.
+
+Itna dukh,
+itna kasht hone ke baad bhi
+main abhi zinda hoon.
+
+Haay!
+Main kitni abhagi hoon.
+
+Apne rakshak se door,
+main aise doob rahi hoon
+jaise toofan mein
+bhara hua jahaz samundar mein doob jaata hai.
+
+Rama ke bina
+main us kinare ki tarah hoon
+jo tez dhaara se dheere-dheere gir jaata hai.”
+
+Uski aankhon mein
+Rama ki chhavi thi 🌼
+
+“Kitne bhaagyashali hain woh
+jo mere prabhu ko dekh paate hain.
+
+Jinki aankhein phoolon jaisi hain,
+chal sher jaisi hai,
+jo kritagy aur madhur vaani wale hain.
+
+Rama ke bina
+saans lena bhi mushkil lag raha hai,
+jaise kisi ne zehar pee liya ho.
+
+Ab meri zindagi bas ant ki ore hai.”
+
+Phir woh khud se poochhne lagi—
+
+“Maine pichhle janm mein
+kaunsa bada paap kiya hoga
+jo mujhe aaj
+itna bhayanak dukh mil raha hai?
+
+Mera mann marna chahta hai,
+par yeh rakshasiyan
+mujhe jeene par majboor kar rahi hain.
+
+Haay!
+Insaan hona hi shraap hai,
+doosron par nirbhar rehna bhi shraap hai.
+
+Jab insaan marna chahe
+tab bhi mar nahi sakta.”
+
+🌸 Moral (Seekh):
+
+💠 Sita ka dukh dikhata hai ki sabse pavitra log bhi kathin samay se guzarte hain
+
+💠 Sachcha prem aur dharm kabhi kamzor nahi hota, chahe mann toot jaaye
+
+💠 Umeed ka diya kabhi bujhata nahi, bas hawa tez hoti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.26
     with st.expander("Chapter 5.26 – Sita predicts the destruction of the demons"):
         text1 = """
-        """
+        Chapter 26 – Sita ka bhavishyavani: Rakshason ka vinash (Sita prophesies the Titan’s Destruction)
+
+Aankhon se aansu behte hue,
+sir jhukaye hue,
+Janak ki beti Sita
+phir se vilap karne lagi 😢
+
+Dukh se pagal si hokar,
+woh zameen par lotne lagi,
+jaise kisi nanhe ghode ka bachcha
+maa se bichhad gaya ho.
+
+Woh cheekh kar boli—
+
+“Main Raghava ki patni hoon.
+Phir bhi main dhokhe se
+rakshason ke jaal mein phans gayi.
+
+Nirdayi Ravana mujhe utha le gaya.
+
+Rakshason ke beech bandi ban kar,
+unki gaaliyon aur dhamkiyon ko sunte hue,
+ab mujhse jeena bardasht nahi hota.”"""
         create_image_text_layout("attached_assets/chapter5/5.26.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Uska mann bhar aaya—
+
+“Rama ke bina
+jeevan, dhan aur gehne
+kis kaam ke hain?
+
+Shayad mera hriday lohe ka hai,
+jo itne dukh ke baad bhi
+toota nahi.
+
+Dhikkar hai mujh par,
+jo apne swami ke bina bhi
+saans le rahi hoon.”
+
+Woh gusse aur dridhata se boli—
+
+“Mera baayã pair bhi
+us rakshas ko sparsh nahi karega.
+
+Ravana jaise paapi se
+main prem kaise kar sakti hoon?
+
+Chahe mujhe tukdon mein kaat diya jaaye,
+ya aag mein jala diya jaaye,
+main kabhi Ravana ke aage
+explains nahi karungi.”
+
+Phir usse Rama yaad aaye 💔
+
+“Rama dharmic, kritagy aur karunamay hain.
+
+Janasthana mein
+unhone akele hi
+14,000 rakshason ka vinash kiya tha.
+
+Agar unhe pata hota
+ki main yahan Lanka mein hoon,
+toh kya woh chup rehte?”
+
+Uski aankhon mein vishwas chamak utha 🔥
+
+“Samundar bhi unke teeron ko
+nahi rok sakta.
+
+Lanka kitni bhi door ho,
+Rama mujhe paakar rahenge.
+
+Jis din unhe sach pata chalega,
+Lanka jal uthegi.”
+
+Woh bhavishyavani karne lagi—
+
+“Har ghar se rakshasiyon ka rona uthega.
+
+Jinke pati mare jaayenge,
+woh bilakhengi.
+
+Lanka,
+shav-dah sthalon ke dhuẽ se bhar jaayegi.
+
+Gidh mandrayenge,
+aur nagar shamshan jaisa lagega.”
+
+Sita ne spasht shabdon mein kaha—
+
+“Ravana ka vinash nishchit hai.
+
+Uske marne ke baad,
+Lanka ek vidhwa nagri ban jaayegi.
+
+Apni shaan kho degi.
+
+Rama ke laal kinare wali aankhon ke
+teer
+poori nagri ko bhasm kar denge.”
+
+Phir uski awaaz kamzor ho gayi…
+
+“Shayad Ravana ne
+mujhe apne bhojan ke liye soch liya hai.
+
+Main asahaya hoon.
+
+Rama ke bina
+main kuch nahi kar sakti.”
+
+Nirasha us par chha gayi 🌑
+
+“Agar Rama aur Lakshmana zinda hote,
+toh woh poori dharti chhaan maarte.
+
+Shayad woh bhi
+rakshason ke haathon mare gaye hon.
+
+Agar aisa hai,
+toh mrityu hi mere liye shreshth hai.”
+
+Ant mein,
+Sita ne gehri saans le kar kaha—
+
+“Dhanya hain woh mahatma
+jo ichha aur dwesh se pare hain.
+
+Jinhe na prem bandhata hai,
+na ghrina jalaati hai.
+
+Unhe mera pranam 🙏
+
+Rama se bichhad kar,
+dusht Ravana ke adheen hokar,
+ab main apna jeevan
+tyaag dena chahti hoon.”
+
+🌸 Moral (Seekh):
+
+💠 Sachcha dharm gir kar bhi haar nahi maanta
+
+💠 Paap ka ant nishchit hota hai, chahe samay lage
+
+💠 Vishwas aur satya, andhere mein bhi deepak jaise hote hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.27
     with st.expander("Chapter 5.27 – Trijata tells her dream"):
         text1 = """
-        """
+        Chapter 27 – Trijata ka Sapna (Trijata’s Dream)
+
+Sita ke shabd sunkar
+rakshasiyan aur bhi gusse mein aa gayi 😡
+Kuch turant bhaag kar
+Ravana ko sab batane chali gayi.
+
+Baaki rakshasiyan phir se
+Sita ko daraane lagi.
+
+“Kya samajhti ho khud ko, Sita?
+Aaj hi hum tumhara maans kha jaayengi.
+Jin rakshason ke vinash ki baat tum karti ho,
+aaj wahi tumhe kha jaayenge.”"""
         create_image_text_layout("attached_assets/chapter5/5.27.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Yeh sab dekh kar
+Trijata, jo buddhi aur anubhav se bhari thi,
+aage aayi.
+
+Uski awaaz shaant thi,
+par shabdon mein gehra vishwas tha।
+
+“Arre moorkhon!
+Agar kisi ko khaana hai toh mujhe kha lo,
+par Sita ko haath mat lagana.
+
+Woh Janak ki beti hai,
+aur Raja Dasharath ki bahu.
+
+Kal raat maine ek bhayankar sapna dekha hai.
+Aisa sapna jo rakshason ke vinash
+aur is stri ke pati ki vijay batata hai.”
+
+Yeh sunkar
+sab rakshasiyan thodi ghabra gayi 😰
+aur cheekh kar boli:
+
+“Achha?
+Toh sapna poora batao!
+Kya dekha tumne?”
+
+Tab Trijata ne apna sapna sunaya—
+
+“Maine dekha
+ek divya rath,
+jo haathi-daant ka bana tha.
+
+Usse sau hans kheench rahe the.
+
+Us rath mein
+Rama aur Lakshmana the,
+chamakte vastron mein,
+phoolon ki mala pehne hue.”
+
+“Phir maine dekha
+Sita ko,
+shuddh safed vastron mein.
+
+Woh ek safed parvat par khadi thi,
+samundar se ghiri hui.
+
+Aur woh Rama se mil rahi thi,
+jaise surya se roshni milti hai ☀️”
+
+“Phir Rama ek vishal haathi par baithe the,
+chaar daanton wala,
+aur Lakshmana saath mein the.
+
+Dono veer
+apni tej se chamak rahe the.
+
+Sita unke paas aayi
+aur haathi par chadh gayi.”
+
+“Phir maine dekha
+Sita ne apne haath se
+surya aur chandra ko chhoo liya.
+
+Aur phir
+Rama, Lakshmana aur Sita
+Lanka ke upar khade the.”
+
+Uske baad Trijata ka swar aur kathor ho gaya—
+
+“Aur phir maine Ravana ko dekha.
+
+Zameen par gira hua.
+Sir munda hua.
+Tel mein lipta hua.
+Laal kapde pehne.
+
+Pushpak vimaan se girta hua.
+
+Ek kaali stri
+uski gardan mein rassi daal kar
+use maut ki disha mein kheench rahi thi.”
+
+“Kumbhakarna aur Ravana ke putron ko bhi dekha.
+
+Sabke sir munde hue the.
+Sab tel mein lipte hue.
+
+Sirf Vibhishan
+safed chhatri ke neeche khada tha,
+apne mantriyon ke saath.”
+
+“Lanka jal rahi thi 🔥
+
+Darwaaze toot rahe the.
+
+Rakshas zameen par gir rahe the.
+
+Shehar samundar mein doob raha tha.”
+
+Phir Trijata ne sab rakshasiyon ko chetavani di—
+
+“Bas karo ab!
+
+Rama Sita se milne hi wale hain.
+
+Agar tumne is pavitra stri ko
+aur sataya,
+toh Rama tum sab ka vinash kar denge.
+
+Ab use darao mat.
+Usse maafi maango.
+
+Uske pairon mein giro.
+
+Sirf Sita hi
+tumhe is maha-vinaash se bacha sakti hai.”
+
+Usne Sita ki aur dekh kar kaha—
+
+“Is devi mein
+koi dosh nahi.
+
+Uska dukh
+sirf ek chhaya jaisa hai,
+jo ab mitne wala hai.”
+
+Phir Trijata ne
+shubh sanket bataye—
+
+“Sita ki baayi aankh ka phadakna,
+baayã baahu aur jaangh ka kaanpna—
+
+yeh sab vijay ke chinh hain.
+
+Pakshi bhi pedon par ga rahe hain,
+jaise shubh ghadi ka sandesh de rahe hoon 🐦”
+
+Yeh sab sunkar
+Sita ke chehre par
+pehli baar halki si roshni aayi ✨
+
+Usne dheere se kaha—
+
+“Agar yeh sab sach hua,
+toh main tum sabki raksha karungi.”
+
+🌸 Moral (Seekh):
+
+💠 Sach aur dharm ka saath dene wale ko hamesha shakti milti hai
+
+💠 Sapne kabhi-kabhi bhavishya ka darpan hote hain
+
+💠 Ghamand ka ant aur bhakti ki vijay nishchit hoti hai
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.28
     with st.expander("Chapter 5.28 – Sita cries and laments"):
         text1 = """
-        """
+        Chapter 28 – Sita ka Vilap (Sita’s Lament)
+
+Ravana ke kathor aur nirdayi shabd sun kar
+Sita ka sharir kaanp utha —
+jaise jungle ke kinaare
+sher ke hamle se
+ek madha-hathi kaanp jaata ho 🐘🦁
+
+Ravana ki dhamkiyon se
+aur charon taraf se rakshason se ghir kar
+woh komal hriday wali rajkumari
+poori tarah niraasha mein doob gayi,
+jaise koi chhoti si ladki
+ghane jungle mein akeli chhod di gayi ho."""
         create_image_text_layout("attached_assets/chapter5/5.28.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Sita apne mann mein sochne lagi:
+
+“Rishiyon ki baat sach hai—
+mrityu apne nirdharit samay se pehle nahi aati.
+
+Itni apmaan aur peeda ke baad bhi
+main abhi tak jeevit hoon.
+
+Mera hriday kitna kathor hoga
+jo aaj bijli se tootne wale parvat-shikhar ki tarah
+sau tukdon mein nahi bikhra!”
+
+“Ismein mera dosh nahi.
+
+Woh bhayanak rakshas
+mujhe maar sakta hai,
+par jaise ek brahman
+neeche jaati ke vyakti ko
+ved-vidya nahi de sakta,
+waise hi main
+Ravana ko apna prem
+kabhi nahi de sakti.”
+
+Uske mann mein bhay aur bhi gehra ho gaya:
+
+“Agar do maheene ke andar
+mere prabhu prakat nahi hue,
+toh woh neech Ravana
+mujhe apne tez shastron se
+tukdon mein kaat daalega—
+
+jaise koi vaidya
+maa ke hriday se
+garbh ko cheer kar nikaal deta hai.”
+
+“Yeh do maheene
+pal bhar mein beet jaayenge,
+aur main bhi
+us chor ki tarah
+mrityu ke liye le jaayi jaungi
+jo raat khatam hote hi
+dand ke liye bandha jaata hai.”
+
+Phir Sita ka vilap aur gehra ho gaya:
+
+“O Rama!
+O Lakshmana!
+O Sumitra Maa!
+O Kaushalya Maa!
+
+Main toofan mein phansi hui
+doobti hui naav ki tarah
+nash hone wali hoon.”
+
+“Nishchit hi woh dono veer rajkumar
+us maaya-mrig ke jaal mein phans kar
+bijli se ghayal sher ya bail ki tarah
+gir pade honge.
+
+Bhagya ne hi
+us hiran ka roop lekar
+mujhe bhramit kiya—
+aur meri moorkhta se
+maine Rama aur Lakshmana ko
+uske peeche bhej diya.”
+
+“O Rama!
+Satya-vrat dhari!
+Lambi bhujon wale!
+
+Jiska mukh poornima ke chandra jaisa hai! 🌕
+
+Tum sab praniyon ke mitra aur rakshak ho,
+aur tumhe pata bhi nahi
+ki main rakshason ke haathon
+mrityu ke nikat hoon.”
+
+“Mere liye
+jiske sivay koi devta nahi,
+meri tapasya,
+mera zameen par sona,
+mera dharm aur pativrata—
+
+sab vyarth ho gaye,
+jaise kisi kritaghn ke liye ki gayi seva.”
+
+“Tum apne pita ki aagya ka palan karke,
+apna vrat poora karke,
+van se laut kar
+shantipurn jeevan jeeyoge,
+anek sundar striyon ke saath.
+
+Aur main—
+jo tumse nishtha se prem karti thi—
+apni hi bhakti ke kaaran
+nash ho rahi hoon.”
+
+“Main vish ya shastra se
+apna jeevan samapt kar leti,
+par is rakshason ke nagar mein
+koi mujhe woh bhi dene wala nahi.”
+
+Is gehre shok mein doob kar
+Sita ne apne keshon ka bandhan khol diya
+aur boli:
+
+“Isi rassi se
+main apna jeevan samaapt karungi
+aur mrityu ke lok ko prapt ho jaungi.”
+
+Us sundar, komal aur pavitra Sita ne
+us ped ki shaakh pakad li
+jiske neeche woh khadi thi
+aur Rama, Lakshmana aur apne parivaar
+ka smaran karne lagi 🌿
+
+Tab achanak—
+kai shubh lakshan prakat hue ✨
+jo duniya bhar mein mangal ke chinh maane jaate hain:
+
+Hriday ko shanti dene wale sanket
+
+Bhay ko door karne wale anubhav
+
+Aasha jagane wali spasht soochna
+
+Yeh sab is baat ka sanket the
+ki Sita ka dukh ab samapt hone wala hai
+aur aane wala samay shubh hai 🌸
+
+🌼 Moral (Seekh):
+
+🔹 Dharm aur nishtha kabhi vyarth nahi jaati
+
+🔹 Jab andhera sabse gehra hota hai, tabhi ujala nikat hota hai
+
+🔹 Bhagya pariksha leta hai, par satya ka saath kabhi nahi chhodta"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.29
     with st.expander("Chapter 5.29 – Sita notices good signs of hope"):
         text1 = """
-        """
+        Chapter 29 – Sita ko Shubh Sanket Dikhai Dete Hain
+
+Jab woh nirdosh aur sundar Sita
+abhi bhi chinta aur bhay mein doobi hui thi,
+tab achanak uske chaaron taraf
+shubh sanket dikhai dene lage ✨
+bilkul waise jaise
+kisi dhani vyakti ke charon taraf
+sevak khade ho jaate hain.
+
+Sita ki badi aur sundar baayi aankh,
+jiska putli gehra kaala tha,
+halke-halke phadakne lagi 👁️
+jaise paani mein machhli ke hilaane se
+kamal ka phool ghoom jaata ho 🌸"""
         create_image_text_layout("attached_assets/chapter5/5.29.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Uski komal baayi bhuja,
+jo kabhi
+Chandan aur Agaru se sugandhit thi
+aur jo pehle
+uske prabhu Rama ka takiya bani thi,
+baar-baar kaanpne lagi 🤍
+
+Uski baayi jangh,
+jo haathi ki patli sundar soond jaisi thi,
+achanak hilne lagi 🐘
+yeh sanket tha
+ki Sita jaldi hi Rama ko dekhegi.
+
+Uski sunehri saari,
+jo ab dhool se bhar chuki thi,
+uske sundar kandhon se
+dheere se phisal gayi.
+Maithili ke daant
+anar ke beej jaise chamak rahe the 🍎
+
+In sab mangal chinhon ko dekh kar
+Sita ke mann ko tasalli mili 💛
+uske hriday mein
+nayi aasha jaag uthi.
+
+Woh Sita,
+jo abhi tak
+dhoop aur tez hawa se
+sookhi hui lata jaisi lag rahi thi,
+ab
+der se aayi baarish se jeevit hone lagi 🌧️🌱
+
+Uska chehra phir se chamak utha ✨
+uske Bimba phal jaise hoth,
+sundar aankhen,
+palakon ka ghoomav,
+aur tez chamakte daant—
+sab apni pehli sundarta mein laut aaye
+jaise Rahu ke muh se chhoot kar
+chandrama phir se chamak uthe 🌕🌙
+
+Uska niraasha door ho gayi,
+thakaan mit gayi,
+mann ka jvar shaant ho gaya,
+aur dukh dheere-dheere pighal gaya ❄️➡️💧
+
+Uska hriday
+ab aanand se bhar gaya
+aur woh mahaan nari
+phir se utni hi sundar lagne lagi
+jitna shukla paksh ka sheetal chandra 🌙✨
+
+🌼 Moral (Seekh):
+
+🔹 Jab bhagya badalne wala hota hai, prakriti khud sanket deti hai
+
+🔹 Aasha ka ek chhota sa chinh bhi jeevan ko roshan kar sakta hai
+
+🔹 Sachchi nishtha ka phal avashya milta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.30
     with st.expander("Chapter 5.30 – Hanuman thinks about what to do next"):
         text1 = """
-        """
+        Chapter 30 – Hanuman ke Vichaar (Hinglish Moral Story Style)
+
+Veer Hanuman,
+jo ped ki shaakhon mein chhupa hua tha,
+Sita, Trijata aur rakshasiyon ki
+saari baatein dhyaan se sun chuka tha.
+
+Woh upar se
+Sita ko dekhta raha 🌸
+jo Nandana van ki apsara jaisi lag rahi thi.
+Uske mann mein
+bahut saare vichaar aane lage."""
         create_image_text_layout("attached_assets/chapter5/5.30.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ne socha:
+
+“Jise hazaaron, lakhon vanar
+har jagah dhoondh rahe the,
+woh Sita yahin hai.
+Aur use dhoondhne wala
+main hoon.”
+
+“Main ek chatur doot ban kar
+is nagari mein aaya hoon.
+Maine Ravana ki shakti,
+rakshason ki sena,
+aur Lanka ke saare raaz dekh liye hain.”
+
+“Ab mera kartavya hai
+is dukh se tooti hui nari ko
+dhaarash dena 💛
+jo apne prabhu Rama ke liye
+pal-pal tadap rahi hai.”
+
+“Agar main bina use santvana diye
+wapis chala gaya,
+toh meri yatra vyarth ho jaayegi.”
+
+Hanuman ka mann aur bhaari ho gaya:
+
+“Agar main kuchh na bola,
+toh yeh pavitra Sita
+aasha chhod degi…
+aur shayad apna jeevan bhi.”
+
+“Phir Rama poochhenge:
+‘Sita ne kya kaha?’
+Aur agar maine usse baat hi na ki,
+toh main kya uttar doonga?”
+
+Phir Hanuman ne socha:
+
+“Lekin rakshasiyon ke saamne
+baat karna asambhav hai.”
+
+“Agar main
+manushya jaise shabd
+ya shuddh Sanskrit boloon,
+toh Sita mujhe
+Ravana samajh sakti hai 😨”
+
+“Woh darr ke chilla degi,
+aur sab rakshasi
+hathiyaar le kar mujh par toot padegi.”
+
+“Yadi yudh hua,
+toh ya toh main thak jaunga
+ya pakad liya jaunga.”
+
+“Aur sabse bura yeh—
+un rakshasiyon ke krodh mein
+Sita ko hi maar diya jaa sakta hai.”
+
+“Tab Rama aur Sugreev ka
+poora yojna hi nasht ho jaayega.”
+
+Hanuman gehri soch mein pad gaya:
+
+“Yudh hamesha anishchit hota hai ⚔️
+aur ek doot ko
+soch-samajh kar hi kaam karna chahiye.”
+
+“Ek galat kadam
+poori yatra ko bigaad sakta hai.”
+
+Phir achanak
+Hanuman ke mann mein
+ek uttam upaay aaya ✨
+
+Woh bole (mann hi mann):
+
+“Main Rama ka naam loonga.”
+
+“Main Rama ke gun gaaunga.
+Unki daya, unka dharm,
+unka veerta—
+sab kuchh meethi awaaz mein kahunga.”
+
+“Rama ka naam sunte hi
+Sita ka mann shaant ho jaayega 🌼
+kyunki uska hriday
+hamesha Rama mein basa hai.”
+
+“Is tarah woh mujhse daregi nahi,
+aur meri baat sunegi.”
+
+Hanuman ne dridh nischay kiya:
+
+“Main kuchh bhi karunga,
+lekin Sita ko aasha doonga.”
+
+“Main apna roop chhota hi rakhunga,
+aur awaaz komal aur sachi hogi.”
+
+Aur phir… 🌿
+Maha-veeri Hanuman,
+ped ki shaakh se
+neeche Sita ko dekhte hue,
+madhur aur nirmal swar mein bolna shuru karte hain—
+
+🌼 Rama ka naam le kar…
+
+🌟 Moral (Seekh):
+
+🔹 Sahi samay par sahi shabd sab kuchh badal dete hain
+
+🔹 Sachcha doot sirf bal se nahi, buddhi se jeet ta hai
+
+🔹 Aasha dena sabse bada sahas hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.31
