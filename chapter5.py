@@ -4686,101 +4686,1884 @@ madhur aur nirmal swar mein bolna shuru karte hain—
     # Chapter 5.31
     with st.expander("Chapter 5.31 – Hanuman praises Lord Rama"):
         text1 = """
-        """
+        Hanuman ne sab kuch soch liya.
+Kab bolna hai.
+Kaise bolna hai.
+
+Phir wo bahut meethi awaaz mein bole.
+Unki baatein seedha Sita ke dil tak pahunch rahi thi."""
         create_image_text_layout("attached_assets/chapter5/5.31.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Ek mahaan raja the.
+Unka naam tha Dasharath.
+
+Unke paas rath the.
+Ghode the.
+Haathi the.
+
+Par sabse badi baat,
+unka dil daya se bhara tha.
+
+Wo kisi ko dukh dena nahi chahte the.
+Wo Ikshvaku vansh ki shaan the.”
+
+“Unke sabse bade putra ka naam tha Rama.
+Unka chehra chand jaisa chamakta tha.
+
+Wo buddhi mein tez the.
+Dhanush chalane mein sabse shreshth the.
+
+Wo apne vachan par atal rehte the.
+Sabka raksha karte the.
+Dharm ke rakshak the.”
+
+“Pita ke vachan ke liye,
+Rama ne rajya chhod diya.
+
+Apni patni Sita
+aur bhai Lakshman ke saath
+wo van chale gaye.”
+
+“Van mein rehkar bhi,
+Rama chup nahi rahe.
+
+Jo rakshas logon ko satate the,
+un sab ka ant kiya.
+
+Janasthan mein
+Khara aur Dushan ko maara.”
+
+“Yeh sun kar Ravana gusse se jal utha.
+Usne chal se kaam liya.
+
+Marich ko sone ka hiran banaya.
+Rama ko van ke andar kheench liya.
+
+Aur phir
+Sita ko utha le gaya.”
+
+“Rama toot nahi gaye.
+Wo Sita ko dhoondhne nikle.
+
+Van mein unki dosti hui
+Sugriva naam ke vanar raja se.”
+
+“Rama ne Bali ka ant kiya.
+Sugriva ko rajya diya.
+
+Phir hazaaron vanar
+chaaro dishaon mein bheje gaye.”
+
+“Main unhi mein se ek hoon.
+Mera naam Hanuman hai.
+
+Sampati ke kehne par
+main samundar paar karke yahan aaya.
+
+Chaar sau yojan ka samundar
+maine ek chhalaang mein paar kiya.”
+
+“Rama ne mujhe bataya tha
+aapki sundarta,
+aapke lakshan,
+aapki pavitrata.
+
+Isi liye
+main aapko pehchaan paya.”
+
+Yeh kehkar
+Hanuman chup ho gaye.
+
+Sita hairaan reh gayi.
+Unhone apne uljhe baalon ko hataya.
+Aur Shingshapa ped ki taraf dekha.
+
+Unka mann anand se bhar gaya.
+Rama ka naam sunte hi
+unka dukh halka ho gaya.
+
+Chaaro dishaon mein dekhte hue,
+unhone ped par dekha
+Vayu-putra Hanuman ko.
+
+Wo ugte hue suraj jaise chamak rahe the.
+Sugriva ke mantri.
+Buddhi aur bal ka adbhut sangam.
+
+🌼 Seekh (Moral)
+
+💛 Sachchi bhakti meethi boli se pehchaani jaati hai
+
+🔥 Rama ka naam sunkar bhi umeed jeeti uthti hai
+
+🌿 Sahi samay par sahi shabd chamatkaar karte hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.32
     with st.expander("Chapter 5.32 – Sita notices Hanuman"):
         text1 = """
-        """
+        Sita ne us vanar ko dekha.
+Wo ped ki shaakhon mein chhupa tha.
+
+Safed vastra pehne hue.
+Bijli ki chamak jaisa.
+Ashok ke phoolon jaise chamakta hua.
+Jaise sona aag mein tap kar nikla ho.
+
+Sita ka dil zor se dhadakne laga."""
         create_image_text_layout("attached_assets/chapter5/5.32.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Us vanar ka chehra shaant tha.
+Par Sita darr gayi.
+
+Unhone mann hi mann socha,
+“Yeh kaisa bhayanak vanar hai?
+Dekhne mein ajeeb aur darawna.”
+
+Unka darr aur badh gaya.
+Aankhon se aansu behne lage.
+
+Sita zor se boli,
+“O Rama!
+O Rama!
+O Lakshmana!”
+
+Unki awaaz dheere-dheere kamzor ho gayi.
+
+Phir unhone dobara us vanar ko dekha.
+Wo vinamr tha.
+Sir jhukaye khada tha.
+
+Sita ne mann mein kaha,
+“Yeh shayad sapna hai.”
+
+Us vanar ke chehre par gehre nishaan the.
+Par uski aankhon mein daya aur gyaan tha.
+
+Wo Vayu-putra Hanuman the.
+Vanaron mein Indra jaise.
+
+Yeh dekh kar
+Sita behosh ho gayi.
+Jaise jaan hi chali gayi ho.
+
+Thodi der baad
+unhe hosh aaya.
+
+Unhone socha,
+“Vanar ko sapne mein dekhna
+shastron ke hisaab se ashubh hota hai.
+
+Kya Rama theek honge?
+Lakshmana ke saath honge?
+Mere pita Janak surakshit honge?”
+
+Phir unhone mann mein kaha,
+“Par yeh sapna kaise ho sakta hai?
+Main toh dukh mein so bhi nahi pa rahi.
+
+Rama se door rehkar
+mere jeevan mein koi sukh nahi.”
+
+“Main din-raat
+sirf Rama ke baare mein sochti hoon.
+
+Isliye shayad
+mujhe sab kuch Rama se juda hi dikhai deta hai.”
+
+“Par agar yeh sirf bhram hota,
+toh iski koi aakriti nahi hoti.
+
+Par yeh vanar
+saaf-saaf dikh raha hai.
+Aur bol bhi raha hai.”
+
+Sita ne aankhen band ki.
+Aur mann hi mann prarthna ki:
+
+“Hey Vachaspati Dev!
+Hey Indra Dev!
+Hey Brahma ji aur Agni Dev!
+
+Kripya yeh vardaan do
+ki jo mere saamne khada hai
+wo sach ho,
+sirf mera bhram na ho.”
+
+Sita ka dil ummeed aur darr ke beech jhool raha tha.
+Par kahin na kahin,
+ek chhoti si roshni jal uthi.
+
+🌼 Seekh (Moral)
+
+🌱 Bahut zyada dukh mein bhi mann sach aur bhram ko pehchanne ki koshish karta hai
+
+💛 Shraddha aur prarthna mushkil samay mein sahara banti hai
+
+🌟 Umeed kabhi achanak roop mein saamne aa jaati hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.33
     with st.expander("Chapter 5.33 – Hanuman talks with Sita"):
         text1 = """
-        """
+        Hanuman dheere se ped se neeche utre.
+Unka chehra moongon (coral) jaisa chamak raha tha.
+Wo bilkul saadhe roop mein the.
+
+Haath jod kar
+wo Sita ke paas aaye.
+Aur naram awaaz mein bole."""
         create_image_text_layout("attached_assets/chapter5/5.33.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Hey Devi,
+aap kaun ho?
+
+Aapki aankhen kamal ke phool jaisi hain.
+Aap maili si reshmi saadi pehne ho.
+Ped ki shaakh pakad kar khadi ho.
+
+Aapki aankhon se aansu beh rahe hain.
+Jaise tootey hue ghade se paani girta hai.
+
+Aap kaun ho?
+Devtaon mein se ho?
+Rakshason, Nagas, Gandharvas ya Yakshon mein se?
+
+Ya phir
+Rudra, Vayu ya Vasu kul se ho?
+
+Mujhe toh lagta hai
+aap divya ho.
+
+Kya aap Rohini ho,
+jo Chandra se bichhad gayi?
+
+Ya Arundhati ho,
+jo Vasishtha se door chali aayi?
+
+Kya aap
+apne pita,
+bhai,
+putra
+ya pati ke liye ro rahi ho?
+
+Aap baar-baar
+ek raja ka naam le rahi ho.
+
+Aapke lakshan dekh kar
+lagta hai
+aap kisi raja ki patni ya putri ho.
+
+Kya aap wahi Sita ho,
+jise Ravana ne Janasthan se utha liya?
+
+Aap par mangal ho.
+
+Aapka dukh,
+aapki sundarta
+aur aapka tapasi vesh dekh kar
+mujhe poora vishwas hai—
+
+Aap Shri Rama ki patni ho.”
+
+Hanuman ke muh se
+Rama ka naam sunte hi
+Sita ka mann hil gaya.
+
+Unki aankhon mein
+aansu ke saath
+thodi si roshni aa gayi.
+
+Sita boli:
+
+“Main
+raja Dasharatha ki bahu hoon.
+Jo dharti ke mahaan raja the.
+
+Main
+Videha ke raja Janak ki beti hoon.
+Mera naam Sita hai.
+
+Aur main
+buddhimaan aur dharmic
+Shri Rama ki patni hoon.
+
+Barah saal tak
+main Rama ke saath
+sukh se rahi.
+
+Har khushi mili.
+Har ichha poori hui.
+
+Teerhve saal
+mantriyon ki salah se
+Rama ka rajyabhishek tay hua.
+
+Puri Ayodhya khush thi.
+
+Tab
+Rani Kaikeyi ne
+raja se kaha:
+
+‘Agar Rama raja bane,
+toh main bhojan aur jal chhod dungi.
+Aur apna jeevan tyag dungi.
+
+Jo do vardan
+aapne mujhe diye the,
+unhe poora kijiye.
+
+Rama ko vanvaas bhejiye.’
+
+Raja Dasharatha
+apne vachan ke daas the.
+
+Wo bahut roye.
+Par vachan nahi toda.
+
+Unhone Rama se kaha
+ki raj chhod do.
+
+Rama ne bina jhijhak kaha,
+‘Main pitaji ki baat maanta hoon.’
+
+Rajya se zyada
+unke liye
+vachan aur dharm tha.
+
+Rama ne
+raj ke kapde chhod diye.
+
+Unhone mujhe
+apni maa ke paas chhodna chaha.
+
+Par main kaise rehti?
+
+Rama ke bina
+swarg bhi mujhe soona lagta.
+
+Isliye
+main bhi tapasya ka vesh pehen kar
+unke saath van chali.
+
+Lakshmana bhi
+bark aur kusha ke vastra pehen kar
+saath aaye.
+
+Hum teenon
+ghane van mein aa gaye.
+
+Aur jab Rama
+Dandakaranya van mein the,
+
+Tab
+dusht Ravana
+mujhe utha le gaya.
+
+Usne
+do mahine ka samay diya hai.
+
+Uske baad
+wo mujhe maar dega.”
+
+Sita chup ho gayi.
+Unki aankhon mein dukh tha.
+Par Rama ka naam lete hue
+unke chehre par dhairya bhi tha.
+
+🌼 Seekh (Moral)
+
+🌱 Sachcha dharm mushkil samay mein bhi nahi chhodta
+
+💛 Prem aur vishwas insan ko sabse bada bal deta hai
+
+🌟 Jahan dharm hota hai, wahan sahayata avashya aati hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.34
     with st.expander("Chapter 5.34 – Sita feels unsure and afraid of Hanuman"):
         text1 = """
-        """
+        Sita ke dukhi shabd sun kar
+Hanuman ne use shaant karna chaha.
+
+Wo bole:
+
+“Hey Devi Vaidehi,
+main Rama ka sandeshwahak hoon.
+
+Rama bilkul surakshit hain.
+Wo aapki khairiyat pooch rahe hain."""
         create_image_text_layout("attached_assets/chapter5/5.34.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Dasharatha ke putra Rama,
+jo Ved jaante hain,
+jo Brahmastra ke gyaani hain,
+aapko pranam bhejte hain.
+
+Lakshmana bhi,
+jo aapke pati ke sabse priya saathi hain,
+man hi man dukhi hote hue bhi,
+aapko naman karte hain.”
+
+Rama aur Lakshmana ka naam sunte hi
+Sita ka sharir kaanp gaya.
+
+Par ye kaanpna
+khushi ka tha.
+
+Wo boli:
+
+“Sach hi kaha gaya hai.
+Kabhi-kabhi
+sau saal baad bhi
+sukh aa hi jaata hai.”
+
+Sita aur Hanuman
+khushi se baat karne lage.
+
+Dono ke beech
+bharosa badhne laga.
+
+Par jaise hi
+Hanuman thoda paas aaye,
+Sita ka mann ghabra gaya.
+
+Usne socha:
+
+“Arre!
+Kahin ye Ravana hi toh nahi?
+Kisi aur roop mein?”
+
+Dar se
+usne Ashok vriksh ki shaakh chhod di.
+Aur zameen par baith gayi.
+
+Hanuman ne turant
+jake pranam kiya.
+
+Sita dar ke maare
+aankh nahi utha pa rahi thi.
+
+Par uska vinamra jhukna dekh kar
+Sita ne dheere se kaha:
+
+“Agar tum Ravana ho,
+aur mujhe dukh dene ke liye
+ye roop liya hai,
+toh ye bahut paap hai.
+
+Tum wahi ho
+jo Janasthan mein
+sadhu bankar aaya tha.
+
+Mujhe aur mat satao.
+Main bhookh aur dukh se
+pehle hi kamzor ho chuki hoon.
+
+Par…
+tum poore Ravana nahi lagte.
+
+Tumhe dekh kar
+mere mann mein shanti aa rahi hai.
+
+Agar tum sach mein
+Rama ke sandeshwahak ho,
+toh tumhara swagat hai.
+
+Mujhe Rama ke baare mein sunao.
+Unki baatein
+mere mann ko baha le jaane do.
+
+Ye sapna toh nahi?
+Par sapne mein bandar dekh kar
+khushi nahi hoti.
+
+Aur mujhe toh khushi ho rahi hai.
+
+Kya mera mann bhram mein hai?
+Ya bhookh ne mujhe kamzor kar diya?
+
+Nahi…
+main poori tarah hosh mein hoon.
+Aur tumhe saaf-saaf dekh rahi hoon.”
+
+Sita ke mann mein
+ek aur baat ghoom rahi thi.
+
+“Rakshas toh
+roop badal sakte hain.”
+
+Isi soch mein
+wo chup ho gayi.
+
+Hanuman samajh gaye.
+Unhone phir madhur shabdon mein kaha:
+
+“Rama surya jaise tejasvi hain.
+Chandra jaise shaant hain.
+
+Wo sabke priya hain.
+Kubera jaise daani hain.
+
+Vishnu jaise veer.
+Vachaspati jaise madhur vakta.
+
+Kaamdev jaise sundar.
+Aur adharmiyon ko
+nyay se dand dene wale.
+
+Marich ne hiran ka roop liya.
+Isi wajah se Rama van se door gaye.
+Aur Ravana aapko utha le gaya.
+
+Par zyada din nahi bache.
+
+Rama apne tej baanon se
+Ravana ka ant karenge.
+
+Main wahi sandesha laaya hoon.
+
+Rama aapki chinta karte hain.
+Lakshmana bhi.
+
+Sugriva,
+vanaron ke raja,
+jo Rama ke mitra hain,
+wo bhi aapko pranam bhejte hain.
+
+Bahut jald
+aap Rama aur Lakshmana ko
+phir dekhenge.
+
+Main Sugriva ka mantri hoon.
+Mera naam Hanuman hai.
+
+Main samudra paar karke
+Lanka aaya hoon.
+
+Main Ravana nahi hoon.
+Apna doubt chhod dijiye.
+Aur mere shabdon par vishwas rakhiye.”
+
+Sita ne Hanuman ko dekha.
+Unke mann ka bojh
+thoda halka ho gaya.
+
+Unki aankhon mein
+pehli baar
+ummeed ki roshni chamki.
+
+🌼 Seekh (Moral)
+
+🌱 Dukh ke samay shak aana swabhavik hai
+
+🤍 Sachcha vinamrata aur madhur vaani se pehchana jaata hai
+
+🌟 Umeed ka ek shabd bhi jeevan badal sakta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.35
     with st.expander("Chapter 5.35 – Hanuman proves he is Rama’s messenger"):
         text1 = """
-        """
+        Rama ke baare mein
+itna sundar varnan sun kar,
+Vaidehi ka mann pighal gaya.
+
+Wo pyaar se boli:
+
+“Tum Rama se kahan mile?
+Lakshmana ko kaise jaante ho?
+
+Insaan aur vanar
+kaise mitra bane?
+
+Mujhe phir se batao.
+Rama aur Lakshmana ke
+lakshan batao.
+
+Unka roop.
+Unki bhuja.
+Unki shakti.
+
+Mera dukh kam ho jayega.”"""
         create_image_text_layout("attached_assets/chapter5/5.35.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman muskuraye.
+Aur bole:
+
+“Devi Vaidehi,
+aapne mujhe Rama ka
+doot maan liya.
+
+Ye mera saubhagya hai.
+
+Ab suno.
+Main Rama aur Lakshmana ka
+sachcha varnan karta hoon.”
+
+“Rama ke netra
+kamal jaise hain.
+
+Unka mukh
+chandrama jaisa shant hai.
+
+Tej Surya jaisa.
+Dharya dharti jaisa.
+
+Buddhi Brihaspati jaisi.
+Yash Indra jaisa.
+
+Wo sab praniyon ke rakshak hain.
+Dharma ke sanrakshak hain.
+
+Sach aur nyay
+unke jeevan ka mool hai.
+
+Unki bhuja lambi aur balwan hain.
+Kandhe chaunde hain.
+
+Unki awaaz
+dundubhi jaise gambhir hai.
+
+Unki chal
+sher aur hathi jaise shant aur majboot hai.
+
+Lakshmana bhi
+bilkul un jaise hain.
+
+Bas rang mein antar hai.
+Rama shyam varn ke hain.
+Lakshmana swarn jaise ujjwal hain.
+
+Dono bhai
+aapse milne ke liye
+vyakul hain.”
+
+Hanuman ne phir
+poori kahani sunayi.
+
+“Van mein ghoomte hue
+Rama aur Lakshmana
+Sugriva se mile.
+
+Sugriva ko
+uske bhai Bali ne
+rajya se nikal diya tha.
+
+Pehle dar laga.
+Par phir mitrata hui.
+
+Rama ne Sugriva ka dukh samjha.
+Sugriva ne Rama ka.
+
+Dono ne ek doosre ki madad ka vachan diya.”
+
+“Bali ka vadh hua.
+Sugriva vanaron ka raja bana.
+
+Fir
+aapko dhoondhne ke liye
+vanar sena chali.
+
+Jab aapke gehne
+aakash se gire the,
+unhe hum lekar
+Rama ke paas gaye.
+
+Rama unhe seene se laga kar
+bahut roye.
+
+Aapke bina
+wo jeevit reh kar bhi
+jal rahe hain.
+
+Jaise parvat par
+aag dhadhak rahi ho.”
+
+Hanuman ki awaaz
+aur gambhir ho gayi.
+
+“Hum sab
+aapko dhoondhte-dhoondhte
+haar gaye the.
+
+Marne ka bhi soch liya tha.
+
+Tab Sampati aaye.
+Jatayu ke bhai.
+
+Unhone bataya
+ki aap Lanka mein hain.
+
+Main samudra langh kar
+yahan aaya.
+
+Raat mein Lanka mein pravesh kiya.
+
+Ravana ko dekha.
+Aur aapko bhi.
+
+Main hi Hanuman hoon.
+
+Sugriva ka mantri.
+Vayu ka putra.
+
+Ye mera sach hai.
+
+Ab mujhe pehchaan lijiye.”
+
+Hanuman ke shabd
+dil se nikle hue the.
+
+Sita ka dukh
+ab bharose mein badalne laga.
+
+Unki aankhon se
+khushi ke aansu behne lage.
+
+Unka chehra
+chandrama jaise chamak utha.
+
+Jaise
+Rahu ke baad
+chand phir se nikla ho.
+
+Sita ne mann hi mann kaha:
+
+“Ab koi sandeh nahi.
+
+Ye sach mein
+Rama ka doot hai.”
+
+Hanuman phir bole:
+
+“Devi,
+ab aap batao.
+
+Main aur kya kar sakta hoon?
+
+Aapka sandesh
+main Rama tak pahuchaunga.
+
+Bahut jald
+Rama Ravana ka ant karenge.
+
+Aur aapko yahan se le jayenge.”
+
+🌸 Seekh (Moral)
+
+🌱 Sach hamesha shant aur spasht hota hai
+
+🤍 Vishwas sabse pehle dil ko chhoota hai
+
+🔥 Bhakti aur kartavya se asambhav bhi sambhav ho jaata hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.36
     with st.expander("Chapter 5.36 – Sita asks Hanuman many questions"):
         text1 = """
-        """
+        Hanuman ne Sita ka vishwas
+aur gehra karne ke liye
+phir se bola.
+
+Unki awaaz shant thi.
+Dil se nikli hui."""
         create_image_text_layout("attached_assets/chapter5/5.36.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Devi Sita,
+main Rama ka doot hoon.
+
+Main vanar hoon.
+Par Rama ka vishwas
+mere saath hai.
+
+Ye dekhiye.”
+
+Hanuman ne
+ek angoothi nikali.
+
+Wo Rama ki thi.
+Us par Rama ka naam
+likha tha.
+
+“Ye angoothi
+Rama ne khud di hai.
+
+Taaki aap mujh par
+poora vishwas kar saken.
+
+Aapka dukh
+ab zyada din ka nahi.”
+
+Sita ne jab
+wo angoothi dekhi,
+unka hriday bhar aaya.
+
+Unhone use
+haathon mein liya.
+
+Aisa laga
+jaise Rama
+saamne khade ho.
+
+Unki aankhen chamak uthi.
+Aansoo khushi ke the.
+
+Unka chehra
+chand jaise ho gaya.
+Jaise baadal hat gaye hon.
+
+Sita ne Hanuman ko
+mitra ki tarah dekha.
+
+Aur boli:
+
+“O shreshth vanar,
+tum sach mein veer ho.
+
+Akele Lanka aana
+aasaan nahi tha.
+
+Samudra paar karna
+bahut bada kaam hai.
+
+Tum Ravana se bhi
+nahi darte.
+
+Tum koi saadhaaran vanar
+nahi ho.
+
+Rama ne tumhe
+parakh kar hi bheja hoga.”
+
+Phir Sita ke mann mein
+bahut saare sawal aaye.
+
+Wo dheere-dheere boli:
+
+“Kya Rama
+theek hain?
+
+Kya Lakshmana
+swasth hain?
+
+Mere bina
+kya Rama vyakul hain?
+
+Kya wo mujhe
+yaad karte hain?
+
+Kya wo mujhe
+bachaane ki tayyari
+kar rahe hain?
+
+Kya unka dhairya
+abhi bhi bana hua hai?
+
+Kya Bharata
+unki madad karega?
+
+Kya Sugriva
+vanar sena ke saath
+aayega?
+
+Kya main
+Ravana ka ant
+apni aankhon se
+dekh paungi?
+
+Kya Rama ka
+sone jaisa chehra
+mere bina
+feeka ho gaya hai?”
+
+Sita ruk gayi.
+Wo aur sunna chahti thi.
+
+Hanuman ne
+haath jod kar
+vinamrta se bola:
+
+“Devi,
+Rama abhi ye nahi jaante
+ki aap yahan hain.
+
+Isliye wo
+abhi aaye nahi.
+
+Jaise hi wo
+ye sach jaanenge,
+wo turant aayenge.
+
+Vanar aur bhaalu sena ke saath.
+
+Samudra bhi
+unhe nahi rok paayega.
+
+Lanka bhi
+tik nahi paayegi.”
+
+Hanuman ki awaaz
+aur dridh ho gayi.
+
+“Devi,
+Rama aapke bina
+so nahi paate.
+
+Unka mann
+sirf aap mein laga rehta hai.
+
+Kabhi unki aankh lagti hai,
+to wo uth kar bolte hain:
+‘Sita…’
+
+Koi phool dekhte hain,
+to aap yaad aati hain.
+
+Koi fal dekhte hain,
+to aapka naam lete hain.
+
+Lakshmana
+unke liye fal-mool
+tayaar karte hain.
+
+Rama tapasya ka
+jeevan jee rahe hain.
+
+Main parvaton ki shapath leta hoon.
+Mandar, Meru, Vindhya ki.
+
+Aap jaldi
+Rama ko dekhenge.
+
+Unki sundar aankhen.
+Unka shant mukh.
+
+Aapka milan
+ab door nahi.”
+
+Hanuman ke shabd sun kar
+Sita ka mann
+khushi se bhar gaya.
+
+Par saath hi
+Rama ke dukh ka soch kar
+unhe kasak hui.
+
+Wo aisi lag rahi thi
+jaise sharad ka chand
+baadal ke peeche
+chhup kar
+phir nikal aaye.
+
+🌸 Seekh (Moral)
+
+🤍 Sachcha prem doori mein bhi kam nahi hota
+
+🔥 Vishwas aur dhairya dukh ko sahne ki shakti dete hain
+
+🌱 Sacha doot wahi hota hai jo asha jagaye"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.37
     with st.expander("Chapter 5.37 – Sita refuses to go with Hanuman alone"):
         text1 = """
-        """
+        Chand jaise chehre wali
+Sita ne
+Hanuman ki baat suni.
+
+Phir shaant,
+par gambhir swar mein boli.
+
+“O Vanar-veera,
+tumne mujhe bataya
+ki Rama mujhe yaad karke
+dukh mein doobe hain.
+
+Ye baat
+amrit jaise hai,
+par zehar ke saath mili hui."""
         create_image_text_layout("attached_assets/chapter5/5.37.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Chahe sukh ho
+ya dukh,
+vidhi apna kaam karti hai.
+
+Koi bhi
+bhagya se nahi bach sakta.
+
+Dekho,
+main, Rama aur Lakshmana
+sabhi kasht mein hain.”
+
+Sita ki aankhen bhar aayi.
+
+“Jaise toota hua jahaz
+kinare ki talash karta hai,
+waise hi Rama
+apne dukh ka ant chaahte hain.
+
+Ravana ne
+mujhe maarne ka samay
+tay kiya hai.
+
+Sirf do mahine
+baaki hain.
+
+Uske bhai
+Vibhishan ne use samjhaya.
+
+Par Ravana ne
+baat nahi maani.
+
+Budhe aur gyaani
+Avindha ne bhi
+vinaash ki bhavishyavani ki.
+
+Par Ravana andha bana raha.”
+
+Sita ne
+thoda bal pakda.
+
+“Phir bhi
+mujhe vishwas hai.
+
+Mera hriday shuddh hai.
+Aur Rama ke gun
+anant hain.
+
+Unmein dhairya hai.
+Karuna hai.
+Shakti hai.
+
+Janasthan mein
+unhone akele
+chaudah hazaar rakshas
+maare the.
+
+Wo surya jaise hain.
+Unke baan
+surya ki kirnein hain.
+
+Rakshason ka jheel
+wo sookha denge.”
+
+Itna keh kar
+Sita phir ro padi.
+
+Tab Hanuman bole:
+
+“Devi,
+chaaho to main
+aaj hi aapko
+yahan se le chaloon.
+
+Meri peeth par baithiye.
+Main samudra paar
+aapko Rama tak
+le jaa sakta hoon.
+
+Main poori Lanka
+Ravana samet
+utha sakta hoon.
+
+Aaj hi
+aap Rama se mil sakti hain.”
+
+Sita pehle
+chakit hui.
+
+Phir boli:
+
+“O Hanuman,
+ye kaise sambhav hai?
+
+Tum itne chhote ho.
+
+Mujhe
+itni door kaise le jaoge?”
+
+Hanuman ne socha:
+
+“Sita meri shakti
+nahi jaanti.”
+
+Hanuman ne
+apna roop badla.
+
+Wo badhne lage.
+
+Parvat jaise ho gaye.
+
+Unka sharir
+aag aur pahad sa
+lagne laga.
+
+“Main poori Lanka
+ukhaad sakta hoon.
+
+Aaiye Devi,
+der na kijiye.”
+
+Sita ne
+unka vishal roop dekha.
+
+Aur namrata se boli:
+
+“O Mahaveer,
+ab main tumhari shakti
+samajh gayi hoon.
+
+Tum sach mein
+pawan ke putra ho.
+
+Par mujhe
+sochna hoga.
+
+Kya ye uchit hoga?”
+
+Sita ne
+shaant mann se kaha:
+
+“Agar main
+tumhari peeth se gir gayi,
+to samudra mein
+shikaar ban jaungi.
+
+Rakshas tumhara
+peecha karenge.
+
+Tum nishastra hoge.
+
+Aur mujhe
+bachate-bachate
+yuddh mein phas jaoge.
+
+Yuddh ka
+parinaam anishchit hota hai.
+
+Agar mujhe kuch ho gaya,
+to sab vyarth ho jaayega.”
+
+Sita ne
+aakhri aur gehri baat kahi:
+
+“Main
+sirf Rama ko
+sparsh kar sakti hoon.
+
+Ravana ne mujhe
+zabardasti chhua.
+
+Par main tab
+asahaay thi.
+
+Agar Rama aakar
+Ravana ko maar kar
+mujhe le jaayein,
+to wahi unke yogya hai.
+
+Unke saamne
+Dev, Naag, Rakshas
+koi nahi tik sakta.
+
+Isliye, Hanuman,
+Rama, Lakshmana
+aur Sugriva ko
+yahan le aao.
+
+Unke bina
+main jee nahi sakti.
+
+Ab mujhe
+phir se khushi do.”
+
+🌸 Seekh (Moral)
+
+🤍 Maryada aur dharm bal se bhi bade hote hain
+
+🕊️ Sita ka vishwas sirf shakti par nahi, nyay par tha
+
+🔥 Sachchi vijay wahi hoti hai jo dharm ke saath ho"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.38
     with st.expander("Chapter 5.38 – Sita gives Hanuman her jewel"):
         text1 = """
-        """
+        Sita ke shabd sun kar
+Hanuman ka mann bhar aaya.
+
+Wo muskuraye
+aur vinamr swar mein bole.
+
+“O Janaki,
+tumne jo kaha
+wo bilkul uchit hai.
+
+Tumhari maryada,
+tumhara pativrata dharm,
+sab Rama ke yogya hai."""
         create_image_text_layout("attached_assets/chapter5/5.38.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Samudra paar karna
+tumhare liye uchit nahi.
+
+Aur jo tumne kaha
+ki tum sirf Rama ko hi sparsh kar sakti ho,
+ye tumhari pavitrata dikhata hai.”
+
+Hanuman ne aage kaha:
+
+“Maine tumse aisa kehna
+sirf isliye chaha
+kyunki main Rama ka kaam
+poora karna chahta tha.
+
+Main tumhe
+aaj hi Rama ke paas
+le jaana chahta tha.
+
+Par ab,
+jaise tum keh rahi ho,
+main wahi karunga.”
+
+Phir Hanuman bole:
+
+“Ab mujhe
+koi aisa chinh do
+jisse Rama ko
+mujh par poora vishwas ho jaaye.”
+
+Sita ki aankhon se
+aansoo behne lage.
+
+Bhari awaaz mein boli:
+
+“Ek chinh hai.
+Bahut hi pavitra.
+
+Tum Rama se kehna
+ek purani ghatna.”
+
+Sita ne yaad kiya
+Chitrakoot ka samay.
+
+“Mandakini nadi ke paas
+hum dono the.
+
+Tum jheel mein snaan karke
+mere seene par
+vishram kar rahe the.
+
+Ek kauwa aaya.
+Usne mujhe chonch maari.
+
+Main gussa hui.
+Use hataana chaha.
+
+Par wo baar-baar
+waapas aata raha.
+
+Thak kar
+main tumhari baahon mein
+aa gayi.
+
+Tum hase.
+Aur pyaar se
+mere aansoo ponch diye.
+
+Main tumhari baahon mein
+so gayi.
+
+Aur tum bhi.”
+
+Sita ki awaaz aur bhari ho gayi.
+
+“Jab main uthi,
+us kauwe ne
+mujhe phir chot pahunchayi.
+
+Tum jaag gaye.
+
+Tumhara krodh
+aag jaise tha.
+
+Tumne
+kusha ghaas se
+Brahmastra banaya.
+
+Kauwa teeno lokon mein bhaga.
+
+Par kahin sharan na mili.
+
+Aakhir wo tumhare paas
+lauta.
+
+Tumne daya dikhayi.
+
+Uska ek aankh
+le liya.
+
+Aur uski jaan bacha li.”
+
+Sita ne dard se kaha:
+
+“Jo tumne
+ek kauwe ke liye kiya,
+kya wo mujh par bhi
+yaad nahi aata?
+
+Ravana ko
+ab tak dand kyon nahi mila?”
+
+Sita ro padi.
+
+Hanuman ne
+turant kaha:
+
+“Devi,
+ye satya hai
+ki Rama tumhare dukh se
+badal gaye hain.
+
+Lakshmana bhi
+unke dukh mein
+jal rahe hain.
+
+Ab jab main tumhe
+pa gaya hoon,
+sab badlega.
+
+Rama Ravana ko
+avashya nasht karenge.
+
+Aur tumhe
+ghar le jaayenge.”
+
+Hanuman ne poocha:
+
+“Ab mujhe batao,
+Rama, Lakshmana
+aur Sugriva ko
+kya sandesh doon?”
+
+Sita ne dhairya se kaha:
+
+“Rama ko
+mera pranam kehna.
+
+Aur Lakshmana ko bhi.
+
+Wo jisne
+sab sukh chhod kar
+Rama ka saath diya.
+
+Jo mujhe
+maa samaan maanta hai.
+
+Us veer se kehna
+ki main unke sahas ko
+yaad karti hoon.”
+
+Phir Sita ne
+aakhri baat kahi:
+
+“Rama se kehna—
+
+Mera sirf ek mahina baaki hai.
+Uske baad main nahi rahungi.
+
+Ye sach hai.
+
+Mujhe Ravana se
+jaldi mukt karo.”
+
+Itna keh kar
+Sita ne
+apne vastra se
+ek chamakta hua
+motiyon ka abhushan nikala.
+
+Wo wahi tha
+jo kabhi
+uske maathe par
+shobha deta tha.
+
+Usne Hanuman ko diya
+aur boli:
+
+“Ye Rama ko dena.”
+
+Hanuman ne
+us anmol ratna ko
+shraddha se liya.
+
+Sita ko pranam kiya.
+
+Aur man hi man
+Rama ke paas
+laut gaye.
+
+Uska hriday shaant tha.
+
+Uska kartavya
+ab spasht tha.
+
+🌸 Seekh (Moral)
+
+🤍 Vishwas chinh se nahi, bhavna se hota hai
+
+🕊️ Sita ka abhushan yaad ka sandesh hai
+
+🔥 Dharma aur dhairya hi jeet dilate hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.39
     with st.expander("Chapter 5.39 – Hanuman comforts and calms Sita"):
         text1 = """
-        """
+        Sita ne
+Hanuman ko
+woh anmol moti de diya.
+
+Phir dheere se boli:
+
+“Ye chinh
+Rama turant pehchaan lenge.
+
+Isse unhe
+teen chehre yaad aayenge.
+Mere pita Janaka,
+Raja Dasharath,
+aur main.”"""
         create_image_text_layout("attached_assets/chapter5/5.39.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Sita ki aankhon mein
+umeed bhi thi
+aur darr bhi.
+
+“O Hanuman,”
+wo boli,
+“apni poori shakti se socho.
+
+Socho ki
+Rama ko
+ab kya karna chahiye.
+
+Meri peeda
+ka ant kaise hoga.
+
+Tum hi
+mujhe is dukh se
+bahar nikaal sakte ho.”
+
+Hanuman ne
+vinamrta se sir jhukaya.
+
+“Tathaastu,”
+usne kaha.
+
+Jab Hanuman
+jaane laga,
+toh Sita ka mann
+kaamp utha.
+
+Aansoo bhari awaaz mein boli:
+
+“O Hanuman,
+Rama, Lakshmana,
+Sugriva
+aur sab vanaron ko
+mera mangal sandesh dena.
+
+Unka bhala chaho.
+Unke liye shubh kaamna karo.
+
+Rama se aisa kehna
+ki jab tak main zinda hoon,
+mujhe yahan se
+bachaa lein.
+
+Mere shabd
+unke saahas ko
+sau guna badha denge.
+
+Mujhse milne ki ichha
+unhe aur bhi
+veer bana degi.”
+
+Hanuman ne
+haath jod kar kaha:
+
+“Devi,
+Rama avashya aayenge.
+
+Bade-bade devta,
+daitya,
+ya raakshas bhi
+unka saamna
+nahi kar sakte.
+
+Agar zarurat pade,
+toh wo Surya,
+Varun,
+ya Yama se bhi
+yuddh kar sakte hain.”
+
+Sita ne
+Hanuman ki baaton mein
+sachchai mehsoos ki.
+
+Phir ek vinamr ichha rakhi:
+
+“O Veer,
+agar tumhe theek lage,
+toh ek din aur ruk jao.
+
+Tumhari upasthiti se
+mera dukh
+kuch der ko kam hota hai.
+
+Agar tum aaj chale gaye,
+toh tumhare lautne tak
+mera jeevan
+badi kathinai mein rahega.”
+
+Phir Sita ne
+apna sabse bada darr kaha:
+
+“Samudra bahut vishaal hai.
+
+Rama, Lakshmana
+aur vanar sena
+ise kaise paar karenge?
+
+Is sansaar mein
+sirf teen hi
+samudra paar kar sakte hain.
+Garud,
+tum,
+aur Vayu.”
+
+Phir boli:
+
+“Main jaanti hoon
+tum akela bhi
+sab kar sakte ho.
+
+Par yeh vijay
+Rama ki honi chahiye.
+
+Ravana ko hara kar,
+mujhe le jaana
+Rama ka hi kartavya hai.
+
+Isi mein
+unka yash hai.”
+
+Hanuman ne
+shaant aur
+pyaari awaaz mein kaha:
+
+“O Janaki,
+chinta mat karo.
+
+Sugriva tayari kar chuke hain.
+
+Laakhon vanar
+unke saath aayenge.
+
+Kuch vanar
+mere jaise shaktishaali hain.
+
+Kuch mujhse bhi
+adhik balwaan.
+
+Koi kamzor nahi.
+
+Jab main yahan aa sakta hoon,
+toh wo sab bhi
+avashya aa sakte hain.”
+
+Hanuman ne aage kaha:
+
+“Rama aur Lakshmana
+surya aur chandra jaise hain.
+
+Ravana aur uski sena
+unke saamne
+tik nahi paayegi.
+
+Jab Lanka par
+vanar sena garjegi,
+toh pahaad bhi
+kaanp uthenge.”
+
+Sita ka mann
+halka ho gaya.
+
+Uski aankhon mein
+phir se umeed chamki.
+
+Hanuman ne
+aakhri baar kaha:
+
+“Rama tumse milenge.
+
+Ravana ka ant
+tumhari aankhon ke saamne hoga.
+
+Tab tum
+Rama se
+waise hi milogi
+jaise Sachi
+Indra se mili thi.
+
+Thoda sa dhairya rakho.
+
+Main jaldi lautunga.”
+
+Sita ne
+sir jhuka kar
+Hanuman ko dekha.
+
+Uske mann mein
+pehli baar
+shaanti utri.
+
+🌼 Seekh (Moral)
+
+💛 Dhairya sabse badi shakti hai
+
+🤝 Sacha sevak vishwas jagata hai
+
+🌅 Andhera kitna bhi gehra ho, subah zaroor aati hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.40
     with st.expander("Chapter 5.40 – Hanuman says goodbye to Sita"):
         text1 = """
-        """
+        Hanuman ki baatein sunkar
+Sita ka mann
+thoda shaant hua.
+
+Usne
+pyaar bhari
+aur arth-poorn baaton mein kaha:
+
+“Jaise baarish
+pakti fasal ko
+khushi deti hai,
+waise hi tumhe dekhkar
+mera mann
+jeevit ho uthta hai,
+O Hanuman."""
         create_image_text_layout("attached_assets/chapter5/5.40.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Tum mere Rama ki
+madhur baatein bolte ho.
+Isliye tum
+mere liye
+varadaan ho.
+
+Meri daya karke
+aisa kaam karo
+ki main
+jaldi se
+us veer purush se
+mil sakoon.”
+
+Phir Sita boli:
+
+“Rama ko
+woh sab yaad dilana
+jo sirf hum dono jaante hain.
+
+Us kaue ki baat
+jiska ek aankh
+unhone nikaal diya tha.
+
+Aur woh pal bhi,
+jab mera tilak
+mit gaya tha
+aur Rama ne
+apne haathon se
+naya tilak
+mere gaal par banaya tha.
+
+Ye sab
+unhe turant yaad aa jaayega.”
+
+Sita ki awaaz
+bharra gayi.
+
+Aansoo behte hue boli:
+
+“Unse kehna—
+
+‘O Indra jaise veer,
+tum kaise sah sakte ho
+ki Sita
+raakshason ke beech
+bandi bani rahe?
+
+Jo moti
+mere maatha ko sajata tha,
+use maine
+bahut sambhaal kar rakha.
+
+Dukh mein bhi
+main use dekh kar
+tumhe mehsoos karti hoon.
+
+Agar tum deri karoge,
+toh main
+ek maheena bhi
+zinda nahi rahungi.
+
+Ravana ka bhay
+mujhe har pal sataata hai.
+
+Agar mujhe laga
+ki tum aane mein
+hichkichaa rahe ho,
+toh main
+usi pal
+apna praan tyaag dungi.’”
+
+Sita ki aankhon se
+aansoo behte rahe.
+
+Hanuman ka
+hriday bhar aaya.
+
+Usne
+dridhta se kaha:
+
+“O Devi,
+main kasam khaata hoon.
+
+Tumhare dukh se
+Rama ka chehra
+peela pad gaya hai.
+
+Aur Rama ko dukhi dekhkar
+Lakshmana bhi
+vyakul hai.
+
+Ab jab maine tumhe
+dekh liya hai,
+toh nirasha ka
+koi kaaran nahi.
+
+Bahut jald
+tumhare saare dukh
+samaapt honge.”
+
+Hanuman aage bola:
+
+“Rama aur Lakshmana
+Lanka ko
+raakh bana denge.
+
+Ravana ka ant hoga.
+
+Aur tum
+apne Rama ke saath
+apne nagar
+loti aaogi.”
+
+Hanuman ne phir kaha:
+
+“Ab mujhe
+koi aisa chinh do
+jise dekhkar
+Rama turant
+meri baat maan le.”
+
+Sita ne
+shaant swar mein kaha:
+
+“Main pehle hi
+woh chinh
+tumhe de chuki hoon.
+
+Us moti ko dekhkar
+Rama ko
+sab yaad aa jaayega.”
+
+Hanuman ne
+woh anmol moti
+aadar se liya.
+
+Sir jhukaya.
+
+Vida lene laga.
+
+Jab Sita ne dekha
+ki Hanuman
+apna roop bada karke
+udne ko taiyaar hai,
+toh uski aankhon se
+phir aansoo beh nikle.
+
+Roti hui boli:
+
+“O Hanuman,
+Rama aur Lakshmana ko
+mera pranam kehna.
+
+Sugriva
+aur sab vanaron ko bhi.
+
+Rama se kehna
+ki main
+iss dukh ke samudra mein
+doob rahi hoon.
+
+Raakshason ki dhamkiyon se
+mera mann
+kaamp raha hai.
+
+Mujhe yahan se
+jaldi bachaa lein.
+
+Tumhara bhala ho,
+O Vanar-shreshth.”
+
+Hanuman ne
+ye sab baatein
+hriday mein basa li.
+
+Uska kaarya
+poora ho chuka tha.
+
+Usne
+man hi man
+uttar disha ka path
+paar kar liya.
+
+Aur
+Rama tak pahunchne ke liye
+udaan bharne ko
+taiyaar ho gaya.
+
+🌼 Seekh (Moral)
+
+🌱 Umeed zinda rakhti hai
+
+🤝 Sachcha doot sirf sandesh nahi, sahara bhi hota hai
+
+🌞 Prem aur vishwas se bada koi bal nahi"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.41
