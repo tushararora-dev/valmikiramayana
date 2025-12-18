@@ -6569,51 +6569,633 @@ taiyaar ho gaya.
     # Chapter 5.41
     with st.expander("Chapter 5.41 – Hanuman destroys the Ashoka garden"):
         text1 = """
-        """
+        Sita se aashirvaad lene ke baad,
+Hanuman dheere se Ashoka Vatika se bahar nikla.
+
+Uske mann mein soch chali.
+
+“Main apna main kaam kar chuka hoon.
+Sita mil gayi.
+Par ab kuch aur bhi zaroori hai.”"""
         create_image_text_layout("attached_assets/chapter5/5.41.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ne socha:
+
+“Rakshason se baat karke kaam nahi banega.
+Na daan kaam aayega.
+Na unmein phoot daali ja sakti hai.
+Yahan sirf shakti hi kaam karegi.”
+
+Usne mann mein kaha:
+
+“Jab Rakshas apne shresht yoddha haarte dekhenge,
+tab unka ghamand tootega.
+Ek achha doot wahi hota hai
+jo main kaam ke saath
+dushman ki taakat bhi jaan le.”
+
+Hanuman ne faisla kiya:
+
+“Main is sundar Ashoka Vatika ko nasht karunga.
+Isse Ravana ka gussa bhadkega.
+Phir woh apni sena bhejega.
+Aur mujhe Rakshason ki asli taakat dikh jaayegi.”
+
+🔥 Ashoka Vatika ka Vinash
+
+Phir Hanuman badal gaya.
+
+Wo toofan jaisa ho gaya.
+
+Bade-bade ped ukhaadne laga
+
+Lataayein tod di
+
+Phool bikhar gaye
+
+Pavilions gir gaye
+
+Haathi, hiran, pakshi —
+sab bhay se chillane lage.
+
+Jo vatika swarg jaisi thi,
+wo jang ka maidan ban gayi.
+
+Aisa laga jaise
+aag ne poori bagiya ko jala diya ho.
+
+Ashoka ke ped gir gaye.
+Sundarta toot gayi.
+Har taraf barbadi thi.
+
+Wo jagah
+jo pehle rajkumariyon ka khel-sthal thi,
+ab khandhar ban chuki thi.
+
+⚔️ Yuddh ke liye Taiyaar
+
+Sab kuch todne ke baad,
+Hanuman ruk gaya.
+
+Wo dwaar par khada ho gaya,
+aankhon mein tej,
+shareer mein bijli.
+
+Uska ek hi sankalp tha:
+
+“Ab Rakshas aayein.
+Main akela kaafi hoon.”
+
+🌼 Is Adhyay ki Seekh
+
+💥 Kabhi-kabhi shanti nahi, shakti zaroori hoti hai
+
+🐒 Hanuman sirf bhakt nahi, strategist bhi hai
+
+⚔️ Doot ka kaam sirf sandesh dena nahi,
+dushman ki taakat naapna bhi hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.42
     with st.expander("Chapter 5.42 – Hanuman kills Ravana’s guards"):
         text1 = """
-        """
+        Ashoka Vatika mein jab
+ped girne lage, pakshi chillane lage,
+to poori Lanka mein bhay phail gaya.
+
+Janwar idhar-udhar bhaagne lage.
+Aakash mein ashubh sanket dikhne lage."""
         create_image_text_layout("attached_assets/chapter5/5.42.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😨 Rakshasiyon ka Dar
+
+Neend se uthi hui rakshasiyan
+jab ujdi hui vatika dekhti hain,
+to kaanp jaati hain.
+
+Aur tab Hanuman apna roop aur bada kar leta hai.
+
+Wo pahad jaisa dikhne lagta hai.
+Aankhon mein bijli.
+Shareer se shakti tapak rahi thi.
+
+Rakshasiyan ghabra kar
+Sita se poochti hain:
+
+“Yeh kaun hai?
+Kahan se aaya?
+Tumse baat kyun ki?”
+
+🌸 Sita ka Shaant Uttar
+
+Sita shant rehkar kehti hain:
+
+“Rakshas to roop badal sakte hain.
+Main kaise pehchaan paati?
+Jo saanp hai, use saanp hi jaane.
+
+Mujhe to darr lag raha hai.
+Mujhe lagta hai yeh bhi koi rakshas hi hai.”
+
+Ye sunte hi
+rakshasiyan bhaag jaati hain.
+
+Kuch seedha Ravana ke paas pahunchti hain.
+
+🔥 Ravana ka Krodh
+
+Rakshasiyan kehti hain:
+
+“Rajaa, ek bhayanak bandar aaya hai.
+Usne Ashoka Vatika tod di.
+Bas jahan Sita baithi hai,
+us jagah ko chhod diya.
+
+Wo Sita se baat bhi kar raha tha.”
+
+Yeh sunte hi
+Ravana ka gussa aag ban gaya.
+
+Uski aankhon se
+jaise jalta hua tel beh raha ho.
+
+⚔️ Kinkaron ka Aadesh
+
+Ravana garaj kar kehta hai:
+
+“Kinkaro!
+Us bandar ko pakad lao!”
+
+Turant
+80,000 Kinkar
+gada, bhale, talwar, aur lohe ke hathiyaar lekar
+Ashoka Vatika ki taraf daud padte hain.
+
+🐒 Hanuman ka Garjan
+
+Hanuman gate par khada hota hai.
+Tail zor se ghumata hai.
+Aur garaj kar bolta hai:
+
+“Jai Shri Ram!
+Jai Lakshmana!
+Jai Sugriva!
+
+Main Rama ka sevak Hanuman hoon.
+Hazaar Ravana bhi
+mera kuch nahi bigaad sakte!”
+
+Uski awaaz se
+pakshi aasman se girne lagte hain.
+
+💥 Bhayankar Yuddh
+
+Kinkar chaaron taraf se hamla karte hain.
+
+Hanuman paas pada
+lohe ka danda uthata hai.
+
+Aur phir…
+
+ek vaar
+
+do vaar
+
+teesra vaar
+
+Rakshas girte jaate hain.
+
+Hanuman
+kabhi zameen par,
+kabhi hawa mein
+bijli ki tarah ghoom raha tha.
+
+Jaise Indra vajra se daityon ko todta ho.
+
+🩸 Kinkaron ka Ant
+
+Kuch hi der mein
+saare Kinkar mare jaate hain.
+
+Ashoka Vatika ka dwaar
+rakshason ke shareeron se bhar jaata hai.
+
+Hanuman phir se
+gate par khada ho jaata hai.
+
+Aankhon mein jung ki aag.
+Mann mein agla yuddh.
+
+😱 Ravana ko Sandesh
+
+Jo thode se rakshas bache,
+wo bhaag kar Ravana ko batate hain:
+
+“Rajaa…
+Kinkar sab maare gaye.”
+
+Yeh sunte hi
+Ravana aur bhi bhadak jaata hai.
+
+Aur wo
+Prahasta ke veer putra ko yuddh ke liye bhejta hai.
+
+🌼 Is Adhyay ki Seekh
+
+🐒 Sachhi shakti sirf shareer ki nahi, dharma ki hoti hai
+
+⚔️ Ghamand bina buddhi ke, vinash laata hai
+
+🌟 Hanuman sirf yoddha nahi, bhakt aur rakshak bhi hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.43
     with st.expander("Chapter 5.43 – Hanuman destroys temples and buildings"):
         text1 = """
-        """
+        Kinkaron ko maarne ke baad
+Hanuman thodi der sochta hai.
+
+Uske mann mein vichaar aata hai:
+“Vatika to tod di.
+Par mandir abhi baaki hai.
+Ab uska ghamand bhi todna hoga.”"""
         create_image_text_layout("attached_assets/chapter5/5.43.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🐒 Hanuman ka Udaan Bharna
+
+Hanuman zor se uchhalta hai.
+Seedha us vishal mandir par jaa pahunchta hai.
+
+Wo mandir
+Meru parvat jaisa uncha tha.
+Suraj ki roshni jaisa chamak raha tha.
+
+Hanuman upar chadh jaata hai.
+Uska shareer aur bhi bada ho jaata hai.
+Lanka kaanp uthti hai.
+
+Uski garaj se
+pakshi gir jaate hain.
+Mandir ke rakshak behosh ho jaate hain.
+
+📣 Hanuman ka Garjan
+
+Hanuman zor se bolta hai:
+
+“Jai Shri Ram!
+Jai Lakshmana!
+Jai Sugriva!
+
+Main Hanuman hoon.
+Pawan putra.
+Rama ka sevak.
+
+Hazaar Ravana bhi
+mera kuch nahi bigaad sakte.
+Lanka ko tod kar
+aur Sita maa ko pranam karke
+main yahan se chala jaunga!”
+
+Uski awaaz se
+rakshason ke dil hil jaate hain.
+
+⚔️ Mandir Rakshakon ka Hamla
+
+Mandir ke
+100 rakshak
+talwar, bhala, gada le kar aa jaate hain.
+
+Wo chaaron taraf se
+Hanuman par vaar karte hain.
+
+Teer suraj jaise chamak rahe the.
+Lanka ka aakash
+yuddh se bhar gaya.
+
+🔥 Aag ka Pralay
+
+Hanuman ko gussa aa jaata hai.
+
+Wo mandir ka
+sona chadha hua bada stambh
+jad se ukhaad leta hai.
+
+Use zor se ghumata hai.
+
+Ghumte hi
+aag bhadak uthti hai.
+
+Mandir jalne lagta hai.
+Aag aasman tak pahunch jaati hai.
+
+Rakshak girte jaate hain.
+Hanuman un sab ka vinash kar deta hai.
+
+Wo aisa lag raha tha
+jaise Indra vajra chala raha ho.
+
+🌪️ Rakshason ko Chetavani
+
+Hanuman hawa mein khada hokar bolta hai:
+
+“Sugriva ke saath
+hazaaron Hanuman aa rahe hain!
+
+Koi haathi jitna taqatwar hai.
+Koi hazaar haathi jitna.
+
+Daant aur naakhun
+hi unke hathiyaar hain.
+
+Jab Rama ka krodh jaagega,
+to Lanka, Ravana, aur tum sab mit jaoge.”
+
+🌼 Is Adhyay ki Seekh
+
+🔥 Ghamand aur adharm kabhi nahi bachta
+
+🐒 Bhakti mein shakti hoti hai
+
+⚔️ Sach ke liye lada gaya yuddh paawan hota hai
+
+🌟 Hanuman vinash bhi karte hain,
+par dharma ke liye"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.44
     with st.expander("Chapter 5.44 – Hanuman kills the warrior Jambumalin"):
         text1 = """
-        """
+        Ravana ke aadesh par
+Prahasta ka veer putra Jambumalin
+yuddh ke liye nikalta hai.
+
+🛡️ Jambumalin ka Pravesh
+
+Jambumalin:
+
+Bade daant wala
+
+Ati bhayanak roop
+
+Lal vastra, haar, mukut aur chamakte kundal pehne hue
+
+Gadhe jute hue rath par savaar
+
+Jaise hi wo apna Indra ke samaan dhanush chadhaata hai,
+uski taan se garajti bijli jaisi awaaz hoti hai.
+
+➡️ Aakash aur chaaro dishaayein
+us ghoonj se bhar jaati hain."""
         create_image_text_layout("attached_assets/chapter5/5.44.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🐒 Hanuman vs Jambumalin
+
+Hanuman use aate dekhkar
+garjana karta hai.
+
+Jambumalin turant hamla karta hai:
+
+Chandrakar teer se Hanuman ke chehre par vaar
+
+Kalgi wale teer se sir par
+
+10 lohe ke teer baahon mein
+
+➡️ Hanuman ka laal, taamba rang chehra
+suraj ki roshni mein chamakte badal jaisa lagne lagta hai.
+Khoon se rangaa hua chehra
+laal kamal par sunehre binduon jaisa dikhta hai.
+
+🪨 Parvat aur Vriksh ka Yuddh
+
+Ghayal hokar Hanuman:
+
+Ek vishal chattan (pathar) uthakar phenkta hai
+➡️ Jambumalin use 10 teeron se tod deta hai
+
+Fir Hanuman:
+
+Ek bahut bada Saal ka ped ukhaad leta hai
+
+Use hawa mein ghumata hai
+
+Jambumalin:
+
+4 teeron se ped kaat deta hai
+
+5 teer baahon mein
+
+1 pet mein
+
+10 seene ke beech
+
+➡️ Hanuman ka shareer teeron se bhara hua,
+par krodh aur bhi bhadak uthta hai.
+
+⚔️ Antim Prahar — Jambumalin ka Ant
+
+Hanuman:
+
+Ek gada (club) uthata hai
+
+Use tez gati se ghumakar
+
+Seedha Jambumalin ke seene par maar deta hai
+
+💥 Itna bhayanak prahar hota hai ki:
+
+Sir
+
+Baah
+
+Jangha
+
+Dhanush
+
+Rath
+
+Ghode
+
+Hathiyaar
+
+👉 Sab ek saath chuur-chuur ho jaate hain.
+
+Jambumalin:
+🌳 Kata hua vriksh (oak) ki tarah
+dharti par gir jaata hai
+— nishpran.
+
+😡 Ravana ka Krodh
+
+Jab Ravana ko pata chalta hai ki:
+
+Kinkar bhi mare gaye
+
+Jambumalin bhi vadh ho gaya
+
+➡️ Uska krodh aag ki tarah bhadak uthta hai
+Aankhen laal ho jaati hain.
+
+Turant aadesh deta hai:
+
+“Mere mantriyon ke veer putron ko bhejo!
+Jo shakti aur parakram mein adbhut hain.”
+
+🌟 Is Adhyay ki Seekh
+
+🔥 Adharm ke veer bhi dharm ke samne tik nahi paate
+
+🐒 Hanuman ka sharir ghaayal hota hai,
+par sankalp kabhi nahi
+
+⚔️ Ek sachcha sevak
+peeda mein bhi aur balwaan hota hai
+
+🌺 Bhakti + Veerta = Ajey Shakti"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.45
     with st.expander("Chapter 5.45 – Hanuman kills the sons of Ravana’s ministers"):
         text1 = """
-        """
+        🔥 Ravana ka agla daav
+
+Jab:
+
+Kinkaras mare ja chuke the
+
+Jambumalin bhi vadh ho gaya
+
+Tab Ravana (Rakshason ka Indra) ne apna agla sabse balwaan daav chala.
+
+👉 Usne apne mantriyon ke 7 putron ko yuddh ke liye bheja."""
         create_image_text_layout("attached_assets/chapter5/5.45.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        ⚔️ 7 Veer Rakshas ka pravesh
+
+Ye 7 yoddha:
+
+Agni jaise tejashvi
+
+Ati veer aur astr-shastr mein nipun
+
+Sone se jare hue rathon par savaar
+
+Jinke rathon ki garjana bijli aur garajti badliyon jaisi thi
+
+Dhanush kheechte hi aasmaan mein bijli chamakne jaisa drishya
+
+➡️ Ye sab apni sena ke saath
+Hanuman par vijay paane ke liye jal rahe the
+
+Lekin:
+
+Unki maaon ka man ashant tha
+
+Kinkaron ki mrityu ka samaachaar sunkar
+unke hriday mein bhay sama gaya tha
+
+🐒 Hanuman vs 7 Mantri-putra
+
+Hanuman:
+
+Lanka ke dwaar par atal khada
+
+Nirbhay, achal, tejashvi
+
+Rakshas:
+
+Apne garajte rathon se
+
+baarish jaise anek teer barsa dete hain
+
+➡️ Hanuman ka shareer
+baarish mein dhake parvat jaisa lagta hai
+— poora teeron se chhup jaata hai
+
+🌪️ Hanuman ki adbhut yuddh-kala
+
+Hanuman:
+
+Aakash mein tez gati se ghoomta hai
+
+Teeron aur rathon ko
+adbhut chaalaki se bachata hai
+
+Wo aisa lagta hai jaise:
+
+Indra badliyon ke saath khel raha ho
+
+Phir Hanuman:
+
+Ek bhayankar garjana karta hai
+➡️ Puri rakshas sena ka hriday kaanp uthta hai
+
+💥 Rakshason ka vinash (Sharir se yuddh)
+
+Hanuman ne:
+
+Kisi ko hath ki thapad se maara
+
+Kisi ko pair se
+
+Kisi ko ghooson se
+
+Kisi ko nakhon se cheera
+
+Kisi ko seene aur jangha ke zor se gira diya
+
+Kuch rakshas sirf garjana se hi gir pade
+
+➡️ Ye yuddh astr-shastr ka nahi
+👉 shuddh bal, parakram aur bhakti ka tha
+
+🌊 Lanka ka bhayanak drishya
+
+Yuddh ke baad:
+
+Rakshas chaaro dishaon mein bhaag gaye
+
+Haathi cheekhne lage
+
+Ghode gir pade
+
+Rath, jhande, chhatriyaan toot kar bikhar gayin
+
+Sadkon par khoon ki nadiyaan behne lagi
+
+Lanka cheekh-pukaar se goonj uthi
+
+🐒 Hanuman ka sankalp
+
+Un 7 mantri-putron ko maar kar bhi:
+
+Hanuman thakta nahi
+
+Garv mein nahi aata
+
+➡️ Phir se Lanka ke dwaar par khada ho jaata hai
+
+Sochta hai:
+
+“Aur kaun hai jo apni shakti dikhana chahta hai?”
+
+🌟 Is Adhyay ki Mukhya Seekh
+
+🔥 Adharm ki sena chahe kitni bhi badi ho, bhakti ke aage tik nahi sakti
+
+🐒 Hanuman astr-shastr ke bina bhi
+vinash karne mein saksham hain
+
+⚔️ Ye yuddh sirf sharir ka nahi,
+dharm aur adharma ka hai
+
+🌺 Hanuman ab bhi apne kartavya ke madhya mein hain
+— ahankaar se door"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.46
