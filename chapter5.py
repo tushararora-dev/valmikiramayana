@@ -7201,51 +7201,600 @@ dharm aur adharma ka hai
     # Chapter 5.46
     with st.expander("Chapter 5.46 – Hanuman kills five generals and their armies"):
         text1 = """
-        """
+        Ravana ne suna ki
+uske mantriyon ke bete bhi maare ja chuke hain.
+Uska chehra kaala pad gaya.
+Dil ke andar dar tha,
+par bahar se usne use chhupa liya.
+
+Ravana ne socha:
+“Ab faisla ho jaayega.”
+
+Usne apne 5 bade senapati bulaye:
+Virupaksha, Yupaksha, Durdharsha, Praghasa aur Basakarna.
+Sab bahut veer the.
+Tez hawa jaise chalne wale.
+Yuddh ke master."""
         create_image_text_layout("attached_assets/chapter5/5.46.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ravana bola:
+“Tum sab apni badi sena ke saath jao.
+Ghode, rath aur haathi le jao.
+Is bandar ko zinda pakad ke lao.
+
+Dhyaan se kaam lena.
+Yeh normal bandar nahi lagta.
+Isme alag hi shakti hai.
+Ho sakta hai yeh Indra ka bheja hua koi dev ho.
+
+Main ne Bali, Sugriva, Jambavan jaise
+bahut shaktishaali bandar dekhe hain.
+Par yeh un sab se alag hai.
+
+Yuddh ka nateeja kabhi pakka nahi hota.
+Isliye poori taakat lagana.”
+
+Paanch ke paanch senapati
+apni sena ke saath nikal pade.
+Rath chamak rahe the.
+Haathi gusse mein the.
+Ghode tez daud rahe the.
+
+Unhone Hanuman ko dekha.
+Gate par khada hua.
+Suraj jaise chamak raha tha.
+Bada sharir.
+Majboot baahen.
+Nirbhay aankhen.
+
+Sab taraf se
+teer aur hathiyaar barasne lage.
+
+Durdharsha ne
+Hanuman ke maathay par
+paanch tez teer maare.
+
+Hanuman ne zor se garjana ki.
+Aasman aur dishaayein goonj uthi.
+
+Durdharsha ne
+ek saath sau teer chhod diye.
+
+Par Hanuman ne
+hawa ki tarah
+sab teeron ko rok diya.
+
+Phir Hanuman bada ho gaya.
+Aur bijli ki tarah
+Durdharsha ke rath par kood pada.
+
+Rath toot gaya.
+Ghode mar gaye.
+Durdharsha dharti par gira.
+Aur wahi mara gaya.
+
+Ab Virupaksha aur Yupaksha aage aaye.
+Gada le kar Hanuman par toot pade.
+
+Hanuman hawaa mein phisla.
+Phir neeche utar kar
+ek Sala ka ped ukhaad liya.
+
+Us ped se
+dono rakshason ko maara.
+Aur dono wahi gir pade.
+
+Ab Praghasa aur Basakarna bache.
+Ek hansi udata hua aaya.
+Doosra bhala le kar gusse mein dauda.
+
+Tez vaar hue.
+Hanuman ke sharir se khoon behne laga.
+Par woh ubhte hue suraj jaisa lag raha tha.
+
+Phir Hanuman ne
+pahad ka shikhar tod liya.
+Ped, jaanwar, saanp sab uske saath the.
+
+Us shikhar ko
+un dono par patak diya.
+
+Dono rakshas
+chur-chur ho gaye.
+
+Ab paanchon senapati
+aur unki sena khatam ho chuki thi.
+
+Hanuman ne
+baaki sena ko bhi mita diya.
+Haathi se haathi.
+Rath se rath.
+Yoddha se yoddha.
+
+Sadke laashon se bhar gayi.
+Lanka kaanp uthi.
+
+Sab kuch khatam karke
+Hanuman phir se
+gate par ja kar khada ho gaya.
+
+Bilkul Kaal ki tarah.
+Shaant.
+Par bhayanak.
+
+Moral (Seekh) 🌼
+
+Sachchi shakti dharma se aati hai
+
+Akele bhi sahi ke liye ladne wala jeet sakta hai
+
+Ahankaar aur atyachar ka ant nishchit hai
+
+Bhakti aur kartavya Hanuman ko mahaan banate hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.47
     with st.expander("Chapter 5.47 – Hanuman kills Aksha"):
         text1 = """
-        """
+        Jab Ravana ne suna
+ki paanch senapati aur unki poori sena
+Hanuman ke haathon maari ja chuki hai,
+toh uska mann hil gaya.
+
+Uski nazar padi
+apne yuva putra Aksha par.
+Aksha aag ki tarah utha.
+Uski aankhon mein yuddh ka junoon tha.
+
+Gold se saja hua divya rath,
+aath bijli jaise tez ghode,
+asankhya astr-shastr,
+aur apni sena ke saath
+Aksha nikal pada.
+
+Uska rath
+devtaon aur rakshason ke liye bhi
+ajeet maana jaata tha."""
         create_image_text_layout("attached_assets/chapter5/5.47.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Gate par
+Hanuman khada tha.
+Shaant.
+Par pralay jaise.
+
+Aksha ne Hanuman ko dekha.
+Uski aankhon mein
+adar bhi tha aur garv bhi.
+
+Phir yuddh shuru hua.
+
+Aksha ne
+teen zehrele teer
+Hanuman ke maathay par maare.
+
+Khoon behne laga.
+Par Hanuman
+ubhte hue suraj jaise lag raha tha.
+
+Aasman kaanp utha.
+Pawan ruk si gayi.
+Pahad hil gaye.
+Samundar uthalne laga.
+
+Devta bhi
+yeh yuddh dekh kar
+stabdh ho gaye.
+
+Aksha ne
+teeron ki baarish kar di.
+Jaise badal pahadon par baraste hain.
+
+Hanuman hawa ki tarah
+teeron ke beech se nikal gaya.
+
+Phir Hanuman sochne laga:
+
+“Yeh sirf bachcha nahi hai.
+Isme veerta hai, sahas hai.
+Par agar ise chhoda,
+toh yeh aag ban kar phail jaayega.”
+
+Dharma ke liye
+kabhi-kabhi kathor nirnay lena padta hai.
+
+Hanuman ne
+ek hi vaar mein
+aath ghodon ko haath se maar diya.
+
+Rath hawa se gir kar
+dharti par toot gaya.
+
+Aksha rath chhod kar
+talwar aur dhanush ke saath
+aakash mein kooda.
+
+Tab Hanuman ne
+Garud jaise use pakda.
+Pairon se ghoomaya.
+Aur zor se
+dharti par patak diya.
+
+Aksha ka sharir
+chur-chur ho gaya.
+
+Ravana ka putra
+yuddh-bhoomi mein
+veer-gati ko praapt hua.
+
+Sab devta, rishi, yaksh, nag
+Indra ke saath
+yeh drishya dekh rahe the.
+
+Sab hairaan the.
+
+Hanuman phir se
+gate par ja kar khada ho gaya.
+
+Bilkul aise
+jaise pralay ke samay Mrityu khadi hoti hai.
+
+Shaant.
+Par atal.
+
+Moral (Seekh) 🌿
+
+Veerta umr se nahi, dharma se aati hai
+
+Yuva shakti agar ahankaar mein ho, toh vinash laati hai
+
+Sachche yoddha dushman ka samman bhi karte hain
+
+Par adharma ko badhne dena paap hai
+
+Hanuman bhakti ke saath buddhi aur nyay ka bhi prateek hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.48
     with st.expander("Chapter 5.48 – Hanuman allows himself to be captured"):
         text1 = """
-        """
+        Aksha ke vadh ke baad
+Ravana ka ahankaar hila,
+par usne apna bhay chhupa liya.
+
+Ab usne apna sabse shaktishaali putra – Indrajit (Meghnad) ko bulaya.
+
+Ravana bola (arth ke saath):
+
+“Tu hi hai jo devtaon ko bhi yuddh mein hara chuka hai.
+Tu Brahma ke divya astron ka gyaata hai.
+Hanuman ko maarna mushkil hai,
+par use bandhna sambhav hai.”
+
+Yahan Ravana ek badi baat samajh chuka tha:
+👉 Hanuman ko shastra se maara nahi ja sakta."""
         create_image_text_layout("attached_assets/chapter5/5.48.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Indrajit ka aagman
+
+Indrajit divya rath par chadha –
+
+chaar singhon jaise ghode
+
+indradhwaj laga hua
+
+dhanush se bijli jaise teer
+
+Jab rath aaya,
+
+dishaen andheri ho gayin
+
+siyaron ki awaaz ghoonj uthi
+
+dev, rishi, yaksh sab dekhne aa gaye
+
+Yeh saadharan yuddh nahi tha.
+
+Hanuman vs Indrajit
+
+Dono mahaveer:
+
+ek taraf Ram bhakt Hanuman
+
+doosri taraf Ravana ka putra Indrajit
+
+Aakash mein yuddh hua.
+Hanuman teeron se bach jaata.
+Indrajit ka har vaar nishfal hota.
+
+Indrajit samajh gaya:
+
+“Yeh maara nahi ja sakta.”
+
+Tab usne Brahmastra ka prayog kiya
+— jo maar nahi, bandhne ke liye tha.
+
+Hanuman ka maha-tyaag
+
+Jaise hi Brahmastra laga,
+Hanuman gir pada.
+
+Par yahan sabse badi baat hui 👇
+
+Hanuman ne khud ko chhudaya nahi.
+
+Kyun?
+
+Hanuman sochta hai:
+
+“Yeh Brahma ka astra hai.
+Iska maan rakhna dharm hai.
+Aur agar main bandi banta hoon,
+toh mujhe Ravana ke darbar tak jaana milega.”
+
+👉 Yeh kamzori nahi, ran-neeti thi.
+
+Hanuman jaan-bujhkar:
+
+shaant raha
+
+hilna band kar diya
+
+apne aap ko bandhne diya
+
+Titano ki galti
+
+Rakshason ne
+Brahmastra ke bandhan ke upar
+rassi aur bark ke bandhan baandh diye.
+
+Isse Brahmastra ka prabhav samaapt ho gaya.
+
+Indrajit samajh gaya:
+
+“Inhone mantra-vidya nahi samjhi.
+Ab astr ka asar khatam ho gaya.”
+
+Par Hanuman ne koi ishara nahi kiya.
+
+Woh maar khata raha,
+ghaseeta gaya,
+par chup raha.
+
+Ravana ke darbar mein pravesh
+
+Bandha hua Hanuman
+Ravana ke darbar mein laya gaya.
+
+Sab chillaye:
+
+“Maar do!”
+
+“Jala do!”
+
+“Khaa jao!”
+
+Par Ravana ne shaant rehkar
+mantriyon ko kaha:
+
+“Isse poochho –
+Kaun hai?
+Kisne bheja?
+Kya sandesh hai?”
+
+Tab Hanuman ne pehli baar bola:
+
+“Main Sugriva ka doot hoon.”
+
+Aur yahin se
+Ravana–Hanuman samvaad shuru hota hai
+— jo poore Ramayan ka
+sabse gyaan aur garv se bhara hissa hai.
+
+Moral (Gehri Seekh) 🌿
+
+Kabhi-kabhi bandi banna bhi jeet ka hissa hota hai
+
+Shakti se zyada buddhi mahatvapurn hoti hai
+
+Dev-astr ka maan rakhna bhi dharm hai
+
+Hanuman sirf yoddha nahi, maha-niti-gyata bhi hain
+
+Jo apni shakti jaanta hai, wahi shaant reh sakta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.49
     with st.expander("Chapter 5.49 – Hanuman sees Ravana and is surprised"):
         text1 = """
-        """
+        Hanuman bandhan mein tha.
+Sharir par chot thi.
+Par mann bilkul shaant tha.
+
+Jab usne Ravana ko dekha,
+toh woh pal bhar ke liye ruk gaya.
+
+Ravana ka roop adbhut tha.
+
+Sone jaise chamakdar vastra.
+Heeron aur motiyon ka mukut.
+Laal chandan se lipta sharir.
+Aankhen laal, par tej se bhari hui.
+
+Woh apne ratn-jade singhasan par baitha tha.
+Chaar taraf sundar rakshasiyaan thi.
+Haath mein chamri se bane chauri hil rahe the."""
         create_image_text_layout("attached_assets/chapter5/5.49.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ne dekha:
+Ravana ke haath sarp jaise majboot the.
+Ungliyon mein chamakte hue ratn the.
+Uski chhati par motiyon ki mala thi.
+
+Woh Mandar Parvat jaise sthir aur bhari lag raha tha.
+Jaise badalon se ghira hua koi shikhar.
+
+Hanuman man hi man bola:
+
+“Kitni shakti hai ismein…
+Kitna tej hai…
+Kitni sampatti aur mahima!”
+
+Phir Hanuman ne socha:
+
+“Agar yeh adharmi na hota,
+toh yeh Indra bhi ban sakta tha.
+Devlok ka rakshak ban sakta tha.”
+
+Par agle hi pal
+Hanuman ka mann bhaari ho gaya.
+
+Usne socha:
+
+“Par iska ghamand, iska anyaay,
+iska ahinsa aur ahankaar
+isse duniya ka shatru bana dete hain.”
+
+“Yeh shakti raksha ke liye nahi,
+vinaash ke liye hai.”
+
+Hanuman ko ascharya bhi hua
+aur dukh bhi.
+
+Woh samajh gaya:
+👉 Shakti bina dharm ke vinaash ban jaati hai.
+
+Bandha hua hone ke baawajood,
+Hanuman ka mann kabhi kamzor nahi hua.
+
+Woh jaanta tha:
+Sach aur dharm ke saath Ram khade hain.
+
+Aur jahan Ram hain,
+wahan Ravana jaisi shakti bhi haar jaati hai.
+
+Moral (Seekh) 🌿
+
+Sirf shakti hona kaafi nahi
+
+Dharm ke bina shakti vinaash ban jaati hai
+
+Sundar roop aur tej bhi ghamand ko sahi nahi bana sakte
+
+Hanuman ne Ravana ki shakti ko maana,
+par uske adharm ko kabhi swikaar nahi kiya"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.50
     with st.expander("Chapter 5.50 – Hanuman is questioned by the demons"):
         text1 = """
-        """
+        Hanuman bandha hua Ravana ke saamne khada tha.
+Uski aankhen shaant thi.
+Par Ravana gusse se jal raha tha.
+
+Ravana ne Hanuman ko dekha.
+Uska mann thoda ghabra bhi gaya.
+
+Woh sochne laga:
+
+“Kahin yeh Nandi toh nahi?
+Wahi jo Kailash par maine mazaak udaya tha
+aur jisne mujhe shraap diya tha?”
+
+“Ya phir yeh Vali ka beta Bali toh nahi,
+jo bandar ke roop mein yahan aa gaya ho?”"""
         create_image_text_layout("attached_assets/chapter5/5.50.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Gusse se Ravana ki aankhen laal ho gayi.
+
+Usne apne mantri Prahasta se kaha:
+
+“Is dusht ko poochho!
+Batao yeh kahan se aaya?
+Isne Ashok Vatika kyun ujadi?
+Mere rakshason ko kyun maara?
+Meri nagri mein ghusne ki himmat kaise hui?”
+
+Prahasta aage aaya aur Hanuman se bola:
+
+“O Bandar, daro mat.
+Sach bolo toh tumhari jaan bach sakti hai.”
+
+“Kya Indra ne tumhe bheja hai?
+Ya Kuvera, Yama, Varun ne?”
+
+“Ya phir Vishnu ne tumhe bheja hai,
+jeet ki laalach mein?”
+
+“Tumhara roop bandar jaisa hai,
+par tumhari shakti bandar jaisi nahi lagti.”
+
+“Sach batao,
+warna jhooth bolne par mrityu nischit hai!”
+
+Hanuman muskuraaya.
+Uski awaaz shaant aur nidar thi.
+
+Usne kaha:
+
+“Main na Indra ka doot hoon,
+na Yama ka,
+na Varun ka.”
+
+“Na main Kuvera se juda hoon,
+aur na Vishnu ne mujhe bheja hai.”
+
+“Main sach mein ek bandar hoon.
+Jaisa dikhta hoon, waisa hi hoon.”
+
+“Main yahan sirf
+Lanka ke raja ko dekhne aaya tha.
+Isliye maine vatika tod di.”
+
+“Jab rakshason ne mujh par hamla kiya,
+toh apni jaan bachane ke liye
+mujhe ladna pada.”
+
+Hanuman ne aage kaha:
+
+“Na hathiyaar mujhe bandh sakte hain,
+na zanjeerein.”
+
+“Yeh vardaan mujhe
+Brahma ji se mila hai.”
+
+“Maine jaan-bujhkar
+Brahmastra ke aage jhukna sweekar kiya.”
+
+“Main chahta tha ki
+mujhe Ravana ke saamne laya jaaye.”
+
+Phir Hanuman ne seedha Ravana ki taraf dekha aur bola:
+
+“Main Shri Ram ka doot hoon.”
+
+“Unki shakti aseemit hai.”
+
+“Agar aap apna bhala chahte ho,
+toh meri baat dhyaan se suniye,
+hey Lanka ke raja.”
+
+Hanuman ke shabd sach aur himmat se bhare hue the.
+Sab rakshas chup ho gaye.
+
+Moral (Seekh) 🌿
+
+Sach bolne wala vyakti bandhan mein bhi nidar hota hai
+
+Ghamand sawal karta hai, par sach shaant jawab deta hai
+
+Hanuman ne na apni shakti chhupayi, na jhooth bola
+
+Doot ka kaam ladna nahi, sach kehna hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.51
