@@ -7800,101 +7800,1249 @@ Doot ka kaam ladna nahi, sach kehna hota hai"""
     # Chapter 5.51
     with st.expander("Chapter 5.51 – Hanuman speaks bravely and fearlessly"):
         text1 = """
-        """
+        Chapter 51 – Hanuman ke Shabd (Sundara-kanda ka sabse shaktishali sandesh)
+
+Yeh adhyay Ramayana ka turning point hai. Yahin par pehli baar Hanuman bina bhay ke Ravana ke samne dharma ka sach bolte hain.
+
+Hanuman apna parichay dete hain
+
+Hanuman seedha kehte hain:
+
+“Main Sugriva ka doot hoon”
+
+Sugriva Ravana ko bhai samajhkar salaam bhejte hain
+
+Yeh sandesh upar se nahi, neeche se bhi nahi — barabari ka hai
+
+👉 Doot hote hue bhi Hanuman dabte nahi. Yeh Ram bhakti ki shakti hai."""
         create_image_text_layout("attached_assets/chapter5/5.51.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ka parichay – shabd, shastra se zyada tez
+
+Hanuman batate hain:
+
+Rama kaun hain
+
+Kaise Dasharatha ke aadesh par van gaye
+
+Kaise Bali ko ek hi baan se mara
+
+Kaise Sugriva ko rajya dilaya
+
+⚔️ “Jisne Bali ko gira diya, usse koi bhi nahi rok sakta.”
+
+Sabse tez prahar – Sita par
+
+Hanuman Ravana ko seedha chetavani dete hain:
+
+“Parayi patni ka apaharan tum jaise gyani ko shobha nahi deta”
+
+Sita tumhare liye vish mila bhojan hai
+
+“Tumhe lagta hai tum amar ho, par Rama manushya hote hue bhi mrityu ban sakte hain”
+
+🔥 Yeh baat Ravana ke ahankaar ko todne wali thi.
+
+Lanka ke vinaash ki bhavishyavani
+
+Hanuman saaf kehte hain:
+
+“Main akela Lanka jala sakta hoon”
+
+Par Rama ne abhi aadesh nahi diya
+
+Jab vanar sena aayegi,
+Lanka raakh ban jayegi
+
+🐒 Yeh ghamand nahi, sach hai — jo Hanuman pehle hi dikha chuke the.
+
+Aakhri updesh (Last Warning)
+
+Hanuman Ravana ko antim avsar dete hain:
+
+“Janaki ko lautaa do
+Apna vansh, mitra, putra aur nagari bacha lo”
+
+Par…
+
+Ravana ka faisla
+
+Hanuman ke satya-vachan
+Ravana ko zehar jaise lagte hain
+
+👁️‍🗨️ Aankhen laal
+😡 Ahankaar jaag utha
+
+👉 Ravana aadesh deta hai:
+“Is vanar ko maar do.”
+
+Gehri Seekh (Moral)
+
+Satya kadwa hota hai, isliye ahankari use bardasht nahi kar paate
+
+Doot ka kaam sirf sandesh dena nahi, dharm yaad dilana bhi hota hai
+
+Jo stri ka apmaan karta hai, apna vinaash bulata hai
+
+Bhakti jab sahas ban jaaye, toh vanar bhi devtaon ko hila deta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.52
     with st.expander("Chapter 5.52 – Vibhishana asks Ravana to spare Hanuman"):
         text1 = """
-        """
+        Chapter 52 – Vibhishan ne Hanuman ke liye awaaz uthayi
+
+Hanuman ke sach aur kadve shabd sunkar
+Ravana ka gussa aag ban gaya 🔥
+
+Usne turant aadesh diya:
+👉 “Is vanar ko maar daalo!”
+
+Vibhishan ka dil dhadak utha
+
+Yeh sunte hi Vibhishana ka mann hil gaya.
+Woh jaante the — yeh galat hai.
+
+Shaant hokar,
+bina dare,
+woh apne bade bhai Ravana ke saamne aaye."""
         create_image_text_layout("attached_assets/chapter5/5.52.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Vibhishan ne dharm ki baat kahi
+
+Vibhishan ne pyaar aur shanti se kaha:
+
+“Gussa thoda shaant karo, bhai.”
+
+“Yeh sirf ek doot hai.”
+
+“Doot ko maarna kabhi bhi dharm nahi hota.”
+
+🕊️ Sach bolna aasaan nahi hota, par zaroori hota hai.
+
+Doot ko maarna adharma hai
+
+Vibhishan samjhaate hain:
+
+Doot sandesh laata hai, yuddh nahi
+
+Uski galti ka dand bhejne wale ko milta hai
+
+Doot ke liye dand ho sakta hai:
+
+baal kaat dena
+
+sharir par nishaan
+
+apmaan
+
+❌ Par maut kabhi nahi
+
+Ravana ka gussa phir bhadka
+
+Ravana garaj kar bola:
+
+“Paapi ko maarna paap nahi hota!”
+
+Uski aankhon mein ahankaar tha 😡
+Uske mann mein dharm dab chuka tha.
+
+Vibhishan ka sabse bada satya
+
+Vibhishan ne fir bhi haar nahi maani:
+
+“Agar tum doot ko maar doge, koi aur sandesh lekar nahi aayega.”
+
+“Asli dand Rama aur Lakshman par padna chahiye.”
+
+“Is vanar ko maarna tumhari shaan ke khilaaf hai.”
+
+🌿 Jo sach bolta hai, woh akela bhi ho sakta hai.
+
+Yuddh ki baat, par nyay ke saath
+
+Vibhishan bole:
+
+“Tumhein yuddh pasand hai.”
+
+“Toh Rama-Lakshman se saamna karo.”
+
+“Tumhare veer yoddha taiyaar hain.”
+
+⚔️ Yeh bhay se nahi, garv se bola gaya satya tha.
+
+Ravana ne pehli baar socha…
+
+Vibhishan ke shabd
+Ravana ke gusse se takraaye 💥
+
+Aur…
+pehli baar Ravana ne sochna shuru kiya 🤯
+
+Shayad…
+yeh vanar maarne layak nahi.
+
+Moral (Seekh)
+
+Sach bolna gaddari nahi hota
+
+Doot ka samman sabse upar hota hai
+
+Gussa buddhi ko andha kar deta hai
+
+Jo dharm ke saath khada hota hai, wahi asli veer hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.53
     with st.expander("Chapter 5.53 – Hanuman is taken through the city as a prisoner"):
         text1 = """
-        """
+        Chapter 53 – Hanuman ko bandhan mein shehar ghumaya gaya
+
+Ravana ne thandi saans li.
+Usne kaha:
+
+“Doot ko maarna galat hai.
+Par saza toh milegi.”
+
+Ravana bola:
+👉 “Vanar ki poonchh hi uska ghamand hoti hai.
+Iski poonchh jala do.”
+
+Aur hukm diya:
+👉 “Jalti poonchh ke saath isse poori Lanka ghumao.”"""
         create_image_text_layout("attached_assets/chapter5/5.53.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ki poonchh mein aag
+
+Rakshason ne
+Hanuman ki poonchh par
+kapda lapeta,
+tel daala,
+aur aag laga di 🔥
+
+Hanuman ka sharir aur bada ho gaya.
+Jaise jungle mein aag bhadak jaaye.
+
+Woh gusse mein garja,
+par bandha rehna chuna.
+
+Hanuman ka mann shaant tha
+
+Hanuman ne socha:
+
+“Main chaahun toh sabko gira doon.”
+
+“Par main Rama ke kaam se aaya hoon.”
+
+“Unke liye main yeh seh loonga.”
+
+💛 Yeh shakti nahi, bhakti thi.
+
+Lanka ki sadkon se guzarna
+
+Nagare baje.
+Shankh baje.
+Bachche, auratein, buddhe – sab dekhne aaye.
+
+Log chilla rahe the:
+👉 “Yeh jasoos hai!”
+
+Hanuman chupchaap
+Lanka ko dekh raha tha 👀
+Unchi imaaratein.
+Sundar sadkein.
+Bade mahal.
+
+Sita ki aankhon se aansu
+
+Rakshasiyaan bhaag kar
+Sita ke paas aayi.
+
+Boli:
+👉 “Wahi vanar…
+uski poonchh jal rahi hai.”
+
+Sita ka dil kaanp utha 😢
+Unhone agni dev se prarthana ki:
+
+🙏
+“अगर मैं सच्ची पतिव्रता हूँ,
+तो इस वानर को मत जलाना।”
+
+Agni dev ne chamatkaar dikhaya
+
+Aag bhadak rahi thi 🔥
+par Hanuman ko dard nahi.
+
+Thandi hawa chali ❄️
+Pawan dev ne foonk maari.
+
+Hanuman hairaan hua:
+
+“इतनी आग…
+पर मुझे कुछ नहीं जल रहा!”
+
+✨ Yeh Rama ki kripa thi.
+✨ Yeh Sita ki pavitrata thi.
+✨ Yeh Pawan pita ka ashirvaad tha.
+
+Ab Hanuman ka roop badla
+
+Hanuman ne socha:
+
+“Bas ho gaya.
+Ab vanar chup nahi rahega.”
+
+💥 Channnng!
+Rassiyan toot gayi.
+
+Woh ek hi chhalang mein
+shehar ke gate par pahunch gaya.
+
+Chhota bana.
+Bandhan utaare.
+Phir pahaad jaisa bada ho gaya.
+
+Aag ki poonchh, suraj jaisa tej
+
+Gate par ek lohe ka danda pada tha.
+Hanuman ne uthaya.
+
+Rakshas gire.
+Gate saaf hua.
+
+Jalti poonchh
+suraj ki kiranon jaisi lag rahi thi ☀️
+
+Hanuman ne poori Lanka ko dekha.
+
+🔥 Yeh sirf shuruaat thi.
+
+Moral (Seekh)
+
+Sachcha sevak dard bhi hans kar sehta hai
+
+Bhakti aag ko bhi thanda kar deti hai
+
+Shanti jab toot ti hai, toh vinash aata hai
+
+Hanuman ka gussa = dharm ka shastra"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.54
     with st.expander("Chapter 5.54 – Hanuman burns the city of Lanka"):
         text1 = """
-        """
+        Chapter 54 – Hanuman ne Lanka jala di (Lanka Dahan)
+
+Hanuman ne upar se poori Lanka ko dekha.
+Usne mann mein socha:
+
+“Kaam ho chuka hai.
+Baag ujad gaya.
+Rakshas mare gaye.
+Ab sirf Lanka ka ghamand todna baaki hai.”
+
+Uski poonchh abhi bhi aag se jal rahi thi 🔥
+Jaise badal ke andar bijli chamak rahi ho."""
         create_image_text_layout("attached_assets/chapter5/5.54.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Aag ki shuruaat
+
+Hanuman ne chhalang lagayi.
+Ek chhat se doosri chhat.
+
+🔥 Dhadak!
+Pehla mahal jala.
+
+Phir doosra.
+Phir teesra.
+
+Woh rukta nahi tha.
+Hawa jaisa tez.
+Aag jaisa bhayanak.
+
+Rakshason ke mahal jalne lage
+
+Hanuman ne:
+
+senapatiyon ke ghar jala diye
+
+yoddhaon ke mahal jala diye
+
+khazane jala diye
+
+shastra-graha jala diye
+
+Sona, chandi, heere
+pighal kar behne lage 💎
+
+Rakshas chillane lage:
+
+👉 “Yeh vanar nahi!
+Yeh toh Agni Dev khud hai!”
+
+Lanka mein hahakar
+
+Auratein bachchon ko le kar bhaagi 😢
+Kuch log aag mein gir pade.
+Kuch chhaton se kud gaye.
+
+Shehar mein sirf cheekhein thi.
+Sirf dhuaan.
+Sirf aag.
+
+🔥 Poora Lanka jal raha tha.
+
+Hanuman ka dhyan
+
+Itni tabahi ke beech bhi
+Hanuman ka mann shaant tha.
+
+Uske mann mein sirf ek naam tha:
+
+💛 Rama
+
+Na gussa.
+Na ahankaar.
+Sirf kartavya.
+
+Ashoka Vatika surakshit
+
+Ek jagah aisi thi
+jahan aag nahi pahunchi.
+
+🌿 Ashoka Vatika
+Jahan Sita thi.
+
+Hanuman ne dhyan rakha.
+Sita ko koi nuksaan nahi hua.
+
+🔥 Dharm ne paap ko chhua,
+par pavitrata ko nahi.
+
+Devta bhi hairaan
+
+Aasmaan se Devta dekh rahe the 😮
+Rishi, Gandharva, Siddha sab bole:
+
+“Yeh sirf vanar nahi.
+Yeh Ishwar ki ichchha hai.”
+
+Hanuman poori Lanka jala kar
+samundar ke kinaare aaya 🌊
+
+Aur apni jalti poonchh
+samundar mein bujha di.
+
+🔥➡️🌊
+
+Lanka khaak, Hanuman shaant
+
+Lanka jal chuki thi.
+Ghamand toot chuka tha.
+Sandesh pahunch chuka tha.
+
+Hanuman ne upar dekha
+aur mann hi mann bola:
+
+“Ab Rama ka kaam shuru hoga.”
+
+Moral (Seekh)
+
+Ghamand ka ant nischit hota hai
+
+Bhakti ke aage aag bhi thandi pad jaati hai
+
+Hanuman ka gussa bhi dharm se bandha tha
+
+Jahan Sita aur Rama ka naam hai, wahan vinaash bhi maryada mein hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.55
     with st.expander("Chapter 5.55 – Hanuman worries about Sita’s safety"):
         text1 = """
-        """
+        Chapter 55 – Hanuman ki chinta aur Sita ki raksha ka nishchay
+
+Lanka jal chuki thi.
+Har taraf aag, dhuaan aur hahakar tha.
+Rakshas bhay se bhaag rahe the.
+
+Par is sab ke beech, Hanuman ka mann achanak ashant ho gaya."""
         create_image_text_layout("attached_assets/chapter5/5.55.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ka pachtava
+
+Hanuman ne socha:
+
+“Maine gusse mein aakar kya kar diya?
+Agar is aag mein Sita jal gayi ho,
+toh meri poori yatra vyarth ho gayi!”
+
+Usse apna gussa paap jaisa lagne laga.
+Usne kaha:
+
+gussa buddhi chheen leta hai
+
+gussa guru aur sajjanon ka bhi apmaan kara deta hai
+
+gussa vivek ko andha kar deta hai
+
+Hanuman ne khud ko doshi maana:
+
+“Lanka jalana chhoti baat hai,
+par agar Sita ko nuksaan hua ho,
+toh main apne swami Rama ka kaam bigaad chuka hoon.”
+
+Uske mann mein bhay aur dukkh umad aaya 😔
+
+Atma-tyag ka vichaar
+
+Usne yahan tak soch liya:
+
+samundar mein kud jaaun
+
+agni mein pravesh kar jaun
+
+jeevit rehkar Rama, Sugriva aur Lakshmana ka saamna kaise karunga?
+
+Usse laga:
+
+“Mere kaaran Ikshvaku vansh ka naash ho jaayega.”
+
+Umeed ki kiran
+
+Phir Hanuman ne kuch baatein yaad ki:
+
+Agni ne uski poonchh nahi jalayi
+
+Mainaka parvat ne samundar mein sahayata ki
+
+Sita pavitrata ki moorti hai
+
+Tab usne socha:
+
+“Agni, jo mujhe nahi jala saka,
+woh Sita ko kaise jala sakta hai?
+Pavitrata ko aag chhoo nahi sakti.”
+
+Sita ki tapasya, satitva aur Rama ke prem par usse vishwas hua 💛
+
+Dev-vani (divine confirmation)
+
+Tab Hanuman ne Charanon (divya rishiyon) ko baat karte suna:
+
+“Poora Lanka jal gaya hai,
+par Janaki surakshit hai!
+Yeh ek adbhut chamatkar hai!”
+
+Ye shabd amrit jaise the 🕊️
+Hanuman ka mann turant halka ho gaya.
+
+Hanuman ka nischay
+
+Ab sab spasht tha:
+
+Sita surakshit hai
+
+Rama ka kaam safal hua
+
+Lanka ka ghamand toot chuka
+
+Hanuman ne nischay kiya:
+
+“Main jaane se pehle Sita ko ek baar aur dekhunga,
+phir Rama ke paas laut kar
+unhe sab suchit karunga.”
+
+Adhyay ki Seekh (Moral)
+
+Veerta ke saath vivek zaroori hai
+
+Gussa sab kuch jala sakta hai, par bhakti sab kuch bacha leti hai
+
+Sita jaise pavitr aatmaon ko prakriti bhi hani nahi pahuncha sakti
+
+Hanuman ka mahatva sirf shakti nahi, vinamrata aur pashchatap bhi hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.56
     with st.expander("Chapter 5.56 – Hanuman meets Sita again and takes leave"):
         text1 = """
-        """
+        Chapter 56 – Hanuman Sita se vida leta hai
+
+Hanuman ne Sita ko
+Shimshapa tree ke neeche dekha.
+Usne jhuk kar pranam kiya.
+
+Hanuman bola,
+
+“Devi, bhagya se aap surakshit ho.
+Yeh dekh kar mera mann shant ho gaya.”"""
         create_image_text_layout("attached_assets/chapter5/5.56.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Sita ka mann bhar aaya
+
+Sita ne Hanuman ko baar-baar dekha.
+Unki aankhon mein aansu the 😢
+
+Sita boli:
+
+“Beta, agar theek lage
+toh aaj yahin chup kar ruk jao.
+Kal jaana.
+Tumhare paas rehkar
+mera dukh thoda kam ho jaata hai.”
+
+Phir unhone dheere se kaha:
+
+“Tum jaoge…
+par kya pata
+main tab tak zinda rahoon ya nahi.
+Tumhare jaate hi
+mera dard aur badh jaayega.”
+
+Sita ko chinta thi:
+
+samundar bahut bada hai
+
+monkeys aur bears kaise aayenge?
+
+Rama aur Lakshmana kaise pahunchenge?
+
+Unhone kaha:
+
+“Is samundar ko
+sirf teen hi paar kar sakte hain –
+Garuda, tum aur Pavan Dev.”
+
+Sita ka garv aur maryada
+
+Sita boli:
+
+“Tum yeh kaam kar sakte ho,
+par yeh yudh Rama ka hai.
+Unhi ko Lanka jeetni chahiye.
+Unki veerta hi dharma hai.”
+
+Yeh kehkar Sita chup ho gayi.
+Unki baat mein prem bhi tha,
+buddhi bhi aur maryada bhi 🌸
+
+Hanuman ka vachan
+
+Hanuman ne haath jod kar kaha:
+
+“Devi, chinta na karein.
+Sugriva
+crore-crore vanaron ke saath aa rahe hain.”
+
+“Rama aur Lakshmana
+Lanka ko apne teeron se hila denge.
+Ravana ka ant nishchit hai.”
+
+Hanuman ne vishwas dilaya:
+
+“Bahut jaldi
+aap Rama ke saath hongi.
+Jaise Rohini chand ke saath hoti hai 🌙”
+
+Sita ka mann halka ho gaya 💛
+
+Vida ka pal
+
+Hanuman ne phir se pranam kiya.
+Sita ne ashirvaad diya.
+
+Hanuman ne socha:
+
+“Ab mujhe apne Prabhu Rama ke paas jaana hai.”
+
+Mahaan chhalaang
+
+Hanuman Arishta parvat par chadhe.
+Parvat unki shakti se kaanp utha.
+
+Jahan Hanuman ne pair rakha,
+wahan chattan toot gayi.
+
+Phir Hanuman ne:
+
+poori shakti jodi
+
+samundar ki taraf dekha
+
+aur ek mahaan chhalaang laga di 🌊
+
+Parvat dharti mein dhans gaya.
+Van ke jeev bhaag gaye.
+Aakash goonj utha.
+
+Aur Hanuman…
+hawaa ki tarah udaan bhar gaye 🕊️
+
+Is adhyay ki seekh (Moral)
+
+Prem mein dhairya zaroori hai
+
+Veerta ko maryada ke saath chalna chahiye
+
+Sita ka bal sharir ka nahi, charitra ka hai
+
+Hanuman ki shakti se zyada, unki bhakti mahaan hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.57
     with st.expander("Chapter 5.57 – Hanuman returns from Lanka"):
         text1 = """
-        """
+        Chapter 57 – Hanuman ka Safal Pratyavartan (The Return of Hanuman)
+
+Lanka ko jala kar, Hanuman
+ab apne prabhu Rama ke paas laut raha tha.
+
+Ek pankh laga parvat jaise,
+Hanuman ne ek hi chhalaang mein
+akash ke samundar ko paar kiya 🌊☁️
+
+Sooraj, chandrama, taare aur badal
+uske raaste ke saathi ban gaye.
+Kabhi badalon mein chhup jaata,
+kabhi unhe cheer kar nikal aata —
+bilkul chandrama ki tarah 🌙"""
         create_image_text_layout("attached_assets/chapter5/5.57.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Mahendra Parvat ki aur
+
+Udaan bharte hue Hanuman ne
+Mainaka Parvat ko pranam kiya
+aur tez garaj ke saath
+Mahendra Parvat ki aur badhe.
+
+Unki garaj se
+das dishaayein goonj uthiं ⚡
+aur samundar ke us paar
+vanaron ne yeh shabd sun liye.
+
+Vanar sena ko sanket
+
+Uttar tat par intezaar kar rahe
+sab vanar pehle udaas the…
+
+Par jaise hi
+Hanuman ki garaj sunai di —
+sabke chehre khil uthe 😄
+
+Tab Jambavan bole:
+
+“Nishchit hi Hanuman safal hua hai!
+Asafal hota toh aisi garaj na karta.”
+
+Sab vanar khushi se uchhal pade,
+pedon, chattanon par chadh gaye
+aur haath hila-hila kar
+Hanuman ka swagat kiya 🎉
+
+Mahaan avtar
+
+Hanuman Mahendra Parvat par utare —
+badalon ke pahaar jaise prakaashmaan ☁️
+
+Sab vanaron ne
+haath jod kar pranam kiya
+aur phal, mool, shaak lekar aaye 🍌🍎
+
+Hanuman ne
+bade buzurgon ko pranam kiya
+aur Angada ka haath pakad kar baith gaye.
+
+Bas ek hi vaakya kaha:
+
+“Maine Devi ko dekh liya hai.”
+
+Amrit ke saman shabd
+
+Yeh shabd sunte hi
+vanaron mein anand ki lehar daud gayi ✨
+
+Hanuman ne bataya:
+
+Sita Ashoka Vatika mein hain
+
+Rakshasi unki rakhwali karti hain
+
+ek hi choti baandhe hue
+
+upvaas se durbal
+
+dhool se lipti
+
+sirf Rama ka smaran karti hui 💔
+
+Yeh sunte hi
+vanaron ne nritya, uchhal, garjan shuru kar di.
+
+Angada ka samman
+
+Angada ne Hanuman se kaha:
+
+“Tumhara saahas atulniya hai!
+Tumne samundar paar kiya
+aur hum sabko jeevan daan diya.”
+
+“Tumhari bhakti, shakti aur sahan-shakti
+apratim hai.
+Ab Rama ka shok nishchit hi door hoga.”
+
+Yudh ka sanket
+
+Sab vanar
+Hanuman ke chaaron or baith gaye
+aur Lanka, Sita aur Ravana ki katha
+sunne ko utavle ho gaye.
+
+Mahendra Parvat
+aisa lag raha tha
+jaise swarg ka darbar ho —
+beech mein Angada
+aur unke paas
+veer Hanuman ✨
+
+Is adhyay ki seekh (Moral)
+
+Bhakti aur kartavya ka milan hi veerta hai
+
+Ek satya shabd poori sena ko jeevan de sakta hai
+
+Hanuman ki safalta unki shakti se nahi, nishtha se aayi
+
+Yeh adhyay Ram–Ravana yudh ka shankhnaad hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.58
     with st.expander("Chapter 5.58 – Hanuman tells everyone about his journey"):
         text1 = """
-        """
+        Chapter 58 – Hanuman apni poori kahani sunate hain
+
+(Hinglish • simple • children’s moral story tone)
+
+Mahendra Parvat ke shikhar par
+sab vanar shaant hokar baith gaye.
+Unki nazar sirf Hanuman par thi 👀
+sabke mann mein khushi aur utsukta thi.
+
+Tab Jambavan ji ne pyaar se poocha:
+
+“Veer Hanuman,
+tumne Sita Mata ko kaise dhoonda?
+Woh wahan kaisi hain?
+Ravana unke saath kaisa vyavhaar karta hai?
+Humein sab sach-sach batao.”
+
+Hanuman ne pehle Sita Mata ko mann hi mann pranam kiya 🙏
+phir muskurate hue bolna shuru kiya."""
         create_image_text_layout("attached_assets/chapter5/5.58.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Samundar par chhalaang
+
+“Tum sabke saamne,”
+Hanuman bole,
+“main Mahendra Parvat se akash mein chhalaang laga kar
+samundar paar karne nikla.
+
+Raaste mein ek sunehra parvat dikha.
+Main use todne hi wala tha,
+tab usne madhur awaaz mein kaha:
+
+‘Main Mainaka Parvat hoon.
+Main tumhare pita Vayu dev ka mitra hoon.
+Rama dharm ke rakshak hain,
+main unki seva karna chahta hoon.’
+
+Maine use pranam kiya
+aur aage badh gaya.”
+
+Surasa aur Sinhika
+
+“Aage samundar mein
+Devi Surasa ne mujhe roka.
+
+Unhone kaha,
+‘Tumhe meri bhojan banna hoga.’
+
+Maine vinamrata se kaha,
+‘Mata, kaam poora karke laut aunga.’
+
+Unka muh bada hota gaya,
+main aur chhota hota gaya 😄
+ek pal mein unke muh mein jaakar
+bahar aa gaya.
+
+Devi khush ho gayi aur boli:
+
+‘Jao beta,
+tumhara kaam safal ho.’
+
+Phir ek rakshasi Sinhika ne meri chhaya pakad li.
+Maine turant uska ant kar diya
+aur bina ruke aage badh gaya.”
+
+Lanka mein pravesh
+
+“Shaam hote hi
+main chup-chaap Lanka mein ghusa.
+
+Shehar ki rakshika ne mujhe roka,
+par maine use hata diya.
+
+Raat bhar khoj ki…
+Ravana ke mahal dekhe…
+par Sita Mata wahan nahi mili 😔
+
+Tab mujhe Ashok Vatika dikhi.
+
+Wahan Shimshapa vriksh ke neeche
+maine Sita Mata ko dekha 🌸
+
+Woh:
+
+kamzor thi
+
+upvaas mein thi
+
+sirf Rama ka naam le rahi thi
+
+rakshasiyon se gheri hui thi
+
+Mera hriday bhar aaya 💔”
+
+Ravana aur Sita ka samvaad
+
+“Tab Ravana wahan aaya.
+Usne ghamand se dhamki di.
+
+Par Sita Mata ne nirbhay hokar kaha:
+
+‘Tum Rama ke daas banne layak bhi nahi ho!
+Tumhara ant nishchit hai.’
+
+Ravana gusse se bhar gaya,
+par Mandodari ne use shaant kiya.”
+
+Hanuman aur Sita ka milan
+
+“Raat ko maine dheere se bola
+aur apna parichay diya.
+
+Maine Rama ki anguthi di 💍
+Sita Mata ki aankhon mein aansu aa gaye.
+
+Unhone kaha:
+
+‘Rama ko jaldi bulaana.
+Mere paas sirf do mahine hain.’
+
+Unhone mujhe apna choodamani diya
+aur ashirvaad diya.”
+
+Lanka ka vinash
+
+“Sita Mata ke shabd sun kar
+mera khoon khol gaya 🔥
+
+Maine:
+
+Ashok Vatika ujaadi
+
+Kinkaron ko haraya
+
+Senapatiyon ko maara
+
+Akshay ko giraya
+
+Ant mein Indrajit ne
+Brahmastra se mujhe baandha.
+
+Ravana ke darbar mein
+maine sach keh diya:
+
+‘Main Rama ka doot hoon.’
+
+Ravana mujhe maarna chahta tha,
+par Vibhishan ne mujhe bachaya.”
+
+Poonch mein aag 🔥
+
+“Ravana ne hukm diya
+meri poonch jalai jaaye.
+
+Maine mauka dekha,
+bandhan toda
+aur poori Lanka jala di 🔥🔥🔥
+
+Phir mujhe chinta hui –
+kahin Sita Mata ko kuch na ho gaya ho!
+
+Tab dev vaani sunai di:
+
+‘Sita surakshit hain.’
+
+Mera mann shaant ho gaya 😊”
+
+Ant aur sandesh
+
+“Main dobara Sita Mata se mila,
+unhe pranam kiya
+aur yahan laut aaya.
+
+Yeh meri poori yatra hai.
+
+Ab jo baaki hai,
+woh tum sab aur Rama ko milkar poora karna hai.”
+
+Is adhyay ki seekh (Moral) 🌟
+
+Shraddha aur dhairya se har mushkil paar hoti hai
+
+Vinamrata bal se zyada shaktishaali hoti hai
+
+Sach aur dharm ka saath dene wala kabhi akela nahi hota
+
+Hanuman ki shakti se zyada unki bhakti mahan thi"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.59
     with st.expander("Chapter 5.59 – Hanuman urges the monkeys to rescue Sita"):
         text1 = """
-        """
+        Chapter 59 – Hanuman vanaron se Sita ko bachane ki prarthana karte hain
+
+(Hinglish • short sentences • children’s moral story tone)
+
+Apni poori kahani sunane ke baad,
+Hanuman ji ne sab vanaron ki taraf dekha 👀
+unki awaaz mein josh bhi tha aur bhakti bhi.
+
+Hanuman bole:
+
+“Ab main sach mein khush hoon.
+Rama aur Sugriva ka prayas safal raha.
+Maine Sita Mata ki dridh bhakti dekhi hai.
+Unka mann bilkul tootaa nahi hai."""
         create_image_text_layout("attached_assets/chapter5/5.59.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        O vanaro 🐒
+Sita Mata tapasya ki shakti se
+poori dharti ko sambhaal bhi sakti hain
+aur gusse mein bhasm bhi kar sakti hain.
+Aag se zyada bhayankar hai unka krodh.
+
+Ravana zinda isliye hai
+kyunki use tapasya ka vardaan mila hai.
+Par uska ant nishchit hai.
+Woh kaam Rama ke liye rakha gaya hai.”
+
+Vanar sena ko bulava
+
+Hanuman aage bole:
+
+“Ab samay aa gaya hai.
+Sab shaktishaali vanar yatra ke liye taiyaar ho jao.
+Jambavan ji aage honge,
+Angad, Nila, Dvivida sab saath honge.
+
+Agar main akela Lanka mein ghus sakta hoon,
+shehar jala sakta hoon 🔥
+toh socho,
+poori vanar sena kya nahi kar sakti?”
+
+Apni shakti par vishwas
+
+Hanuman garv se bole:
+
+“Tumhari anumati ho
+toh main Ravana,
+uske beton, bhaiyon,
+aur poori rakshas sena ka ant kar sakta hoon.
+
+Indrajit ke divya astr bhi
+humein nahi rok sakte.
+
+Jambavan ji kabhi nahi darte
+
+Angad akela poori sena mita sakta hai
+
+Nila parvat hila sakta hai
+
+Dvivida ka koi muqaabla nahi
+
+Ashvini Kumar ke putra vanar
+bhi ajey hain
+
+Aur maine toh akela hi Lanka jala di.”
+
+Lanka mein ghoshna
+
+Hanuman muskuraye aur bole:
+
+“Lanka ki har gali mein
+maine zor se kaha:
+
+‘Rama aur Lakshmana ki jai!’
+‘Sugriva Maharaj ki jai!’
+‘Main Pavana putra Hanuman hoon!’
+
+Yeh sandesh sabne suna.”
+
+Sita Mata ki sthiti
+
+Phir Hanuman ka chehra gambhir ho gaya 😔
+
+“Par ek baat suno, mitron…
+
+Sita Mata Ashok Vatika mein hain.
+Shimshapa ped ke neeche.
+Rakshasiyon se gheri hui.
+
+Woh:
+
+ek hi vastra pehenti hain
+
+dhool se bhari hui hain
+
+kamzor ho rahi hain
+
+zameen par soti hain
+
+Par unka mann sirf Rama mein laga hai ❤️
+
+Ravana ko woh ghrina se dekhti hain.
+Unki bhakti kabhi nahi hili.”
+
+Samay kam hai
+
+Hanuman ne dheemi awaaz mein kaha:
+
+“Sita Mata har din
+aur kamzor hoti ja rahi hain.
+Rama se bichhadne ka dukh
+unhe dheere-dheere tod raha hai.
+
+Maine mushkil se
+unke mann mein aasha jagayi hai.
+
+Ab faisla tum sabko lena hai.”
+
+Is adhyay ki seekh (Moral) 🌼
+
+Ek sachcha sevak sabko jagata hai, sirf khud nahi ladta
+
+Sangathan mein apaar shakti hoti hai
+
+Sita jaise dhairya aur bhakti se hi adharma girta hai
+
+Samay par sahi kadam uthana hi jeet hoti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.60
     with st.expander("Chapter 5.60 – Jambavan rejects Angada’s plan"):
         text1 = """
-        """
+        Chapter 60 – Jambavan Angada ke plan ko kyun mana karte hain
+
+(Hinglish • short • simple • moral story tone)
+
+Hanuman ki baat sunne ke baad,
+Angada aage aaye.
+Unki awaaz mein josh aur garv tha.
+
+Angada bole:
+
+“Hum Ashvini Kumar ke putron ke baare mein jaante hain.
+Woh dono ajey hain.
+Brahma ji ke vardaan se unhe koi maar nahi sakta.
+
+Unhone devtaon ko bhi hara diya tha.
+Amrit bhi pee liya tha."""
         create_image_text_layout("attached_assets/chapter5/5.60.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Agar woh chahein,
+toh poori Lanka ko mita sakte hain.
+Phir hum jaise vanar kya nahi kar sakte?
+
+Hanuman ji ne akela Lanka jala di 🔥
+Sita Mata ko dekha.
+Par unhe wapas nahi laaya.
+
+Mujhe lagta hai
+ki itne veer vanar hote hue
+Rama ko sirf sandesh dena theek nahi.
+
+Main akela Ravana ko maar sakta hoon.
+Aur agar sab vanar saath hon,
+toh jeet pakki hai.
+
+Isliye mera vichaar hai:
+Hum sab turant Lanka jaayein.
+Rakshason ka naash karein.
+Aur Sita Mata ko Rama aur Lakshmana ke paas le aayein.
+
+Kishkindha ke doosron ko bulane ki zarurat nahi.”
+
+Jambavan ka shaant aur gyaan bhara uttar
+
+Yeh sun kar
+Jambavan ji muskuraye 😊
+Unki awaaz mein shanti aur buddhi thi.
+
+Jambavan bole:
+
+“O Angada,
+tumhara vichaar veerta se bhara hai.
+Par dhyaan se suno.
+
+Humein Rama aur Sugriva ka aadesh mila tha.
+Hamara kaam sirf yeh tha
+ki hum Sita Mata ka pata lagayein.
+
+Humein yeh aadesh nahi mila
+ki hum unhe wapas le aayein.
+
+Aur Rama…
+woh apni pratigya ke liye mashhoor hain.
+Unhone sabke saamne kaha hai
+ki woh khud Sita Mata ko laayenge.
+
+Agar hum unki jagah kaam karein,
+toh unki pratigya toot jaayegi.
+Aur yeh kaam unhe pasand nahi aayega.
+
+Veerta tabhi safal hoti hai
+jab maryada ke saath ho.
+
+Isliye sabse sahi raasta yahi hai:
+Hum turant wapas chalein.
+Rama, Lakshmana aur Sugriva ko
+poori sachchai batayein.
+
+Jeet tab hogi
+jab hum Rama ki yojna ke saath chalenge.”
+
+Is adhyay ki seekh (Moral) 🌱
+
+Sirf shakti hi nahi, maryada bhi zaroori hoti hai
+
+Apne kaam ki seema pehchanna bhi gyaan hai
+
+Sahi neta ki yojna ke saath chalna hi vijay deta hai
+
+Veerta bina niyam ke ghamand ban jaati hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.61
