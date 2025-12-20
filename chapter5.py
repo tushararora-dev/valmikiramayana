@@ -9048,79 +9048,938 @@ Veerta bina niyam ke ghamand ban jaati hai"""
     # Chapter 5.61
     with st.expander("Chapter 5.61 – The monkeys destroy Madhuvana garden"):
         text1 = """
-        """
+        Chapter 61 – Madhuvan ka Vinash (Hinglish Rewrite)
+
+(Children’s moral story tone • short • simple • emotional)
+
+Jambavan ki baat sabhi vanaron ko sahi lagi.
+Angada, Hanuman aur baaki sab veer vanar
+Mahendra parvat se neeche kud pade.
+
+Sab ka mann khush tha 😊
+Unka kaam safal ho chuka tha.
+Sita Mata mil chuki thi.
+Ab sab Rama ke paas wapas jaana chahte the."""
         create_image_text_layout("attached_assets/chapter5/5.61.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Utsah mein bhare hue,
+koodte–daudte,
+gaate–hansate hue
+sab vanar Madhuvan pahunch gaye.
+
+Madhuvan ek bahut sundar baag tha 🌳
+Yeh Sugriva ka apna van tha.
+Yahan bina ijazat
+koi pravesh nahi kar sakta tha.
+
+Is van ka rakshak tha
+Dadhimukha,
+Sugriva ka maama.
+Woh buddhe aur kartavya-nishth the.
+
+Vanaron ne dekha—
+shahed se bhare ped 🍯
+ras bhare phal 🍎
+sab kuch bahut laabhdayak lag raha tha.
+
+Vanaron ne Dadhimukha se kaha:
+“Hum thoda sa shahed aur phal chakhna chahte hain.”
+
+Dadhimukha ne socha,
+“Yeh sab bade aur sammaanit vanar hain.”
+Unhone Jambavan aur Angada ko dekh kar
+ijazat de di.
+
+Bas phir kya tha!
+
+Angada ke ishare par
+sab vanar pedon par chadh gaye.
+Shahed peene lage,
+phal todne lage.
+
+Thodi der mein
+sab nash mein choor ho gaye 😵‍💫
+
+Koi gaane laga.
+Koi naachne laga.
+Koi hans raha tha.
+Koi bekaar mein jhagda kar raha tha.
+
+Koi ped se ped par kood raha tha.
+Koi pattharon par uchhal raha tha.
+Koi talash mein bhaag raha tha.
+
+Poora van
+hungama aur shor se bhar gaya.
+
+Pedon ki daaliyan toot gayi.
+Phool jhad gaye.
+Madhuvan ujadne laga 🌿💥
+
+Yeh dekh kar
+Dadhimukha ko bahut gussa aaya 😡
+Unhone vanaron ko roka.
+
+Kabhi pyar se samjhaya.
+Kabhi daant diya.
+Kabhi haath utha kar roka.
+
+Par nash mein doobe vanar
+kisi ki baat sunne ko tayaar nahi the.
+
+Ulta unhone
+Dadhimukha ko hi satana shuru kar diya 😞
+Kisi ne naakhun mare.
+Kisi ne daant se kaata.
+Kisi ne laat-ghoose chalaye.
+
+Budha Dadhimukha
+behosh ho kar gir pada.
+
+Aur vanar…
+poora Madhuvan tahas–nahas kar gaye.
+
+Is adhyay ki seekh (Moral) 🌱
+
+Khushi aur safalta mein bhi niyam nahi bhoolne chahiye
+
+Nasha buddhi ko andha kar deta hai
+
+Rakshak ka apmaan, paap hota hai
+
+Zyada aazaadi, agar maryada ke bina ho, toh vinash laati hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.62
     with st.expander("Chapter 5.62 – Dadhimukha fights the monkeys"):
         text1 = """
-        """
+        Chapter 62 – Dadhimukha aur Vanaron ke Beech Yuddh
+
+(Hinglish • simple • story-style • moral tone)
+
+Tab Hanuman ne vanaron se kaha:
+“Tum log bina dar ke shahed piyo 🍯
+Jo bhi rokne aaye, main use hata dunga!”
+
+Yeh sun kar Angada khush ho gaya aur bola:
+“Hanuman ne jo kiya hai, woh safal ho chuka hai.
+Jo woh kare, wahi sahi hai.
+Chahe thoda anuchit ho, main uske saath hoon!”
+
+Sab vanar zor se bole:
+“Bahut badhiya! Bahut badhiya!”"""
         create_image_text_layout("attached_assets/chapter5/5.62.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Phir kya tha—
+sab vanar Madhuvan mein aise ghus pade
+jaise baadh ka paani 🌊
+Bagh ke rakshakon ko bal se hata diya
+aur bina rok-tok shahed peene lage.
+
+Sita Mata milne ki khushi mein
+sab apna aapa kho chuke the.
+
+Koi bahut bada shahed ka chhata tod laaya.
+Koi use pheink kar hans raha tha.
+Koi ped ke neeche baith gaya.
+Koi nash mein ladkhada raha tha 😵‍💫
+
+Koi sher ki tarah garaj raha tha.
+Koi pakshi ki tarah seeti maar raha tha.
+Koi zor-zor se hans raha tha.
+Koi bina baat ro raha tha.
+
+Poora Madhuvan
+hungame ka adda ban chuka tha 🌪️
+
+Udhar van ke rakshak
+maar kha kar bhaag gaye.
+Dar ke maare Dadhimukha ke paas aaye aur bole:
+
+“Hanuman ke sahare
+yeh bhayankar vanar Madhuvan ujaad rahe hain.
+Humein ghutno ke beech daba kar
+maar daalne jaise haal kar diya.”
+
+Yeh sun kar Dadhimukha gusse se kaanp utha 😠
+Par pehle apne sevakon ko dhairya diya.
+
+Phir bola:
+“Tum log wapas jao aur unhe roko.
+Main khud aa raha hoon.
+Aaj in ahankari vanaron ko sabak sikhana hi hoga!”
+
+Phir Dadhimukha
+apne rakshakon ke saath
+ped aur patthar uthaye
+tez gati se Madhuvan ki aur chala.
+
+Gusse mein bhare hue
+unhone vanaron ko baar-baar roka,
+par vanar kisi ki baat sunne ko tayaar nahi the.
+
+Jab Dadhimukha khud ped utha kar aage badha,
+toh nash mein choor Angada ne use rok liya.
+
+Apne maama jaise buddhe hone ka bhi dhyaan nahi rakha 😔
+Aur zor se use zameen par patak diya.
+
+Dadhimukha ke
+haath–pair chotil ho gaye,
+chehra lahu-luhaan ho gaya 🩸
+Aur kuch der ke liye behosh ho gaya.
+
+Badi mushkil se uth kar
+woh peeche hata aur apne logon se bola:
+
+“Chalo, ab der nahi.
+Hum seedhe Sugriva ke paas chalenge.
+Main Angada aur in sab ke paap bataunga.
+
+Madhuvan
+Sugriva ke purkhon ka van hai,
+jise devta bhi nahi chhedte.
+
+Sugriva gusse mein aakar
+in sab ko kathor dand dega.
+Tabhi mera gussa shaant hoga.”
+
+Yeh keh kar
+Dadhimukha aur uske sevak
+aasmaan ke raaste
+tez gati se Sugriva ke paas pahunch gaye.
+
+Wahan Rama, Lakshmana aur Sugriva baithe the.
+
+Unhe dekh kar
+ghayal Dadhimukha zameen par utra,
+aankhon mein dukh tha 😢
+aur dono haath jod kar
+Sugriva ke charnon mein gir pada.
+
+Is Adhyay ki Seekh (Moral) 🌿
+
+Safalta ke baad ahankaar vinash laata hai
+
+Nash mein kiya gaya kaam, buddhi ko nasht karta hai
+
+Buzurg aur rakshak ka apmaan, maha-paap hota hai
+
+Maryada ke bina shakti khatarnaak ban jaati hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.63
     with st.expander("Chapter 5.63 – Dadhimukha tells Sugriva about the destruction"):
         text1 = """
-        """
+        Chapter 63 – Dadhimukha batata hai Madhuvan ka haal
+
+(Hinglish • short sentences • children’s moral story tone)
+
+Jab Dadhimukha zameen par gir kar
+Sugriva ke pair chhoone laga,
+toh Sugriva ka dil pighal gaya ❤️
+
+Sugriva ne pyaar se kaha:
+“Utho, utho!
+Aise kyun gire ho?
+Bina dar ke bolo.
+Madhuvan mein sab theek hai na?
+Mujhe sab sach-sach batao.”
+
+Sugriva ke vachan sun kar
+Dadhimukha khada hua
+aur dukhi awaaz mein bola:"""
         create_image_text_layout("attached_assets/chapter5/5.63.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Prabhu,
+jo Madhuvan na aap ne
+na Bali ne kisi ko chhoone diya,
+ussi van ko vanaron ne ujaad diya 😔
+
+Jab main apne rakshakon ke saath
+unhe rokne gaya,
+toh unhone meri baat hi nahi maani.
+
+Mere sevakon ko maara,
+ghutno ke beech daba kar
+uchhaal diya.
+Haath-pair tod diye.
+
+Aaj bhi
+wo sab vanar Madhuvan mein hain,
+shahed pee rahe hain
+aur hungama macha rahe hain.
+
+Aap hi in sab ke swami ho,
+isliye main yahan aaya hoon.”
+
+Yeh sab sun kar
+Lakshmana ne poocha:
+“O Sugriva,
+yeh kaun vanar hai
+aur itna dukhi kyun hai?”
+
+Sugriva ne shaant hote hue kaha:
+“O Lakshmana,
+yeh Dadhimukha hai,
+mere Madhuvan ka rakshak.
+
+Jo kaam yeh vanar kar rahe hain,
+woh bina safalta ke nahi hota.
+
+Jo apna kaam poora na kare,
+woh Madhuvan jaise pavitra van ko
+chhoone ki himmat nahi karta.”
+
+Sugriva ki aankhon mein chamak aa gayi ✨
+aur woh bola:
+
+“Yeh pakka sanket hai
+ki Sita mil chuki hai.
+
+Aur agar kisi ne yeh kaam kiya hai,
+toh woh sirf Hanuman ho sakta hai.
+
+Jahan
+Jambavan aur Angada saath ho,
+aur Hanuman aage ho,
+wahan asafalta ho hi nahi sakti.”
+
+Sugriva ne aage kaha:
+“Isliye, Dadhimukha,
+in vanaron ka gussa aur utsaah
+unke vijay ka chinh hai.
+
+Tum Madhuvan wapas jao
+aur sab vanaron ko
+Hanuman ke saath
+yahan le aao.
+
+Main, Rama aur Lakshmana
+unse sab sunna chahte hain.”
+
+Yeh sun kar
+Rama aur Lakshmana ke chehre khil gaye 😊
+Dil mein ummeed jag uthi.
+
+Sugriva bhi man-hi-man khush hua,
+use laga—
+manzil ab bahut nazdeek hai 🌅
+
+Is Adhyay ki Seekh (Moral) 🌿
+
+Vijay ke lakshan vyavhaar mein dikhte hain
+
+Jo kaam poora karta hai, usmein alag hi utsaah hota hai
+
+Samajhdaar neta gusse ke peeche sach pehchaan leta hai
+
+Hanuman jaise sevak, shabd se pehle karm bolte hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.64
     with st.expander("Chapter 5.64 – Sugriva comforts Rama"):
         text1 = """
-        """
+        Chapter 64 – Sugriva Rama ko dhairya deta hai
+
+(Hinglish • simple flow • emotional + moral tone)
+
+Dadhimukha,
+Sugriva, Rama aur Lakshmana ko pranam karke
+tez gati se Madhuvan wapas gaya.
+
+Wahan usne dekha—
+sab vanar ab shaant ho chuke the,
+madhu peene ke baad ka utsaah thandaa pad gaya tha 🌿
+
+Dadhimukha ne Angada se haath jod kar kaha:"""
         create_image_text_layout("attached_assets/chapter5/5.64.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “He Rajkumar,
+rakshakon par krodh na rakho.
+Galti agyaan se hui thi.
+Madhuvan tumhara hi hai—
+tum Bali ke putra ho,
+jaise pehle tumhare pita aur Sugriva the.”
+
+Phir usne sabse mahatvapurn baat kahi:
+
+“Tumhare chacha Sugriva bilkul krodhit nahi hue.
+Ve toh bahut prasann hue hain 😌
+Unka sandesh hai—
+sab vanar turant unke paas aayein.”
+
+Angada ka vinamr netritva 👑
+
+Yeh sun kar Angada ne sab vanaron se kaha:
+
+“Ab yahan rukna uchit nahi.
+Humara kaarya poora ho chuka hai.
+Tum sab mujhe jo salah doge,
+main wahi karunga.
+Main tumhara sevak hoon,
+adesh dene wala nahi.”
+
+Sab vanar prasann ho gaye 😊
+aur bole:
+
+“Aap jaise yuvaraj ke muh se
+aise vinamr shabd hi shobha dete hain.
+Aap aadesh dijiye,
+hum turant chal padenge.”
+
+Angada ne kaha:
+“Chalo!”
+
+Aur phir—
+aakash vanaron se bhar gaya 🌤️
+jaise badal aandhi mein udd rahe hon.
+
+Sugriva Rama ko aashvasan deta hai 🌸
+
+Jab Angada aur vanar Kishkindha ke paas aaye,
+toh Sugriva ne dukhi Rama se kaha:
+
+“Rama, shok mat karo.
+Sita mil chuki hai.
+Agar kaarya asafal hota,
+toh yeh vanar kabhi Madhuvan ko na chhoote.”
+
+Sugriva ne bahut gehri baat kahi:
+
+“Jis van mein devta bhi bina anumati nahi jaate,
+usse sirf wahi ujaad sakta hai
+jo vijayi ho.”
+
+Phir Sugriva ne poore vishwas se kaha:
+
+“Aur yeh kaarya Hanuman ke bina
+koi nahi kar sakta.
+Jahan Jambavan margdarshak ho,
+Angada neta ho,
+aur Hanuman karmakarta—
+wahan asafalta ka prashn hi nahi.”
+
+Rama ka mann dheere-dheere shaant hone laga 💙
+
+Hanuman ka sandesh – Amrit samaan 🌼
+
+Tabhi aakash mein
+“Kilakila!” ke jayghosh ghoonj uthe 🎉
+Vanar Hanuman ke shaurya ka gungaan kar rahe the.
+
+Sab vanar utar aaye—
+aur Hanuman ne Rama ko pranam karke kaha:
+
+“Maine Sita ko dekha hai.”
+
+Yeh shabd
+Rama ke liye amrit se bhi meethhe the ✨
+
+Rama ki aankhon mein aansu aa gaye
+
+Lakshmana ka hriday bhar aaya
+
+Sugriva ne Hanuman ko gaurav se dekha
+
+Us pal,
+shok se bhara van
+ummeed se jagmaga utha 🌅
+
+Is Adhyay ki Seekh (Moral) 🌿
+
+Sachchi vijay vyavhaar se pehchaani jaati hai
+
+Achha neta vinamr hota hai, ahankaari nahi
+
+Sahi vyakti par vishwas poori yatra ka bhaar halka kar deta hai
+
+Hanuman jaise sevak, asambhav ko sambhav bana dete hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.65
     with st.expander("Chapter 5.65 – Hanuman tells Rama about meeting Sita"):
         text1 = """
-        """
+        Chapter 65 – Hanuman Rama ko Sita se milne ka poora vrittant sunata hai
+
+(Hinglish • emotional • Sundara-kanda ka hriday)
+
+Mount Prasravana par pahunch kar,
+Hanuman ne
+Rama aur Lakshmana ko pranam kiya 🙏
+
+Angada ke aage-aage,
+Sugriva aur sab vanaron ko namaskar karke,
+Hanuman ne Sita ke bandhan, kasht aur uski atal bhakti ka poora varnan shuru kiya."""
         create_image_text_layout("attached_assets/chapter5/5.65.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ka prashn – pati ka vyakul hriday 💔
+
+Rama ne vyakul ho kar kaha:
+
+“He Vanaro,
+Sita kahan hai?
+Wo kaisi hai?
+Uske hriday mein mere liye kya bhavna hai?
+Mujhe sab kuchh batao!”
+
+Sab vanaron ne ek swar mein kaha:
+“Yeh sab Hanuman hi bata sakte hain.”
+
+Hanuman ka varnan – sach, shuddh aur spasht 🌊
+
+Hanuman ne dakshin disha ki or dekhkar,
+Sita ko man hi man pranam kiya
+aur kaha:
+
+“He Rama,
+main 400 yojan ka samudra laangh kar
+Lanka pahunchā—
+Ravana ki bhayankar nagri.”
+
+Sita Ashoka Vatika mein bandi hai
+
+Rakshasiyaan use apmaanit karti hain
+
+Wo ek hi choti (single braid) mein, bhoomi par leti hui
+
+Upvaas aur shok se krish ho chuki hai
+
+Phir bhi Ravana ko thukra kar,
+sirf aapka smaran karti hai
+
+“He Rama,
+wo aapse alag hokar
+sheet ke aagman par kamal ki tarah murjha gayi hai.”
+
+Sita ki bhakti aur vishwas 🌸
+
+Hanuman ne bataya:
+
+Ikshvaku vansh ka gungaan sun kar
+Sita ne un par vishwas kiya
+
+Sugriva–Rama ki mitrata sun kar
+unka hriday sthir ho gaya
+
+Wo aaj bhi tapasya mein lipt,
+sirf Rama ke liye jee rahi hai
+
+Abhigyaan – Sita ka amulya ratna 💎
+
+Hanuman ne Rama ko
+Sita ka diya hua divya ratna diya
+aur kaha:
+
+“Mata Sita ne kaha hai—
+is ratna ko dekh kar
+aapko Chitrakoot ka kaak (crow) wala prasang yaad aa jayega.”
+
+Sita ka sandesh:
+
+“He Vayu-putra,
+Rama ko kehna—
+is moti ko dekh kar
+mujhe aisa lagta hai
+jaise main unke samne hoon.”
+
+Aur phir wo bhayankar vaakya:
+
+“Main sirf ek maheena aur jee paungi.” ⏳
+
+Hanuman ka antim sandesh ⚔️
+
+Hanuman ne kaha:
+
+“He Raghava,
+maine jo dekha, jo suna—
+sab sach-sach keh diya.
+Ab aap vichaar karein—
+samudra kaise paar kiya jaye.”
+
+Rama ka hriday – shok se aasha tak 🌅
+
+Rama ka shok ummeed mein badalne laga
+
+Lakshmana ka mukh tej se bhar gaya
+
+Sugriva ne Hanuman ko gaurav se dekha
+
+Yeh adhyay wahi bindu hai
+jahan se yuddh ka nishchay hota hai
+aur Sundara-kanda apne shikhar par pahunchta hai ✨
+
+Is Adhyay ki Gehraayi (Key Takeaways) 🌿
+
+Sita ka charitra = agni jaisa pavitra
+
+Hanuman = sachcha sevak + sachcha sakshi
+
+Rama ka dukh ab kriya mein badalne wala hai
+
+Yahin se Lanka Yuddh ki yatra shuru hoti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.66
     with st.expander("Chapter 5.66 – Rama feels deep sadness"):
         text1 = """
-        """
+        Chapter 66 – Rama ka Shok (Rama’s Grief)
+
+(Sundara-kanda ka sabse komal aur hriday-vidaarak adhyay)
+
+Hanuman ke vachanon ko sun kar,
+Rama, Dasharatha ke putra,
+ne Sita ka ratna apne hriday se laga liya 💔
+aur Lakshmana ke saath ashru bahaane lage.
+
+Yeh pehli baar hai jab Rama—
+jo sada dhairya aur maryada ka pratibimb hai—
+apna dukh chhupa nahi paate."""
         create_image_text_layout("attached_assets/chapter5/5.66.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ratna aur Smriti – yaadon ka bojh 💎
+
+Rama ne Sugriva se kaha:
+
+“Jaise gaay apne bachhde ko dekh kar
+apne stanon se doodh baha deti hai,
+vaise hi is ratna ko dekh kar
+mera hriday umad padta hai.”
+
+Yeh ratna:
+
+Janaka ne vivaah ke samay Sita ko diya tha
+
+Devtaon dwara poojit
+
+Samudra se utpann
+
+Indra (Shakra) ke vardaan se prapt
+
+“Isse dekh kar mujhe apne pita Dasharatha
+aur apne sasur Janaka—
+dono ki yaad aa jaati hai.”
+
+Sita ka Abhaav – sachcha vedna 🌑
+
+Rama kehte hain:
+
+“Is ratna ko bina Sita ke dekhna
+aisa hai jaise
+baadalon se ghiri sharad-poornima ka chand.”
+
+Ratna chamak raha hai
+
+Par Sita ka mukh-prakash nahi
+
+Jaise chetna-hin vyakti par jal chhidka jaaye—
+waise hi Hanuman ke shabd
+Rama ko jeevan dete hain
+
+Rama ka vyakul prashn – pati ka hriday 😔
+
+Rama baar-baar Hanuman se kehte hain:
+
+“Mujhe phir se batao—
+Sita ne kya kaha?
+Unke shabd mere liye aushadhi hain.”
+
+Unka dukh ubhar kar bol padta hai:
+
+“Ek pal bhi Sita ke bina jeena asambhav hai”
+
+“Agar wo ek maheena aur jee gayi, to shayad jeevit rahe”
+
+“Par main ek kshan bhi unke bina nahi reh sakta”
+
+Sita ki Komalta aur Bhay 🕊️
+
+Rama ka sabse bada dard:
+
+“Jo sada bhaybhit rehti thi,
+jo komal thi, madhur-bhaashini thi—
+wo kaise un bhayankar rakshasiyon ke beech jee rahi hogi?”
+
+Yahan Rama yoddha nahi—
+sirf ek pati hain.
+
+Is Adhyay ka Saar (Essence) 🌺
+
+Yeh shok kamzori nahi, prem ki parakashtha hai
+
+Rama ka dukh hi unhe yuddh ke liye udyat karta hai
+
+Hanuman ke shabd = jeevan-daan
+
+Yahin se Sundara-kanda Yuddha-kanda mein parivartit hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.67
     with st.expander("Chapter 5.67 – Hanuman describes his meeting with Sita in detail"):
         text1 = """
-        """
+        Chapter 67 – Hanuman Sita se hui baat batate hain
+
+(Hinglish | children’s moral story tone | short & emotional)
+
+Rama ke poochhne par,
+Hanuman ne shant aur bhare hue hriday se
+Sita ke shabd sunaane shuru kiye."""
         create_image_text_layout("attached_assets/chapter5/5.67.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Chitrakoot ki yaad 🌿
+
+Hanuman bole:
+
+“Prabhu, Sita Mata ne pehle
+Chitrakoot par hui ek ghatna yaad dilayi
+taaki aapko vishvaas ho jaaye.”
+
+Ek din,
+Sita aapke saath shant neend mein thi.
+Woh pehle jaag gayi.
+
+Tab ek kauwa aaya
+aur usne Sita ke vaksh par chonch maari.
+Aap tab Sita ki god mein so rahe the.
+
+Kauwa phir aaya.
+Aur phir chot pahunchayi.
+
+Khoon behne laga.
+Dard hua.
+Aur tab Sita ne aapko jagaaya.
+
+Rama ka krodh 🔥
+
+Aapne dekha.
+Aankhen laal ho gayi.
+
+Aap bole:
+“Kaun hai jo
+paanch-mukhi saanp se khel raha hai?”
+
+Tab aapne us kauwe ko dekha.
+Khoon lagi chonch.
+Tez panje.
+
+Woh Indra ka putra tha.
+Woh bhaag gaya.
+Dharti mein ghus gaya.
+Teenon lokon mein bhatka.
+
+Par kahin sharan nahi mili.
+
+Brahmastra aur Karuna 🌾
+
+Aapne kusha ghaas uthayi.
+Brahma-mantra padha.
+Aur use chhod diya.
+
+Woh ghaas
+pralay ki aag jaise jal uthi.
+
+Kauwa dar gaya.
+Devta bhi dar gaye.
+
+Aakhirkaar
+woh aapke paas laut aaya.
+Zameen par gir gaya.
+Sharan maangi.
+
+Aapne use maar diya hota.
+Par aap karunamay ho.
+
+Aapne uska daahina aankh le li.
+Par jeevan baksh diya.
+
+Sita ka prashn 😢
+
+Sita Mata ne kaha:
+
+“Raghava,
+aap itne shaktishaali ho.
+Aap kyun Ravana ko
+abhi tak nasht nahi karte?
+
+Devta, Asur, Gandharva—
+koi bhi aapka saamna nahi kar sakta.
+
+Aur Lakshmana…
+jo Agni aur Vayu jaise veer hain…
+woh meri raksha kyun nahi kar rahe?
+
+Kya main itni doshi hoon
+ki mujhe bhool gaye?”
+
+Yeh shabd
+dukh se bhare, par pavitra the.
+
+Hanuman ka vachan 🕊️
+
+Hanuman bole:
+
+“Mata,
+Rama bina aapke jeevit nahi hain.
+Aur Lakshmana bhi shok mein hain.
+
+Ab vilap ka samay samapt ho chuka hai.
+
+Jald hi
+Rama aur Lakshmana
+Lanka ko bhasm kar denge.
+
+Ravana aur uske kul ka ant hoga.
+Aur aap
+apne ghar lautengi.”
+
+Chihn – pehchaan ka ratna 💎
+
+Sita ne kaha:
+“Rama ke liye
+koi pehchaan ka chihn le jao.”
+
+Unhone apne keshon se
+ek sundar ratna nikala
+aur Hanuman ko de diya.
+
+Antim baat 💔
+
+Jab Hanuman jaane lage,
+Sita ro padi.
+
+Unhone kaha:
+
+“Tum bhagyashali ho Hanuman.
+Tum Rama ko dekh paoge.”
+
+Hanuman bole:
+“Chaliye,
+aaj hi aapko le chalta hoon.”
+
+Par Sita ne mana kiya:
+
+“Yeh maryada ke viruddh hai.
+Main swayam nahi jaa sakti.”
+
+Aur phir kaha:
+
+“Rama aur Lakshmana ko
+mera pranam kehna.
+Aur mera dukh batana.”
+
+Hanuman ne apni baat samapt ki:
+
+“Prabhu,
+yeh sab Sita Mata ne kaha.
+Unki pavitrata par
+koi sandeh na rakhiye.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 5.68
     with st.expander("Chapter 5.68 – Hanuman repeats his comforting message to Sita"):
         text1 = """
-        """
+        Chapter 68 – Hanuman Sita ko diya gaya antim aashvasan
+
+(Hinglish | emotional + dharmic tone | Sundara Kanda ka samapan)
+
+Hanuman ne Rama se kaha:
+
+Sita ka dukh aur chinta 🌸
+
+“Prabhu,
+Sita Mata ne mujhe gehre prem aur chinta ke saath sambodhit kiya.
+
+Unhone kaha:
+
+‘Hanuman, tum ye sab Dasaratha-putra Rama ko bata dena,
+taaki woh bina vilamb ke aayein, Ravana ka vadh karein
+aur mujhe yahan se le jaayein.’
+
+Phir Mata ne karuna aur sneha se kaha:
+
+‘Agar tumhe uchit lage, to ek din aur yahin chhupe reh jao.
+
+Tumhare saath rehkar mera dukh kuch samay ke liye kam ho jaata hai.
+
+Par jab tum chale jaoge, mujhe bhay hoga—pata nahi tab tak main jeevit bhi rahungi ya nahi.’"""
         create_image_text_layout("attached_assets/chapter5/5.68.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Samudra ka bhay 🌊
+
+Sita Mata ko sabse zyada chinta samudra ki thi.
+
+Unhone kaha:
+
+‘Hanuman, us apar samudra ko paar karna asambhav lagta hai.
+Sirf teen hi jeev aise hain jo ise paar kar sakte hain—Garuda, Vayu aur tum.
+Toh Rama, Lakshmana aur itni saari vaanar sena kaise aayegi?’
+
+Phir Mata ne maryada aur dharm ki baat kahi:
+
+‘Tum akele mujhe le ja sakte ho, par isse keval tumhara yash badhega.
+
+Raghava ke liye yeh uchit nahi ki woh chori se mujhe le jaayein, jaise Ravana ne kiya.
+
+Yeh unke yash ke yogya hoga ki woh Lanka ko jeet kar, Ravana ka vadh karke mujhe le jaayein.’
+
+👉 Sita ka prem Rama ke yash se bandha hua tha, apni mukti se bhi zyada.
+
+Hanuman ka antim vachan 🕊️
+
+Hanuman ne Mata ko antim baar aashvasan diya:
+
+‘Mata, Sugriva ne sankalp liya hai aapko chhudane ka.
+Unke paas anant veer vaanar hain—
+jo man ke veg se bhi tez hain,
+upar–neeche–har disha mein ja sakte hain,
+jinhe koi kaam asambhav nahi lagta.’
+
+Hanuman bole:
+
+‘Sugriva ke paas kai vaanar mujh jaise aur mujh se bhi balwaan hain.
+
+Maha-veer kabhi akele nahi bheje jaate—akela to chhota kaam hota hai.
+
+Agar main samudra paar kar sakta hoon, to yeh sab kyun nahi?’
+
+Aane wale vijay ke darshan 🔥
+
+Hanuman ne Mata ko bhavishya ka darshan diya:
+
+‘Jald hi aap Lanka ke dwaar par Rama ko dekhenge—sher jaise garajta hua.
+
+Lakshmana dhanush uthaye khade honge.
+
+Malaya parvat se vaanaron ki garjana sunayi degi, jaise megh garaj rahe ho.’
+
+Aur phir, Mata, aap Ayodhya mein Rama ke saath rajyaabhishek ke saath virajmaan hongi.’
+
+Sundara Kanda ka saar 🌺
+
+Hanuman ne kaha:
+
+“Mata Mithila-nandini,
+Rama se virah mein bhi,
+mere shabdon se shant ho gayi.”
+
+🌟 Sundara Kanda ka antim sandesh
+
+Bhakti – Hanuman
+
+Maryada – Sita
+
+Sankalp – Rama
+
+Vijay ka vishvaas – poori vaanar sena
+
+✨ Yahin Sundara Kanda samaapt hota hai —
+aasha, dhairya aur dharm ke ujjwal shikhar par."""
         create_image_text_layout(text_content=text2, layout="full")
