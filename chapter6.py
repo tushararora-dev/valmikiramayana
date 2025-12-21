@@ -66,55 +66,538 @@ def display_content():
     # Chapter 6.1
     with st.expander("Chapter 6.1 – Rama praises Hanuman and feels worried"):
         text1 = """
-        """
+        Chapter 1 – Rama felicitates Hanuman (Hinglish Story Rewrite)
+
+Hanuman apni poori journey calmly suna raha tha.
+Uski baatein sunte hi Rama ka dil khushi se bhar gaya.
+
+Rama muskuraye aur bole,
+“Hanuman, tumne jo kaam kiya hai, woh duniya ka sabse mushkil kaam tha.
+Aisa kaam koi aur soch bhi nahi sakta.”
+
+Unki awaaz mein garv tha.
+“Is bade samundar ko paar karna aasaan nahi tha.
+Sirf Garuda aur Vayu jaise shaktishaali hi yeh kar sakte hain.
+Par tumne kar dikhaya.”"""
         create_image_text_layout("attached_assets/chapter6/6.1.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ne aage kaha,
+“Lanka ek bahut hi majboot nagri hai.
+Wahan Ravana ka raaj hai.
+Dev, Danav, Yaksha, Gandharva… koi bhi wahan jaakar zinda wapas nahi aa sakta.
+Par tum gaye, kaam poora kiya, aur laut aaye.”
+
+Hanuman shaant khade the.
+Unke chehre par ahankaar nahi tha.
+Sirf bhakti aur vinamrata thi.
+
+Rama bole,
+“Ek sacha sevak wahi hota hai jo mushkil kaam ko bhi khushi se poora kare.
+Tumne Sugriva ka kaam poore mann se kiya.
+Tum sach mein shreshth sevak ho.”
+
+Phir Rama ki aankhen nam ho gayi.
+Unhone kaha,
+“Tumhari wajah se humein Sita ka pata chala.
+Lakshmana aur main bach gaye.
+Par mera dil bhaari hai.
+Main tumhara yeh ehsaan kaise chukaun?”
+
+Rama thoda ruk gaye.
+Phir bole,
+“Abhi main sirf itna hi kar sakta hoon.”
+
+Itna kehkar Rama ne Hanuman ko gale laga liya.
+Unke haath kaanp rahe the, khushi se.
+Hanuman ne bhi sir jhuka liya.
+Unka kaam poora ho chuka tha.
+
+Thodi der baad Rama gehri soch mein pad gaye.
+Unhone samundar ki taraf dekha.
+
+Rama bole,
+“Sita mil gayi hai, yeh sach hai.
+Par yeh samundar bahut bada hai.
+Vanar sena ise kaise paar karegi?”
+
+Unki awaaz mein chinta thi.
+“Ab aage kya karein?
+Kaise sab ko doosre kinare tak le jayein?”
+
+Yeh kehkar Rama chup ho gaye.
+Unka mann ghabra raha tha.
+Woh gehri soch mein doob gaye.
+
+Yahin se ek nayi chunauti shuru hoti hai…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.2
     with st.expander("Chapter 6.2 – Sugriva comforts Rama"):
         text1 = """
-        """
+        Chapter 2 – Sugriva consoles Rama (Hinglish Story Rewrite)
+
+Rama gehri udaasi mein doob gaye the.
+Unki aankhon mein chinta saaf dikh rahi thi.
+
+Tab Sugriva aage aaye.
+Unki awaaz shaant thi, par bharosa bhari hui.
+
+Sugriva bole,
+“Rama, aap aise dukhi kyun ho jaise koi aam insaan ho?
+Aap veer ho.
+Is tarah ka vishad aapko shobha nahi deta.”
+
+Unhone dheere se kaha,
+“Ab to humein Sita ka pata chal gaya hai.
+Shatru ka thikana bhi jaan liya hai.
+Phir darr kis baat ka?”"""
         create_image_text_layout("attached_assets/chapter6/6.2.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Sugriva ne Rama ki taraf vishwas se dekha.
+“Aap buddhimaan ho.
+Shastra jaante ho.
+Apne mann ko sambhaliye.
+Yeh bekaar ke darr safalta ke dushman hote hain.”
+
+Phir Sugriva ne samundar ki taraf ishara kiya.
+“Yeh samundar chahe kitna bhi bhayanak ho,
+hum ise paar karenge.
+Lanka par hamla karenge
+aur Ravana ka ant karenge.”
+
+Unki awaaz mein josh aa gaya.
+“Jo vyakti dukh aur darr mein dooba rehta hai,
+woh kuch bhi bada kaam nahi kar paata.
+Aisa vyakti khud hi apna nuksaan karta hai.”
+
+Sugriva bole,
+“Yeh vanar sena aapke liye aag mein bhi kood jaane ko tayyar hai.
+Inka saahas dekh kar mujhe poora vishwas hai.”
+
+Unhone garv se kaha,
+“Mujhe ijazat dijiye.
+Main Ravana ko maar kar Sita ko wapas laaunga.”
+
+Phir woh bole,
+“Par pehle humein ek pul banana hoga.
+Bina pul ke Lanka tak pahunchna mushkil hai.
+Samundar itna bhayanak hai
+ki Dev aur Asur bhi bina pul ke wahan nahi ja sakte.”
+
+Sugriva muskuraye.
+“Jaise hi pul banega
+aur sena us par se guzregi,
+Ravana pehle hi haar chuka samjho.”
+
+Unhone vanaron ki taraf dekha.
+“Yeh yoddha apna roop badal sakte hain.
+Pathar aur ped se shatru ko kuchal denge.”
+
+Phir Sugriva ne Rama se kaha,
+“Is kamzori ko chhod dijiye, Maharaj.
+Dukh se insaan kamzor ho jaata hai.
+Jo karna hai, usey dridhta se aur jaldi karna chahiye.”
+
+Unki baat mein seekh thi.
+“Shakti ke saath dharm jodo.
+Maha-veer yoddha dukh ko apni taakat khatm karne nahi dete.”
+
+Sugriva ne vishwas se kaha,
+“Aap jaise dhanurdhar ke saamne
+teenon lokon mein koi tik nahi sakta.
+Hum aapke saath hain.
+Aapki jeet nishchit hai.”
+
+Ant mein Sugriva bole,
+“Jaise hi hum samundar paar kar lenge,
+Sita aapko jaldi hi mil jaayengi.
+Ab shok chhodiye
+aur apna krodh aur saahas jagaiye.”
+
+Rama chup the.
+Par unke mann mein nayi roshni jag chuki thi.
+Umeed phir se zinda ho rahi thi.
+
+Yuddh ka marg ab saaf dikhne laga…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.3
     with st.expander("Chapter 6.3 – Hanuman tells Rama about Lanka’s strength"):
         text1 = """
-        """
+        Chapter 3 – Hanuman describes the Strength of Lanka (Hinglish Story Rewrite)
+
+Sugriva ki samajhdaar baatein sun kar
+Rama ka mann thoda shaant ho gaya.
+
+Rama ne Hanuman ki taraf dekha.
+Unki awaaz sthir thi.
+
+Rama bole,
+“Tapasya ke bal se main samundar paar kar sakta hoon.
+Chaahun to pul bana sakta hoon.
+Chaahun to samundar ko shaant bhi kar sakta hoon.”"""
         create_image_text_layout("attached_assets/chapter6/6.3.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Phir Rama ne poocha,
+“Par Lanka kaisi hai?
+Uski suraksha kaisi hai?
+Gate kaise hain?
+Sena kitni strong hai?”
+
+Unhone dhyaan se kaha,
+“Tum wahan gaye the.
+Sab kuch dekha hai.
+Mujhe aise batao
+jaise main khud wahan khada hoon.”
+
+Hanuman aage aaye.
+Unka chehra gambhir tha.
+Par awaaz shaant aur spasht thi.
+
+Hanuman bole,
+“Rama, main sab bataunga.
+Lanka ki deewarein,
+uske gaddhe,
+uski sena…
+sab kuch.”
+
+Phir Hanuman ne kehna shuru kiya.
+
+“Lanka ek bhari-bhari shehar hai.
+Wahan log khush dikhte hain.
+Haathi, rath aur rakshas har jagah hain.”
+
+“Us shehar ke chaar bade gate hain.
+Gate bahut unche hain.
+Lohe ke bhaari darwaaze lage hue hain.”
+
+“Har gate ke paas hathiyaar rakhe hain.
+Bhale, pathar, teer…
+sab kuch tayyar rehta hai.”
+
+Hanuman ne aage kaha,
+“Lanka ke chaaro taraf sunehri deewar hai.
+Deewar par ratn, moti aur mani chamak rahe hain.”
+
+“Deewar ke bahar gehre gaddhe hain.
+Unmein thanda paani hai.
+Magar aur machhliyan bhi hain.”
+
+“Pul uthane wale bridge hain.
+Aur har jagah yuddh ke yantra lage hue hain.
+Shatru aaye to seedha gaddhon mein gir jaaye.”
+
+Hanuman ne gambhir swar mein kaha,
+“Ravana khud bahut shaktishaali hai.
+Woh hamesha yuddh ke liye tayyar rehta hai.
+Apni sena par hamesha nazar rakhta hai.”
+
+“Lanka pahaad par basi hai.
+Chaaro taraf samundar hai.
+Wahan koi naav aasaani se nahi pahunch sakti.”
+
+“Ghode, haathi, rath…
+sab kuch wahan bhara pada hai.
+Lanka devon ke shehar jaisi lagti hai.”
+
+Phir Hanuman ne sena ka vivaran diya.
+
+“Purab ke gate par
+das hazaar yoddha khade hain.”
+
+“Dakshin ke gate par
+ek lakh sainik hain.”
+
+“Paschim ke gate par
+talwar aur dhal wale yoddha hain.”
+
+“Uttar ke gate par
+laakhon sainik hain.
+Rath aur ghodon par sawar.”
+
+“Shehar ke beech mein bhi
+hazaaron rakshas hain.
+Sab anubhav wale yoddha.”
+
+Hanuman thoda ruk gaye.
+Phir bole,
+“Mainne Lanka ki deewarein todi hain.
+Gaddhe bhare hain.
+Shehar ko aag bhi lag chuki hai.”
+
+“Isliye agar hum samundar paar kar lein,
+to Lanka humari hai.”
+
+Unki awaaz mein vishwas tha.
+“Angada, Jambavan, Nala, Nila
+sab tayyar hain.”
+
+“Bas aap aadesh dijiye, Rama.
+Shubh samay mein hum nikal padenge.
+Aur Sita ko wapas le aayenge.”
+
+Rama chup the.
+Par unki aankhon mein ab darr nahi tha.
+Sirf tayyari aur sankalp tha.
+
+Ab yuddh door nahi tha…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.4
     with st.expander("Chapter 6.4 – The army reaches the sea shore"):
         text1 = """
-        """
+        Chapter 4 – The Army reaches the Shores of the Sea (Hinglish Story Rewrite)
+
+Hanuman ki poori baat sun kar
+Rama ne dridh awaaz mein kaha,
+“Ab mujhe sab kuch pata chal gaya hai.
+Lanka ko nasht karne ka samay aa gaya hai.”
+
+Rama Sugriva ki taraf mude.
+“Ab deri nahi.
+Suraj shubh sthiti mein hai.
+Yeh vijay ka samay hai.”
+
+Unki aankhon mein sankalp tha.
+“Ravana kahin bhi chhup jaaye,
+woh bach nahi paayega.
+Jab Sita ko mere aane ka pata chalega,
+unhe nayi zindagi milegi.”"""
         create_image_text_layout("attached_assets/chapter6/6.4.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ne aakash ki taraf dekha.
+“Saare shagun achhe hain.
+Meri jeet nischit hai.”
+
+Yeh sunkar Sugriva aur Lakshmana
+Rama ke aage jhuk gaye.
+
+Rama phir bole,
+“General Nila ko aage bhejo.
+Woh rasta dekhe.
+Jahan phal, mool, paani aur chhaaya mile.”
+
+Unhone chetavani di,
+“Rakshas rasta bigaad sakte hain.
+Isliye savdhaan rehna.”
+
+Phir Rama ne sena ko vyavasthit kiya.
+“Majboot vanar aage rahenge.
+Kamzor peeche rukenge.”
+
+Hanuman ke kandhon par chadh kar
+Rama beech mein chale.
+Jaise Indra Airavata par hote hain.
+
+Lakshmana Angada ke kandhon par the.
+Peeche Jambavan aur Sushena the.
+
+Sugriva ne aadesh diya.
+Aur tab vanar sena chal padi.
+
+Pahaadon se, gufaon se,
+hazaaron vanar nikal aaye.
+Har taraf shor tha.
+Josh tha.
+Yuddh ki aag thi.
+
+“Ravana ka ant hoga!”
+Vanar zor se garaj rahe the.
+
+Ped ukhad rahe the.
+Phool ud rahe the.
+Koi uchhal raha tha.
+Koi palti kha raha tha.
+
+Sena dakshin disha mein badhti chali.
+Dharti kaanp rahi thi.
+Dhoor aur shabd se sooraj bhi dhundhla lag raha tha.
+
+Raste mein pahad aaye.
+Jangal aaye.
+Nadi aur jheel bhi aayi.
+
+Vanar naha rahe the.
+Phal kha rahe the.
+Shahad pee rahe the.
+Par ruk nahi rahe the.
+
+Sabka ek hi lakshya tha.
+Sita ko wapas lana.
+
+Aakhir Rama Mahendra Parvat par pahunche.
+Wahan se unhone pehli baar
+us vishaal samundar ko dekha.
+
+Lehron ki awaaz garaj rahi thi.
+Machhli aur kachhue dikh rahe the.
+
+Sahya aur Malaya Parvat paar kar ke
+sena samundar ke kinare pahunchi.
+
+Rama neeche utre.
+Lakshmana aur Sugriva saath the.
+
+Rama bole,
+“Hum Varuna ke ghar pahunch gaye hain.
+Ab sochna hoga
+is samundar ko kaise paar karein.”
+
+Unhone aadesh diya,
+“Yahin shivir lagao.
+Har neta apni sena ke saath rahe.
+Koi dushman chhupa ho to dhyaan rakho.”
+
+Sugriva ne turant vyavastha kar di.
+Kinare par vanar sena
+ek doosre samundar jaise lag rahi thi.
+
+Lehren garaj rahi thi.
+Aur vanar sena bhi.
+
+Raat aayi.
+Chand samundar mein chamak raha tha.
+Lehren naach rahi thi.
+
+Samundar gehra tha.
+Bhayanak tha.
+Magar Rama sthir the.
+
+Vanar samundar ko dekh rahe the.
+Darr bhi tha.
+Par vishwas bhi.
+
+Yahin se
+sabse badi pariksha shuru hone wali thi…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.5
     with st.expander("Chapter 6.5 – Rama feels sad thinking about Sita"):
         text1 = """
-        """
+        Chapter 5 – Rama is afflicted when thinking of Sita (Hinglish Story Rewrite)
+
+Samundar ke uttari kinare
+vanar sena ne shivir lagaya.
+Nila sena ka netritva kar rahe the.
+Mainda aur Dvivida
+har disha mein pahra de rahe the.
+
+Sab kuch surakshit tha.
+
+Rama chupchaap khade the.
+Lakshmana unke paas hi the.
+
+Tab Rama dheere se bole,
+“Lakshmana, log kehte hain
+samay ke saath dukh kam ho jaata hai.
+Par mera dukh
+har din badhta ja raha hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.5.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Unki awaaz bhaari ho gayi.
+“Main is baat ka shok nahi karta
+ki Sita mujhse door hai.
+Main is baat ka shok karta hoon
+ki uski yuva avastha
+yun hi beet rahi hogi.”
+
+Rama ne gehri saans li.
+“Hey Pawan Dev,
+us jagah jao jahan Sita hai.
+Use chhoo kar
+mujhe bhi chhoo lena.
+Mujhe thoda sa sukoon milega.”
+
+Unki aankhen bhar aayi.
+“Jab use utha kar le jaaya gaya tha,
+uski pukaar
+aaj bhi mere kaanon mein gunjti hai.
+‘Bachao…’”
+
+“Wahi awaaz
+mere shareer ko jalati rehti hai.
+Jaise zeher pee liya ho.”
+
+Rama bole,
+“Meri judai angaar hai.
+Meri yaadein aag hain.
+Aur mera prem
+mujhe din-raat jala raha hai.”
+
+Unhone Lakshmana se kaha,
+“Tum yahin raho.
+Main samundar ke paas jaakar
+thoda shaant hona chahta hoon.”
+
+“Bas itna hi kaafi hai
+ki hum dono
+ek hi dharti par zinda hain.”
+
+Rama ne kaha,
+“Jaise sookhi zameen
+keechad se jeevan paati hai,
+waise hi main
+sirf is vishwas se jee raha hoon
+ki Sita abhi zinda hai.”
+
+Unki awaaz kaanp rahi thi.
+“Kab main usse fir se dekh paunga?
+Uske kamal jaise netra…
+uska komal chehra…”
+
+“Kab woh mujhe gale lagayegi
+aur khushi ke aansu bahayegi?”
+
+Rama ne dard se kaha,
+“Main uska sahaara hoon.
+Phir bhi woh rakshason ke beech
+ek anath jaise jee rahi hogi.”
+
+“Janak ki beti…
+Dasharath ki bahu…
+aaj akeli hogi.”
+
+Phir Rama ne dridh swar mein kaha,
+“Jab main Ravana ko haraunga,
+tab Sita fir se chamkegi.
+Jaise badalon ke baad
+chaand nikal aata hai.”
+
+“Par abhi…
+dukh aur upvaas ne
+uska shareer kamzor kar diya hoga.”
+
+Rama ki aankhon se aansu beh gaye.
+“Us din, jab main
+is dukh ko tyag dunga…
+us din mera mann shaant hoga.”
+
+Rama bolte rahe.
+Aur dheere-dheere
+suraj doob gaya.
+
+Shaam ho gayi.
+
+Lakshmana ne unhe sambhalna chaha.
+Par Rama ka mann
+ab bhi Sita mein hi tha.
+
+Phir bhi Rama ne
+apni sandhya pooja ki.
+Dukh ke saath.
+Prem ke saath.
+
+Raat ke saath
+unka virah aur gehra ho gaya…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
