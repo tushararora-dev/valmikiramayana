@@ -239,7 +239,7 @@ def display_home(chapter_names):
             'border:2px solid orange;color:oldlace;background:#0D0B1A;'
             'text-decoration:none;">Read More ▶</a>',
             unsafe_allow_html=True
-        )
+        ) 
 
     st.markdown("🛠️ Working on it...")
 
