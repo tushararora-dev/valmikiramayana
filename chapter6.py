@@ -604,55 +604,703 @@ unka virah aur gehra ho gaya…"""
     # Chapter 6.6
     with st.expander("Chapter 6.6 – Ravana asks advice from his people"):
         text1 = """
-        """
+        Chapter 6 – Ravana apne Sabha se Salah leta hai (Hinglish Story Rewrite)
+
+Hanuman ne Lanka mein
+jo bhayankar kaam kiya tha,
+usey dekh kar
+Ravana ka mann hil gaya.
+
+Ek bandar ne
+poori nagri hila di thi.
+Mahal tod diye.
+Rakshason ko maar diya.
+Aur Sita se mil kar
+zinda wapas chala gaya.
+
+Yeh sab soch kar
+Ravana ne sir jhuka liya."""
         create_image_text_layout("attached_assets/chapter6/6.6.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Phir usne
+apne sab rakshas netaon ko dekha
+aur kaha,
+
+“Lanka, jo kabhi kisi ke liye
+asambhav thi,
+aaj ek bandar ne
+usey ujaad diya.”
+
+“Hanuman ne
+meri nagri ko
+ulta-pulta kar diya.”
+
+“Ab mujhe batao,
+main kya karun?”
+
+“Tum sab kushal ho.
+Buddhimaan ho.
+Mujhe sahi raasta batao.”
+
+Ravana ne aage kaha,
+“Gyaani log kehte hain
+ki sahi salah
+jeet ki jad hoti hai.”
+
+“Isliye main
+tum sab se
+salah lena chahta hoon.”
+
+Phir Ravana ne
+teen prakaar ke logon ki baat ki.
+
+“Is duniya mein
+teen tarah ke manushya hote hain.”
+
+“Pehla—
+jo apne mitron,
+buzurgon aur gyaaniyon se
+salah leta hai,
+aur phir poori taakat se
+kaam karta hai.
+Wahi sabse uttam hota hai.”
+
+“Doosra—
+jo akela hi sochta hai
+aur apna kaam karta hai.
+Woh madhyam hota hai.”
+
+“Tisra—
+jo bina soche samjhe kehta hai,
+‘Main sab kar lunga.’
+Woh sabse neecha hota hai.”
+
+Ravana ne gambhir swar mein kaha,
+“Jaise log teen prakaar ke hote hain,
+waise hi salah bhi
+achhi, madhyam aur buri hoti hai.”
+
+“Jo salah
+achhe vichaar ke baad,
+shastra aur buddhi se
+milkar di jaaye,
+woh sabse achhi hoti hai.”
+
+“Jo salah
+bahut behas ke baad mile,
+woh madhyam hoti hai.”
+
+“Aur jahan sab
+sirf apni-apni baat par ade rahein,
+aur koi nishkarsh na nikle,
+woh salah vinash laati hai.”
+
+Isliye Ravana ne kaha,
+“Ab tum sab
+mujhe batao
+ki kya karna chahiye.”
+
+“Rama aa raha hai.
+Hazaaron vanaron ke saath.”
+
+“Woh samundar ko bhi
+paar kar lega.
+Ya usey sukha dega.
+Ya koi aur upaay karega.”
+
+“Uske saath
+Lakshmana hai.
+Aur poori vanar sena hai.”
+
+Ravana ne ant mein kaha,
+“Ab tum hi batao,
+Lanka aur sena ko
+kaise bachaya jaaye?”
+
+Sab rakshas chup ho gaye.
+Sab soch mein pad gaye.
+
+Ab Ravana ki kismet
+apni hi sabha ke haathon mein thi…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.7
     with st.expander("Chapter 6.7 – The demons encourage Ravana"):
         text1 = """
-        """
+        Ravana ki baat sun kar
+sabhi balwaan rakshas
+haath jod kar khade ho gaye.
+Par unki buddhi
+ahankaar se dhaki hui thi.
+
+Unhone Ravana ke mann mein
+dushman ke liye
+tiraskar bhar diya.
+
+Rakshas bole,
+“Hey Maharaj,
+aap itna chintit kyun ho?”"""
         create_image_text_layout("attached_assets/chapter6/6.7.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Humare paas
+bahut badi sena hai.
+Gada, talwar, bhala,
+teer aur shakti—
+sab kuch hai.”
+
+“Ek Rama aur kuch bandar
+aapka kya bigaad lenge?”
+
+Phir unhone Ravana ke
+purane kaarnaame yaad dilaye.
+
+“Hey Rakshason mein shreshth,
+kya aapne Bhogavati par
+akraman nahi kiya tha?”
+
+“Kya aapne
+Nagon ki jaati ko
+yuddh mein haraaya nahi tha?”
+
+“Mount Kailash par rehne wale
+Kubera ko
+aapne yuddh mein
+paraajit nahi kiya tha?”
+
+“Yakshon ke beech
+aapne tabahi macha di thi.
+Mahadev ka mitra hone ka
+ghamand bhi
+usey nahi bacha paaya.”
+
+Rakshas bole,
+“Maya Danav
+aapse itna dara
+ki usne apni beti
+aapko de di.”
+
+“Madhu jaise mahaan daitya ko
+aapne hara diya.”
+
+“Naglok mein jaa kar
+aapne Vasuki, Takshaka
+jaise shaktishaali naagon ko
+saal bhar ke yuddh ke baad
+juka diya.”
+
+“Unse
+maya-vidya bhi seekhi.”
+
+Unhone aur badha-chadha kar kaha,
+“Varuna ke putron ko
+aapne khule maidan mein haraaya.”
+
+“Samundar ke andheron mein jaa kar
+aapne Mrityu tak ko
+paraajit kiya.”
+
+“Dharti par
+Indra jaise shaktishaali
+kitne hi yoddha the.
+Par sab aapke saamne
+tik nahi paaye.”
+
+“Phir Rama kya cheez hai?”
+
+Rakshas hansne lage.
+“Raghava
+na shakti mein
+na veerta mein
+aapke barabar hai.”
+
+“Phir aap khud
+kyun yuddh karein?”
+
+“Indrajit
+akela hi
+poori vanar sena ko
+khatm kar sakta hai.”
+
+Unhone Indrajit ki mahima gaayi.
+
+“Maheshwar ki pooja se laut kar
+Indrajit ne
+aisa vardaan paaya hai
+jo is sansaar mein
+durlabh hai.”
+
+“Woh devon ke samundar tak gaya.
+Unke raja ko utha laaya.
+Baad mein
+Brahma ke aadesh se
+Indra ko chhod diya gaya.”
+
+“Devta bhi
+uski veerta ke saamne
+jhuk gaye.”
+
+Rakshas bole,
+“Isliye Maharaj,
+Indrajit ko bhejiye.”
+
+“Woh Rama ko bhi marega
+aur vanaron ko bhi.”
+
+“Aap jaise mahaan raja ko
+yeh sochna bhi shobha nahi deta
+ki koi aapko hara sakta hai.”
+
+“Rama ka ant
+nishchit hai.”
+
+Ravana ne yeh sab suna.
+Uske hriday mein
+garv aur ahankaar
+aur gehra ho gaya.
+
+Yahin se
+vinash ki disha
+aur spasht ho jaati hai…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.8
     with st.expander("Chapter 6.8 – Ravana’s generals boast proudly"):
         text1 = """
-        """
+        Ravana ki sabha mein
+ab ghamand ki hawa chal rahi thi.
+
+Sabse pehle
+senapati Prahasta aage aaya.
+Woh kaale baadal jaisa lag raha tha.
+Usne haath jod kar kaha,
+
+“Hum Dev, Danav, Gandharva,
+Pisach, pakshi aur naag—
+sabko yuddh mein hara sakte hain.”
+
+“Phir yeh do manushya
+aur kuch bandar
+humare saamne kya hain?”"""
         create_image_text_layout("attached_assets/chapter6/6.8.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Uski awaaz mein gussa tha.
+“Nashe aur laparwahi mein
+hum Hanuman se dhokha kha gaye.”
+
+“Par jab tak main zinda hoon,
+woh bandar
+Lanka mein dobara
+zinda nahi ghusega.”
+
+“Main samundar se ghiri
+is poori bhoomi ko
+bandaron se saaf kar dunga.”
+
+“Bas aadesh dijiye, Maharaj!”
+
+Phir Durmukha bola.
+Uski awaaz thandi,
+par zeher se bhari thi.
+
+“Hum is apmaan ko
+kabhi bardasht nahi karenge.”
+
+“Is bandar ne
+shehar ujada.
+Mahal jalaaye.
+Aur humare raja ka
+apmaan kiya.”
+
+“Main akela jaakar
+un sab bandaron ko
+maar dunga.”
+
+“Chahe woh
+samundar mein chhupe ho,
+swarg mein ho
+ya narak mein!”
+
+Tab Vajradanshtra uth khada hua.
+Uske haath mein
+khoon se sani
+badi gada thi.
+Gusse mein woh garaj utha.
+
+“Hanuman kya cheez hai?”
+
+“Jab tak Rama, Sugriva
+aur Lakshmana zinda hain,
+tab tak yeh bandar
+kuch bhi nahi.”
+
+“Main aaj hi jaunga.
+Aur akela hi
+Rama, Sugriva aur Lakshmana ko
+maar kar lautunga.”
+
+Usne aur ek chaal batayi.
+“Hazaaron rakshas hain
+jo roop badal sakte hain.”
+
+“Hum manushya ban kar
+Rama ke paas jaayenge.”
+
+“Usse kahenge,
+‘Hum Bharata ki taraf se aaye hain.’”
+
+“Rama turant
+apni sena ke saath aayega.”
+
+“Tab hum aasmaan se
+pathar aur teer barsa kar
+vanar sena ko
+nasht kar denge.”
+
+“Rama aur Lakshmana
+bhi bach nahi paayenge.”
+
+Phir Nikumbha,
+Kumbhakarna ka putra,
+gusse mein bola,
+
+“Tum sab yahin raho.”
+
+“Main akela hi
+Rama, Lakshmana, Sugriva,
+Hanuman
+aur poori vanar sena ko
+maar dunga.”
+
+Aakhri mein
+pahaad jaisa bada rakshas
+Vajrabahu bola.
+Woh gusse mein
+apne hont chaat raha tha.
+
+“Tum sab
+aaram se baitho.”
+
+“Sharaab piyo.
+Mauj karo.”
+
+“Main akela hi
+poori vanar sena ko
+kha jaunga.”
+
+“Sugriva, Lakshmana,
+Hanuman, Angada—
+koi bhi nahi bachega.”
+
+Sab rakshas
+apni-apni shakti ka
+dikhava kar rahe the.
+
+Koi bhi
+shant buddhi se
+soch nahi raha tha.
+
+Aur Ravana…
+un sab baaton ko sun kar
+aur bhi
+ahankaar mein doob raha tha.
+
+Yahin se
+Lanka ke vinash ki
+ghadi aur kareeb aa rahi thi…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.9
     with st.expander("Chapter 6.9 – Vibhishana advises Ravana to return Sita"):
         text1 = """
-        """
+        Ravana ki sabha mein
+sab rakshas gusse se bhare hue the.
+Unke haath mein gada, bhala, talwar,
+teer-dhanush chamak rahe the.
+
+Sab ek hi baat bol rahe the,
+“Aaj hum Rama, Lakshmana, Sugriva
+aur us bandar Hanuman ko
+maar kar rahenge!”
+
+Sabka khoon khol raha tha.
+
+Tab Vibhishana aage aaye.
+Unhone shant swar mein
+sabko haath se roka."""
         create_image_text_layout("attached_assets/chapter6/6.9.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Ruko,”
+unhone kaha.
+
+Unhone sabko baithaya
+aur haath jod kar
+Ravana se bole.
+
+“Bhai,
+gyani log kehte hain
+ki jab teen upaayon se
+lakshya na mile,
+tab bal ka prayog
+bahut soch-samajh kar hota hai.”
+
+“Rama koi aam shatru nahi hai.
+Woh satark hai.
+Woh jeet ke liye tayaar hai.
+Aur uske saath
+daivik shakti hai.”
+
+“Usne apni indriyon ko
+niyantran mein rakha hai.
+Aisa vyakti
+aasaani se haraaya nahi ja sakta.”
+
+Vibhishana ne aage kaha,
+“Hanuman ne samundar paar kiya.
+Kaun soch sakta tha
+woh kaise jaayega?”
+
+“Humare shatru ke paas
+bahut saadhan hain.
+Bahut sena hai.”
+
+“Usey halki nazar se
+dekhna
+badi bhool hogi.”
+
+Phir unhone seedhi baat kahi.
+“Bhai,
+Rama ne aapka
+kya bigaada tha?”
+
+“Janasthan mein
+Khara ne pehle
+seema ka ullanghan kiya.
+Rama ne
+apni raksha ki.”
+
+“Ismein Rama ka
+kya dosh hai?”
+
+Vibhishana bole,
+“Is poore sankat ka
+ek hi kaaran hai—
+Sita ka apaharan.”
+
+“Isi wajah se
+hum is musibat mein pade hain.”
+
+“Isliye
+Maithili ko
+louta dena hi
+sabse sahi raasta hai.”
+
+Unki awaaz bhaari ho gayi.
+“Is jhagde ko
+aage badhaane ka
+kya laabh?”
+
+“Rama bina kaaran
+kabhi yuddh shuru nahi karta.”
+
+“Yeh uchit nahi
+ki hum aise
+dharmic aur shaktishaali
+raja se yuddh karein.”
+
+“Usse pehle ki
+uske teer
+Lanka ko jala daalein,
+ghode, haathi
+aur dhan-daulat sab nasht ho jaaye,
+Sita ko wapas kar do.”
+
+“Vanar sena aane se pehle
+Maithili ko lautao.”
+
+Vibhishana ne
+ant mein vinati ki.
+“Bhai,
+hamare khoon ka vaasta.”
+
+“Meri salah
+tumhare hit mein hai.”
+
+“Rama ke teer
+bilkul nishchit hain.
+Chamakte hue,
+surya jaise tez.”
+
+“Der mat karo.”
+
+“Krodh chhod do.
+Dharm ka maarg apnao.”
+
+“Taaki hum
+apne putron aur parivaar ke saath
+shaanti se jee saken.”
+
+“Maithili ko
+Dasharath ke putra ko
+louta do.”
+
+Vibhishana chup ho gaye.
+
+Ravana ne kuch nahi kaha.
+Usne sabko
+sabha se vida kar diya.
+
+Aur akela
+apne mahal ke
+andar chala gaya.
+
+Par uske mann mein
+ahankaar aur krodh
+abhi bhi zinda tha…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.10
     with st.expander("Chapter 6.10 – Vibhishana strongly repeats his advice"):
         text1 = """
-        """
+        Subah hui.
+Naya din nikla.
+
+Vibhishana, jo dharm aur buddhi mein sthir tha,
+Ravana ke mahal mein pravesh karta hai.
+
+Woh mahal
+pahaadon jaisa vishaal tha.
+Sona chamak raha tha.
+Hathiyon ki garaj,
+shankh aur nagadon ki awaaz
+har taraf goonj rahi thi."""
         create_image_text_layout("attached_assets/chapter6/6.10.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Sundar striyaan
+galion mein baatein kar rahi thi.
+Devon ke ghar jaisa
+sab kuch lag raha tha.
+
+Vibhishana dheere se
+apne bade bhai Ravana ke paas gaya.
+Usne pranam kiya.
+Aur Ravana ke sanket par
+baith gaya.
+
+Phir shant swar mein bola.
+
+“Bhai Ravana,”
+“jab se Sita yahan aayi hai,
+ashubh sanket dikh rahe hain.”
+
+“Yagya ki aag
+theek se nahi jal rahi.”
+“Dhuaan zyada hai.
+Chingariyan ud rahi hain.”
+
+“Yagya sthalon mein
+saap aur keede dikh rahe hain.”
+
+“Gaiyon ka doodh
+sukh gaya hai.”
+“Hathiyon ka mad
+behna band ho gaya.”
+
+“Ghode bechain hain.”
+“Gadhe, bhains aur khacchar
+ro rahe hain.”
+
+Vibhishana ki awaaz bhaari ho gayi.
+
+“Kaale kauwe
+mandiron par jama ho rahe hain.”
+“Giddh shehar ke upar
+mandra rahe hain.”
+
+“Shaam hote hi
+siyar cheekhne lagte hain.”
+
+“Jungle ke jaanwar
+shehar ke darwazon par
+ikatthe ho rahe hain.”
+
+“Yeh sab sanket
+achhe nahi hain.”
+
+Phir Vibhishana ne
+seedhi baat kahi.
+
+“Bhai,
+is sab ka ek hi upaay hai.”
+
+“Sita ko
+Rama ko lautana hoga.”
+
+Usne haath jod liye.
+
+“Agar meri baat se
+aapko bura laga ho,
+toh mujhe maaf karna.”
+
+“Par sach yahi hai.”
+
+“Sab log mann hi mann
+yeh maante hain.”
+
+“Par darr ke maare
+koi bol nahi raha.”
+
+“Main sirf wahi keh raha hoon
+jo maine dekha
+aur suna hai.”
+
+“Ab jo theek lage,
+aap wahi kijiye.”
+
+Vibhishana chup ho gaya.
+Sabha mein sannata chha gaya.
+
+Ravana ka chehra
+laal ho gaya.
+Uski aankhon mein
+gussa bhar aaya.
+
+Woh zor se bola,
+
+“Mujhe kahin bhi
+koi darr nahi dikh raha!”
+
+“Rama
+kabhi Sita ko
+wapas nahi le ja paayega!”
+
+“Chahe Indra samet
+sab devta
+uska saath de dein,
+phir bhi
+woh mujhe nahi hara sakta!”
+
+Yeh keh kar
+Dashanan ne
+Vibhishana ko
+sabha se nikaal diya.
+
+Vibhishana shant raha.
+Uske chehre par
+dukh tha.
+
+Dharm ne phir
+ahankaar ko chetaya…
+par ahankaar ne
+sunne se inkaar kar diya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
