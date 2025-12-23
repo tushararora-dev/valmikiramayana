@@ -1307,108 +1307,1245 @@ sunne se inkaar kar diya."""
     # Chapter 6.11
     with st.expander("Chapter 6.11 – Ravana calls a meeting of his court"):
         text1 = """
-        """
+        1️⃣ Paap aur kaam ka asar
+
+Ravana ek adharmi raja ban chuka tha.
+Woh apni kaamna (lust) ka gulam ho gaya tha.
+
+Apne sachche mitron (jaise Bibishana) ki baat ignore kar raha tha
+
+Sirf Sita (Vaidehi) ke khayalon mein dooba hua tha
+
+Bina sahi wajah ke bhi yuddh chhedna chahta tha
+
+📌 Ramayana yahan clear batati hai:
+
+Jab raja apne vivek ko chhod deta hai, tab uski shakti dheere-dheere ghatti hai."""
         create_image_text_layout("attached_assets/chapter6/6.11.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        2️⃣ Ravana ka shandar pravesh
+
+Ravana apne sone ke rath par sabha ki taraf nikalta hai:
+
+Rath sona, moti, moonga (coral) se saja hua
+
+Ghode achhe trained
+
+Saath mein rakshas sena –
+
+hathi
+
+ghode
+
+rath
+
+gada, talwar, bhale, dart
+
+Pure raaste:
+
+nagade
+
+turahi
+
+shankh
+
+gaadiyon ki garaj
+
+👉 Lanka poori hil jaati hai, jaise aakash mein pakshi bhar gaye ho.
+
+3️⃣ Vishvakarma ki sabha
+
+Sabha:
+
+Vishvakarma dwara banayi gayi
+
+Zameen shuddh sone ki
+
+600 bhayankar rakshas raksha mein
+
+Singhhasan panna (emerald) ka
+
+Ravana:
+
+hiran ke chamde par baitha
+
+mote gaddo ke saath
+
+poori shaan-o-shaukat ke saath
+
+📌 Baahar se shobha, andar se andhapan.
+
+4️⃣ Rakshason ko bulaya jata hai
+
+Ravana hukm deta hai:
+
+“Sab rakshason ko turant bulao!
+Dushman bada vaar karne wala hai!”
+
+Doot:
+
+poori Lanka chhaan marte hain
+
+ghar, sadak, garden, sab jagah
+
+bina formalities sabko utha laate hain
+
+Rakshas:
+
+rath chhod dete hain
+
+hathi, ghode chhod kar
+
+sabha mein sher jaise gufa mein ghuste hain
+
+5️⃣ Sabha ka mahaul
+
+Sab apni jagah par baith jaate hain (rank ke hisaab se)
+
+Mantri – buddhimaan
+
+Yoddha – balshaali
+
+Sab shant, gambhir
+
+Bibishana bhi aata hai,
+pair chhoo kar pranam karta hai.
+(Par Ravana ab bhi uski baat sunne ko taiyaar nahi.)
+
+Sabki aankhen:
+👉 sirf Ravana ke chehre par tiki hui
+
+6️⃣ Ant mein Ravana ka varnan
+
+Ramayana ke shabd bohot gehre hain:
+
+Ravana un yoddhaon ke beech
+Indra jaisa lag raha tha,
+par asal mein woh vinaash ki disha mein chal chuka tha.
+
+🌿 Is Chapter ka Gehra Arth (Moral)
+
+Ahankaar + Kaam = Patan
+
+Shakti bina dharm ke sirf dikhawa hoti hai
+
+Sach bolne wale mitra ko ignore karna, raja ke liye sabse bada paap hota hai
+
+👉 Yeh sabha yuddh ki shuruaat ka sanket hai
+👉 Aur Ravana ke ant ka bhi…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.12
     with st.expander("Chapter 6.12 – Ravana talks with Kumbhakarna"):
         text1 = """
-        """
+        Chapter 12 – Ravana aur Kumbhakarna ka Samvaad (Hinglish Moral Story Style)
+
+Ravana ne sabha par nazar daali.
+Usne Prahasta se kaha,
+“City ki raksha ke liye sena ko sahi jagah lagao.”
+
+Prahasta ne turant kaam kiya.
+Shehar ke andar aur bahar sena bithai.
+Phir Ravana se bola,
+“Sab ready hai, ab bina chinta aage badhiye.”"""
         create_image_text_layout("attached_assets/chapter6/6.12.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ravana thoda shaant hua.
+Usne sabke saamne apna mann khola.
+
+“Jo baat galat ho, ya sahi,
+mujhe bataana tum sab ka farz hai.
+
+Tum sab hamesha meri jeet ka saath dete aaye ho.
+Jaise devta Indra ke peeche chalte hain,
+waise hi tum mere saath ho.”
+
+Phir Ravana ne ek gehri saans li.
+
+“Sita…
+main use Dandaka van se yahan laaya.
+Par woh mujhe sweekaar nahi karti.
+
+Woh itni sundar hai
+ki meri buddhi ka control chala gaya hai.
+Main kaam aur gusse ke beech phans gaya hoon.
+Yahi meri sabse badi kamzori ban gayi.”
+
+Usne aage kaha,
+“Rama aur Lakshmana samundar paar kaise aayenge?
+Yeh sochna mushkil hai.
+Par mujhe lagta hai, jeet meri hi hogi.”
+
+Yeh sunte hi Kumbhakarna gusse mein aa gaya.
+Uski awaaz garaj uthi.
+
+“O Ravana!
+Yeh kaam tumhe shobha nahi deta.
+
+Tumne bina salah liye
+Sita ko utha liya.
+Yahi galti hai.
+
+Jo raja bina soche kaam karta hai,
+use baad mein pachhtana padta hai.”
+
+Usne seedhi baat boli.
+
+“Galat shuruat ka ant hamesha bura hota hai.
+Dushman hamesha
+aisi galtiyon se hi
+raasta dhoond leta hai.”
+
+Phir bhi Kumbhakarna ne kaha,
+
+“Par ab jab yuddh tay hai,
+main peeche nahi hatunga.
+
+Apne bade sharir aur gada ke saath
+main dushman par toot padunga.
+Rama, Lakshmana aur vanaron ka naash kar dunga.”
+
+Usne ant mein bola,
+
+“Tum nishchint raho.
+Jab main jeet kar aaunga,
+tab Sita tumhari hogi.”
+
+🌿 Is Chapter ka Moral
+
+Kaam aur ahankaar raja ko andha kar dete hain
+
+Bina salah liya gaya faisla vinaash laata hai
+
+Bal se zyada buddhi zaroori hoti hai
+
+Yeh chapter dikhata hai:
+Ravana ko sach dikhaya ja raha tha…
+par woh dekhna hi nahi chahta tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.13
     with st.expander("Chapter 6.13 – Ravana tells an old story"):
         text1 = """
-        """
+        Chapter 13 – Ravana aur Punjikasthala ki Kahani (Hinglish Moral Story Style)
+
+Ravana gusse mein tha.
+Uska chehra laal ho gaya tha.
+Yeh dekhkar Mahaparshva ne thoda socha
+aur haath jod kar bola.
+
+“Jo jungle mein jaakar
+wahan ka shahad na chakkhe,
+woh moorkh hota hai.
+
+Aap hi sabke swami ho,
+O Mahaveer Ravana.
+Apne shatru ko kuchal kar
+Vaidehi ke saath apna samay bitao.
+
+Kumbhakarna aur Indrajit jaise yoddha
+akela hi Indra se takra sakte hain.
+Phir dar kis baat ka?”
+
+Mahaparshva ne kaha,
+“Is samay shakti ka upyog hi sahi raasta hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.13.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ravana ne uski baat suni.
+Phir dheere se bola,
+
+“Mahaparshva,
+main tumhe apni ek purani kahani sunata hoon.”
+
+Uski awaaz bhaari ho gayi.
+
+“Bahut pehle,
+jab apsara Punjikasthala
+Brahma ji ki pooja ke liye ja rahi thi,
+main use raste mein mila.
+
+Us ghatna ke baad
+Brahma ji ne mujhe shraap diya.
+
+Unhone kaha,
+‘Ravana,
+agar aaj ke baad
+tum kisi aur stri par zabardasti karoge,
+toh tumhara sir tukdon mein toot jaayega.’”
+
+Ravana ne gehri saans li.
+
+“Isi shraap ke darr se
+main Sita par zor nahi daalta.
+Mera gussa samundar jaisa gehra hai,
+meri shakti aandhi jaisi tez hai.
+
+Par Rama is baat ko nahi jaanta.
+Isi liye woh mujhse yuddh karne aa raha hai.”
+
+Usne garv se kaha,
+
+“Jo sote hue sher ko jagata hai,
+woh apna ant khud bulata hai.
+
+Jab meri teer-kamaan chalayegi,
+Rama aur uski sena
+aag mein ghire jungle jaise jal jaayegi.
+
+Jaise suraj sitaron ki roshni mita deta hai,
+waise hi main un sabko mita dunga.”
+
+🌿 Is Chapter ka Moral
+
+Shraap aur niyam bhi sabse shaktishaali ko baandh dete hain
+
+Ahankaar insaan ko apni hi taqat par andha bana deta hai
+
+Jo apni shakti par ghamand karta hai,
+woh apni haar ko nazarandaaz karta hai
+
+Yeh chapter dikhata hai:
+Ravana sirf bahar se balwaan tha,
+andar se woh darr aur ahankaar ke beech phansa hua tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.14
     with st.expander("Chapter 6.14 – Vibhishana criticizes Ravana’s courtiers"):
         text1 = """
-        """
+        Chapter 14 – Bibishana ne Ravana ke Darbar ki Soch par Sawal Uthaya
+
+(Hinglish • short sentences • moral story tone)
+
+Bibishana chupchaap sun raha tha.
+Ravana ka ghamand.
+Kumbhakarna ka garajna.
+
+Uska mann dukhi ho gaya.
+Phir usne shaant par majboot awaaz mein kaha.
+
+“O Raja Ravana,
+tum Sita ko yahan kyun laaye?
+
+Woh ek zehreela saanp jaisi hai.
+Uski chinta uska vish hai.
+Uski hansi uske daant hain.
+Uski paanch ungliyaan paanch phan.
+
+Jab tak vanar sena Lanka par nahi chadhi,
+abhi bhi samay hai.
+Maithili ko Rama ko lauta do.”"""
         create_image_text_layout("attached_assets/chapter6/6.14.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Bibishana ne seedha sach bola.
+
+“Na Kumbhakarna,
+na Indrajit,
+na Mahaparshva,
+na Nikumbha,
+koi bhi Rama ko yuddh mein hara nahi sakta.
+
+Agar tum surya, devta
+ya mrityu ke lok mein bhi chhup jao,
+Rama se bach nahi paoge.”
+
+Yeh sunkar Prahasta bol pada.
+
+“Humein devtaon se darr nahi.
+Yaksha, Gandharva, Naag – kisi se bhi nahi.
+Rama toh ek insaan hai.
+Usse kyun darein?”
+
+Bibishana ka chehra aur gambhir ho gaya.
+Usne kaha,
+
+“Prahasta,
+tum log sach nahi dekh rahe.
+
+Rama koi aam insaan nahi hai.
+Woh dharm, bal aur anubhav ka sangam hai.
+
+Samundar bina naav ke paar karna
+jitna mushkil hai,
+utna hi namumkin hai Rama ko harana.
+
+Tum isliye ghamand kar rahe ho
+kyunki Rama ke teer
+abhi tumhare shareer ko chhuye nahi hain.
+
+Jis din woh teer chale,
+saans bhi saath chhod degi.”
+
+Bibishana ne darbar ki taraf dekha.
+
+“Tum sab Raja ko dushman jaise behla rahe ho,
+dost jaise nahi.
+
+Sachcha mitra wahi hota hai
+jo Raja ko galat raaste se kheench kar bachaye,
+chahe baal pakad kar hi kyun na le aana pade.
+
+Ravana aaj ahankaar ke samundar mein doob raha hai.
+Aur Rama woh lahar hai
+jo sab kuch baha le jaayegi.”
+
+Usne fir wahi baat dohraayi.
+
+“Maithili ko Rama ko lauta do.
+Yahi rajya ka bhala hai.
+Yahi Lanka ka bhala hai.
+Yahi Raja ka bhala hai.”
+
+🌿 Moral of the Chapter
+
+Sach bolne wala hi sachcha mitra hota hai
+
+Jhooti tarif Raja ko barbaadi ki taraf le jaati hai
+
+Ahankaar se bada shatru koi nahi
+
+Samay par liya gaya sahi faisla hi raksha karta hai
+
+Bibishana ne sach bola.
+Par sach sunne ke liye
+dil bhi saaf hona chahiye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.15
     with st.expander("Chapter 6.15 – Vibhishana scolds Indrajit for boasting"):
         text1 = """
-        """
+        Chapter 15 – Bibishana ne Indrajit ke Ghamand ko Daanta
+
+(Hinglish • short sentences • moral story tone)
+
+Bibishana ki baat sun kar
+Indrajit ka gussa bhadak gaya.
+Uska chehra laal ho gaya.
+Aankhon mein ghamand chamakne laga.
+
+Usne zor se kaha:
+
+“O mere chhote chacha Bibishana,
+yeh darr bhari baatein kya hain?
+
+Tumhare siwa koi aisa nahi sochega.
+Tumhare andar veerta nahi hai.
+Na himmat.
+Na sahas.
+
+Rama aur Lakshmana kaun hain?
+Sirf do insaan.
+
+Hum mein se ek bhi
+akela kaafi hai unhe mitaane ke liye.
+
+Kya maine devtaon ke raja Indra ko nahi giraya?
+Kya Airavat ko maine zameen par nahi patka?
+Devta bhag gaye the mere darr se.
+
+Phir yeh do manushya kya cheez hain?”"""
         create_image_text_layout("attached_assets/chapter6/6.15.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Indrajit ke shabd garaj rahe the.
+Par Bibishana shaant raha.
+Uski awaaz gambhir thi.
+Par pyaar bhi tha.
+
+Usne kaha:
+
+“Beta Indrajit,
+tum abhi jawaan ho.
+Tumhari soch abhi pakki nahi hui.
+
+Tum samajh nahi pa rahe
+kya sahi hai aur kya galat.
+
+Sach kahun toh,
+tum anjaane mein Ravana ke shatru ban rahe ho.
+
+Ghamand mein uska saath dekar
+tum usse vinaash ki taraf dhakel rahe ho.
+
+Tumhari baatein bachpana hain.
+Tum Rama ke teeron ki taakat nahi jaante.
+
+Woh teer sirf loha nahi hote.
+Woh Brahma ka dand jaise hote hain.
+Woh Yamraj ke dand jaise hote hain.
+
+Unka saamna koi nahi kar sakta.”
+
+Bibishana ne sabki taraf dekha.
+Phir Ravana ki taraf.
+
+Aur bola:
+
+“Abhi bhi samay hai.
+Sita ko Rama ko lauta do.
+
+Usse samman ke saath bhejo.
+Dhan, ratna, gehne ke saath.
+
+Tabhi hum shanti se jee paayenge.
+Warna yeh ghamand
+sab kuch jala dega.”
+
+🌿 Moral of the Chapter
+
+Jawaani ka ghamand andha hota hai
+
+Sach bolna kabhi-kabhi kadwa lagta hai, par wahi raksha karta hai
+
+Taakat se zyada samajh zaroori hoti hai
+
+Jo salah vinaash laaye, woh dosti nahi hoti
+
+Bibishana ne fir sach bola.
+Par sach sunna
+har kisi ke bas ki baat nahi hoti."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.16
     with st.expander("Chapter 6.16 – Ravana insults Vibhishana and sends him away"):
         text1 = """
-        """
+        Chapter 16 – Ravana ne Bibishana ko daanta, aur Bibishana ne Lanka chhod di
+
+(Hinglish • short sentences • children’s moral story tone)
+
+Bibishana ne sach bola tha.
+Samajh ke saath bola tha.
+Par Ravana ka mann andha ho chuka tha.
+
+Ravana gusse se bola:
+
+“Dushman ke saath rehna
+ya zehrele saanp ke saath rehna
+phir bhi theek hai.
+
+Par aise dost ke saath rehna nahi,
+jo dost bankar dushman ka saath de.
+
+Rishta-daar sabse zyada khatarnak hote hain.
+Wahi sabse pehle girane ki koshish karte hain."""
         create_image_text_layout("attached_assets/chapter6/6.16.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Jo power mein hota hai,
+jo strong hota hai,
+jo raja hota hai,
+use sabse pehle apne hi jalte hain.”
+
+Ravana aur tez bolne laga:
+
+“Jaise haathi jaal se nahi darte,
+par apne hi jaise logon se darte hain.
+
+Waise hi
+sabse bada khatra
+apno se hi hota hai.
+
+Mujhe raja banne par samman milta hai,
+yeh baat tumhe hazam nahi ho rahi.
+
+Jaise lotus ke patte par paani nahi tikta,
+waise hi bure logon ke saath dosti nahi tikti.
+
+Agar yeh baat koi aur bolta,
+toh main use zinda na chhodta!
+
+Tum par laanat hai,
+apni jaati ke kalank!”
+
+Yeh sunkar Bibishana ka dil dukha.
+Par uska dimaag shaant raha.
+Usne gussa nahi kiya.
+Sach ka saath nahi chhoda.
+
+Woh uth khada hua.
+Haath mein gada thi.
+Uske saath chaar aur rakshas the.
+
+Bibishana ne kaha:
+
+“Bhai,
+tum galat raaste par ho.
+
+Bada bhai pita ke samaan hota hai.
+Isliye main abhi bhi tumhara samman karta hoon.
+
+Par galat baatein
+main sah nahi sakta.
+
+Jo log sach bolte hain,
+unhe sunna mushkil hota hai.
+
+Jhooth bolne wale bohot mil jaate hain.
+Par bhalaai ke liye kadwa sach bolne wale
+bahut kam hote hain.
+
+Main nahi chahta tha
+ki tum maut ke phande mein phanso.
+
+Main nahi chahta tha
+ki Rama ke chamakte teer
+tumhe chhed dein.
+
+Veer log bhi
+jab maut aati hai
+toh ret ki deewar jaise gir jaate hain.”
+
+Bibishana ki awaaz bhaari ho gayi.
+
+Usne kaha:
+
+“Main tumhe bachana chahta tha.
+Lanka ko bachana chahta tha.
+Rakshason ko bachana chahta tha.
+
+Par tumhe meri baat pasand nahi aayi.
+
+Ab main ja raha hoon.
+
+Mere bina shayad
+tum khud ko zyada khush samjho.
+
+Yaad rakhna,
+jab jeevan ka ant paas hota hai,
+toh log apno ki salah nahi sunte.”
+
+Bibishana ne aakhri baar dekha.
+Phir aakash ki taraf badh gaya.
+Lanka peeche chhoot gayi.
+Sach ka raasta aage tha.
+
+🌿 Moral of the Chapter
+
+Sach bolna dosti ka sabse bada farz hota hai
+
+Ghamand insaan ko andha bana deta hai
+
+Jo kadwa sach bole, wahi sacha hitai hota hai
+
+Galat raaste par chalne wale raja apna hi vinaash bulate hain
+
+Yahin se
+Bibishana ka naya safar shuru hota hai
+— dharm ke saath,
+sach ke saath."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.17
     with st.expander("Chapter 6.17 – The monkeys discuss Vibhishana"):
         text1 = """
-        """
+        Chapter 17 – Bibishana ko lekar Vanaron ki baat
+
+(Hinglish • short sentences • moral story tone)
+
+Bibishana Ravana se alag ho chuka tha.
+Woh seedha Rama aur Lakshmana ke paas aaya.
+
+Door se hi
+woh Mount Meru ke shikhar jaisa dikh raha tha.
+Bijli ki tarah chamakta hua."""
         create_image_text_layout("attached_assets/chapter6/6.17.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Uske saath
+chaar veer rakshas the.
+Sab shastra aur kavach se sajje hue.
+Heere-jawahar se chamak rahe the.
+
+Vanaron ke neta
+use dekh kar ruk gaye.
+
+Sugriva soch mein pad gaya.
+Usne Hanuman aur baaki vanaron se kaha:
+
+“Yeh rakshas
+zaroor hume maarne aa raha hai.
+Shastra leke aaya hai.
+Chaar aur rakshas saath hain.”
+
+Yeh sunte hi
+vanar gusse mein aa gaye.
+Ped aur patthar utha liye.
+
+Unhone kaha:
+
+“Hukum do Maharaj!
+Abhi in sabko gira dete hain.”
+
+Tab Bibishana
+uttar disha ke kinare par ruk gaya.
+Shaant tha.
+Bina ghamand ke bola.
+
+Usne zor se kaha:
+
+“Mera naam Bibishana hai.
+Main Ravana ka chhota bhai hoon.
+
+Ravana ne hi
+Jatayu ko maara
+aur Sita Mata ko utha kar laya.
+
+Sita yahan bandi hai.
+Majboori mein rakhi gayi hai.
+
+Maine baar-baar Ravana ko samjhaya.
+Par woh nahi maana.
+
+Usne mujhe apmaanit kiya.
+Isliye main apni patni aur bete ko chhod kar
+yahan sharan lene aaya hoon.
+
+Kripya
+Raghava ko batao
+ki Bibishana sharan maangne aaya hai.”
+
+Sugriva ko gussa aa gaya.
+Woh turant Rama ke paas gaya.
+
+Usne Lakshmana ke saamne kaha:
+
+“Yeh dhokha ho sakta hai, Prabhu!
+
+Yeh rakshas
+bhes badalne mein mahir hote hain.
+
+Yeh Ravana ka bhai hai.
+Yeh hum par achanak vaar kar sakta hai.
+
+Dushman ki madad
+kabhi nahi leni chahiye.
+
+Ho sakta hai
+Ravana ne ise bheja ho.
+
+Main maanta hoon
+ise maar dena chahiye!”
+
+Sugriva chup ho gaya.
+Sab Rama ki taraf dekhne lage.
+
+Rama shaant rahe.
+Unhone kaha:
+
+“Tumhare raja ne
+samajhdari ki baat kahi hai.
+
+Sankat ke samay
+mitron ki salah sunni chahiye.”
+
+Vanar bole:
+
+“Prabhu,
+aap sab jaante ho.
+
+Phir bhi
+aap humse poochte ho.
+Yeh aapki mahanta hai.
+
+Sab mantri apni baat rakhein.”
+
+Sabse pehle
+Angada bole:
+
+“Har deserter ko parakhna chahiye.
+Bina jaanche bharosa theek nahi.
+
+Agar laabh ho
+toh swikaar karein.
+Agar nuksaan ho
+toh mana karein.”
+
+Sharabha ne kaha:
+
+“Pehle jaasoo bhejo.
+Puri jaanch ho.”
+
+Jambavan bole:
+
+“Dushman ke ghar se aaya hai.
+Savdhaan rehna chahiye.”
+
+Mainda ne kaha:
+
+“Dheere-dheere prashn poochho.
+Uske mann ko samjho.
+Phir faisla lo.”
+
+Akhir mein
+Hanuman bole.
+Unki awaaz shaant thi.
+Par baat gehri thi.
+
+“Prabhu,
+Bibishana ka chehra saaf hai.
+Uski boli mein kapat nahi.
+
+Achanak jaasoo bhejna
+use shanka mein daal dega.
+
+Insaan ka sach
+waqt ke saath samne aata hai.
+
+Bibishana
+Ravana ki burai jaanta hai.
+Aur aapki dharma-pravritti bhi.
+
+Isliye
+usne yeh raasta chuna.
+
+Mujhe is par vishwas hai.
+Par antim faisla
+aapka hi hona chahiye.”
+
+Sab chup ho gaye.
+Hawa bhi jaise ruk gayi.
+
+Ab faisla
+Rama ke haath mein tha 🌿"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.18
     with st.expander("Chapter 6.18 – Rama listens to the monkeys’ advice"):
         text1 = """
-        """
+        Chapter 18 – Rama ne Bibishana ko sharan dene ka faisla kiya
+
+(Hinglish • short sentences • simple • moral story tone)
+
+Hanuman ki baat sun kar
+Rama shaant hue.
+Unhone sabki taraf dekha
+aur bole:
+
+“Maine bhi socha hai Bibishana ke baare mein.
+Jo vyakti
+dost ban kar mere paas aaye,
+main use kabhi mana nahi karta.
+
+Agar galti bhi ho jaaye,
+toh bhi
+koi sachcha insaan
+mujhe dosh nahi de sakta.”"""
         create_image_text_layout("attached_assets/chapter6/6.18.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Sugriva ne phir kaha.
+Woh dhyaan se bole:
+
+“Prabhu,
+jo apne bhai ko musibat mein chhod de,
+woh baad mein kisko nahi chhodega?
+Aise vyakti par bharosa kaise karein?”
+
+Rama halki muskaan ke saath
+Lakshmana ki taraf mude.
+Unhone kaha:
+
+“Sugriva ne jo kaha,
+woh bina soch ke nahi kaha.
+
+Par rajaon ka dharm alag hota hai.
+Raja ke do dushman hote hain—
+uske rishtedaar
+aur uske padosi.
+
+Isliye
+Bibishana yahan aaya hai.
+
+Sab bhai Bharata jaise nahi hote.
+Aur sab dost bhi ek jaise nahi hote.”
+
+Phir Rama ne dharm ki baat kahi:
+
+“Shastra kehte hain—
+jo sharan maange,
+use thukrana paap hai.
+
+Hum rakshason ke raja nahi hain.
+Bibishana humse rajya nahi maang raha.
+
+Uska aana
+Ravana ke rajya mein phoot daalega.
+Yahi uska asli kaaran hai.”
+
+Sugriva phir bhi chinta mein tha.
+Usne kaha:
+
+“Prabhu,
+mujhe lagta hai
+Ravana ne ise bheja hai.
+Yeh dhokha ho sakta hai.”
+
+Rama gambhir hue.
+Unhone kaha:
+
+“Sugriva,
+chahe woh buri niyat se aaye,
+mujhe koi nuksaan nahi pahuncha sakta.
+
+Rakshas, danav, yaksha—
+sabko main chaahe
+ungli ke siray se mita sakta hoon.”
+
+Phir Rama ne ek kahani sunayi:
+
+“Ek kabootar ne
+apne dushman ko bhi sharan di.
+Usne apna maans tak arpan kar diya.
+
+Agar ek pakshi
+itna bada dharm nibha sakta hai,
+toh main kyun nahi?”
+
+Rama ne spasht shabd bole:
+
+“Jo haath jod kar sharan maange,
+chahe woh dushman hi kyun na ho,
+use maarna maha paap hai.
+
+Jo dar ke maare
+ya gusse mein
+sharan dene se inkaar karta hai,
+woh apna punya kho deta hai.”
+
+Phir Rama ne pratigya li:
+
+“Jo bhi mere paas aakar kahe—
+‘Main tumhara hoon’,
+use main raksha doonga.
+
+Chahe woh Bibishana ho
+ya khud Ravana.”
+
+Yeh sun kar
+Sugriva ka mann badal gaya.
+Usne sir jhuka kar kaha:
+
+“Prabhu,
+aap dharm ke shikhar ho.
+
+Ab mujhe bhi
+Bibishana par vishwas hai.
+
+Use turant
+apne beech le aaiye.”
+
+Usi pal
+Rama ne Bibishana ko apnaya.
+Jaise devraj
+apne saathi ko apnata hai.
+
+✨ Yahin se dharm ki jeet shuru hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
     # Chapter 6.19
     with st.expander("Chapter 6.19 – Vibhishana is brought before Rama"):
         text1 = """
-        """
+        Chapter 19 – Bibishana ko Rama ke saamne laya gaya
+
+(Hinglish • short • simple • children’s moral story tone)
+
+Rama ne jab
+Bibishana ko sharan di,
+toh Bibishana ne
+sir jhuka liya.
+Uski aankhen zameen par thi.
+
+Phir woh khushi se
+aakash se neeche utra.
+Apne chaar saathiyon ke saath
+daudta hua Rama ke paas aaya.
+
+Bibishana ne
+Rama ke charanon mein gir kar kaha:"""
         create_image_text_layout("attached_assets/chapter6/6.19.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Main Ravana ka chhota bhai hoon.
+Usne mera apmaan kiya.
+Isliye main aapki sharan aaya hoon.
+
+Main Lanka chhod aaya.
+Dost, dhan, sab chhod diya.
+Ab meri zindagi,
+mera rajya,
+meri khushi —
+sab aapke hawale hai.”
+
+Rama ne
+shaant aur gahri nazar se
+Bibishana ko dekha.
+Phir dheere se bole:
+
+“Bibishana,
+mujhe sach batao.
+Rakshason ki taakat kya hai?
+Aur unki kamzori kya hai?”
+
+Bibishana ne
+imaandari se sab bataya:
+
+“Ravana ko ek vardaan mila hai.
+Dev, nag, gandharva
+use hara nahi sakte.
+
+Mera bada bhai
+Kumbhakarna bahut balwaan hai.
+
+Prahasta uski sena ka neta hai.
+Indrajit yuddh mein
+adrishya ho jaata hai.
+
+Lanka mein
+bahut saare rakshas hain.
+Sab roop badal sakte hain.
+Ravana ne devtaon ko bhi haraya hai.”
+
+Rama ne
+dhyaan se suna.
+Phir vishwas ke saath bole:
+
+“Yeh sab mujhe pehle se pata hai.
+Main Ravana ko avashya maarunga.
+Uske saare sahayak bhi girenge.
+
+Uske baad
+tumhe Lanka ka raja banaunga.
+Yeh mera vachan hai.
+
+Chahe Ravana
+pataal mein chhup jaaye,
+ya kisi dev ke paas bhag jaaye,
+woh bachega nahi.
+
+Jab tak Ravana aur uske vansh ka
+ant nahi hota,
+main Ayodhya nahi jaunga.
+Main apne bhaiyon ki kasam khata hoon.”
+
+Bibishana ne
+phir sir jhuka diya.
+Uski aankhon mein aas thi.
+
+Usne kaha:
+
+“Main poori taakat se
+aapki madad karunga.
+Yuddh mein
+rakshason ki pankti tod dunga.”
+
+Rama ne
+use gale laga liya.
+Phir Lakshmana se bole:
+
+“Samundar ka jal lao.
+Bibishana ka
+raja ke roop mein abhishek karo.”
+
+Lakshmana ne
+Rama ki baat maani.
+Sab vanar neta
+wahaan maujood the.
+
+Jaise hi Bibishana
+raja bana,
+sab vanar bol uthe:
+
+“Bahut achha!
+Bahut achha!”
+
+Phir Hanuman aur Sugriva ne poocha:
+
+“Hum itni badi vanar sena ke saath
+samundar kaise paar karein?
+Kya upaay hai?”
+
+Bibishana ne shaant swar mein kaha:
+
+“Rama ko
+samundar ke devta se
+prarthna karni chahiye.
+Woh apni hi vansh ka hai.
+Woh avashya madad karega.”
+
+Sugriva aur Lakshmana
+yeh sandesh Rama ke paas le gaye.
+Rama ko yeh yojana pasand aayi.
+
+Rama muskuraye aur bole:
+
+“Bibishana ka vichaar uchit hai.
+Tum dono bhi socho
+aur jo sahi lage, batao.”
+
+Sugriva aur Lakshmana bole:
+
+“Is yojana ke bina
+Lanka pahunchna mushkil hai.
+Samundar par pul banana zaroori hai.
+Chalo, samundar ke paas chalte hain.”
+
+Tab Rama
+kusha ghaas se bhare
+samundar ke kinare ki taraf chale.
+
+✨ Yahin se
+samundar par pul banne ki kahani shuru hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.20
     with st.expander("Chapter 6.20 – Ravana sends Shuka to Sugriva"):
         text1 = """
-        """
+        Chapter 20 – Ravana ne Shuka ko Sugriva ke paas bheja
+
+(Hinglish • short • simple • children’s moral story tone)
+
+Ek rakshas tha,
+naam Shardula.
+Woh Ravana ka jaasoos tha.
+
+Shardula ne dekha ki
+Sugriva ki sena
+samundar ke kinare camp mein hai.
+Vanar aur bhaloo
+samundar jaise anant lag rahe the."""
         create_image_text_layout("attached_assets/chapter6/6.20.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Woh turant Lanka lauta
+aur Ravana se bola:
+
+“Hey Maharaj,
+vanaron aur bhaluon ki
+bahut badi sena aa chuki hai.
+
+Rama aur Lakshmana
+samundar ke kinare pahunch gaye hain.
+Yeh sena har disha mein
+bahut door tak phaili hai.
+
+Ab turant sochna hoga.
+Ya toh baat-cheet,
+ya samjhauta,
+ya phir phoot daalni hogi.”
+
+Shardula ki baat sunkar
+Ravana chintit ho gaya.
+Usne turant
+apne chalaak doot Shuka ko bulaya.
+
+Ravana bola:
+
+“Tum Sugriva ke paas jao.
+Meethi aur chalaak baaton se kaho:
+
+‘Tum bahut shaktishaali ho.
+Tum mere bhai jaise ho.
+Agar main Sita ko le aaya
+toh tumhe kya lena-dena?
+
+Tum Kishkindha wapas jao.
+Lanka ko koi nahi jeet sakta.
+Na dev, na gandharva,
+na manushya, na vanar.’”
+
+Shuka aakash mein uda
+aur Sugriva ke camp ke upar jaakar
+yeh sandesh bolne laga.
+
+Lekin jaise hi
+vanaron ne use dekha,
+woh gusse mein aa gaye.
+
+Kuch vanar uchhle,
+kuch mukke maare.
+Sab milkar
+Shuka ko peetne lage.
+
+Shuka chillaya:
+
+“Hey Rama!
+Doot ko maarna paap hai.
+Main sirf sandesh laaya hoon.
+Mujhe mat maaro!”
+
+Rama ne turant kaha:
+
+“Isse mat maaro.”
+
+Vanar ruk gaye.
+Shuka ne sambhal kar
+phir se baat shuru ki:
+
+“O Sugriva,
+main Ravana ka sandesh bolun?”
+
+Sugriva gusse mein bola:
+
+“Tum mere mitra nahi ho.
+Tum Rama ke dushman ho.
+
+Ravana ko jaakar keh do,
+jaise Bali gira tha
+waise hi woh bhi girega.
+
+Main apni sena ke saath
+Lanka ko gher lunga
+aur raakh bana dunga.
+
+Ravana kahin bhi chhup jaaye,
+use Rama se koi nahi bacha sakta.”
+
+Tab Angada aage aaya
+aur bola:
+
+“Yeh doot nahi,
+yeh jaasoos hai.
+Isse pakad lo.
+Lanka wapas na jaane do.”
+
+Sugriva ke ishare par
+vanaron ne Shuka ko pakad liya.
+Use baandh diya.
+Woh dard mein chillane laga.
+
+Shuka roya:
+
+“Meri pankh nochi ja rahi hain!
+Meri aankhen nikaali ja rahi hain!
+Hey Rama, mujhe bacha lo!”
+
+Rama ne uski awaaz suni.
+Unka hriday daya se bhar gaya.
+
+Rama bole:
+
+“Isse chhod do.”
+
+Vanaron ne Shuka ko chhod diya.
+Uski jaan bach gayi.
+
+✨ Seekh (Moral):
+Sacha yoddha
+dushman ke saath bhi
+dharma nahi chhodta.
+Rama ne dikhaya
+ki daya aur niyam
+shakti se bhi bade hote hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
