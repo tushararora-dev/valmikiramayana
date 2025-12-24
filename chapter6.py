@@ -2552,110 +2552,1193 @@ shakti se bhi bade hote hain."""
     # Chapter 6.21
     with st.expander("Chapter 6.21 – Rama becomes angry at the sea god"):
         text1 = """
-        """
+🌊 Scene ka Arth (Context)
+
+Yeh adhyay Yuddha-kāṇḍa ka ek bahut mahatvapūrṇ mod hai.
+Yahin se Setu-Bandhan (Ram Setu) ki ghatnaon ka adhar banta hai.
+
+🧘‍♂️ 1. Rama ka Tapasya-bhav
+
+Rama
+Rama samudra ke kinare Darbha aur Kusha ghaas bichha kar:
+
+Purab ki or mukh karke
+
+Hath jod kar
+
+Samudra Dev Sagara ko naman karte hain
+
+Woh 3 din aur 3 raat shant, niyamit aur maryada ke saath lete rehte hain.
+
+👉 Arth:
+Rama pehle vinamrata aur dharma ka marg apnate hain.
+Bal hone ke baad bhi pehle anurodh (request) karte hain, na ki bal-prayog."""
         create_image_text_layout("attached_assets/chapter6/6.21.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😶 2. Samudra ka Maun (Silence)
+
+Teen raat beet jaati hain,
+par Sagara prakat nahi hota.
+
+Yahin Rama ko spasht ho jaata hai:
+
+“Jo log sirf vinamrata ko kamzori samajhte hain,
+unke saath kathorata avashyak hoti hai.”
+
+👉 Yeh Rajniti + Dharma ka gyaan hai
+— sirf daya se har samasya nahi sulajhti.
+
+🔥 3. Rama ka Krodh (Controlled Anger)
+
+Rama ka roop badal jaata hai:
+
+Aankhen laal
+
+Dhanush kas kar pakda
+
+Teer zehrile saanp jaise
+
+Woh kehte hain:
+
+“Agar samudra rasta nahi dega,
+toh main ise sukha dunga!”
+
+Aur Rama teer chhod dete hain.
+
+🌊 Samudra mein:
+
+Lehren pahadon jaisi uthti hain
+
+Magar-machh, saanp, daanav bhay se bhagte hain
+
+Pura sagar kaanp uthta hai
+
+👉 Yeh darshata hai:
+Rama ka krodh andha nahi,
+balki niyantrit aur dharmic hai.
+
+✋ 4. Lakshmana ka Hastakshep
+
+Lakshmana
+Lakshmana turant aage badhte hain aur Rama ka dhanush pakad kar kehte hain:
+
+“Aapke jaise mahavir ko krodh se kaam nahi lena chahiye.
+Aapka uddeshya bina vinaash ke bhi poora ho sakta hai.”
+
+Isi pal Devarshi aur Brahmarshi bhi akash se bolte hain:
+
+“Ruko! Ruko!”
+
+👉 Seekh:
+Mahaan vyakti ke paas
+krodh ka niyantran aur vivek dono hone chahiye.
+
+🌉 Is Adhyay ka Gehra Sandesh
+
+Dharma pehle, Shakti baad mein
+
+Daya ko kamzori samajhne walon ke liye kathorata zaruri
+
+Sahi samay par sahi maryada
+
+Rama yahan sirf yoddha nahi, Maryada-Purushottam dikhte hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.22
     with st.expander("Chapter 6.22 – The army crosses the sea"):
         text1 = """
-        """
+        🌊 Rama aur Samudra ka Samvaad
+
+Rama samudra ke kinare khade the.
+Unki awaaz gambhir thi, aankhon mein tej.
+
+Rama bole,
+“Aaj agar samudra raasta nahi dega,
+toh mere teer usse jhukne par majboor kar denge.”
+
+Unhone apna Brahma-dand jaise teer dhanush par chadhaaya.
+Aasman kaanp utha.
+Pahad hil gaye.
+Nadi, jheel, taare – sab dar gaye.
+
+Par Rama peeche nahi hate.
+Woh sirf apna kartavya yaad kar rahe the."""
         create_image_text_layout("attached_assets/chapter6/6.22.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌊 Samudra Dev ka Prakat Hona
+
+Tab Samudra Dev Sagara khud lehron se nikle.
+Hari-emerald jaise rang ke, motiyon se sajje hue.
+Ganga aur Sindhu nadiyaan unke saath thi.
+
+Samudra ne haath jod kar kaha,
+“O Raghava, main apni prakriti ke viruddh paani ko jam nahi sakta.
+Par main tumhari madad zaroor karunga.
+Vanar sena ko main dharti jaise sambhaal lunga.”
+
+Rama shant hue, par bole,
+“Mera teer vyarth nahi ja sakta.
+Batao, ise kahan chhodun?”
+
+Samudra ne uttar diya,
+“Uttar mein Drumakulya naam ki jagah hai.
+Wahan paapi log mere jal ko ganda karte hain.
+Wahin teer chhod do.”
+
+Rama ne teer chhoda.
+Wahan Maru Registan bana.
+Par Rama ne use vardaan diya –
+“Yeh bhoomi upjaau aur sugandhit hogi.”
+
+👉 Seekh:
+Sachchi shakti vinaash ke baad bhi kalyaan karti hai.
+
+🌉 Ram Setu ka Nirmaan
+
+Samudra ne phir kaha,
+“Nal, Vishvakarma ke putra, setu bana sakte hain.”
+
+Nala aage aaye aur bole,
+“Mujhe apni kala ka ghamand nahi,
+par main yeh kaam kar sakta hoon.
+Sab vanar milkar setu banayenge.”
+
+Fir kya tha!
+
+🌳 Vanar:
+
+Bade-bade ped
+
+🪨 Pahadon jaise patthar
+
+🌺 Phoolon se bhare vriksh
+sab samudra mein laane lage.
+
+Har din setu aage badhta gaya:
+
+1st din – 14 yojan
+
+2nd din – 20 yojan
+
+3rd din – 21 yojan
+
+4th din – 22 yojan
+
+5th din – 23 yojan
+
+Aur ban gaya Ram Setu –
+chamkta hua, majboot, sundar.
+
+👉 Seekh:
+Jab sab milkar kaam karein,
+toh samudra bhi raasta de deta hai.
+
+🐒 Vanar Sena ka Paar Utarna
+
+Kuch vanar:
+
+Setu par chale
+
+Kuch paani mein kud gaye
+
+Kuch aakash mein uchhal gaye
+
+Har taraf utsah aur shor tha.
+
+Hanuman aur Angada
+Rama aur Lakshmana ko kandhon par le gaye.
+
+Akhirkaar poori sena Lanka ke kinare pahunch gayi.
+
+🌟 Devon ka Aashirvaad
+
+Aasman se Dev, Rishi, Gandharva sab dekh rahe the.
+Unhone gupt roop se Rama ka abhishek kiya aur kaha,
+
+“Tum vijayi ho,
+tum manushyon mein bhi Dev ho.”
+
+🌼 Is Adhyay ki Badi Seekh
+
+Vinamrata pehle, kathorata baad mein
+
+Shakti ka matlab vinaash nahi, maryada hai
+
+Teamwork se asambhav bhi sambhav ho jaata hai
+
+Rama yahan sirf yoddha nahi, nay aur dharm ke rakshak hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.23
     with st.expander("Chapter 6.23 – Rama sees good and bad signs"):
         text1 = """
-        """
+        Rama ne aas-paas dekha.
+Unki aankhen gambhir ho gayi.
+Unhone apne chhote bhai Lakshmana ko gale lagaya.
+
+Rama bole,
+“Lakshmana, mujhe bhayanak sanket dikh rahe hain.
+Aaj ka din bahut bada badlaav laane wala hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.23.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌪️ Ashubh Sanket (Bad Omens)
+
+Rama ne dhyaan se sab bataya:
+
+Tez aandhi aur dhool ka toofan uth raha tha
+
+Dharti kaanp rahi thi, pahad hil rahe the
+
+Ped gir rahe the
+
+Baadal bhayanak jaanwaron jaise garaj rahe the
+
+Khoon jaise rang ki baarish gir rahi thi
+
+Suraj se aag ka gola girta dikh raha tha
+
+Shaam ka aasmaan laal chandan jaisa darawna lag raha tha
+
+Raat mein:
+
+Chand kaala-laal ghera liye hua tha
+
+Suraj feeka aur tamra rang ka lag raha tha
+
+Taare dhool mein chhup gaye
+
+Kauwe, giddh, aur garud ghoom-ghoom kar gir rahe the
+
+Gidder daraavne swar mein ro rahe the
+
+Rama bole,
+“Yeh sab yeh batata hai ki bhayanak yuddh aane wala hai.
+Bahut saare veer gir sakte hain.”
+
+👉 Seekh:
+Samajhdaar vyakti sanketon ko pehchaan leta hai
+aur bina dare apna kartavya nibhata hai.
+
+⚔️ Yuddh ka Nirdhar
+
+Rama ne kaha,
+“Ab deri nahi.
+Aaj hi hum Lanka par chadhai karenge.
+Sena ko tukdiyon mein baant do.”
+
+Apna dhanush aur baan uthakar
+Rama Lanka ki disha mein badh gaye.
+
+🐒 Vanar Sena ka Utsaah
+
+Sugriva aur
+Vibhishana
+sena ke aage the.
+
+Saare vanar zor-zor se chilla uthe,
+“Ravana ka vinash ho!”
+
+Unka shor, unka josh,
+Rama ko bahut prasann kar gaya.
+
+👉 Seekh:
+Jab neta dharm par chalta hai,
+toh sena apne aap uske saath khadi ho jaati hai.
+
+🌼 Is Adhyay ki Saral Seekh
+
+Sanket humein taiyaar rehna sikhate hain
+
+Sacha veer dar ke baavjood aage badhta hai
+
+Ekjut sena har kathinai ka samna kar sakti hai
+
+Rama sirf yoddha nahi, buddhimaan margdarshak bhi hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.24
     with st.expander("Chapter 6.24 – Shuka tells Ravana how monkeys treated him"):
         text1 = """
-        """
+        Rama ki sena bilkul chamak rahi thi.
+Jaise poornima ki raat mein chaand chamakta hai.
+Itni badi sena ke kadmon se dharti bhi kaanp rahi thi.
+
+🔔 Lanka mein Shor
+
+Lanka ke jungle ke paas
+dhol, nagade aur gongs zor-zor se bajne lage.
+Unki awaaz itni tez thi ki
+vanaron ke rongte khade ho gaye.
+
+Vanar bahut khush ho gaye.
+Unhone aur bhi zor se jaykaar lagayi.
+Unki garaj bijli aur baadal jaisi thi.
+Yeh awaaz Rakshason tak pahunch gayi."""
         create_image_text_layout("attached_assets/chapter6/6.24.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌸 Rama ko Sita yaad aayi
+
+Rama ne Lanka ko dekha.
+Rang-birange jhande, sundar mahal.
+Par unka mann udaas ho gaya.
+
+Unhone socha,
+“Yahin meri Sita bandi hai.
+Bilkul Rohini jaise, jo grah ke kabze mein hoti hai.”
+
+Rama ne gehri saans li
+aur Lakshmana se bole:
+
+“Dekho Lakshmana,
+yeh shehar Vishvakarma ka banaya hua hai.
+Pahadon par basa,
+jaise aasmaan ko chhoo raha ho.
+
+Bagiche phoolon se bhare hain,
+panchhi ga rahe hain,
+madhumakkhiyan ghoom rahi hain.
+Lanka bahar se sundar hai,
+par andar se adharmi.”
+
+👉 Seekh:
+Sirf bahari khoobsurti par bharosa mat karo.
+
+⚔️ Sena ka Vibhajan
+
+Rama ne sena ko sahi jagah baanta:
+
+Angada aur Nila – beech mein
+
+Rishabha – daahine paksh
+
+Gandhamadana – baayein paksh
+
+Rama khud aage, saath mein Lakshmana
+
+Peechhe suraksha mein Sugriva
+
+Vanar bole,
+“Hum pahadon se Lanka tod denge,
+ya phir nangi haathon se!”
+
+🕊️ Shuka ko Chhodna
+
+Rama ne kaha,
+“Shuka ko chhod do.”
+
+Shuka
+dara hua Lanka bhaag gaya.
+
+😡 Ravana ka Gussa
+
+Ravana ne Shuka ko dekha.
+Uske pankh tute hue the.
+
+Ravana bola,
+“Yeh kya haal bana liya?
+Bandar ne maar diya kya?”
+
+Shuka ne darr ke saath kaha:
+“Prabhu, jaise hi main gaya,
+vanaron ne mujhe peet diya.
+Baat karne ka mauka hi nahi mila.
+
+Rama samundar par pul bana kar aa gaya hai.
+Vanar aur bhaaloo pahadon jaise hain.
+Ab sirf do raaste bache hain:
+ya toh Sita ko lautao,
+ya yuddh ka saamna karo.”
+
+🔥 Ravana ka Ahankaar
+
+Ravana gusse se bola:
+
+“Main Sita kabhi nahi dunga!
+Chahe devta bhi aa jaayein.
+Rama ne meri taqat abhi dekhi hi nahi.
+Mere baan zehrele saanpon jaise hain!”
+
+👉 Seekh:
+Ahankaar aadmi ko andha kar deta hai.
+Sach sun kar bhi jo na maane,
+uska patan pakka hota hai.
+
+🌼 Is Adhyay ki Saral Seekh
+
+Ahankaar sabse bada shatru hai
+
+Sach bolne wala kabhi kamzor nahi hota
+
+Dharma ke saath khadi sena kabhi nahi hara karti"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.25
     with st.expander("Chapter 6.25 – Ravana sends spies Shuka and Sarana"):
         text1 = """
-        """
+        Rama
+samundar paar kar chuke the.
+Vanaron ki sena Lanka ke saamne khadi thi.
+
+Yeh dekh kar Ravana
+thoda chauk gaya.
+Usne kabhi socha bhi nahi tha
+ki samundar par pul ban sakta hai.
+
+😠 Ravana ka Aadesh
+
+Ravana ne apne do mantriyon ko bulaya —
+Shuka aur
+Sarana.
+
+Ravana bola:"""
         create_image_text_layout("attached_assets/chapter6/6.25.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “Bandar ban kar jao.
+Unki sena ke beech ghuso.
+Gino unke neta.
+Samjho unki taakat.
+Aur mujhe sab sach batao.”
+
+🐒 Bheed jo ginne mein na aaye
+
+Shuka aur Sarana
+vanar ka roop le kar ghus gaye.
+
+Par jaise-jaise aage badhe,
+unke hosh udd gaye.
+
+Vanar samundar jaise anant the.
+Kuch aa rahe the.
+Kuch pul par the.
+Kuch pehle hi pahunch chuke the.
+
+Garaj, shor, himmat —
+sab kuch bhayankar tha.
+
+👀 Bibishana ne pehchaan liya
+
+Bibishana
+sab dekh raha tha.
+
+Usne turant pehchaan liya
+ki yeh dono Rakshasa spy hain.
+
+Unhe pakad kar
+Rama ke paas le aaya.
+
+🙏 Rama ka Dharam
+
+Shuka aur Sarana dar gaye.
+Haath jod kar bole:
+
+“Prabhu,
+humein Ravana ne bheja hai.
+Hum sirf dekhne aaye the.”
+
+Rama muskuraye.
+Aur shaant swar mein bole:
+
+“Tumne jo dekhna tha dekh liya?
+Agar kuch reh gaya ho,
+Bibishana tumhe dikha dega.
+
+Tum doot ho.
+Aur doot ko maara nahi jaata.”
+
+👉 Yahin Rama ka dharma chamka.
+
+🕊️ Sandesh Ravana ke liye
+
+Rama ne kaha:
+
+“Lanka jao.
+Aur Ravana se kehna —
+
+‘Kal subah
+mere baan Lanka ki deewaron par girenge.
+Jo sena tumne Sita ko harne mein use ki,
+use taiyaar rakhna.’”
+
+Shuka aur Sarana ne naman kiya:
+“Aap vijayi hon!”
+
+😨 Lanka laut kar sach
+
+Lanka pahunch kar
+unhone Ravana se kaha:
+
+“Prabhu,
+Rama ne humein zinda chhod diya.
+Unki sena atoot hai.
+
+Rama, Lakshmana, Sugriva
+aur Bibishana —
+yeh chaar hi Lanka ko gira sakte hain.
+
+Vanar sirf madad hain.
+Asli taakat Rama ka dharma hai.
+
+Ab bhi waqt hai.
+Sita ko lauta do.”
+
+🌼 Is Adhyay ki Seedhi Seekh
+
+Dharma mein daya hoti hai
+
+Ahankaar sach ko nahi dekh pata
+
+Jo sharan mein aaye, uski raksha karna hi raj dharma hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.26
     with st.expander("Chapter 6.26 – Sarana describes the monkey leaders"):
         text1 = """
-        """
+        Sarana
+ne himmat ke saath sach bola.
+Par yeh sach
+Ravana
+ko bilkul pasand nahi aaya.
+
+Ravana gusse mein bola:
+
+“Chahe Devta, Gandharva aur Asura
+sab milkar mujh par chadh aayein,
+main Sita ko kabhi nahi lautaunga!
+Tum bandar se pit kar dar gaye ho,
+isliye mujhe kamzor samajh rahe ho.”
+
+Uska ahankaar aur bhi badh gaya."""
         create_image_text_layout("attached_assets/chapter6/6.26.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🏰 Ravana Lanka ke mahal par chadha
+
+Ravana apne safed, unche mahal par chadh gaya.
+Wahan se usne
+pahaad, jungle aur samundar
+sab par nazar daali.
+
+Aur jo usne dekha,
+uska ghamand hil gaya.
+
+👉 Har jagah vanar hi vanar the.
+Jaise dharti khud chal kar aa gayi ho.
+
+Ravana ne poocha:
+
+“Kaun hain yeh neta?
+Kaun inki sena chala raha hai?
+Kaun mere saamne garaj raha hai?”
+
+🐒 Sarana ne ek-ek neta ka naam bataya
+
+Sarana bola:
+
+🔊 Nila
+
+“Jo Lanka ke saamne garaj raha hai,
+jiski awaaz se shehar kaanp raha hai —
+woh Nila hai.
+Sugriva ka senapati.”
+
+🦁 Angada
+
+“Jo pair patak raha hai,
+poori dharti ko hila raha hai —
+woh Angada hai.
+
+Yeh Bali ka beta hai.
+Sugriva ka vaaris.
+Aur Rama ka sabse wafadar.
+
+Isi ki salah se
+Hanuman ne Sita ko dhoonda.”
+
+🌉 Nala
+
+“Angada ke paas jo khada hai,
+pul banane wala —
+woh Nala hai.”
+
+⚔️ Shveta
+
+“Safaid rang ka veer,
+tez aur nidar —
+uska naam Shveta hai.
+Yeh sena ko sajane ja raha hai.”
+
+🌄 Kumuda aur Kanda
+
+“Pahaadon se aaye hue
+Kumuda aur Kanda —
+dono keh rahe hain
+ki Lanka ko mita denge.”
+
+🦁 Rambha
+
+“Jo sher jaisa dikh raha hai,
+teen sau koti vanar jiske saath hain —
+woh Rambha hai.”
+
+🔥 Sharabha
+
+“Jo kabhi peeche nahi hatta,
+aankhon se aag barsata hai —
+uska naam Sharabha hai.
+Uske paas chaar lakh vanar hain.”
+
+☁️ Panasa
+
+“Jo badal jaisa lagta hai,
+jiski garaj door tak jaati hai —
+woh Panasa hai.
+Uske saath pachaas lakh neta hain.”
+
+🐒 Vinata, Krathana aur Gavaya
+
+Vinata – tez aur bhaari sena ke saath
+
+Krathana – yuddh ke liye lalkaar raha hai
+
+Gavaya – laal rang ka balwaan vanar,
+jiske saath 70 lakh yoddha hain
+
+😨 Sarana ka antim sach
+
+Sarana ne ant mein kaha:
+
+“Raja,
+yeh sab neta ginne se bahar hain.
+Har ek apni sena ka malik hai.
+Yeh sirf vanar nahi…
+toofan hain.”
+
+🌼 Is Adhyay ki Seedhi Seekh
+
+Ahankaar sach dekhne nahi deta
+
+Sach batane wala hamesha nirbhay hota hai
+
+Jab anyaay badhta hai, to ek nahi, poori sena uth khadi hoti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.27
     with st.expander("Chapter 6.27 – Sarana continues his report"):
         text1 = """
-        """
+        Sarana
+ne Ravana se kaha:
+
+“Raja, main aapko un sab veeron ke baare mein bata raha hoon
+jo Rama ke liye
+apni jaan bhi chhod dene ko tayyar hain.”
+
+🐒 Hara – Aag jaisi poonch wala vanar
+
+“Jo vanar aage badh raha hai,
+jiski poonch ke baal laal, peele, kaale aur safed hain,
+aur jo sooraj ki roshni jaisi chamak raha hai —
+uska naam Hara hai.
+
+Uske peeche hazaaron vanar hain,
+haath mein ped aur pathar uthaye.
+Sab Lanka par hamle ka intezaar kar rahe hain.”"""
         create_image_text_layout("attached_assets/chapter6/6.27.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🐻 Bhalu Sena – Pahaadon jaisi taakat
+
+“Jo kaale baadal jaisi lag rahi sena hai,
+jo pahaadon, maidano aur nadiyon ko dhak chuki hai —
+yeh bhalu yoddha hain.
+
+Unka raja Dhumra hai.
+Aur uske saath uska chhota bhai —
+Jambavan.”
+
+Sarana bola:
+
+“Jambavan pahaad jaisa hai.
+Budhiman hai, shant hai,
+par yuddh mein kabhi nahi rukta.
+
+Devta aur Asuron ke yuddh mein
+usne Devtaon ki madad ki thi.
+Use kai vardaan mile hain.”
+
+⚔️ Rambha – Gusse aur shanti dono ka malik
+
+“Jo kabhi zor se uchhalta hai,
+aur kabhi bilkul shaant khada rehta hai —
+uska naam Rambha hai.
+
+Vanar usi ko dekh kar
+apna hausla badhate hain.”
+
+🐵 Samnadana – Vanaron ka purkh
+
+“Jo chaar pairon par chalta hai,
+jiska seena ek kos uncha hai,
+jo shandar aur balwaan hai —
+woh Samnadana hai.
+
+Yeh vanaron ka purvaj hai.
+Kabhi Indra se bhi yuddh kar chuka hai
+aur haar nahi maana.”
+
+🌳 Krathana – Haar na maan-ne wala neta
+
+“Jambhu vriksh ke neeche jo baitha hai,
+jahan Kinnera rehte hain —
+uska naam Krathana hai.
+
+Hazaaron vanar uske saath hain.
+Woh bhi kehta hai:
+‘Lanka toot kar rahegi!’”
+
+🌊 Pramathin – Garajne wala yoddha
+
+“Jo Ganga ke paas rehta hai,
+haathi tak jisse darte hain —
+uska naam Pramathin hai.
+
+Uske saath
+hazaaron, lakhon vanar hain.
+Unki garaj se dharti kaanp jaati hai.”
+
+🐒 Gavaksha aur Golangula sena
+
+“Jo kaale muh wale vanar hain,
+jinhone pul banaya tha —
+woh Gavaksha ke netritva mein hain.
+
+Yeh khud Lanka ko tod dena chahte hain.”
+
+🏔️ Kesharin aur Sone jaise pahaad
+
+“Jis sunehre pahaad par
+har mausam mein phal lagte hain,
+jahan shuddh shahad milta hai —
+wahan Kesharin rehta hai.
+
+Woh bhi yuddh ke liye taiyaar hai.”
+
+☀️ Shatabali – Sooraj ki taraf dekhne wala veer
+
+“Jo hamesha sooraj ki taraf mukh karta hai,
+jiska naam poore sansaar mein mashhoor hai —
+woh Shatabali hai.
+
+Woh shapath leta hai:
+‘Main Lanka ko mita dunga.’
+Rama ke liye woh apni jaan bhi de dega.”
+
+😨 Sarana ka antim sandesh
+
+Sarana ne ant mein kaha:
+
+“Raja,
+Gaja, Gavaksha, Gavaya, Nala, Nila —
+har ek ke paas das-das koti yoddha hain.
+
+Inki ginti mumkin nahi.
+Sab pahaadon jaise bade,
+aur dharti ko ulat dene ki taakat rakhte hain.”
+
+🌼 Is Adhyay ki Seedhi Seekh
+
+Jab sach chhupaaya jaata hai, tab khatra badhta hai
+
+Ekta aur dharm ke saath aayi sena ko koi rok nahi sakta
+
+Ahankaar aankhon par parda daal deta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.28
     with st.expander("Chapter 6.28 – Shuka also lists the enemy warriors"):
         text1 = """
-        """
+        Sarana ke bolne ke baad,
+ab Shuka aage aaya.
+Usne Ravana se kaha:
+
+🐘 Haathi jaise vanar
+
+“Raja, kya aap dekh rahe ho?
+Jo vanar haathi jaise dikhte hain,
+jinke sharir se shakti tapak rahi hai.
+
+Yeh Ganga ke kinare ke bargad jaise khade hain,
+aur Himalaya ke saal vriksh jaise majboot hain.
+
+Yeh apna roop badal sakte hain.
+Daityon aur Danavon jaise balwaan hain.
+Inki sankhya 21 million se bhi zyada hai.
+
+Yeh sab Sugriva ke saathi hain,
+aur Kishkindha inka ghar hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.28.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        ⚔️ Mainda aur Dvivida
+
+“Wahan do vanar saath khade hain.
+Bilkul devta jaise lagte hain.
+
+Unke naam Mainda aur Dvivida hain.
+Yudh mein unka koi muqabla nahi.
+
+Brahma ke vardaan se
+unhone amrit piya hai.
+Woh kehte hain —
+‘Hum akela hi Lanka gira denge.’”
+
+🌬️ Hanuman – Vayu ka putra
+
+“Raja, jo vanar wahan khada hai,
+haathi jaisa balwaan aur gusse se bhara —
+wahi hai Hanuman.
+
+Yahi Lanka aaya tha Sita ko dhoondhne.
+Yahi samundar paar karke gaya tha.
+
+Uske pita Kesari hain
+aur maa-pita ka vardaan hai Vayu ka bal.
+
+Bachpan mein usne sooraj ko phal samajh kar
+pakadne ki koshish ki thi.
+Gir gaya, jabda toot gaya,
+isi liye uska naam Hanuman pada.
+
+Usne pehle hi Lanka jala di thi,
+kya aap bhool gaye, Raja?”
+
+🏹 Rama – Dharm ka yoddha
+
+“Ab us yoddha ko dekhiye,
+jo kaale rang ka hai,
+kamal jaise netron wala.
+
+Woh Rama hai.
+
+Veda ka gyaan rakhta hai.
+Brahma-astra chalana jaanta hai.
+Uske teer aakash ko cheer dete hain.
+
+Uska gussa Mrityu jaisa hai
+aur veerta Indra ke samaan.
+
+Usi ki patni Sita ko
+aap Janasthana se utha laaye.”
+
+🛡️ Lakshmana – Bhai ka pran
+
+“Rama ke daahine jo khada hai,
+sone jaisa chamakta hua —
+woh Lakshmana hai.
+
+Har shastra mein nipun.
+Bhai ke liye jaan dene ko tayyar.
+
+Usne shapath li hai —
+‘Main saare rakshason ka ant kar dunga.’”
+
+👑 Bibishana – Lanka ka naya raja
+
+“Rama ke baayein taraf jo khada hai,
+rakshason ke saath —
+woh Bibishana hai.
+
+Isi ko Rama ne
+Lanka ka raja bana diya hai.
+
+Woh gusse mein hai
+aur aapse yuddh ke liye badh raha hai.”
+
+🐒 Sugriva – Vanaron ka samrat
+
+“Beech mein jo pahaad ki tarah khada hai,
+jiski shakti naapna mushkil hai —
+woh Sugriva hai.
+
+Uske gale mein sone ki mala hai,
+jisme Lakshmi ka vaas hai.
+
+Bali ke marne ke baad
+Rama ne use yeh rajya diya.”
+
+🔢 Sena ki an-ginti sankhya
+
+Shuka ne aakhri baat kahi:
+
+“Raja, inki ginti karna namumkin hai.
+Koti, shanku, maha-vrinda, padma, samudra —
+yeh sab sena uske saath hai.
+
+Yeh sena aag ke gole jaisi hai.
+Agar yuddh hua, to bhayankar hoga.
+
+Isliye, Raja,
+ya to yeh yuddh jeeto —
+ya haar se bachne ka upaay socho.”
+
+🌼 Is Adhyay ki Seekh
+
+Sach bataane wale dushman se bhi seekh milti hai
+
+Bal se bada hota hai dharm aur ekta
+
+Ahankaar sach ko sunna band kar deta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.29
     with st.expander("Chapter 6.29 – Ravana sends more spies"):
         text1 = """
-        """
+        Ravana ne jab
+vanaron ke sabse bade yoddha dekhe,
+toh uska dil hil gaya.
+
+Usne dekha —
+Rama ke saath Lakshmana,
+bilkul right side mein khada.
+Paas hi Bibishana,
+jo ab Rama ke saath tha.
+
+Aage Sugriva, vanaron ka raja.
+Uske paas Angada, Hanuman, Jambavan,
+aur bahut se veer vanar khade the.
+
+Yeh sab dekhkar
+Ravana ka gussa phoot pada 😠"""
         create_image_text_layout("attached_assets/chapter6/6.29.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🔥 Ravana ka gussa
+
+Ravana ne Shuka aur Sarana ko daant diya.
+
+“Tum kaise mere saamne
+dushman ki tareef kar sakte ho?”
+Ravana garja.
+
+“Tumne shastron se kuch seekha hi nahi.
+Aise sevak hona hi mere liye sharm ki baat hai.
+
+Agar tumhare purane kaam yaad na hote,
+toh main tumhe zinda hi nahi chhodta!”
+
+Ravana ne unhe bhaga diya.
+“Jaao!
+Tum mere liye mar chuke ho!”
+
+Shuka aur Sarana chup-chaap
+sir jhuka kar nikal gaye.
+
+🕵️ Naye jasus ka hukum
+
+Phir Ravana ne Mahodara se kaha,
+“Turant naye jasus bulao!”
+
+Kuch hi der mein
+naye rakshas jasus aa gaye.
+Woh himmati the.
+Aur chalak bhi.
+
+Ravana bola:
+
+“Jaakar pata lagao —
+Rama kya soch raha hai.
+Uske saath kaun rehta hai.
+Woh kab sota hai, kab jaagta hai.
+Aur agla kadam kya hoga.”
+
+Ravana ne kaha,
+“Jo raja dushman ko jaanta hai,
+usey zyada zor lagana nahi padta.”
+
+Jasus khush ho gaye.
+Unhone “Jai ho!” kaha
+aur nikal pade.
+
+👀 Pakde gaye jasus
+
+Jasus bhes badal kar
+Suvela parvat ke paas pahuche.
+
+Wahan Rama, Lakshmana,
+Sugriva aur Bibishana the.
+Aur saath mein badi vanar sena.
+
+Yeh dekhkar
+jasus kaanp gaye 😨
+
+Bibishana ne turant pehchan liya.
+Usne kaha,
+“Yeh jasus hain!”
+
+Ek jasus Shardula ko pakad liya gaya.
+
+Vanar use maarne lage.
+Par Rama ne daya dikhayi.
+
+Rama bola,
+“Isse chhod do.”
+
+Shardula bhi bach gaya.
+
+😵 Haare hue jasus
+
+Maar kha kar,
+darr ke maare,
+jasus Lanka wapas bhaage.
+
+Ravana ke paas jaakar bole:
+
+“Raja,
+Rama ki sena
+Suvela parvat ke paas camp kiye hue hai.”
+
+Yeh sunkar
+Ravana aur bhi chintit ho gaya.
+
+🌱 Is Adhyay ki Seekh
+
+Gussa sach sunne nahi deta
+
+Jasus bhi tab fail hote hain jab saamne dharm khada ho
+
+Daya, shakti se bhi badi hoti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.30
     with st.expander("Chapter 6.30 – Shardula reports back to Ravana"):
         text1 = """
-        """
+        Lanka ke jasus aakar bole,
+“Rama apni badi sena ke saath
+Suvela Parvat ke paas camp kiye hue hai.”
+
+Yeh sunkar
+Ravana ka mann ghabra gaya.
+
+Usne Shardula ko dekha.
+Shardula ka chehra dara hua tha.
+
+Ravana bola,
+“Tum aise kyun kaanp rahe ho?
+Kya vanaron ne tumhe hara diya?”"""
         create_image_text_layout("attached_assets/chapter6/6.30.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😨 Shardula ka darr
+
+Shardula dheemi awaaz mein bola:
+
+“O Raja,
+un vanaron par nazar rakhna namumkin hai.
+Har taraf pahad jaise vanar khade hain.
+
+Jaise hi main andar gaya,
+mujhe pakad liya gaya.
+Mujhe ghusa, laat, daant sab mila.
+
+Mujhe poori sena mein ghumaya gaya.
+Khoon se bhara hua,
+main Rama ke saamne laya gaya.
+
+Vanar mujhe maarna chahte the.
+Par Rama ne kaha —
+‘Ruko!’
+
+Usi daya ne meri jaan bachayi.”
+
+Shardula ne aage kaha:
+
+“Rama wohi hai
+jisne patharon se samundar bhar diya.
+Woh Lanka ke bilkul gate par hai.
+Uski sena Garuda jaisi vyavastha mein khadi hai.
+
+Ab der mat karo, Raja.
+Ya toh Sita ko wapas karo,
+ya yuddh ke liye taiyaar ho jao.”
+
+🔥 Ravana ka ghamand
+
+Ravana thoda socha.
+Phir garaj kar bola:
+
+“Chahe devta, gandharva, daanav
+sab mere khilaaf aa jaayein,
+main Sita wapas nahi dunga!”
+
+Phir usne poocha:
+“Un vanaron mein kaun-kaun hai?
+Kitni shakti hai unmein?
+Sach batao!”
+
+🐒 Vanar sena ka varnan
+
+Shardula ne kaha:
+
+“Raja,
+unmein kai aise yoddha hain
+jo devtaon ke putra hain.
+
+Hanuman, pavan putra
+
+Angada, Indra ka pota
+
+Nala, Vishvakarma ka putra
+
+Mainda aur Dvivida, amar shakti wale
+
+Nila, sena ka mahan neta
+
+Sugriva, vanaron ka raja
+
+Hazaron nahi,
+lakhon-kotiyon vanar hain.
+
+Aur unke beech
+Rama khud khade hain.
+
+Wahi Rama
+jisne Khara, Dushana,
+Viradha, Kabandha jaise
+bhayanak rakshason ko maara.
+
+Aur saath mein
+Lakshmana,
+jo bijli jaisi teer chala sakta hai.
+
+Aakhri baat, Raja —
+aapke bhai Bibishana bhi
+Rama ke saath khade hain.
+Rama ne unhe Lanka ka bhavishya raja bana diya hai.”
+
+Shardula chup ho gaya.
+Usne kaha,
+“Ab faisla aapka hai.”
+
+🌱 Is Adhyay ki Seekh
+
+Ghamand sach ko dekhne nahi deta
+
+Daya shatru ko bhi jeet leti hai
+
+Jab adharm badhta hai, to dharm sena ban jaata hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
