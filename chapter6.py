@@ -4846,110 +4846,1394 @@ balatkaar todna hota hai"""
     # Chapter 6.41
     with st.expander("Chapter 6.41 – Rama sends Angada as a messenger"):
         text1 = """
-        """
+        Sugriva ko veerata ke chinh ke saath dekhkar,
+Rama, Lakshmana ke bade bhai,
+use gale lagate hain 🤍
+
+Aur pyaar ke saath daant bhi dete hain।"""
         create_image_text_layout("attached_assets/chapter6/6.41.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌿 Rama ka Sugriva ko samjhana
+
+Rama bole:
+
+“Sugriva, bina mujhse pooche
+tumne bahut jaldbazi ki.
+
+Ek raja ko aisa nahi karna chahiye.
+Tumhari is himmat ne
+mujhe, sena ko aur Vibhishana ko
+bahut chinta mein daal diya.
+
+Socho, agar tumhe kuch ho jaata,
+toh Sita, Bharata,
+Lakshmana aur Shatrughna ka kya hota?”
+
+Rama thode bhavuk ho gaye 😔
+
+“Main maanta hoon tum bahut veer ho,
+par bina soche risk lena
+sahi nahi.
+
+Agar tum lautkar na aate,
+toh mera sankalp tay tha—
+Ravana aur uski sena ko maar kar
+Vibhishana ko Lanka ka raja banaata,
+Bharata ko Ayodhya ka singhasan deta
+aur phir main apna jeevan tyag deta.”
+
+🐒 Sugriva ka uttar
+
+Sugriva bole:
+
+“Prabhu,
+jisne aapki Sita ko haran kiya,
+use dekhkar
+main apni shakti ko kaise rok leta?”
+
+Rama muskuraye 😊
+aur Sugriva ki veerta ki prashansa ki।
+
+🌪️ Ashubh Sanket (Bad Omen)
+
+Phir Rama Lakshmana se bole:
+
+“Dekho,
+tez hawa chal rahi hai,
+dharti kaanp rahi hai,
+pahaad hil rahe hain.
+
+Ped gir rahe hain 🌳
+laal sandhya darawani lag rahi hai.
+Suraj se jaise aag ka ghera gir raha ho.
+
+Raat ko chand bhi kala aur laal dikhta hai 🌕
+Pakshi aur jaanwar
+bhayankar awaaz nikaal rahe hain.
+
+Yeh sab
+bhayanak yuddh ka sanket hai.
+
+Isliye aaj hi
+Ravana ke kile par
+hamla karna hoga!”
+
+🛡️ Sena ka Vibhajan
+
+Rama ne turant sena ko taiyaar kiya।
+
+Neela, Mainda aur Dvivida → Poorvi Dwaar
+
+Angada, Rishabha aur dusre veer → Dakshin Dwaar
+
+Hanuman → Pashchim Dwaar
+
+Sugriva → Madhya sthaan
+
+Rama aur Lakshmana → Uttar Dwaar
+
+Vanar aur bhalu
+ped 🌲 aur pathar 🪨
+hathiyaar bana kar
+Lanka ko chaaron taraf se gher lete hain।
+
+Lanka par jaise
+doosri deewar ban jaati hai!
+
+Rakshas ghabra jaate hain 😨
+poori Lanka kaanp uthti hai।
+
+🕊️ Angada ko Sandesh
+
+Rama shant ho kar bole:
+
+“Yuddh se pehle
+raja ka dharm hota hai
+shaanti ka sandesh dena.
+
+Isliye Angada,
+tum Lanka jao.
+
+Ravana se kehna—
+
+👉 ‘Ab bhi mauka hai.
+Sita ko samman ke saath lauta do.
+Yudh na chaho to bhi theek.’
+
+👉 ‘Agar nahi maana,
+toh main tumhe, tumhare putron ko
+aur poori Rakshas jaati ko
+samaapt kar doonga.’
+
+👉 ‘Vibhishana hi Lanka ka raja banega.’”
+
+Angada ne haan kaha 🙏
+aur aakash ke raaste
+Lanka pahunch gaya।
+
+🔥 Angada aur Ravana
+
+Angada ne Ravana ke sabha mein
+Rama ka sandesh
+bilkul sach-sach suna diya.
+
+Ravana gusse se kaanp utha 😡
+
+“Is vanar ko maar do!”
+usne chillakar kaha।
+
+Rakshas Angada ko pakad lete hain,
+par Angada chupchaap sab dekh raha tha।
+
+Achaanak—
+💥 Angada ne teen rakshason ko uthaya,
+mahal par chalang lagayi
+aur chhat tod di!
+
+Poora mahal hil gaya 🏰⚡
+
+Angada zor se bola:
+“Main Bali ka beta Angada hoon!”
+
+Phir woh udta hua
+wapas Rama ke paas aa gaya।
+
+Vanar sena khush ho gayi 🐒🎉
+Rakshas sena dar gayi 😨
+
+🌼 Is Adhyay ki Seekh
+
+Veerta ke saath soch zaroori hai
+
+Yuddh se pehle shaanti ka prayas hona chahiye
+
+Ahankar ant ka kaaran banta hai
+
+Sachcha neta sabki suraksha sochta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.42
     with st.expander("Chapter 6.42 – The demons attack suddenly"):
         text1 = """
-        """
+        🏰 Ravana ko Khabar milti hai
+
+Rakshas Ravana ke paas jaakar batate hain—
+“Rama aur Vanar sena ne poori Lanka ko gher liya hai!”
+
+Yeh sunkar Ravana gusse se bhar jaata hai 😡
+Woh mahal ke upar chadhkar
+poori Lanka ko dekhta hai—
+
+Pahaad
+
+Van
+
+Bagiche
+
+Aur har taraf an-ginit vanar
+
+Ravana sochta hai:
+“In sabko kaise khatam kiya jaaye?”
+
+Thodi der baad
+uska ghamand phir jaag uthta hai 😈
+Aur woh Rama aur vanar sena ko ghoorne lagta hai।"""
         create_image_text_layout("attached_assets/chapter6/6.42.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        💔 Rama ko Sita ki Yaad
+
+Udhar Rama
+Lanka ki taraf badhte hue
+Sita ko yaad karte hain।
+
+Unke mann mein dard uthta hai—
+
+“Janak ki beti,
+hirni jaisi aankhon wali Sita,
+sirf mere liye
+nangi zameen par so rahi hogi…”
+
+Yeh soch kar
+Rama ka sankalp aur mazboot ho jaata hai 🔥
+
+📢 Rama ka Aadesh
+
+Rama vanaron se kehte hain:
+
+“Ab aur der nahi!
+Shatru ka vinash taiyaar karo!”
+
+Yeh sunte hi
+vanar zor-zor se garajne lagte hain 🐒
+
+“Hum Lanka ko
+patharon, pedon aur apni mutthiyon se tod denge!”
+
+🪨🌳 Vanar Sena ka Toofan
+
+Vanar sena:
+
+Bade-bade pathar phenkti hai
+
+Ped ukhaad kar maarte hai
+
+Deewarein tod dete hain
+
+Khaiyon ko mitti, lakdi aur pathar se bhar dete hain
+
+Lanka ke
+burj, darwaaze aur meharaabein
+tootne lagti hain 🏰💥
+
+Naare goonj uthte hain:
+
+“Jai Shri Rama!”
+
+“Jai Lakshmana!”
+
+“Jai Sugriva!”
+
+🧭 Charo Dwaaron par Yojna
+
+Poorv Dwaar → Kumuda (10 koti vanar)
+
+Dakshin Dwaar → Shatabali (20 koti vanar)
+
+Pashchim Dwaar → Sushena
+
+Uttar Dwaar → Rama, Lakshmana aur Sugriva
+
+Rama ke ek taraf Gavaksha,
+doosri taraf Dhumra aur bhallu sena 🐻
+
+Vibhishana har jagah Rama ke saath rehte hain 🤍
+
+🔥 Ravana ka Pratighaat
+
+Gusse mein Ravana hukm deta hai:
+
+“Rakshaso! Bahar niklo aur hamla karo!”
+
+Turant—
+
+Nagade bajte hain 🥁
+
+Shankh aur turhi goonj uthti hain 📯
+
+Rakshas sena baadalon jaise umad padti hai ⚡
+
+Jaise pralaya ka samundar toot pada ho!
+
+⚔️ Bhayanak Yuddh
+
+Phir shuru hota hai
+Rakshas vs Vanar Mahayuddh ⚔️
+
+Rakshas:
+
+Gada, bhala, kulhaadi
+
+Vanar:
+
+Ped, pathar, daant aur naakhun
+
+Naare lagte hain:
+
+Vanar: “Jai Sugriva!”
+
+Rakshas: “Ravana ki Jai!”
+
+Rakshas deewaron se
+kaante aur bhale phenkte hain,
+toh vanar hawa mein uchhal kar
+unhe kheench kar neeche gira dete hain!
+
+Dharti
+kichad aur lahu se bhar jaati hai 🌍
+Yuddh itna bhayanak hota hai
+ki dekhkar rom-rom kaanp jaaye।
+
+🌼 Is Adhyay ki Seekh
+
+Anyay ke khilaaf jab sab ek ho jaate hain, to sabse bada kila bhi gir sakta hai
+
+Prem aur karuna se bhara krodh, vinash nahi nyay laata hai
+
+Ahankar shakti ko andha kar deta hai
+
+Sachchai ke paksh mein ladne wale kabhi akele nahi hote"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.43
     with st.expander("Chapter 6.43 – Monkeys and demons fight"):
         text1 = """
-        """
+        ⚔️ Yuddh Poori Taaqat se Shuru
+
+Vanar sena
+poori shakti se lad rahi thi 🐒🔥
+Aur rakshas bhi
+ghodon, haathiyon aur rathon par chadh kar
+Ravana ka naam lete hue
+aage badh rahe the.
+
+Sone se sajje ghode,
+aag jaise chamakte haathi,
+aur suraj jaise chamakते rath—
+sab yuddh ke liye taiyaar the.
+
+Donon taraf se
+seedha takraav hua 💥"""
         create_image_text_layout("attached_assets/chapter6/6.43.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🥊 Veer vs Veer
+
+Har taraf
+ek se ek bhayanak muqabla ho raha tha:
+
+Angada aur Indrajit
+do pahadon jaise takra rahe the
+
+Hanuman ne Jambumali se loha liya
+
+Sugriva ne Praghasa par zor se vaar kiya
+
+Lakshmana ne Virupaksha ka saamna kiya
+
+Rama par kai rakshas ek saath toot pade
+
+Har vanar
+dharma ke liye lad raha tha.
+Har rakshas
+ghamand mein bhara tha.
+
+🌪️ Khoon ki Nadiyaan
+
+Yuddh itna bhayanak ho gaya
+ki lahu behne laga.
+
+Baal ghaas jaise lag rahe the
+
+Khoon pani ki tarah beh raha tha
+
+Zameen par rath, haathi, ghode aur sharir bikhre the
+
+Lag raha tha
+jaise poori dharti
+is yuddh ko dekh kar kaanp rahi ho 🌍
+
+🔥 Veerta ke Adbhut Drishya
+
+Angada ne Indrajit ka rath tod diya
+
+Hanuman ne ek hi haath se
+rakshas ka rath palat diya
+
+Sugriva ne ped se vaar karke
+shatru ko gira diya 🌳
+
+Lakshmana ne ek hi prahar mein
+bhayanak rakshas ko dhool chata di
+
+Rama ne
+ek saath chaar shatruon ko
+apne teer se gira diya 🏹✨
+
+Vanar hansi ke saath lad rahe the,
+rakshas cheekh ke saath gir rahe the.
+
+🪨 Pathar, Ped aur Parakram
+
+Vanar:
+
+Pathar uthate
+
+Bade ped tod kar maarte
+
+Daant aur naakhun se vaar karte
+
+Rakshas:
+
+Gada
+
+Teer
+
+Bhale
+
+Talwar
+
+Har vaar ke saath
+aasmaan aur dharti goonj uthti 🌩️
+
+🌙 Din Ka Ant
+
+Jab din dhalne laga,
+rakshas thak chuke the.
+
+Unke sharir khoon se bhare the,
+mann mein darr tha 😨
+
+Unhone socha:
+“Bas raat aa jaaye…”
+
+Vanar sena
+abhi bhi tayaar thi.
+Unki aankhon mein
+jeet ki chamak thi ✨
+
+🌼 Is Adhyay ki Seekh
+
+Sachchai ke liye ladne wale kabhi thakte nahi
+
+Ghamand taaqat ko kamzor bana deta hai
+
+Ek saath milkar ladne se sabse bada shatru bhi gir jaata hai
+
+Dharma ke paksh mein ladna hi sachi veerta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.44
     with st.expander("Chapter 6.44 – Angada shows great bravery"):
         text1 = """
-        """
+        🌑 Andheri Raat, Bhayanak Yuddh
+
+Suraj doob gaya.
+Raat aa gayi 🌙
+Aur yuddh aur bhi bhayanak ho gaya.
+
+Andhere mein
+vanar aur rakshas
+ek-dusre ko pehchan nahi pa rahe the.
+
+“Tu rakshas hai?”
+
+“Tu vanar hai?”
+
+Bas awaazein thi—
+“Maaro!”
+“Pakdo!”
+“Yahin ruk!”
+
+Andhera, shor aur gussa
+sab ek saath the 😨"""
         create_image_text_layout("attached_assets/chapter6/6.44.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🔥 Raat Mein Aag Jaise Yuddh
+
+Rakshas andhere mein
+pahadon jaise lag rahe the.
+Unke gehre rang
+aur bhayanak dikh rahe the.
+
+Par vanar bhi kam nahi the 🐒💪
+Unhone:
+
+ghodon par hamla kiya
+
+jhande aur pankh noch daale
+
+haathiyon ko kaata
+
+rathon ko tod diya
+
+Har taraf
+bhagdaud aur cheekh-pukaar thi.
+
+🏹 Rama aur Lakshmana ka Prakop
+
+Rama aur Lakshmana
+teer chala rahe the
+jaise zehreeli saanp 🐍✨
+
+Dikhne wale bhi gire,
+chhupe hue bhi gire.
+
+dhool aankhon mein bhar gayi
+
+khoon nadiyon ki tarah behne laga
+
+Raat
+pralay jaise lag rahi thi 🌪️
+
+🔔 Shor aur Vinaash
+
+nagade baj rahe the
+
+shankh goonj rahe the
+
+ghode hinhina rahe the
+
+ghaayal cheekh rahe the
+
+Zameen par
+laashe pahadon jaise jama thi.
+
+Lag raha tha
+jaise duniya ka ant aa gaya ho 😔
+
+🔥 Rama ka Adbhut Shaurya
+
+Andhere ka fayda uthakar
+kai rakshas
+Rama par toot pade.
+
+Par Rama ne
+pal bhar mein
+aag jaise teer chala diye 🏹🔥
+
+Ek hi baar mein
+kai bade rakshas gir gaye.
+
+Unke teer
+raat ko roshan kar rahe the
+jaise jugnu ✨
+
+Rakshas
+jalte hue patangon jaise
+girne lage.
+
+🐒 Angada ka Veer Kaarnaama
+
+Usi yuddh mein
+Angada
+sabse aage tha 💪🔥
+
+Usne:
+
+dushman ke ghode maare
+
+rath tod daale
+
+rakshason ko kuchal diya
+
+Indrajit
+thak gaya 😠
+Aur achanak
+gayab ho gaya—
+adrishya!
+
+Yeh dekh kar
+sab dev aur rishi
+Angada ki taarif karne lage 🌟
+
+Vanar sena ne
+“Bahut achha! Bahut achha!”
+ka naara lagaya 🎉
+
+🐍 Indrajit ka Maya-jaal
+
+Par Indrajit
+haar maan ne wala nahi tha.
+
+Usne apni maya ka sahara liya 😈
+Aur adrishya hokar
+Rama aur Lakshmana par
+bijli jaise teer barsa diye ⚡
+
+Teer
+saanpon jaise the 🐍
+Aur unhone
+Rama-Lakshmana ko
+jaal mein baandh diya.
+
+Vanar sena dekh kar
+sann reh gayi 😢
+
+Unke neta
+bandhan mein the…
+
+🌼 Is Adhyay ki Seekh
+
+Veerta sirf taaqat nahi, himmat se hoti hai
+
+Dharma ke liye ladne wala kabhi akela nahi hota
+
+Ghamand aur maya se jeet temporary hoti hai
+
+Sachchai chahe bandhi ho, par haarti nahi"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.45
     with st.expander("Chapter 6.45 – Indrajit wounds Rama and Lakshmana"):
         text1 = """
-        """
+        🌑 Chinta Bhara Pal
+
+Rama ko chinta hui 😔
+Indrajit kahan gaya?
+
+Sach jaanne ke liye
+Rama ne 10 veer vanaron ko bheja:
+
+Angada
+
+Hanuman
+
+Nila
+
+Dvivida
+
+Sharabha
+
+aur anya shoor veer
+
+Sab khushi se
+aakash mein uchhal pade 🌌
+haath mein bade-bade ped le kar."""
         create_image_text_layout("attached_assets/chapter6/6.45.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🐍 Adrishya Dushman
+
+Par Indrajit adrishya tha 😈
+Andhere mein
+kisi ko dikhai nahi diya.
+
+Usne teer chala diye—
+saanpon jaise teer 🐍🏹
+
+Vanar ghayal ho gaye,
+unka raasta ruk gaya.
+
+Koi bhi
+Indrajit ko dekh nahi paaya
+jaise baadal suraj ko chhupa lete hain ☁️☀️
+
+🔥 Rama–Lakshmana Par Teer Varsha
+
+Indrajit ne
+Rama aur Lakshmana par
+lagataar teer barsa diye.
+
+Unke sharir par
+ek bhi jagah khaali nahi thi 😢
+Har taraf se
+khoon beh raha tha.
+
+Dono
+kimshuk ke ped jaise lag rahe the—
+laal-laal phoolon se bhare hue 🌺
+
+😈 Indrajit ka Ghamand
+
+Adrishya Indrajit bola:
+
+“Jab main dikhai nahi deta,
+toh Devraj Indra bhi mujhe nahi pakad sakta.
+Tum dono toh phir bhi insaan ho!”
+
+Usne aur zyada teer chala diye 😠
+aur zor-zor se hansne laga.
+
+💔 Veer Gir Pade
+
+Teeron ke jaal mein
+Rama aur Lakshmana
+hil bhi nahi pa rahe the.
+
+Thak gaye…
+zakhmi ho gaye…
+aur phir—
+
+Rama gir pade 😭
+Unka sone jaisa dhanush
+haath se chhoot gaya.
+
+Lakshmana ne jab yeh dekha,
+unka dil toot gaya 💔
+
+“Rama ke bina
+main jee nahi sakta,”
+unka mann bol utha.
+
+🐒 Vanar Sena ka Dukh
+
+Vanar sena ne
+jab apne prabhu ko girte dekha—
+
+aankhon mein aansu aa gaye 😢
+
+cheekhein goonj uthi
+
+himmat toot si gayi
+
+Hanuman aage aaye,
+sab vanar
+Rama–Lakshmana ke paas
+ikatthe ho gaye.
+
+Dono bhai
+behosh pade the,
+teeron se bhare hue.
+
+Har taraf
+sirf shok aur sannata tha 🌫️
+
+🌼 Is Adhyay ki Seekh
+
+Bura ghamand hamesha andhera laata hai
+
+Dharma ke veer bhi kabhi-kabhi girte hain
+
+Par sachchai kabhi khatam nahi hoti
+
+Andhera jitna gehra ho, subah utni hi paas hoti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.46
     with st.expander("Chapter 6.46 – The monkey army feels hopeless"):
         text1 = """
-        """
+        😢 Shok ka Maha-Pal
+
+Jab vanaron ne
+Rama aur Lakshmana ko
+teeron se chhalni,
+behosh pade dekha—
+
+toh poori vanar sena ka dil hil gaya 💔
+
+Sugriva, Bibishana, Hanuman, Angada,
+Nila, Dvivida, Mainda, Sushena—
+sab rote hue
+Raghukul ke veeron ke paas aa gaye.
+
+Dono bhai
+teeron ki sej par
+halke-halke saans le rahe the,
+khoon se bheege hue,
+jaise do sone ke dhwaj gir gaye hon 🩸"""
         create_image_text_layout("attached_assets/chapter6/6.46.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🪄 Adrishya Indrajit ka Ghamand
+
+Indrajit,
+jo abhi bhi adrishya tha,
+khud apni jeet par itra raha tha 😈
+
+Usne kaha:
+
+“Rama aur Lakshmana
+ab mere teeron se bandhe hain.
+Devta bhi unhe chhuda nahi sakte!”
+
+Aur phir
+usne vanar veeron par bhi teer barsa diye—
+Nila, Hanuman, Angada, Jambavan—
+sab ghayal ho gaye.
+
+Titans ne khushi mein
+garjana ki:
+“Rama mar gaya!” ⚡
+
+Aur Indrajit
+jeet ka ghosh karte hue
+Lanka laut gaya.
+
+🐒 Sugriva ka Dar aur Tootta Himmat
+
+Yeh sunte hi
+Sugriva ka sahas toot gaya 😨
+Aankhon se aansu behne lage,
+shareer kaanp raha tha.
+
+Unhe laga—
+“Sab kuch khatam ho gaya…”
+
+🌿 Bibishana ka Dhairya aur Gyaan
+
+Tab Bibishana aage aaye ✨
+shaant, gambhir, aur dridh.
+
+Unhone Sugriva se kaha:
+
+“Dar mat, O Vanarraj.
+Yeh yudh ki reeti hai.
+Abhi sab kuch samaapt nahi hua.”
+
+Unhone Sugriva ke aansu ponchhe,
+mantra padhe,
+aur himmat di:
+
+“Rama abhi mare nahi hain.
+Lakshmi unka saath nahi chhodti.
+Jab ve chetna mein aayenge,
+sabka bhay door ho jaayega.”
+
+Bibishana ne kaha:
+
+Abhi ghabraana mrityu jaisa hai
+
+Raja ka kaam hai sena ko sambhalna
+
+Veer girte hain,
+par dharma kabhi nahi girta
+
+🔥 Vanar Sena mein Nayi Asha
+
+Bibishana
+poori sena mein ghoom-gloom kar
+sabko dhairya dete rahe 🌼
+
+Unki shaant muskaan dekh kar
+vanaron ka dar dheere-dheere kam hua.
+
+👑 Lanka mein Jhooti Khushi
+
+Udhar Lanka mein—
+Indrajit ne Ravana se kaha:
+
+“Rama aur Lakshmana mare pade hain!”
+
+Ravana khushi se uchhal pada 😠
+apne bete ko gale lagaya,
+aur socha—
+ab vijay nishchit hai.
+
+Par woh nahi jaanta tha…
+
+🌅 Is Adhyay ki Seekh
+
+Asli neta woh hota hai jo andhere mein bhi himmat de
+
+Jhooti jeet zyada der tikti nahi
+
+Dharma ke veer gir sakte hain, par haarte nahi
+
+Asha tab sabse zaroori hoti hai jab sab kuch toota hua lage"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.47
     with st.expander("Chapter 6.47 – Sita sees Rama and Lakshmana fallen"):
         text1 = """
-        """
+        Ravana ka beta Indrajit
+Lanka laut chuka tha.
+Use laga—
+uska kaam poora ho gaya 😈
+
+Udhar battlefield par,
+vanar veer Rama ke ird-gird khade the.
+Hanuman, Angada, Nila, Jambavan—
+sab satark the.
+
+Halki si ghas bhi hile,
+toh ve chilla uthte—
+“Rakshas!” ⚔️"""
         create_image_text_layout("attached_assets/chapter6/6.47.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😏 Ravana ka Kroor Aadesh
+
+Lanka mein Ravana khush tha.
+Usne Sita ki rakshika rakshasiyon ko bulaya.
+
+Aur ghamand se bola:
+
+“Jaakar Vaidehi ko batao—
+Rama aur Lakshmana mare pade hain.
+Use Pushpaka Vimaan mein bithao
+aur battlefield dikhao!”
+
+Uska mann tha—
+Sita toot jaaye.
+Umeed chhod de.
+Aur uske paas aa jaaye 😠
+
+🚩 Pushpaka Vimaan aur Jhooti Ghoshna
+
+Rakshasiyan Pushpaka Vimaan mein
+Sita ko bitha kar udi.
+
+Lanka bhar mein ghoshna hui—
+“Rama aur Lakshmana mare gaye!”
+
+Rakshas khush the.
+Vanar dukhi.
+
+💔 Sita ka Hriday-Vidaarak Drishya
+
+Vimaan se Sita ne dekha—
+
+Gire hue vanar
+
+Dukhi sena
+
+Aur beech mein…
+
+Rama aur Lakshmana 😭
+
+Teeron se chhalni.
+Dhanush toot chuke the.
+Kavach bikhar chuka tha.
+Nishchet pade hue.
+
+Jaise agni ke do yuva putra
+zamin par so gaye hon.
+
+😭 Sita ka Vilap
+
+Yeh dekhte hi
+Sita ka hriday toot gaya 💔
+
+Aankhon se aansu ruk na sake.
+Uska shareer kaanp utha.
+
+Usne apne praan-priy ko
+is haal mein dekha—
+aur zor-zor se rone lagi.
+
+Lakshmana bhi wahin pade the.
+Dono veer.
+Dono shaant.
+
+Sita ne socha—
+“Sab khatam ho gaya…”
+
+Aur dukh se bhari awaaz mein,
+Maithili rone-bilakhne lagi,
+yeh maan kar
+ki uska Rama ab nahi raha…
+
+🌱 Is Adhyay ki Seekh
+
+Sabse bada dukh tab hota hai jab umeed toot-ti dikhe
+
+Adharma hamesha sach ka jhoota darshan karata hai
+
+Par sach abhi poora saamne aaya nahi hota"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.48
     with st.expander("Chapter 6.48 – Sita cries in sorrow"):
         text1 = """
-        """
+        Yeh adhyay Sita ke hriday ko poori tarah khol deta hai.
+Yahan na yuddh hai, na shastra—
+sirf virah, dukh aur prashn hain 💔
+
+😭 Sita ka Antardvand (Inner Conflict)
+
+Jab Sita ne Rama aur Lakshmana ko yuddh-bhoomi par nishchet dekha,
+toh uska vishwas toot gaya.
+
+Woh kehti hai:
+
+“Mere shareer ke shubh lakshan jhoothe ho gaye?”
+
+“Panditon ne kaha tha main kabhi vidhwa nahi banungi—phir yeh kya hai?”
+
+Woh apne saare shubh chihnon ka varnan karti hai—
+kamal-chihn, sundar ang, shubh rekhaen—
+aur phir poochhti hai:
+
+“Agar sab kuch shubh hai,
+toh mera Rama kyun gira?”
+
+Yeh sirf shok nahi—
+yeh dharma aur bhagya par prashn hai."""
         create_image_text_layout("attached_assets/chapter6/6.48.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌊 Bada Dukh: Kaushalya ka Smaran
+
+Sita ke shabd yahan aur gehre ho jaate hain.
+
+Woh kehti hai—
+
+“Main apne liye nahi ro rahi…
+main apni saas Kaushalya ke liye ro rahi hoon.”
+
+Kaushalya, jo roz sochti hai:
+“Kab Rama, Lakshmana aur Sita wapas aayenge?”
+
+Yeh pankti
+maa ke swapn ke tootne ka dukh dikhaati hai 😔
+
+🌱 Trijata ka Aashvasan (Hope ka Deepak)
+
+Tab Trijata bolti hai.
+
+Shaant, spasht aur prem se 💠
+
+Woh kehti hai:
+
+Agar Rama sach mein mare hote,
+toh vanar sena bikhar jaati
+
+Yahan abhi bhi vyavastha aur satarkta hai
+
+Pushpaka Vimaan bhi tumhe yahan na laata
+
+Aur sabse mahatvapurn:
+
+“Mrityu ke baad chehra badal jaata hai,
+par Rama aur Lakshmana ki divyata abhi bhi bani hui hai.”
+
+Isliye woh kehti hai—
+“Woh jeevit hain.”
+
+🙏 Sita ka Vishwas
+
+Sita haath jod kar kehti hai:
+
+“May it be so.”
+
+Yeh poori tarah khushi nahi—
+par asha ka ek beej hai 🌸
+
+🌑 Ashoka Vatika mein Vaapsi
+
+Pushpaka Vimaan wapas mudta hai.
+Sita fir Ashoka Vatika aa jaati hai.
+
+Par jo drishya usne dekha—
+woh uske mann mein zinda reh jaata hai.
+
+Aur uska dukh
+aur gehra ho jaata hai.
+
+🪔 Is Adhyay ki Gehri Seekh
+
+Sita ka vilap = bhagya vs dharma ka sangharsh
+
+Shubh lakshan bhi pariksha mein padte hain
+
+Aasha tab bhi zinda rehti hai jab sab kuch toota lage"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.49
     with st.expander("Chapter 6.49 – Rama wakes up and cries for Lakshmana"):
         text1 = """
-        """
+        Chapter 49 – Rama ka Jagna aur Lakshmana ke liye Vilap
+
+Yeh adhyay bhai ke prem aur maanav kamzori ko bahut gehra dikhata hai.
+Yahan Bhagwan nahi—
+ek bhai rota hua dikhai deta hai 💔
+
+🌑 Yuddh-Bhoomi ka Drishya
+
+Teer aur baanon se bandhe hue
+Rama aur Lakshmana
+zameen par pade the.
+
+Khoon beh raha tha.
+Saans saap jaise chal rahi thi.
+Charon taraf vanar sena aansuon mein doobi khadi thi 😔"""
         create_image_text_layout("attached_assets/chapter6/6.49.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌅 Rama ka Hosh Mein Aana
+
+Apni antar shakti se
+Rama behoshi se jaag gaye.
+
+Par jaagte hi
+unki nazar Lakshmana par padi—
+ghayal, nishchet, baanon mein jakda hua.
+
+Aur tab
+Rama ka hriday toot gaya 💔
+
+😭 Rama ka Dukh Bhara Vilap
+
+Rama bol pade:
+
+“Agar Lakshmana nahi raha,
+toh Sita mil jaaye ya jeevan mil jaaye—
+mujhe kuch nahi chahiye.”
+
+Woh kehte hain:
+
+Sita jaisi patni dobara mil sakti hai
+
+par Lakshmana jaisa bhai kabhi nahi
+
+“Agar Lakshmana paanch tatvon mein mil gaya,
+toh main bhi yahin apni saansen chhod dunga.”
+
+👩‍👦 Maaon ka Smaran
+
+Rama ki aankhon ke saamne
+maaen aa jaati hain—
+
+Kaushalya
+
+Kaikeyi
+
+aur sabse zyada Sumitra
+
+Rama kehte hain:
+
+“Main Sumitra ko kya jawab dunga?
+Woh toh apne bete ke liye roti rahegi.”
+
+Yeh shabd
+maa–beta ke rishton ka bojh dikhate hain 😢
+
+🏹 Lakshmana ki Mahanta
+
+Rama Lakshmana ki veerta yaad karte hain:
+
+Kabhi kathor shabd nahi bole
+
+Ek saath 500 baan chala sakta tha
+
+Indra ke baan bhi kaat deta tha
+
+Rajmahal ka sukh chhod kar vanvaas aaya
+
+Aur aaj—
+
+“Wahi Lakshmana,
+baanon ki sej par pada hai.”
+
+Rama ke liye
+yeh surya ke ast hone jaisa tha 🌑
+
+🌊 Sugriva se Vidaai ke Shabd
+
+Rama dukhi hokar Sugriva se kehte hain:
+
+“Ab tum wapas chale jao.
+Tumne apna dharma nibha diya.”
+
+Woh vanaron ke balidaan ko yaad karte hain—
+Hanuman, Angada, Jambavan, Mainda, Dvivida…
+
+“Tum sabne apna farz poora kiya.”
+
+Aur ant mein kehte hain:
+
+“Main tum sab se vida leta hoon.”
+
+Yeh sun kar
+vanar sena ki aankhen bhar aati hain 😭
+
+⚠️ Achanak Bhay
+
+Tabhi door se
+ek kaala-sa, tej swaroop aata dikhta hai.
+
+Vanar sochte hain—
+“Yeh Ravani hai!”
+
+Aur dar ke maare
+peeche hat jaate hain.
+
+Par woh Bibishana tha—
+jo sach aur dharma ke saath tha.
+
+🪔 Is Adhyay ki Gehri Seekh
+
+Veerta bhi bhai ke dukh ke aage chup ho jaati hai
+
+Rama yahan maryada purushottam nahi—
+ek rota hua bhai hai
+
+Sachcha prem
+shakti ke saath-saath karuna bhi hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.50
     with st.expander("Chapter 6.50 – Garuda frees Rama and Lakshmana"):
         text1 = """
-        """
+        Chapter 50 – Garuda ne Rama aur Lakshmana ko Mukti di
+
+Yeh adhyay asha, daivi sahayata aur sachchai ki jeet ka sandesh deta hai 🌟
+Jab sab kuch toot-ta hua laga,
+tab bhagwan ki kripa khud utri.
+
+😨 Vanar Sena mein Afra-Tafri
+
+Sugriva hairaan hokar poochte hain:
+
+“Yeh bhagdad kyun?
+Sena toh toofan mein phansi naav jaise lag rahi hai!”
+
+Angada kehte hain:
+
+“Rama aur Lakshmana baanon se dhake hue,
+khoon mein latpat zameen par pade hain.”
+
+Par Sugriva mehsoos karte hain—
+kuch aur bhi gadbad hai."""
         create_image_text_layout("attached_assets/chapter6/6.50.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        ⚠️ Galat Pehchaan, Galat Darr
+
+Tabhi Bibishana
+gada haath mein liye bolte hue aate hain:
+
+“Victory to Rama! Victory to Rama!”
+
+Par vanar ghabra jaate hain—
+unhe lagta hai yeh Ravana ka beta hai 😰
+
+Sugriva turant Jambavan ko kehte hain:
+
+“Sabko batao, yeh Bibishana hai, shatru nahi!”
+
+Aur dheere-dheere sena shaant hoti hai 🌿
+
+😢 Bibishana ka Vilap
+
+Bibishana Rama-Lakshmana ko dekh kar toot jaate hain:
+
+“Mere bhai ke bete ne dhokhe se
+in dono veeron ko is haal mein laa diya!”
+
+Woh rote hue kehte hain:
+
+“Meri saari ummeed inhi par thi.
+Agar yeh na rahe, toh main bhi sab kho chuka hoon…”
+
+🤝 Sugriva ka Vishwas
+
+Sugriva Bibishana ko gale lagate hain:
+
+“Ravana aur uska beta jeet nahi sakte.
+Rama aur Lakshmana bachenge.
+Tum nishchint raho—
+Lanka ka raj tumhara hi hoga.”
+
+🌿 Sushena ka Upay
+
+Sugriva chahte hain Rama ko Kishkindha le jaaya jaaye,
+par Sushena bolte hain:
+
+“Isse pehle bhi dev-asur yuddh mein
+dev behosh hue the.
+Brihaspati ne unhe jadibootiyon se bachaya.”
+
+Woh kehte hain:
+
+Samjivani
+
+Vishalya
+
+yeh dono daivi jadibootiyan laani hongi.
+
+Aur kehte hain:
+
+“Is kaam ke liye
+Hanuman hi jaa sakte hain.”
+
+🌪️ Achanak Pralay jaisa Drishya
+
+Tabhi—
+
+tez aandhi 🌬️
+
+bijli ⚡
+
+samundar mein hulchul 🌊
+
+ped girne lage 🌳
+
+Sab dar gaye…
+
+🦅 Garuda ka Aagman
+
+Achanak aakash se
+aag ke gole jaise chamakte hue
+Garuda prakat hue 🦅✨
+
+Unhe dekhte hi—
+
+jo baan saap ban kar bandhe hue the
+
+woh turant bhaag gaye 🐍➡️
+
+Garuda ne Rama aur Lakshmana ko chhua.
+
+✨ Chamatkar
+
+Garuda ke sparsh se:
+
+zakhm bhar gaye
+
+chehra chamak utha
+
+bal, buddhi, yaad-dasht
+sab dugna ho gaya
+
+Rama aur Lakshmana
+phir se khade ho gaye 🌞
+
+🙏 Rama ka Prashn
+
+Rama poochte hain:
+
+“Aap kaun hain?
+Aapko dekh kar mujhe
+pita Dasharatha ki yaad aa rahi hai.”
+
+Garuda muskura kar kehte hain:
+
+“Main tumhara mitra hoon, Rama.
+Main Garuda hoon.”
+
+⚔️ Garuda ka Updesh
+
+Garuda kehte hain:
+
+“Indrajit ke jaadu ko
+devta bhi nahi tod sakte the.
+Tum dono bhagyashaali ho.”
+
+Aur chetavni dete hain:
+
+“Rakshas yuddh mein dhokha dete hain.
+Tumhara hathiyaar sirf dharma aur maryada hai.
+Kabhi un par bharosa mat karna.”
+
+🕊️ Vidaai aur Asha
+
+Garuda jaane se pehle kehte hain:
+
+“Jab Ravana marega
+aur Lanka shant hogi,
+tab tum Sita ko wapas laoge.”
+
+Aur phir
+hawa ki raftaar se
+aakash mein gaayab ho gaye 🌌
+
+🎉 Vanar Sena ka Utsav
+
+Rama aur Lakshmana ko theek dekh kar:
+
+vanar garajne lage 🦁
+
+nagade bajne lage 🥁
+
+shankh phoonke gaye 📯
+
+Aur phir—
+
+“Lanka par phir se hamla!”
+
+🌺 Is Adhyay ki Seekh
+
+Jab sab asha toot jaaye,
+tab bhi bhagwan ka sahara hota hai
+
+Dharm ke raaste par chalne wale
+kabhi akela nahi hota
+
+Dhokha kuch pal jeet sakta hai,
+par sachchai hamesha ant mein jeetti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
