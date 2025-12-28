@@ -10899,110 +10899,1411 @@ sirf veerta aur sankalp ka reh gaya tha."""
     # Chapter 6.91
     with st.expander("Chapter 6.91 – Indrajit is killed"):
         text1 = """
-        """
+        Chapter 91 – Indrajit ka Ant (Death of Indrajita)
+
+Ghode mar chuke the.
+Rath toot chuka tha.
+Phir bhi Indrajit
+gusse se jal raha tha.
+Uska veerata abhi zinda thi.
+
+Woh aur Lakshmana
+do jangli haathiyon jaise
+ek-dusre par toot pade.
+
+Vanar aur rakshas
+idhar-udhar lad rahe the.
+Koi apne neta ko chhodna nahi chahta tha."""
         create_image_text_layout("attached_assets/chapter6/6.91.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Tab Indrajit ne rakshason ko lalkaara,
+“Har taraf andhera hai.
+Dushman aur apna pehchaan mushkil hai.
+Dar mato!
+Main naya rath lekar
+phir yuddh mein aaunga!”
+
+Yeh keh kar woh chalaki se
+Lanka ke andar chala gaya.
+Wahan ek naya,
+sone se saja hua rath tayaar hua.
+Tez ghode.
+Chatur saarathi.
+
+Kismat use phir yuddh mein kheench laayi.
+Indrajit tezi se
+Lakshman aur Bibishana
+par toot pada.
+
+Naya rath dekh kar
+sab hairaan reh gaye.
+Indrajit ne
+vanaron par teeron ki barsaat kar di.
+Vanar ghabra kar
+Lakshman ke paas aa gaye.
+
+Tab Lakshman ne
+uska dhanush kaat diya.
+Indrajit ne doosra uthaya—
+woh bhi toot gaya.
+
+Lakshman ke paanch teer
+Indrajit ke seene mein lage.
+Khoon behne laga.
+
+Indrajit ne phir bhi haar nahi maani.
+Teeron ki baarish kar di.
+Par Lakshman
+hilay bhi nahi.
+
+Lakshman ne
+uske saarathi ka sir kaat diya.
+Ab ghode bina niyantran
+rath ghumane lage.
+
+Lakshman ke teeron se
+ghode bhi dar gaye.
+Indrajit ne gusse mein
+Lakshman ke maathe par
+teen teer maare.
+
+Lakshman ka chehra
+teen pahaadon jaisa chamak utha.
+Unhone turant
+Indrajit ke chehre par
+paanch teer chhod diye.
+
+Dono khoon se lath-path the.
+Phir bhi ladte rahe.
+Jaise do Kimshuka ke ped.
+
+Indrajit ne
+Bibishan aur vanar netaon ko bhi
+ghaayal kiya.
+Tab Bibishan ne
+gada se uske ghode gira diye.
+
+Indrajit rath se kood pada.
+Usne bhala phenka.
+Lakshman ne use
+hawa mein hi kaat diya.
+
+Ab divya astra nikle.
+Ek-dusre se takra kar
+jal kar toot gaye.
+Aakash kaanp utha.
+
+Devta, rishi, gandharv
+aakash se dekh rahe the.
+Sab ki saansein ruk gayi.
+
+Tab Lakshman ne
+Indra ka divya astra uthaya.
+Aur kaha,
+
+“Yadi Rama
+sach mein dharmic hain,
+toh yeh astra
+Ravana ke putra ka ant kare!”
+
+Dhanush kaan tak kheencha.
+Teer chhoda.
+
+Aur woh teer
+kabhi na chookne wala tha.
+
+Indrajit ka sundar sir
+dharti par gir pada.
+Khoon beh raha tha.
+Uska sharir
+yuddh-bhoomi par gir gaya.
+
+Indrajit mar chuka tha.
+
+Vanar zor se garaj uthe.
+Hanuman,
+Bibishan, Jambavan
+sab ne vijay ka naad kiya.
+
+Rakshas sena bhag khadi hui.
+Koi Lanka mein ghusa.
+Koi samudra mein kooda.
+Koi pahadon ki taraf bhaaga.
+
+Aakash se phool barse.
+Apsara naachi.
+Devta khush hue.
+
+Duniya ne saans li.
+Paani saaf ho gaya.
+Hawa pavitra ho gayi.
+
+Vanaron ne Lakshman ko gher liya.
+Taali bajayi.
+Poonch hilayi.
+
+“Jay Lakshman!
+Jay Lakshman!”
+
+Yeh yuddh
+sirf ek jeet nahi tha.
+Yeh adharm ke ek bade
+stambh ka patan tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.92
     with st.expander("Chapter 6.92 – Lakshmana is healed"):
         text1 = """
-        """
+        Chapter 92 – Lakshman ke Ghaav Bhar Gaye
+
+Lakshmana
+yuddh-bhoomi mein khade the.
+Sharir par ghaav the.
+Khoon laga hua tha.
+Par mann shaant tha.
+Indrajit ka ant ho chuka tha.
+
+Lakshman ne
+Jambavan,
+Hanuman
+aur vanar sena ko saath liya.
+Woh dheere-dheere
+Rama
+aur Sugriva
+ke paas laut aaye.
+Lakshman, Bibishana
+aur Hanuman ka sahara le rahe the."""
         create_image_text_layout("attached_assets/chapter6/6.92.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ke paas pahunch kar
+Lakshman ne pranam kiya.
+Teen baar parikrama ki.
+Aur bhai ke paas khade ho gaye.
+Jaise Indra ke paas Upendra khade hote hain.
+
+Tab Bibishan aage aaye.
+Unke chehre par khushi thi.
+Unhone Indrajit ke ant ki poori kahani sunayi.
+
+Yeh sun kar Rama ka mann bhar aaya.
+Unki aankhon mein garv tha.
+Unhone zor se kaha,
+“Bahut badhiya, Lakshman!
+Tumne bahut kathin kaam kiya hai.
+Indrajit ka marna
+hamari jeet ka nishaan hai.”
+
+Rama ne Lakshman ka sir chooma.
+Unhe apni god mein bithaya.
+Zakhmi bhai ko
+seene se laga liya.
+Baar-baar pyaar se dekha.
+
+Rama bole,
+“Tumne Ravana ka sabse bada sahara tod diya hai.
+Ab mujhe vishwas hai—
+Ravana bhi zyada din nahi tik paayega.”
+
+“Jab use apne putra ki mrityu ka pata chalega,
+woh poori sena ke saath aayega.
+Tab main uska ant karunga.”
+
+“Lakshman,
+tumhari vijay se
+Sita ko paana
+aur dharti par shanti laana
+ab mushkil nahi raha.”
+
+Rama ne Bibishan aur Hanuman ki bhi tareef ki.
+Sabka hausla aur badh gaya.
+
+Phir Rama ne
+Sushena
+ko bulaya.
+
+Rama bole,
+“Lakshman ke teer nikaalo.
+Unke ghaav turant bhar do.
+Aur jo bhi vanar aur bhalu ghaayal hain,
+sabka ilaaj karo.”
+
+Sushena aage aaye.
+Unhone ek divya aushadhi
+Lakshman ki naak ke paas rakhi.
+
+Jaise hi Lakshman ne
+uski sugandh li—
+sab teer apne aap nikal gaye.
+Ghaav bhar gaye.
+Dard gayab ho gaya.
+Bukhaar bhi utar gaya.
+
+Lakshman phir se
+poori tarah swasth ho gaye.
+Unke chehre par tej tha.
+
+Rama, Sugriva, Bibishan,
+Hanuman aur Jambavan—
+sab khushi se bhar gaye.
+
+Rama ne muskurate hue kaha,
+“Yeh vijay
+sirf shuruaat hai.”
+
+Indrajit gir chuka tha.
+Ab Lanka ka ant
+nazdeek aa raha tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.93
     with st.expander("Chapter 6.93 – Ravana mourns his son’s death"):
         text1 = """
-        """
+        Chapter 93 – Indrajit ki Mrityu ka Shok aur Ravana ka Krodh
+
+Lanka ke dooton ne
+jab Indrajit
+ki mrityu dekhi,
+toh bina der kiye
+yeh samachar
+Ravana
+tak pahuncha diya.
+
+Unhone kaha,
+“Hey Maharaj,
+aapke putra Indrajit
+Lakshmana
+ke haathon mare gaye hain.
+Unke saath Bibishana bhi tha.
+Humne yeh sab
+apni aankhon se dekha hai.”
+
+“Jo kabhi yuddh mein haara nahi,
+jisne Indra samet devtaon ko jeeta,
+woh aaj veergati ko praapt ho gaya.”"""
         create_image_text_layout("attached_assets/chapter6/6.93.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Yeh sunte hi
+Ravana zameen par gir pada.
+Kuch pal ke liye
+uski chetna hi chali gayi.
+
+Hosh aane par
+woh zor-zor se rone laga.
+
+Ravana cheekha,
+“Hey Indrajit!
+Tum kaise haar gaye?
+Tum toh Mrityu ko bhi hara sakte the!”
+
+“Aaj Yama mujhe
+aur bhi bhayanak lagne laga hai.
+Tumhare bina
+teenon lok mujhe soone lag rahe hain.”
+
+“Tum mujhe, apni maa ko,
+Lanka ko chhod kar
+kahaan chale gaye?”
+
+“Hey putra,
+tumse pehle mujhe mar jaana chahiye tha!”
+
+Uska shok
+ab bhayanak krodh mein badalne laga.
+Uski aankhen aag jaise jal rahi thi.
+Aansoo
+ubalte tel jaise gir rahe the.
+
+Woh dahadta hua bola,
+“Brahma ke vardaan se
+main dev aur asur se ajey hoon!”
+
+“Mera kavach
+kisi vajra se bhi nahi toot sakta.
+Aaj kaun hai
+jo mera saamna karega?”
+
+“Main apna dhanush uthakar
+Rama
+aur Lakshman ka
+vinash kar dunga!”
+
+Putra ke shok mein
+Ravana ka vivek toot gaya.
+Usne bhayanak baat keh di—
+
+“Indrajit ne
+jhoothi Sita dikhayi thi.
+Ab main
+asli Sita
+ko maar dunga!”
+
+Talwar uthakar
+woh Ashok Vatika ki taraf daud pada.
+Uski patniyaan aur mantri
+use rokne lage,
+par woh nahi ruka.
+
+Rakshas garajne lage,
+“Aaj Rama aur Lakshman
+zaroor girenge!”
+
+Ashok Vatika mein
+Sita ne Ravana ko
+talwar ke saath aate dekha.
+Woh kaanp uthi.
+
+Sita rone lagi,
+“Lagta hai Ravana mujhe maarne aaya hai.”
+
+“Ya shayad
+Rama aur Lakshman
+mere kaaran mar gaye hain.”
+
+“Aaj jo shankh aur nagade baj rahe hain,
+kya yeh meri barbadi ka sanket hai?”
+
+“Agar main Hanuman ke saath chali jaati,
+toh aaj apne prabhu ke paas hoti.”
+
+“Haay Maa Kaushalya!
+Unka hriday toot jaayega.”
+
+Isi beech
+Ravana ke buddhimaan mantri
+Suparshva
+aage aaye.
+
+Unhone kaha,
+“Hey Dashanan,
+krodh mein stri-vadh adharm hai.”
+
+“Aap veer hain.
+Yuddh mein jaaiye.
+Kal amavasya hai—
+poori sena ke saath nikliye.”
+
+“Rama se yuddh karke
+jeet haasil kijiye.”
+
+Suparshva ki baat
+Ravana ke mann mein baith gayi.
+Uska krodh
+thoda shaant hua.
+
+Woh talwar neeche rakh kar
+sabha bhavan ki taraf
+laut gaya.
+
+Par Lanka jaanti thi—
+aakhri yuddh
+ab door nahi tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.94
     with st.expander("Chapter 6.94 – Rama fights bravely"):
         text1 = """
-        """
+        Chapter 94 – Rama ke Adbhut Parakram
+
+Sabha bhavan mein baith kar
+Ravana
+apne putra ke shok se toot chuka tha.
+Uski saansein
+ghayal sher jaise chal rahi thi.
+
+Usne sena ke netaon se kaha,
+“Ghode, rath, haathi—
+sab lekar nikal jao.”
+
+“Sirf Rama par vaar karo.
+Teeron ki barsaat kar do.”
+
+“Kal main khud
+sabke saamne
+Rama ka ant karunga.”"""
         create_image_text_layout("attached_assets/chapter6/6.94.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ravana ka aadesh sun kar
+rakshas sena nikal padi.
+Haath mein gada, talwaar,
+kulhaadi aur bhale the.
+
+Vanar bhi peeche nahi rahe.
+Unhone patthar aur ped uthaye.
+Suraj ugte hi
+bhayanak yuddh shuru ho gaya.
+
+Khoon ki nadiyaan behne lagi.
+Dhool aur cheekh se
+aakash bhar gaya.
+
+Vanar ghaavon se bhare the.
+Phir bhi veerta se lade.
+Par rakshas sena bahut badi thi.
+
+Ant mein
+vanar bhaag kar
+Rama ke paas aa gaye.
+Rama hi unka
+aakhri sahaara the.
+
+Tab Rama ne
+apna dhanush uthaya.
+Aur seedhe
+rakshas sena ke beech
+ghus gaye.
+
+Jaise suraj
+baadalon ke andar jaata hai,
+waise hi Rama
+dushman ke beech
+adrishya ho gaye.
+
+Sirf teer dikh rahe the.
+Rakshas gir rahe the.
+Par Rama kahaan hain—
+yeh kisi ko samajh nahi aa raha tha.
+
+Rakshas chillaye,
+“Yeh Rama hai!”
+Par ghabrahat mein
+ek-doosre ko hi
+Rama samajh kar
+maarne lage.
+
+Rama ne
+Gandharva Astra ka prayog kiya.
+Kabhi ek Rama dikhta.
+Kabhi hazaar.
+
+Unka dhanush
+jalti hui mashaal
+jaisa lag raha tha.
+
+Aisa lag raha tha
+jaise samay ka chakra
+ghoom raha ho.
+Aur uske beech
+Rama khade hoon.
+
+Sirf kuch hi ghanton mein
+Rama ne akele
+rakshas sena ko
+nasht kar diya.
+
+18,000 haathi.
+14,000 ghode.
+2 lakh paidal sainik.
+
+Sab gir chuke the.
+
+Jo bache,
+woh jaan bachakar
+Lanka bhaag gaye.
+
+Yuddh-bhoomi
+Rudra ke khel-sthal
+jaisi lag rahi thi.
+
+Aakash se
+devta bole,
+“Bahut achha!
+Bahut achha!”
+
+Sugriva
+Jambavan
+aur vanar neta
+Rama ke paas aaye.
+
+Rama shaant swar mein bole,
+“Is astra ko
+sirf main aur
+Shiva
+hi chala sakte hain.”
+
+Devta Rama ko
+pranam karne lage.
+Unka mann
+garv se bhar gaya.
+
+Yeh sirf yuddh nahi tha.
+Yeh dharma ka prakash tha.
+Aur adharm par
+ek aur bada prahaar."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.95
     with st.expander("Chapter 6.95 – Demon women cry in grief"):
         text1 = """
-        """
+        Chapter 95 – Rakshasiyon ka Vilap (The Lament of the Titan Women)
+
+Rama ke sunehre teeron se
+hazaaron haathi, ghode, rath
+aur veer rakshas gir chuke the.
+Aag jaise chamakte jhande
+ab dhool mein pade the.
+
+Jo rakshas bach gaye the,
+woh dar se kaanp rahe the.
+Aur unki patniyaan—
+jinhe apne putra, pati, bhai kho dene pade—
+ek jagah ikattha ho kar
+zor-zor se rone lagi."""
         create_image_text_layout("attached_assets/chapter6/6.95.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Woh bol uthi—
+
+“Kaise us buddhi-hin Shurpanakha
+ne van mein Rama
+jaise mahaan purush ko
+apni ichchha dikhayi?”
+
+“Jo buddhi se andhi thi,
+jo roop aur maryada se khaali thi,
+usi ke kaaran
+Khara aur Dushana mare gaye!”
+
+“Usi ke kaaran
+Ravana
+ne Sita ka apaharan kiya
+aur Rama jaise shaktishaali
+veer ka krodh mol liya!”
+
+“Viradha ne bhi Sita ko chhoona chaha tha—
+Rama ne use bhi maar diya.”
+“Janasthaan mein
+14,000 rakshas
+Rama ke teeron se gir gaye.”
+
+“Khara, Dushana, Trishiras—
+sab mare gaye.”
+“Kabandh jaisa bhayanak rakshas bhi
+Rama se bach nahi paaya.”
+
+“Bali
+jaisa mahaan yoddha bhi
+Rama ke haath se gira.”
+“Sugriva
+ko phir se rajya mila—
+yeh sab Rama ki shakti ka pramaan tha.”
+
+“Phir bhi Ravana ne
+kisi ki baat nahi maani.”
+“Bibishana
+ne sachcha updesh diya,
+par usse bhi thukra diya.”
+
+“Agar Ravana ne
+Bibishana ki baat maani hoti,
+toh aaj Lanka
+shav-bhoomi nahi hoti!”
+
+“Kumbhakarna mara.”
+“Atikaya gira.”
+“Indrajit bhi chala gaya.”
+“Phir bhi Ravana ki aankhen nahi khuli.”
+
+“Har ghar se yahi awaaz aa rahi hai—
+‘Mera putra mara.’
+‘Mera pati gira.’
+‘Mera bhai nahi raha.’”
+
+“Rama ne
+haathi, ghode, sainik—
+sab nasht kar diye.”
+“Yeh kaun hai?
+Rudra? Vishnu? Indra?”
+“Ya swayam Kaal?”
+
+“Ravana ko apne vardaan par
+bahut ghamand tha.”
+“Usne devtaon se raksha maangi,
+par manav se nahi.”
+
+“Isi liye Rama—
+ek manav roop mein—
+hamara vinash ban gaya.”
+
+“Devta pehle hi jaante the
+ki ek stri ke kaaran
+rakshason ka ant hoga.”
+
+“Us stri ka naam—
+Sita.”
+
+“Sita ko utha kar
+Ravana ne
+apni hi kabar khod li.”
+
+“Ab humein
+koi bacha nahi sakta.”
+“Hum Rama ke haath aa chuke hain—
+jo samay ke samaan
+sab kuch mita deta hai.”
+
+“Bibishana ne samay pe pehchaan liya
+aur sahi sharan chuni.”
+
+Rakshasiyon ne
+ek-doosre ke haath pakad liye.
+Aankhon mein aansoo the.
+Dil mein bhay aur pachtava tha.
+
+Yeh vilap sirf shok ka nahi tha—
+yeh ahankaar ke ant ka ghoshna-patra tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.96
     with st.expander("Chapter 6.96 – Ravana goes to fight and sees bad signs"):
         text1 = """
-        """
+        Chapter 96 – Ravana Yuddh ke liye Nikalta Hai aur Apashakun Dikhte Hain
+
+Lanka ke har ghar se
+rakshasiyon ke rone ki awaaz
+Ravana
+ke kaanon tak pahunch rahi thi.
+Woh der tak saans leta raha.
+Phir uske mann mein
+aag bhadak uthi.
+
+Usne hoth kaat liye.
+Aankhen laal ho gayi.
+Uska roop itna bhayanak tha
+ki khud rakshas bhi
+usse dekh na paayein.
+Woh pralaya ki aag jaisa lag raha tha."""
         create_image_text_layout("attached_assets/chapter6/6.96.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Gusse mein garaj kar bola,
+“Mahodara, Mahaparshva
+aur Virupaksha
+ko turant bulao.
+Sena ko yuddh ke liye taiyaar karo!”
+
+Dar ke maare
+rakshas neta jhuk gaye.
+Sab ne ek saath kaha,
+“Jaise aagya, Maharaj!”
+
+Pooja-path hua.
+Ashirvaad liya gaya.
+Aur veer rath par chadh kar
+yuddh-bhoomi ki ore chal pade.
+
+Ravana hansa.
+Par woh hansna
+khaufnaak tha.
+
+Woh bola,
+“Aaj main apne teeron se
+Rama
+aur Lakshmana
+ko Yama ke lok bhej dunga!”
+
+“Khara, Kumbhakarna,
+Prahasta aur Indrajit—
+sab ka badla aaj poora hoga!”
+
+“Aaj mere teeron se
+aakash, disha, samudra—
+sab chhup jaayenge.”
+
+“Aaj vanar sena
+mere baanon ke samundar mein
+doob jaayegi.”
+
+“Aaj giddh aur lomdiyaan
+dushman ke maans se
+apna pet bharegi!”
+
+“Rath taiyaar karo!
+Dhanush lao!
+Jo rakshas bache hain,
+mere saath chalo!”
+
+Mahaparshva ne
+sena netaon ko hukm diya.
+Ghar-ghar jaakar
+rakshason ko bulaya gaya.
+
+Talwaar, bhala, gada,
+kulhaadi, chakr,
+bhindipaal aur shatagni—
+har tarah ke shastra uth gaye.
+
+Laakhon rath aaye.
+Laakhon haathi.
+Karodon ghode.
+Anaginat paidal sainik.
+
+Ravana ka rath
+divya shastra se bhara tha.
+Sone aur motiyon se saja tha.
+Ghantiyaan baj rahi thi.
+Jaise suraj khud chal raha ho.
+
+Ravana us rath par chadha.
+Dharti kaanp uthi.
+Nagaade, shankh,
+aur yuddh-ninad goonj uthe.
+
+Log chillaye,
+“Dekho!
+Sita ka haran karne wala
+Raghukul ke veer se
+ladne ja raha hai!”
+
+Ravana poore ghamand se aage badha.
+Mahodara, Mahaparshva
+aur Virupaksha
+bhi apne rathon par chadh gaye.
+
+Par jaise hi Ravana
+yuddh ke liye nikla—
+apashakun shuru ho gaye.
+
+Suraj feeka pad gaya.
+Aakash andhera ho gaya.
+Pakshi bhayanak cheekhne lage.
+Dharti kaanp uthi.
+
+Devtaon ne
+khoon ki baarish ki.
+Ravana ke ghode
+ladkhada gaye.
+
+Uske jhande par
+giddh baith gaya.
+Lomdiyaan bol uthi.
+
+Ravana ki baayi aankh phadki.
+Baaya haath kaanp utha.
+Chehra peela pad gaya.
+Awaaz bhi kamzor ho gayi.
+
+Aakash se
+ulka giri.
+Garaj hui.
+
+Yeh sab
+uski mrityu ka sanket tha.
+
+Par Ravana nahi ruka.
+Usne apashakun ko nazarandaaz kiya.
+Kismat use
+vinash ki taraf
+kheenche ja rahi thi.
+
+Yuddh-ninad sun kar
+vanar sena bhi
+taiyaar ho gayi.
+Dono taraf se
+lalkar goonj uthi.
+
+Ravana ne
+sone ke teeron se
+vanaron par kahar barsaya.
+Kisi ka sir kata.
+Kisi ka hriday chhida.
+Kisi ke kaan,
+kisi ki aankhen gayi.
+
+Jab bhi das-sir wala Ravana
+rath modta,
+uska prahaar
+rokna mushkil ho jaata.
+
+Yeh yuddh
+sirf shastra ka nahi tha.
+Yeh ghamand aur dharma
+ke beech
+antim takraav tha.
+
+Aur Ravana,
+apashakun ke beech,
+apne ant ki ore
+badhta chala ja raha tha…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.97
     with st.expander("Chapter 6.97 – Sugriva fights Virupaksha"):
         text1 = """
-        """
+        Chapter 97 – Sugriva aur Virupaksha ka Yuddh (Virupaksha ka Ant)
+
+Ravana ke teeron se
+bahut se vanar gir chuke the.
+Unke shav dharti par pade the.
+Vanar sena
+aag mein phanse patangon jaise
+idhar-udhar bhaag rahi thi.
+
+Ravana
+teeron ki barsaat karta hua
+aage badh raha tha.
+Vanar cheekhte hue
+jalte hue haathiyon ki tarah
+bhaagne lage.
+
+Ravana, gusse mein,
+sabko hata kar
+Rama
+ko dhoondhne laga."""
         create_image_text_layout("attached_assets/chapter6/6.97.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Yeh sab dekh kar
+Sugriva
+ka khoon khol utha.
+Usne apni sena ka bhaar
+Sushena
+ko saunp diya.
+
+Phir Sugriva
+khud yuddh ke liye aage badha.
+Haath mein ek bada ped tha.
+Uske saath-saath
+sab vanar neta bhi
+patthar aur ped uthaye chal pade.
+
+Sugriva ne zor se garjana ki.
+Aur rakshas sena par toot pada.
+Jaise pralaya ke samay
+toofan ped gira deta hai,
+waise hi Sugriva
+rakshason ko kuchalta chala gaya.
+
+Pattharon ki barsaat hui.
+Rakshas
+kaan aur sir katne ke baad
+pahaadon ki tarah girne lage.
+Cheekhon se aakash bhar gaya.
+
+Tab Virupaksha
+aage aaya.
+Usne apna naam pukara.
+Rath se kood kar
+haathi par chadh gaya.
+
+Zor se garaj kar
+woh vanaron par toot pada.
+Usne Sugriva par
+teeron ki barsaat kar di.
+Rakshas sena ka hausla
+phir se jaag utha.
+
+Sugriva ghaavon se bhara tha.
+Par gussa aur badh gaya.
+Usne ek bada ped uthaya
+aur haathi ke sir par de maara.
+
+Haathi cheekhta hua
+dharti par gir pada.
+
+Virupaksha haathi se kood gaya.
+Talwar nikaali.
+Bull ki khaal se bane
+kavach mein saja hua
+Sugriva ki taraf dauda.
+
+Sugriva ne
+ek bada patthar phenka.
+Virupaksha bach gaya.
+Aur talwar se
+Sugriva par vaar kiya.
+
+Sugriva kuch pal ke liye
+behhosh ho kar gir gaya.
+
+Par agle hi pal
+Sugriva uth khada hua.
+Usne apni mutthi ghumayi
+aur Virupaksha ke seene par
+zor se maar diya.
+
+Virupaksha ne bhi
+Sugriva ka kavach kaat diya.
+Sugriva ghutnon par aa gira.
+
+Phir Sugriva sambhla.
+Aur bijli jaisi
+ek punch maari.
+Virupaksha bach gaya
+aur palat kar
+Sugriva ke seene par vaar kiya.
+
+Ab Sugriva
+poori tarah bhadak chuka tha.
+Mauka dekh kar
+usne Virupaksha ke
+kanpatti par
+Indra ke vajra jaise
+zor se prahaar kiya.
+
+Virupaksha
+dharti par gir pada.
+Uske muh se khoon behne laga.
+Woh karahne laga.
+Aankhen ghoom rahi thi.
+
+Vanaron ne dekha—
+dushman ka ant aa chuka tha.
+
+Idhar-udhar
+vanar aur rakshas sena
+ab bhi lad rahi thi.
+Cheekhon aur shor se
+sab kuch goonj raha tha.
+Jaise do samundar
+takra rahe ho.
+
+Virupaksha,
+Sugriva ke haathon
+yuddh-bhoomi par
+gir chuka tha.
+
+Vanar sena ka hausla
+aasmaan chhoone laga.
+Rakshas sena ka ek aur
+bada sahara
+toot chuka tha.
+
+Yeh sirf ek yuddh nahi tha—
+yeh adharm par dharma ki
+ek aur tez chot thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.98
     with st.expander("Chapter 6.98 – Sugriva kills Mahodara"):
         text1 = """
-        """
+        Chapter 98 – Mahodara ka Ant (Sugriva ke Haathon)
+
+Yuddh bahut bhayanak ho chuka tha.
+Dono senayein
+garmiyon mein sookhte hue
+do talaabon jaise
+dheere-dheere ghul rahi thi.
+
+Apni sena ka nash
+aur Virupaksha
+ki mrityu dekh kar
+Ravana
+ka gussa dugna ho gaya.
+Usne samajh liya—
+bhagya ab uske khilaaf hai.
+Uske mann mein
+dar bhi aa gaya."""
         create_image_text_layout("attached_assets/chapter6/6.98.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ravana ne paas khade
+Mahodara
+se kaha,
+“Ab tum hi meri
+aakhri aas ho.”
+
+“Jaao!
+Aaj apni veerta dikhao.
+Mere upkaar ka
+karz chukane ka
+yehi samay hai!”
+
+Mahodara ne garaj kar kaha,
+“Jaise aagya, Maharaj!”
+Aur woh dushman sena par
+aise toot pada
+jaise patanga aag par.
+
+Mahodara ne
+vanaron ke beech
+bhayankar sanhaar macha diya.
+Uske sunehre teeron se
+vanaron ke haath, pair
+aur janghein katne lagi.
+
+Kai vanar
+jaan bachakar bhaage.
+Kuch Sugriva
+ke paas aa gaye.
+
+Yeh dekh kar
+Sugriva ka khoon khol utha.
+Woh seedha
+Mahodara ki taraf dauda.
+
+Sugriva ne
+ek pahaad jaisa
+bada patthar uthaya
+aur zor se phenka.
+
+Mahodara ne
+shaant rehte hue
+use apne teeron se
+tukde-tukde kar diya.
+Patthar ke tukde
+giddhon ke jhund jaise
+zameen par gir pade.
+
+Sugriva aur bhi bhadak gaya.
+Usne ek Saala ka ped ukhaada
+aur Mahodara par de maara.
+Par Mahodara ne
+use bhi tod diya.
+
+Tab Sugriva ne
+zameen par padi
+ek lohe ki mekh (iron bar) uthayi
+aur ek zor ke vaar se
+Mahodara ke ghodon ko
+dharti par gira diya.
+
+Rath bekaar ho gaya.
+Mahodara kood kar neeche aaya.
+Usne gada uthayi.
+
+Ab dono saamne the—
+Sugriva ke haath mein
+lohe ki mekh,
+Mahodara ke haath mein
+chamakti hui gada.
+
+Dono garje.
+Jaise bijli se bhare
+do kaale baadal.
+
+Mahodara ne gada se
+zor ka vaar kiya.
+Par Sugriva ne
+poori taakat se prahaar kar ke
+gada tod di.
+
+Sugriva ne phir
+ek badi sunehri gada uthayi
+aur Mahodara ki gada par de maari.
+Is baar
+dono hi shastra
+tukdon mein bikhar gaye.
+
+Ab shastra nahi bache the.
+Dono ne
+ghoonson se ladna shuru kiya.
+Mukke barasne lage.
+Dono jalte hue angaaron
+jaise lag rahe the.
+
+Kuch der baad
+zameen par pade
+talwaar uthayi gayi.
+Dono phir se
+ek-doosre par toot pade.
+
+Mahodara ne gusse mein
+Sugriva ke kavach par
+talwaar maari—
+par talwaar hi toot gayi.
+
+Yeh mauka tha.
+
+Sugriva ne
+apni talwaar uthayi
+aur ek hi vaar mein
+Mahodara ka sir
+dhad se alag kar diya.
+
+Sunehra mukut,
+kundal laga sir
+dharti par gir pada.
+
+Apne neta ko
+sir-vihin dekh kar
+rakshas sena ka hausla
+toot gaya.
+Sab bhaag khade hue.
+
+Vanar sena
+khushi se garaj uthi.
+Sugriva vijayi tha.
+
+Ravana ka gussa
+aur bhadak utha.
+Par Rama
+ka mann
+prasann ho gaya.
+
+Mahodara ko gira kar
+Surya-putra Sugriva
+suraj ki tarah
+tej se chamak raha tha.
+
+Devta, rishi, yaksh
+aur prithvi ke sab jeev
+us vijay ko
+khushi se dekh rahe the.
+
+Yeh sirf ek yoddha ki haar nahi thi—
+yeh adharm ki ek aur
+badi giraavat thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.99
     with st.expander("Chapter 6.99 – Angada fights Mahaparshva"):
         text1 = """
-        """
+        Chapter 99 – Angada aur Mahaparshva ka Yuddh
+
+Mahodara
+jab Sugriva
+ke haathon mara gaya,
+toh Mahaparshva
+ka gussa bhadak utha.
+
+Uski aankhen laal ho gayi.
+Usne teer chalaane shuru kiye.
+Vanaron ki panktiyaan
+bikharne lagi.
+
+Jaise hawa phal ko daal se tod deti hai,
+waise hi Mahaparshva
+vanaron ke haath-pair kaat raha tha.
+Kuch ke haath kat gaye.
+Kuch ke seene chhid gaye.
+
+Vanar darr gaye.
+Unka hausla tootne laga."""
         create_image_text_layout("attached_assets/chapter6/6.99.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Tab Angada
+aage badha.
+Samundar ki tarah garajta hua.
+Usne apni sena ko
+saans lene ka mauka dena chaha.
+
+Angada ne
+suraj jaisi chamakti
+lohe ki mekh uthayi.
+Aur zor se
+Mahaparshva par de maari.
+
+Mahaparshva behosh ho gaya.
+Rath se neeche gir pada.
+Saarathi bhi mara ja chuka tha.
+
+Isi waqt
+Jambavan
+aage badhe.
+Unke haath mein
+pahaad jaisa patthar tha.
+Unhone Mahaparshva ke
+ghode aur rath tod diye.
+
+Par Mahaparshva phir sambhal gaya.
+Usne phir se
+teeron ki barsaat kar di.
+
+Angada ghaayal hua.
+Jambavan ke seene mein
+bhale lage.
+Gavaksha
+bhi teeron se chhalni ho gaya.
+
+Angada ka gussa
+ab seema paar tha.
+Usne ek bahut badi
+lohe ki mekh uthayi.
+Dono haathon se ghumayi.
+Aur Mahaparshva par phenki.
+
+Woh mekh
+Mahaparshva ke haath se
+dhanush gira gayi.
+Uska helmet bhi udd gaya.
+
+Angada ne ek hi chhalaang mein
+aage badh kar
+uske kaan par
+zor ka mukka maara.
+
+Mahaparshva gusse se paagal ho gaya.
+Usne badi kulhaadi uthayi.
+Aur Angada par vaar kiya.
+Par vaar kavach se phisal gaya.
+
+Yahi mauka tha.
+
+Angada ne
+bijli jaise taakat se
+apni mutthi uthayi.
+Aur seene par
+Indra ke vajra jaisa
+prahār kiya.
+
+Mahaparshva
+wahin gir pada.
+Uski saans ruk gayi.
+
+Mahaparshva mar chuka tha.
+
+Yeh dekh kar
+rakshas sena darr gayi.
+Unka hausla toot gaya.
+Aur Ravana
+gusse se kaanp utha.
+
+Vanar sena
+khushi se garaj uthi.
+Angada ka naam
+door-door tak goonj gaya.
+
+Aakash mein devta bhi
+khushi se chillaye.
+Par Ravana ne
+yeh shor suna
+aur phir se yuddh ke liye
+tayaar hone ka nischay kiya.
+
+Seekh (Moral):
+Jab ahankaar talwaar ban jaata hai,
+toh dharma ka ek sachcha vaar
+use tod deta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.100
     with st.expander("Chapter 6.100 – Rama and Ravana fight with magic weapons"):
         text1 = """
-        """
+        Chapter 100 – Rama aur Ravana ka Jaadu-Bhara Yuddh
+
+Jab Mahodara,
+Mahaparshva
+aur Virupaksha
+sab mare ja chuke the,
+toh Ravana
+ka gussa aag ban gaya.
+
+Usne apne saarathi se kaha,
+“Ab main Rama
+aur Lakshmana
+ko maar kar sabka badla loonga.
+Yeh sab mere logon ke dukh ka kaaran hain.”
+
+Ravana ne kaha,
+“Rama ek vriksh hai.
+Sita uska phool hai.
+Aur Sugriva, Hanuman, Angada jaise vanar
+uski shaakhaayein hain.
+Aaj main us vriksh ko kaat doonga.”"""
         create_image_text_layout("attached_assets/chapter6/6.100.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Ravana apna rath tez chalata hua
+Rama ki taraf badha.
+Zameen kaanp uthi.
+Pahaad, nadiyaan, jungle
+sab hil gaye.
+Pashu-pakshi darr gaye.
+
+Ravana ne ek kaala jaadu-astra chalaaya.
+Vanar idhar-udhar bhaagne lage.
+Dhool aur shor chha gaya.
+
+Par Rama khade rahe.
+Shaant.
+Mazboot.
+Unke paas Lakshmana the.
+Jaise Indra ke paas Vishnu.
+
+Rama ne apna mahaan dhanush uthaya.
+Uski awaaz se
+zameen tak goonj uthi.
+Ravana ne bhi teeron ki barsaat kar di.
+
+Lakshmana ne pehle vaar kiya.
+Par Ravana ne
+har teer hawa mein hi kaat diya.
+Ek se ek.
+Teen se teen.
+Das se das.
+
+Ravana seedha Rama par aaya.
+Uski aankhen gusse se laal thi.
+Usne hazaaron teer chalaaye.
+
+Rama ne bhi
+apne teeron se
+sab kaat diye.
+Jaise saanp kat jaate hain.
+
+Dono mahaan yoddha
+ek-dusre ke chakkar kaatne lage.
+Teer upar-neeche ud rahe the.
+Aasmaan andhera ho gaya.
+Bijli chamak rahi thi.
+
+Yeh yuddh
+Indra aur Vritra jaise lag raha tha.
+Sab devta dekh rahe the.
+Sab darr gaye the.
+
+Ravana ne lohe ke bhaari teer
+Rama ke maathe par chalaaye.
+Par Rama bilkul nahi hile.
+Jaise kamal ke phool lage hon.
+
+Rama ne Rudra-astra chalaaya.
+Par Ravana ka kavach
+toota nahi.
+
+Tab Ravana ne
+bhayanak Asura-astra chalaaya.
+Uske teer ajeeb the.
+Kuch sher ke chehre jaise.
+Kuch saanp jaise.
+Kuch panch-sir wale.
+
+Vanar darr gaye.
+
+Tab Rama ne
+Agneya-astra uthaya.
+Aag jaise chamakte teer.
+Suraj aur sitaaron jaise ujale.
+
+Jaise hi dono astra takraaye,
+aag aur roshni phail gayi.
+Hazaaron jaadu-teer
+hawa mein hi nasht ho gaye.
+
+Ravana ka jaadu
+toot gaya.
+
+Yeh dekh kar
+Sugriva
+aur saare vanar
+khushi se chillaye.
+Unhone Rama ko gher liya.
+Aur jai-jai kaar ki.
+
+Rama muskuraaye.
+Unka mann shaant tha.
+Unhone ek aur baar
+sabko bachaa liya.
+
+Seekh (Moral):
+Jaadu aur gussa
+thode samay ke liye bhayanak lagte hain,
+par sachcha dhairya aur dharma
+hamesha jeet jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
