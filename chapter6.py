@@ -7570,110 +7570,1268 @@ Par bhay se uthaya gaya bal bhi ant mein dharm ke saamne girta hai"""
     # Chapter 6.61
     with st.expander("Chapter 6.61 – The story of Kumbhakarna is told"):
         text1 = """
-        """
+        Rama apna dhanush haath mein liye khade the.
+Tab unhone dekha ek bahut bada rakshas aage badh raha hai.
+Uske sir par mukut tha.
+Badan pahaad jaisa.
+Aankhen peeli aur bhayanak.
+
+Usse dekh kar vanar sena phir se ghabra gayi 😨
+Kuch bhag gaye, kuch chup gaye.
+
+Rama thode hairaan hue.
+Unhone Bibishana se poocha:
+
+“Yeh kaun hai?
+Itna bada, itna bhayanak!
+Maine aaj tak aisa jeev nahi dekha.”"""
         create_image_text_layout("attached_assets/chapter6/6.61.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        📖 Bibishana ne batayi Kumbhakarna ki purani kahani
+
+Bibishana bole, shaant awaaz mein:
+
+“Prabhu, yeh Kumbhakarna hai.
+Ravana ka bhai.
+Sabse zyada shaktishaali rakshas.
+
+Yeh sirf vardaan se strong nahi hai.
+Yeh janm se hi maha-shaktimaan hai.”
+
+👶 Janm se hi bhookh aur vinash
+
+Jab Kumbhakarna paida hua,
+toh bachcha hote hue bhi usse bahut bhookh lagti thi.
+
+Woh hazaaron logon ko kha gaya
+
+Rishiyon ke ashram ujaad diye
+
+Devta bhi darr gaye
+
+Sab log Indra ke paas gaye aur bole:
+
+“Agar yeh aise hi raha, duniya khatam ho jayegi!”
+
+⚡ Devta aur Brahma ka nirnay
+
+Indra ne apna vajra chalaya.
+Par Kumbhakarna rukne wala nahi tha.
+
+Aakhir sab Brahma ji ke paas gaye.
+Brahma ji ne Kumbhakarna ko bula kar kaha:
+
+“Tum duniya ke liye khatra ho.
+Aaj se tum gehri neend mein rahoge.”
+
+Yeh sunte hi Kumbhakarna gir pada.
+Shap lag chuka tha.
+
+😴 Neend ka vardaan aur shraap
+
+Ravana ghabra gaya.
+Usne Brahma ji se vinati ki:
+
+“Use hamesha ke liye mat sulaiye.
+Thoda samay jagne ka bhi de dijiye.”
+
+Brahma ji ne kaha:
+
+6 mahine neend
+
+1 din jagna
+
+Sirf ek din ke liye woh uthta,
+khata-peeta
+phir wapas so jata.
+
+⚠️ Aaj kyun jaga Kumbhakarna?
+
+Bibishana bole:
+
+“Rama,
+aaj Ravana darr gaya hai.
+Isliye usne Kumbhakarna ko jagaya.
+
+Kumbhakarna ab bhookh aur gusse mein hai.
+Woh vanaron ko kha jana chahta hai.”
+
+Vanar sena yeh sun kar aur darr gayi 😟
+
+🕊️ Rama ka sahas aur buddhi
+
+Rama muskuraye 😊
+Aur bole:
+
+“Yeh sirf darr ka roop hai.
+Koi machine nahi, par
+dharm ke saamne koi shakti tik nahi sakti.”
+
+Phir Rama ne Nila ko aadesh diya:
+
+Vanar sena ko sambhalo
+
+Pathar, ped, chattan uthao
+
+Darna nahi
+
+🐒 Vanar sena ka hausla wapas aaya
+
+Hanuman, Angada, Nila, Gavaksha
+sab aage badhe 💪
+
+Vanar phir se garje:
+
+“Jai Shri Rama!”
+
+Ped aur chattan haath mein liye
+woh Lanka ke darwazon ki taraf badhne lage.
+
+🌟 Is Adhyay ki Seekh
+
+Bina buddhi ke shakti vinash laati hai
+
+Bhay se jagaya gaya bal andha hota hai
+
+Sachcha sahas gyaan aur dharm se aata hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.62
     with st.expander("Chapter 6.62 – Kumbhakarna meets Ravana"):
         text1 = """
-        """
+        Kumbhakarna, jo abhi-abhi gehri neend se jaga tha, apni poori bhayanak shakti ke saath Lanka ke rajpath par aage badh raha tha.
+Uska har kadam dharti ko kaanpa deta tha.
+
+Hazaaron rakshas uske saath the,
+ghar-ghar se phoolon ki varsha ho rahi thi 🌸
+jaise koi maha-yoddha vijay yatra par ho."""
         create_image_text_layout("attached_assets/chapter6/6.62.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🏰 Ravana ke mahal mein pravesh
+
+Jab Kumbhakarna ne sone se chamakte mahal ko dekha,
+toh woh andar gaya.
+
+Usne dekha —
+Ravana, jo hamesha garv se bhara rehta tha,
+aaj chinta aur bhay mein dooba hua hai.
+
+Kumbhakarna ko dekhte hi Ravana khada ho gaya,
+use gale lagaya 🤝
+aur samman ke saath paas bithaya.
+
+❓ Kumbhakarna ka prashn
+
+Kumbhakarna, jinki aankhen abhi bhi krodh se laal thi, bole:
+
+“Bhai…
+mujhe zabardasti neend se kyun uthaya?
+Batao,
+kaun tumhe dara raha hai?
+Aur kis ka vadh chahte ho mujhse aaj?”
+
+😔 Ravana ka dard aur asahai pukaar
+
+Tab Ravana ne apna mann khol diya.
+
+Usne kaha:
+
+“Rama ne samudra paar kar liya hai
+
+Vanaron ne samudra par setu bana diya
+
+Lanka ke van-upvan tak nasht ho rahe hain
+
+Mere sabse bade yoddha mare ja chuke hain 😞
+
+“Main har upaay kar chuka hoon,
+par ab koi sahara nahi bacha.”
+
+Ravana ki awaaz mein ahankaar nahi,
+sirf bebasi thi.
+
+🙏 Bhai se bhai ki vinati
+
+Ravana ne kaha:
+
+“Aaj Lanka mein sirf
+bache aur boodhe bache hain.
+
+Bhai,
+sirf tum hi is nagar ko bacha sakte ho.”
+
+Usne Kumbhakarna ko un yuddhon ki yaad dilayi
+jab usne Devtaon ko bhi hara diya tha.
+
+“Tum jaisa bal kisi ke paas nahi.
+
+Aaj,
+sirf bhai ke liye
+apni shakti dikhao.”
+
+🌪️ Aakhri ummeed
+
+Ravana ne kaha:
+
+“Jaise hawa badalon ko uda deti hai,
+waise hi
+vanar sena ko bikher do.”
+
+Is pal Ravana ne pehli baar apna garv chhod kar
+sirf ek baat ki —
+
+👉 “Mujhe bachao.”
+
+🌟 Is Adhyay ki Seekh
+
+Ahankaar tootne par hi sachchai dikhti hai
+
+Galat raah par chal kar, balwaan bhi akela ho jaata hai
+
+Jab buddhi galat ho, tab shakti ka sahara liya jaata hai
+
+👉 Agla Adhyay:
+Kumbhakarna ka yuddh ke liye nikalna —
+jahan bal aur bhookh dono ek saath dikhenge ⚔️"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.63
     with st.expander("Chapter 6.63 – Kumbhakarna comforts Ravana"):
         text1 = """
-        """
+        Ravana ka dukh sun kar
+Kumbhakarna halka sa hans pada 😏
+lekin us hansi ke peeche gehri samajh thi.
+
+🗣️ Kumbhakarna ki Kadvi Sachchai
+
+Kumbhakarna bola:
+
+“Bhai…
+jo galat karta hai,
+usse uska phal milta hi hai.”
+
+Usne shant par teekhe shabdon mein kaha:
+
+Tumne mantriyon ki baat nahi suni
+
+Apni taakat par zyada ghamand kiya
+
+Jo kaam pehle hona chahiye tha,
+use baad mein kiya
+
+Aur jo baad mein sochna chahiye tha,
+use pehle kar daala
+
+👉 Galat samay par kiya gaya sahi kaam bhi nuksaan deta hai."""
         create_image_text_layout("attached_assets/chapter6/6.63.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        👑 Achha Raja Kaun Hota Hai?
+
+Kumbhakarna samjhaata hai:
+
+Achha raja salah leta hai
+
+Dharm, arth aur kaam —
+teeno ka santulan rakhta hai
+
+Jo sirf haan mein haan milane walon ki baat sunta hai,
+woh barbaad hota hai
+
+Jo lalchi aur moorkh salahkar rakhta hai,
+woh apni hi naav dooba deta hai
+
+Usne yaad dilaya:
+
+“Mandodari aur Bibishana ne bhi
+yahi kaha tha…”
+
+😡 Ravana ka Gussa
+
+Ravana bhadak utha 🔥
+
+Usne kaha:
+
+“Ab purani baatein kyun?
+Ab jo ho gaya, ho gaya!
+
+Mujhe updesh nahi,
+samadhan chahiye!”
+
+Ravana ne sakht awaaz mein kaha:
+
+“Agar tum sach mein mere ho,
+to apni taakat dikhao.
+
+Dost wahi hota hai
+jo museebat mein bachaye!”
+
+🤍 Kumbhakarna ka Badla Hua Swabhav
+
+Kumbhakarna samajh gaya
+👉 “Bhai gusse mein hai.”
+
+Ab uski awaaz shaant aur bharose se bhari thi.
+
+Usne kaha:
+
+“Shaant ho jao, bhai.
+Jab tak main zinda hoon,
+tumhein darr ki zarurat nahi.”
+
+⚔️ Yuddh Ka Vaada
+
+Kumbhakarna ne poore vishwas se kaha:
+
+Main Rama aur Lakshmana ka saamna karunga
+
+Vanar sena ko bhaga dunga
+
+Lanka ke logon ke aansu ponch dunga
+
+Tum apni aankhon se meri taakat dekhoge
+
+Uski awaaz aur tez ho gayi:
+
+“Agar Indra, Yama ya Agni bhi aaye,
+to main unse bhi lad jaaun!”
+
+🦾 Ahankaar aur Andha Vishwas
+
+Kumbhakarna bola:
+
+“Mujhe hathiyaaron ki zarurat nahi.
+Mere haath hi kaafi hain.”
+
+Usne ghamand se kaha:
+
+“Aaj main Rama ko maar kar
+tumhari khushi laaunga.”
+
+🍷 Ravana ko Tasalli
+
+Aakhri mein Kumbhakarna bola:
+
+“Tum shok chhodo,
+madira piyo,
+aur nischint raho.”
+
+“Aaj Rama marega,
+aur Sita hamesha ke liye tumhari hogi.”
+
+🌟 Is Adhyay ki Seekh
+
+Achhi salah tabhi kaam aati hai jab samay par maani jaye
+
+Shakti bina buddhi ke andhi hoti hai
+
+Ahankaar insaan ko sach dekhne nahi deta
+
+Gusse mein diya gaya vachan aksar vinaash laata hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.64
     with st.expander("Chapter 6.64 – Mahodara gives advice"):
         text1 = """
-        """
+        Kumbhakarna ki baat sun kar
+Mahodara aage aaya.
+Uski awaaz tez thi,
+lekin soch chaalaak thi. 😈
+
+🗣️ Mahodara ka Jawab
+
+Mahodara bola:
+
+“Kumbhakarna,
+tu bahut taakatwar hai,
+par tu sirf bal par bharosa karta hai.”
+
+Usne seedha kaha:
+
+Sirf shakti se sab kuch nahi hota
+
+Aage kya hoga, yeh sochna zaroori hota hai
+
+Raja Ravana moorkh nahi hai
+
+Use samay, sthal aur nuksaan–faayda sab pata hai
+
+Mahodara ne thoda taana maara:
+
+“Tu jawani ke josh mein
+sirf bolna jaanta hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.64.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        ⚖️ Dharma, Arth aur Kaam
+
+Mahodara samjhaata hai:
+
+Dharma, arth aur kaam
+dushman nahi hote
+
+Galat tareeke se paaya gaya sukh
+aakhirkaar dukh deta hai
+
+Jo log sirf sukh ke peeche bhaagte hain
+unka ant yahin hota hai
+
+👉 Galat raasta chhota lagta hai,
+par akhir mein gehra gaddha hota hai.
+
+⚠️ Rama ka Khatra
+
+Mahodara ne gambhir awaaz mein kaha:
+
+Rama ne Janasthana ke rakshason ko akela mita diya
+
+Woh ghayal sher jaisa hai
+
+Use chhedna matlab
+sote hue saanp ko jagaana 🐍
+
+Usne seedha sawal poocha:
+
+“Tu akela Rama se kaise ladega?”
+
+🧠 Mahodara ki Chaalaak Yojana
+
+Phir Mahodara Ravana ki taraf muda
+aur dheere se bola:
+
+“Yuddh zaroori nahi.
+Dhokha zyada asaan hai.”
+
+Usne apni plan batayi:
+
+Hum log bolenge
+“Hum Rama se ladne gaye”
+
+Khoon mein lipte wapas aayenge
+aur kahenge
+“Rama aur Lakshmana mar gaye”
+
+Poore Lanka mein jashn hoga 🎉
+
+Afsaan phail jaayega
+“Vanar sena khatam ho gayi”
+
+Phir Ravana
+chupke se Sita ke paas jaayega
+
+💔 Sita ko Todne ki Koshish
+
+Mahodara bola:
+
+Sita ko kaha jaayega
+“Rama nahi raha”
+
+Dukh mein doobi Sita
+kamzor ho jaayegi
+
+Uphaar, sona, sukh dikha kar
+use behlaaya jaayega
+
+Uska vishwas tha:
+
+“Dukh aur akelapan
+aadmi ko galat faisla karne par majboor kar deta hai.”
+
+🏆 Lalach Bhara Sapna
+
+Mahodara ne ant mein kaha:
+
+“Na sena maregi,
+na tum khatre mein padoge.”
+
+“Sirf chaal se
+tum jeet jaoge.”
+
+Usne muskurate hue bola:
+
+“Yahi sabse aasan jeet hai.”
+
+🌟 Is Adhyay ki Seekh
+
+Shakti bina buddhi ke andhi hoti hai
+
+Dhokha turant faayda deta hai,
+par lambi haar likh deta hai
+
+Sachcha prem jhoot se kabhi nahi jeeta ja sakta
+
+Dukh mein liya gaya faisla aksar galat hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.65
     with st.expander("Chapter 6.65 – Kumbhakarna joins the battle"):
         text1 = """
-        """
+        Mahodara ki baat sunkar
+Kumbhakarna gusse mein aa gaya.
+Uski aankhen laal thi,
+awaaz garaj rahi thi. 😠
+
+🗣️ Kumbhakarna ka Ghoshna
+
+Kumbhakarna ne Ravana se kaha:
+
+“Aaj hi main
+Rama ko maar kar
+is khatre ko khatam kar dunga.”
+
+Usne garv se bola:
+
+Veer log baatein nahi karte
+
+Veer log karke dikhate hain
+
+Jo sirf meethi baat kare
+woh yuddh barbaad kar dete hain
+
+Uska maanna tha:
+
+“Lanka barbaad ho chuki hai
+sena khatam ho rahi hai
+par main ab bhi zinda hoon.”"""
         create_image_text_layout("attached_assets/chapter6/6.65.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😈 Mahodara par Taana
+
+Kumbhakarna ne Mahodara ko bhi nahi chhoda:
+
+“Tu sirf bolna jaanta hai”
+
+“Tu yuddh se darta hai”
+
+“Aise log hi raja ko gumraah karte hain”
+
+Usne kaha:
+
+“Main jaaunga,
+akela bhi ladunga
+aur sab galat neeti ka badla loonga.”
+
+👑 Ravana ka Vishwas
+
+Ravana hans pada. 😏
+Usne kaha:
+
+“Sach hai!
+Mahodara Rama se darr gaya hai.”
+
+Ravana ne Kumbhakarna ki tarif ki:
+
+“Tu mera sabse bada sahara hai”
+
+“Teri shakti ka koi muqabla nahi”
+
+“Vanar tujhe dekh kar bhaag jayenge”
+
+Usne kaha:
+
+“Jaao, yeh ghadi
+Rakshason ke liye sabse mahatvapurn hai.”
+
+🗡️ Yuddh ki Taiyari
+
+Kumbhakarna ne apna
+bhala (spear) uthaya.
+Woh sone se saja tha,
+bijli jaisa chamak raha tha ⚡
+
+Us bhale par:
+
+dushmano ka khoon laga tha
+
+uski aag jaise chamak thi
+
+Kumbhakarna bola:
+
+“Main akela kaafi hoon.
+Aaj bhookh mein
+main vanaron ko kha jaunga.”
+
+⚠️ Ravana ka Rokna
+
+Ravana ne samjhaaya:
+
+“Akela mat jaa.
+Vanar bahut taakatwar hain.”
+
+Isliye:
+
+Rakshas sena saath bheji gayi
+
+haathi, ghode, rath bhi nikle
+
+Ravana ne khud
+Kumbhakarna ko sajaya:
+
+mukut 👑
+
+kundal
+
+haar
+
+sone ka kavach
+
+Woh jalti hui agni jaisa lag raha tha 🔥
+
+🌪️ Bhayankar Aakaar
+
+Kumbhakarna ab
+aur bhi bhayankar ho gaya:
+
+pahad jitna bada
+
+aankhen rath ke pahiye jaisi
+
+kadam se dharti kaanp uthi 🌍
+
+Usne hans kar kaha:
+
+“Aaj vanar
+aag ke patangon ki tarah
+jal kar khatam ho jayenge.”
+
+Usne sach bola:
+
+“Vanar buri jaati nahi hai,
+par Rama hi asli dushman hai.”
+
+🌩️ Apashakun (Bure Sanket)
+
+Jab Kumbhakarna nikla:
+
+andhera chha gaya
+
+bijli giri ⚡
+
+dharti aur samundar kaanp gaye
+
+giddh bhale par baith gaya
+
+baaya haath aur aankh phadki
+
+Sab bure sanket the.
+
+Par Kumbhakarna ne
+koi dhyaan nahi diya.
+
+🐒 Vanar Sena Mein Darr
+
+Jaise hi vanaron ne
+Kumbhakarna ko dekha:
+
+sab dishaon mein bhaag gaye
+
+badal jaise bikhar gaye ☁️
+
+kuch gir pade
+
+kuch behosh ho gaye
+
+Kumbhakarna zor se hasa 😈
+uski hansi garajti badalon jaisi thi.
+
+Woh apni bhari gada uthakar
+Mrityu devta ki tarah
+vanar sena par toot pada. ⚔️
+
+🌟 Is Adhyay ki Seekh
+
+Ghamand shakti ko andha bana deta hai
+
+Bure sanket ignore karna vinaash laata hai
+
+Sirf bal se yuddh nahi jeeta jaata
+
+Jo apne aap ko sabse bada samajhta hai,
+wahi sabse pehle girta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.66
     with st.expander("Chapter 6.66 – Angada scolds the fleeing monkeys"):
         text1 = """
-        """
+        Jaise hi Kumbhakarna shehar ki deewar se kood kar bahar aaya,
+uski bhayankar garaj se:
+
+paani hil gaya 🌊
+
+pahaad kaanp gaye 🏔️
+
+bijli ki awaaz bhi dab gayi ⚡
+
+Uska aakaar pahaad jaisa tha.
+Uski aankhen aag jaisi thi. 🔥"""
         create_image_text_layout("attached_assets/chapter6/6.66.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        😱 Vanar Sena Mein Bhagdad
+
+Jaise hi vanaron ne use dekha:
+
+koi idhar bhaaga
+
+koi udhar
+
+koi samundar mein kood gaya 🌊
+
+koi hawa mein uchhal gaya
+
+bhalu pedon par chadh gaye 🌳
+
+kuch gir kar behosh ho gaye 😵
+
+Poora maidan afra-tafri se bhar gaya.
+
+🦁 Angada ka Gussa
+
+Yeh dekh kar Angada bhadak utha.
+Usne zor se pukara:
+
+“Tum sab bhaag kahan rahe ho?
+Apni veerata aur vansh bhool gaye kya?”
+
+Usne Nala, Nila, Gavaksha aur Kumuda se kaha:
+
+“Darr kar bhaagna shobha nahi deta”
+
+“Woh akela hai, hum sab milkar use hara sakte hain”
+
+“Woh sirf tumhe darrana chahta hai”
+
+Angada bola:
+
+“Wapas aao!
+Apni taakat par bharosa rakho!”
+
+⚔️ Dobara Yuddh
+
+Angada ki baaton se
+kuch vanar ruk gaye.
+Unhone:
+
+ped uthaye 🌲
+
+chattan uthayi 🪨
+
+pahad ke tukde phenke
+
+Vanar mad haathi ki tarah
+Kumbhakarna par toot pade.
+
+🔥 Par Kumbhakarna Ruka Nahi
+
+Par Kumbhakarna:
+
+hila bhi nahi
+
+jaise jungle mein aag lag jaaye 🔥
+
+waise hi vanaron ko girata chala gaya
+
+Khoon se bhare vanar
+zameen par gir gaye
+jaise laal phoolon wale ped gir jaate hain 🌺
+
+🏃‍♂️ Fir Se Darr
+
+Phir se:
+
+kuch bhaag gaye
+
+kuch samundar mein
+
+kuch pahaadon mein
+
+kuch gir kar behosh
+
+Darr phir jeet gaya. 😨
+
+📣 Angada ka Aakhri Updesh
+
+Angada phir chillaya:
+
+“Ruko!
+Yuddh karo!
+Bhaag kar kahin suraksha nahi milegi!”
+
+Usne kaha:
+
+“Agar tum bhaage,
+tumhari patniyaan tum par hasegi”
+
+“Darr se bhaagna
+veeron ke liye mrityu se bhi bura hai”
+
+“Jo ladte hue marte hain,
+unhe Swarg milta hai”
+
+“Jo bhaagte hain,
+unka naam mitt jaata hai”
+
+Angada bola:
+
+“Aaj ya toh jeet milegi
+ya amar kirti.”
+
+😔 Vanaron ka Jawaab
+
+Vanaron ne kaha:
+
+“Kumbhakarna ne bahut tabahi macha di hai.
+Abhi jeena zaroori hai.”
+
+Aur woh fir se bikhar gaye.
+
+🌟 Umeed Ki Kiran
+
+Lekin Angada ne haar nahi maani.
+Usne baar-baar samjhaya.
+
+Aakhir:
+
+vanar shaant hue
+
+himmat juti 💪
+
+Angada ke aadesh maane
+
+Aur phir se yuddh ke liye wapas aaye. ⚔️
+
+🌈 Is Adhyay ki Seekh
+
+Darr sabse bada dushman hota hai
+
+Sahi neta haar ke waqt bhi himmat deta hai
+
+Izzat aur veerata bhaag kar nahi milti
+
+Milkar ladne se sabse bada daitya bhi hara ja sakta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.67
     with st.expander("Chapter 6.67 – Kumbhakarna fights fiercely"):
         text1 = """
-        """
+        Angada ki lalkaar sunkar vanar sena phir se palti.
+Darr ko peeche chhod, balidaan ka sankalp lekar sab Kumbhakarna par toot pade.
+
+🔥 Kumbhakarna ka Bhayankar Tandav
+
+Kumbhakarna ne:
+
+hazaaron vanaron ko ek hi jhatke mein gira diya
+
+kaiyon ko baahon mein pakad kar kuchal diya
+
+aur kuch ko nigal gaya 😨
+
+Woh Garud jaise sarpon ko kha jaata ho—aisa lag raha tha.
+Zameen khoon se bhar gayi, aur vanar sena phir ghabra uthi."""
         create_image_text_layout("attached_assets/chapter6/6.67.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        💥 Veeron ka Pratirodh
+
+Hanuman ne pahad ka shikhar uthakar prahar kiya
+
+Nila, Rishabha, Sharabha jaise veer bhi lage rahe
+
+Par Kumbhakarna ko jaise koi farq hi nahi padta
+
+Usne Sugriva ko pakad liya aur Lanka ki or le chala.
+Vanaron ka mann toot gaya…
+
+🧠 Hanuman ka Vivek
+
+Hanuman ne socha:
+
+“Sugriva swayam apni veerta se chhoot sakta hai.
+Abhi sena ko sambhalna zyada zaroori hai.”
+
+Aur sach mein—
+Sugriva ne daant aur nakhunon se Kumbhakarna ke kaan-naak cheer diye
+aur chhalang laga kar Rama ke paas aa gaye 🙏
+
+⚔️ Lakshmana ka Pravesh
+
+Ab Lakshmana ne yuddh sambhala:
+
+Teer par teer barsaaye
+
+Kumbhakarna ko laal-ghayal kar diya
+
+Par daitya ab bhi andha ho chuka tha,
+dost-dushman ka bhed bhool kar sabko khata ja raha tha.
+
+🏹 Shri Rama ka Mahapravesh
+
+Tab Rama aage badhe—
+shaant, dridh, aur dharma se bhare.
+
+Unke teeron se:
+
+Kumbhakarna ka gadda-dharan haath kata
+
+phir dusra haath
+
+phir pair
+
+Fir bhi woh Rahu ki tarah Rama par toot pada!
+
+☀️ Antim Prahaar
+
+Rama ne Brahma-dand jaise tej wala divya teer chhoda—
+jo bijli se tez, surya se prakashmaan tha.
+
+Woh teer:
+
+Kumbhakarna ka sheesh kaat gaya
+
+dharti kaanp uthi 🌍
+
+devtaon ne jai-jai kaar ki 🙌
+
+Kumbhakarna
+—jo kabhi na hara tha—
+aaj dharma ke haath se gir pada.
+
+🌸 Vijay ka Utsav
+
+Aakash se pushpon ki varsha hui
+
+Vanar sena ke chehre kamal jaise khil gaye
+
+Rama surya ki tarah andhkaar se nikal aaye ☀️
+
+🌿 Is Adhyay ki Gehari Seekh
+
+Bal bina dharma andha hota hai
+
+Ahankar jitna bada, patan utna gehra
+
+Sahi netritva (Angada, Hanuman) sena ko phir khada karta hai
+
+Ant mein satya aur dharma hi vijayi hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.68
     with st.expander("Chapter 6.68 – Ravana mourns Kumbhakarna’s death"):
         text1 = """
-        """
+        Jab Kumbhakarna Rama ke haathon gir pada,
+toh kuch daitya bhagte hue Ravana ke paas aaye.
+
+Unhone kaha,
+“Rajaa…
+jo kaal ka bhi muqabla karta tha,
+aaj woh mar chuka hai.”
+
+Unhone bataaya—
+Kumbhakarna ka aadha sharir samundar mein gir gaya hai.
+Uska sir Lanka ke dwar par pada hai.
+Naak aur kaan kate hue hain.
+Khoon se lathpath sharir
+jaise aag se jala hua vriksh."""
         create_image_text_layout("attached_assets/chapter6/6.68.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        💔 Ravana ka Girna
+
+Yeh sunte hi Ravana behosh ho gaya.
+Uska gham asahniya tha.
+
+Bhatije—
+Devantaka, Narantaka, Trishiras, Atikaya—
+sab bilakh pade.
+Mahodara aur Mahaparshva ka mann bhi toot gaya.
+
+😭 Vilap aur Pachhtava
+
+Hosh mein aakar Ravana roya:
+
+“Haay mere veer bhai…
+mere bal ka stambh chala gaya.
+
+Tu tha jo
+devtaon aur asuron ko dara deta tha.
+Aaj tu Rama ke ek teer se gir gaya?
+
+Jise Indra ka vajra bhi hila na saka,
+usey ek manushya ne gira diya?
+
+Ab Lanka ka kya hoga?
+Vanar sena ab deewaron par chadh aayegi.
+
+Mujhe na rajya chahiye,
+na Sita.
+Kumbhakarna ke bina
+yeh sab arthheen hai.
+
+Bibishana ne jo kaha tha…
+aaj sab sach sabit ho gaya.
+Maine usey nikala,
+aur apna hi vinaash bula liya.”
+
+🌑 Ant mein Shunya
+
+Ravana ka ahankar toot chuka tha.
+Uski awaaz bhari hui thi.
+Aankhon mein sirf pashchatap tha.
+
+Bhai ke shok mein dooba,
+woh phir se behosh ho gaya.
+
+🌿 Is Adhyay ki Seekh
+
+Bal aur ghamand bina dharma ke tikte nahi
+
+Jo sahi salah ko thukrata hai,
+uska ant dukh aur pachtave se hota hai
+
+Apno ka naash
+ahankar ki sabse badi keemat hoti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.69
     with st.expander("Chapter 6.69 – Angada kills Narantaka"):
         text1 = """
-        """
+        Ravana abhi bhi Kumbhakarna ke shok mein dooba tha.
+Uski aankhon mein aansu the.
+Dil bhaari tha.
+
+Tab Trishiras aage aaya aur bola,
+“Raja, veer log shok mein nahi doobte.
+Aap teenon lok jeet chuke ho.
+Phir himmat kyun toot rahi hai?”
+
+Usne kaha,
+“Chaaho toh main khud yuddh mein jaaun.
+Aaj Rama ka ant kar dunga.”
+
+Yeh sunte hi
+Devantaka, Narantaka aur Atikaya bhi taiyaar ho gaye.
+Sab ke sab gusse aur garv se bhare hue the.
+
+Ravana ne apne putron ko gale lagaya.
+Unhe shastra, abhushan aur ashirvaad diya.
+Aur kaha,
+“Jaao… yuddh mein vijay laao.”"""
         create_image_text_layout("attached_assets/chapter6/6.69.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        ⚔️ Yuddh ka Garjana
+
+Daitya sena Lanka se nikli.
+Hathi, ghode, rath…
+Sab garajte baadal jaise lag rahe the.
+
+Saamne vanar sena bhi taiyaar thi.
+Haath mein patthar.
+Ped aur pahad uthaye hue.
+
+Dono taraf se
+bhayanak yuddh shuru ho gaya.
+
+🔥 Narantaka ka Atank
+
+Narantaka apne tez ghode par chadha.
+Haath mein chamakta bhala tha.
+
+Usne vanaron par
+bijli ki tarah hamle kiye.
+Ek ke baad ek
+sauon vanar girne lage.
+
+Vanar sena phir se ghabra gayi.
+Kuch bhaagne lage.
+
+Tab Sugriva ne dekha
+aur zor se bola,
+“Angada!
+Jaao aur us daitya ka ant karo!”
+
+🦁 Angada ka Pravesh
+
+Angada, Bali ka beta,
+aage badha.
+
+Uske paas
+na koi shastra tha,
+na kavach.
+
+Sirf bal aur dhairya.
+
+Usne Narantaka se kaha,
+“Kamzor vanaron se kyun ladta hai?
+Agar veer hai toh
+mere se lad!”
+
+💥 Antim Mukabla
+
+Narantaka gusse mein bhala phenka.
+Par Angada ka seena
+heere jaisa majboot tha.
+
+Bhala toot gaya.
+
+Gusse mein Narantaka ne mukka mara.
+Angada thoda ladkhadaya,
+par gira nahi.
+
+Phir Angada ne
+apni poori shakti se
+Narantaka ke seene par prahar kiya.
+
+Daitya ka seena toot gaya.
+Khoon behne laga.
+Aur Narantaka
+pahad ki tarah gir pada.
+
+🌸 Vijay ka Ullas
+
+Aakash se devtaon ne
+jai-jai ka naad kiya.
+
+Vanar sena khush ho gayi.
+Rama ke chehre par
+santosh ki muskaan thi.
+
+Angada ne
+ek aur mahaan vijay haasil ki.
+
+🌱 Is Adhyay ki Seekh
+
+Sirf shastra nahi, sahas aur atma-vishwas bhi jeet dilata hai
+
+Ghamand se bhara bal
+sachche dhairya ke aage gir jaata hai
+
+Yuva veer bhi
+mahaan kaam kar sakte hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.70
     with st.expander("Chapter 6.70 – Many demon warriors are killed"):
         text1 = """
-        """
+        Narantaka ke girte hi
+Devantaka, Trishiras aur Mahodara ro pade.
+Unka gussa aansuon se bhi tez tha.
+
+Phir ek saath
+teenon Angada par toot pade.
+
+Mahodara hathi par chadha.
+Devantaka ke haath mein bhari gada thi.
+Trishiras apne chamakte rath se teer chala raha tha."""
         create_image_text_layout("attached_assets/chapter6/6.70.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🦁 Angada ki Atal Himmat
+
+Angada ne
+ek bada sa ped ukhaada
+aur Devantaka ki taraf phenka.
+
+Trishiras ne teeron se ped kaat diya.
+Par Angada ruka nahi.
+
+Usne hathi par chadhkar
+ek zor ka prahar kiya.
+Mahodara ka hathi gir pada…
+aur Mahodara bhi.
+
+🔥 Devantaka ka Ant
+
+Devantaka ne gusse mein
+Hanuman par gada chalayi.
+
+Hanuman ne pal bhar mein
+apni mutthi se uska sir phod diya.
+Devantaka wahi gir gaya.
+Yahin uska ant ho gaya.
+
+🌪️ Mahodara ka Vadh
+
+Nila ne
+chattan uthakar Mahodara par phenki.
+
+Mahodara sambhal nahi paaya.
+Ek bhayanak prahar laga
+aur Mahodara dharti par gir pada.
+
+⚔️ Trishiras vs Hanuman
+
+Ab Trishiras, teen sir wala daitya,
+Hanuman se bhid gaya.
+
+Teer, ped, chattan—
+sab fail ho gaye.
+
+Hanuman ne aakhir mein
+Trishiras ko pakda
+aur ek hi vaar mein uske teenon sir kaat diye.
+
+Teen sir dharti par gire.
+Aakash ghoom utha.
+
+Vanar sena ne
+jai-jai ka naad kiya.
+
+💥 Mahaparshva (Matta) ka Ant
+
+Ab Mahaparshva, jise Matta bhi kehte the,
+gusse mein aag ban gaya.
+
+Usne Rishabha par hamla kiya.
+Rishabha gir pada…
+par phir uth khada hua.
+
+Usne Matta ki hi gada chheen li
+aur usi gada se Matta ko maar giraaya.
+
+Mahaparshva ka bhi ant ho gaya.
+
+🌸 Yuddh ka Palatna
+
+Ek ke baad ek
+daitya veer girte gaye.
+
+Devantaka – mara
+Trishiras – mara
+Mahodara – mara
+Mahaparshva – mara
+
+Yeh dekhkar
+Rakshas sena bhaag khadi hui.
+Apne shastra chhod kar
+sirf jaan bachane lagi.
+
+Vanar sena ka hausla
+aasmaan chhoone laga.
+
+🌱 Is Adhyay ki Seekh
+
+Gussa aur ghamand
+ant mein haar laate hain
+
+Ekjut hokar ki gayi ladai
+sabse badi shakti hoti hai
+
+Sachcha veer girta hai,
+par haar maanta nahi"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
