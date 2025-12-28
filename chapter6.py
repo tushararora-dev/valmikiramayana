@@ -12310,110 +12310,1060 @@ hamesha jeet jaata hai."""
     # Chapter 6.101
     with st.expander("Chapter 6.101 – Ravana runs away from battle"):
         text1 = """
-        """
+        Chapter 101 – Ravana Rama se Bhaagta Hai (Hinglish Kahani)
+
+Ravana ka astra toot chuka tha,
+par uska ghamand abhi zinda tha.
+
+Gusse mein usne ek aur bhayanak astr nikala
+aur zor se Rama par chala diya.
+Aasmaan se gade, gada, hathode, aag ke gole
+toofan jaise girne lage.
+
+Par Rama shaant rahe.
+Unhone Gandharva Astra se
+us bhayanak shakti ko turant tod diya.
+
+Ravana aur bhi gusse mein aa gaya.
+Is baar usne Surya Astra chhod diya.
+Aag jaise sooraj, chand aur taare
+har disha mein chamakne lage."""
         create_image_text_layout("attached_assets/chapter6/6.101.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Lekin Rama ke teer aur tez nikle.
+Unhone sab kuch beech aakash mein hi kaat diya.
+
+Ravana ne gusse mein
+Rama ke shareer par teer barsa diye,
+lekin Rama hilay tak nahi.
+Ulta Rama ne Ravana ko
+ang-ang mein ghayal kar diya.
+
+Tab Lakshmana aage badhe.
+Unhone Ravana ka jhanda gira diya,
+uske rath ka saarathi maar diya,
+aur uska dhanush bhi tod diya.
+
+Bibishana ne bhi aage badhkar
+Ravana ke ghode gira diye.
+
+Ab Ravana rath se kood pada.
+Usne gusse mein
+Bibishana par ek bhayanak bhala phenka.
+
+Par Lakshmana ne beech mein aa kar
+us bhale ko teeron se tod diya.
+Vanar sena ne zordaar jai-kaar ki.
+
+Ravana aur pagal ho gaya.
+Is baar usne sabse khatarnak bhala uthaya
+aur Lakshmana par poori shakti se phenka.
+
+Rama ne chilla kar kaha,
+“Lakshmana ka kalyan ho!”
+
+Par bhala Lakshmana ke seene mein lag gaya.
+Woh zameen par gir pade, khoon se bhare hue.
+
+Rama ka dil kaamp gaya,
+aankhon mein aansu aa gaye.
+Par turant unhone socha,
+“Yeh rone ka samay nahi hai.”
+
+Rama ne bhala tod kar nikaal diya,
+Lakshmana ko apni baahon mein sambhala,
+aur vanaron se kaha,
+“Lakshmana ko gher lo.”
+
+Phir Rama bole,
+“Aaj ya to Ravana bachega,
+ya Rama. Dono nahi.
+Aaj duniya dekhegi
+ki dharm kya hota hai.”
+
+Yeh kehkar Rama ne
+teeron ki baarish kar di.
+Unke teer bijli jaise girne lage.
+
+Ravana dar gaya.
+Uska hausla toot gaya.
+Aur woh toofan se bhaagte baadal ki tarah
+maidan chhod kar bhaag nikla.
+
+Moral / Seekh
+
+Ghamand chahe jitna bada ho, sachchai ke aage toot jata hai
+
+Dharm shaant rehta hai, par kamzor nahi hota
+
+Jab samay aata hai, adharma ko bhaagna hi padta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.102
     with st.expander("Chapter 6.102 – Lakshmana recovers fully"):
         text1 = """
-        """
+        Chapter 102 – Lakshmana ka Chamatkaari Jeevan-Daan (Hinglish Kahani)
+
+Yuddh ke maidan mein
+Lakshmana khoon se bhare pade the.
+Ravana ke bhale ne unhe gira diya tha.
+
+Yeh dekh kar Rama ka dil toot gaya.
+Aankhon mein aansu the,
+haath kaanp rahe the.
+
+Rama bole,
+“Agar Lakshmana nahi rahe,
+toh jeevan ka kya matlab?
+Rajya, jeet, Sita…
+sab bekaar hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.102.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Unhone Lakshmana ko pukara,
+“Utho bhai, meri taraf dekho.
+Mujhe aise akela chhod kar mat jao.”
+
+Rama ka dukh dekh kar
+Sushena aage aaye.
+Unhone shaant swar mein kaha,
+
+“Rama, shok mat karo.
+Lakshmana zinda hain.
+Unka chehra shaant hai,
+haath kamal jaise hain,
+saans chal rahi hai.”
+
+Yeh sunkar Rama ko
+thoda sahara mila.
+
+Tab Sushena ne Hanuman se kaha,
+“Turant Mahodaya Parvat jao.
+Wahan chaar jadibootiyan hain –
+Vishalyakarani,
+Sanjivakarani,
+Savarnyakarani,
+aur Sandhani.
+Unhe laana hoga.”
+
+Hanuman turant udd gaye.
+Par pahunch kar woh pareshan ho gaye.
+Itni saari jadibootiyan…
+kaun si sahi?
+
+Tab unhone socha,
+“Der hui toh Lakshmana ko nuksaan hoga.
+Poora parvat hi utha leta hoon.”
+
+Aur Hanuman ne
+poora parvat utha liya.
+Phool, ped, sugandh –
+sab kuch saath le aaye.
+
+Vanar sena hairaan reh gayi.
+
+Hanuman bole,
+“Sushena, poora parvat laa diya.
+Aap hi pehchaan lo.”
+
+Sushena ne jadibooti pehchaani,
+use pees kar
+Lakshmana ke naak ke paas rakha.
+
+Aur chamatkaar ho gaya ✨
+Lakshmana turant uth khade hue.
+Unke shareer se
+saari peeda khatam ho gayi.
+
+Vanar zor se bole,
+“Jai! Jai!”
+
+Rama bhaag kar aaye.
+Unhone Lakshmana ko
+zor se gale laga liya.
+
+Aansuo ke saath bole,
+“Tum laut aaye bhai.
+Tumhare bina sab kuch shoonya tha.”
+
+Lakshmana ne dheere se kaha,
+“Bhaiya, aise shabd aapko shobha nahi dete.
+Aap dharm ke rakshak ho.
+Aapka kartavya abhi poora nahi hua.”
+
+Phir Lakshmana bole,
+“Aaj Ravana ko jeevit nahi bachna chahiye.
+Surya ast hone se pehle
+adharm ka ant hona chahiye.”
+
+Rama ne aankhen band ki,
+teer sambhale,
+aur bole,
+“Aaj hi.
+Aaj Ravana ka ant hoga.”
+
+🌼 Moral / Seekh
+
+Sachcha prem kamzor nahi, balidaan se bhara hota hai
+
+Dukh ke samay dhairya sabse bada astr hota hai
+
+Jab dharm saath ho, toh mrityu bhi haar jaati hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.103
     with st.expander("Chapter 6.103 – Rama and Ravana fight again"):
         text1 = """
-        """
+        Chapter 103 – Rama aur Ravana ka Punah Mahayuddh (Hinglish Saar + Bhavarth)
+
+Lakshmana ke shabdon ne Rama ke mann ko sthir kar diya.
+Ab shok nahi, keval kartavya tha.
+
+Rama ne dhanush uthaya
+aur Ravana par teeron ki varsha kar di.
+Udhar Dashagriva bhi apne rath par chadhkar
+Rama par bijli jaise baan barsane laga.
+
+Devta, Gandharva, Kinnara sab dekh kar bole —
+
+“Yeh yuddh asamaan hai!
+Rama paidal hain, Ravana rath par!”"""
         create_image_text_layout("attached_assets/chapter6/6.103.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Tab Indra ne apne saarathi Matali ko bheja
+aur apna divya rath, dhanush aur astr Rama ko arpan kiya.
+
+Rama ne vinamrata se rath ki parikrama ki
+aur us par aarudh hue.
+Ab yuddh rath se rath ka tha —
+romanchak, bhayankar, divya.
+
+🐍 Maya vs Dharma – Astron ka Yuddh
+
+Ravana ne naag-astr chhoda
+→ teer zehreele saanp ban gaye
+→ aag ugalte hue dishaon ko gher liya
+
+Rama ne turant Garuda-astr chhoda
+→ teer sone ke garud ban gaye
+→ sab saanpon ka naash ho gaya
+
+Yeh tha maya par dharm ki vijay.
+
+🌑 Ashubh Grahon ka Uday
+
+Ravana ke prabal hone par:
+
+Grah ulte chal pade
+
+Surya pe andhkar chha gaya
+
+Chandra Rahu se grast ho gaya
+
+Yeh adharm ke antim sanket the.
+
+⚔️ Yuddh ka Sankatpal
+
+Ravana ne:
+
+Indra ka dhwaj tod diya
+
+Divya ghodon ko ghayal kar diya
+
+Matali ko bhi baanon se bedh diya
+
+Devta aur Rishi chintit ho gaye.
+Sugriva aur Vibhishana ka hriday kaanp utha.
+
+Aur Rama…
+kuch pal ke liye
+baan chala na sake.
+
+Par us kshan —
+unke netra laal ho uthe,
+bhauhen tan gayi,
+aur unke roop mein
+Mahakal ka pratibimbh dikha.
+
+🔥 “Ab vinash nishchit hai.”
+
+🌺 Moral / Arth
+
+Dharma ko kabhi sahayata milti hai, par vijay uski apni shakti se hoti hai
+
+Maya chahe jitni bhayanak ho, ant mein satya hi tikta hai
+
+Ashubh sanket adharmi ke liye hote hain, dharmi ke liye nahi"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.104
     with st.expander("Chapter 6.104 – The battle continues"):
         text1 = """
-        """
+        Chapter 104 – Rama aur Ravana ka Punah Mahayuddh (Jari)
+
+Hinglish Saar + Arth
+
+Jab Rama ka krodhit roop prakat hua,
+toh poora brahmand kaanp utha—
+
+Prithvi hil gayi
+
+Parvat kampit ho gaye
+
+Samudra vichlit ho utha
+
+Pakshi apashakun bhare shabd karte hue ghoomne lage
+
+Yeh adharm ke vinash se pehle ka prakritik sanket tha."""
         create_image_text_layout("attached_assets/chapter6/6.104.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌌 Dev–Asur Sabha
+
+Aakash mein:
+
+Devta apne rathon par
+
+Gandharva, Rishi, Naag, Daitya, Danava
+sab is antim sangharsh ko dekh rahe the.
+
+Asur chilla rahe the: “Jai Ravana!”
+
+Dev bol rahe the: “Vijayi ho Rama!”
+
+Yeh keval yuddh nahi tha —
+yeh Dharma aur Adharma ka nirnay tha.
+
+🔱 Ravana ka Antim Ghamand
+
+Krodh mein Ravana ne ek bheeshan vajra-samaan bhala uthaya—
+
+Heere jaisa kathor
+
+Aath ghantiyaan bajti hui
+
+Pralay-agni jaisa prakaash
+
+Aur Rama ko lalkaar kar bola:
+
+“Is bhale se main tum aur Lakshmana dono ka ant kar dunga!”
+
+Fir usne bhala Rama ki ore phenka —
+aakash bijli se phat gaya.
+
+🏹 Maya ka Bhed
+
+Rama ne:
+
+Ek nahi
+
+Kai teer chhode
+
+Par Ravana ka bhala itna bhayankar tha
+ki Rama ke teer titliyon ki tarah jal gaye.
+
+Yeh kshan tha—
+jab sirf divya shakti hi kaam aa sakti thi.
+
+⚡ Indra ka Astra – Dharma ka Pratighaat
+
+Tab Rama ne woh bhala uthaya
+jo Indra ne bheja tha,
+jise Matali laaya tha.
+
+Rama ne use poori shakti se phenka.
+
+➡️ Do divya bhalon ka takraav hua
+➡️ Aakash chamak utha
+➡️ Ravana ka bhala toot kar gir pada —
+apni shakti kho chuka tha.
+
+Yeh tha ahankaar ka tootna.
+
+🩸 Ravana Ghayal
+
+Ab Rama ne:
+
+Ravana ke ghodon ko giraya
+
+Uske vaksh-sthal ko bheda
+
+Maatha par teen teer maare
+
+Khoon se lathpath Ravana
+Ashoka vriksh ki tarah lag raha tha
+— laal, bhayankar, par kamzor.
+
+Apni sena ke beech
+thaka hua, ghayal
+aur antim krodh se bhara,
+Ravana ab bhi khada tha.
+
+🌺 Moral / Arth
+
+Ahankaar jitna bada, patan utna nishchit
+
+Dharma ko sahi samay par sahi shastra milta hai
+
+Pralay bhi satya ke aage jhuk jaata hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.105
     with st.expander("Chapter 6.105 – Rama scolds Ravana for his sins"):
         text1 = """
-        """
+        Chapter 105 – Rama ka Ravana par Arop aur Kathor Upbraid
+
+(Hinglish Moral Kahani Style)
+
+Rama ke teeron se gehra ghaayal hokar
+Ravana ka ghamand aag ban gaya.
+
+Uski aankhen laal thi.
+Gussa poori tarah bahar aa chuka tha.
+
+Ravana ne:
+
+Apna dhanush uthaya
+
+Aur teeron ki baarish Rama par kar di
+
+Par Rama
+parvat ki tarah sthir khade rahe.
+Na dare.
+Na hile."""
         create_image_text_layout("attached_assets/chapter6/6.105.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ke shareer se khoon beh raha tha.
+Woh laal phoolon se bhare vriksh jaise lag rahe the.
+Par unka dharma aur sankalp aur bhi majboot ho gaya.
+
+Aur tab Rama bole.
+
+🗣️ Rama ki Garjana (Sach ka Aina)
+
+Rama ne Ravana ko seedhi aur kadvi baat kahi:
+
+“Jab main paas nahi tha,
+tab tumne meri patni ko zabardasti uthaya.
+
+Isme veerta nahi hoti —
+yeh chor aur kayar ka kaam hota hai.
+
+Jo nishastra aur akeli stri ko chhoota hai,
+woh khud ko veer kaise keh sakta hai?”
+
+Rama bole:
+
+Tumne dharma ki seema tod di
+
+Tumhara ghamand hi tumhari maut ka nimantran bana
+
+“Aaj tum mere saamne khade ho.
+
+Aaj tumhara ahankaar tootega.
+
+Aaj tum apne paapon ka phal paoge.”
+
+Rama ke shabd teeron se bhi tez the.
+
+⚡ Dharma ka Uday
+
+Jaise hi Rama bole:
+
+Unke divya astr swayam prakat ho gaye
+
+Unki shakti aur bhi badh gayi
+
+Monkeys ke pathron
+aur Rama ke teeron se
+Ravana bilkul kamzor ho chuka tha.
+
+Uske haath kaanp rahe the.
+Dhanush uthane ki taakat nahi bachi thi.
+
+🛞 Adharm ka Peeche Hatna
+
+Ravana ka saarathi sab samajh gaya.
+
+Usne:
+
+Chupchaap rath ko moda
+
+Aur Ravana ko yuddh bhoomi se bahar le gaya
+
+Ghamand se bhara raja
+aaj nirbal aur hara hua tha.
+
+🌼 Moral / Seekh
+
+Veerta chupkar vaar karna nahi hoti
+
+Stri ka apmaan sabse bada paap hai
+
+Ahankaar ant mein buddhi chheen leta hai
+
+Sach aur dharma kabhi bhaagte nahi — adharma bhaagta hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.106
     with st.expander("Chapter 6.106 – Ravana scolds his charioteer"):
         text1 = """
-        """
+        Chapter 106 – Ravana ka Saarathi par Gussa
+
+(Hinglish Moral Kahani Style)
+
+Ravana ka gussa phoot pada.
+Aankhen laal.
+Saans tez.
+Dimaag par ahankaar ka parda.
+
+Usne apne saarathi par chilla kar kaha:
+
+“Kya main kamzor ho gaya hoon?
+Kya meri veerta khatam ho chuki hai?
+Bina mere kahe, tum mujhe yuddh se peeche kyun le gaye?
+Meri izzat, mera ghamand, meri pehchaan —
+sab tumne ek pal mein mita di!”
+
+Ravana aur tez bola:
+
+“Ya to tum dar gaye the,
+ya tumne dushman se rishwat li hai.
+Agar mere wafadar ho,
+to abhi wapas le chalo mujhe Rama ke saamne!”"""
         create_image_text_layout("attached_assets/chapter6/6.106.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🧠 Saarathi ki Shaant Buddhi
+
+Saarathi dara nahi.
+Uski awaaz shaant thi.
+Baaton mein samajh aur seva thi.
+
+Usne kaha:
+
+“Rajah,
+na main dara,
+na bewafaa hoon.
+
+Main aapko bachana chahta tha,
+aapki maryada aur shaan bachane ke liye.
+
+Aap thak chuke the.
+Ghode bhi bahut zyada thak gaye the.
+Aas-paas ke sanket bhi
+hamare paksh mein nahi the.”
+
+Woh aage bola:
+
+“Ek achha saarathi sirf rath nahi chalata.
+Woh:
+
+apne swami ki sthiti samajhta hai
+
+kab aage badhna hai
+
+kab rukna hai
+
+kab peeche hatna hai
+
+Yeh sab jaanna meri zimmedari thi.”
+
+Aur ant mein kaha:
+
+“Yeh sab maine bhakti se kiya, gaddari se nahi.
+Aap jo aadesh denge,
+main bina soche poora karunga.”
+
+🔥 Ravana ka Phir Se Ghamand
+
+Saarathi ki baat sunkar
+Ravana ka gussa thoda shaant hua.
+
+Usne kaha:
+
+“Tumne sahi kaha.
+Ab mujhe turant Rama ke paas le chalo.
+Ravana tab tak nahi rukega
+jab tak dushman zinda hai!”
+
+Usne apne saarathi ko
+keemti anguthi inaam mein di.
+
+Ghode daude.
+Rath garja.
+Aur Ravana phir se yuddh bhoomi ki taraf badh gaya.
+
+🌼 Moral / Seekh
+
+Gussa sach dekhne nahi deta
+
+Buddhi aur shaanti kabhi-kabhi shakti se zyada zaroori hoti hai
+
+Jo sach bolta hai, woh apna farz nibhaata hai, chahe saamne raja hi kyun na ho
+
+Ahankaar maan leta hai, par seekhta kam hai
+
+✨ Yeh adhyay dikhata hai ki Ravana ke paas shakti thi,
+par vivek uske saathi ke paas tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.107
     with st.expander("Chapter 6.107 – Rama prays to the Sun God"):
         text1 = """
-        """
+        Chapter 107 – Aditya-Hridaya: Surya Stuti ka Mahatva 🌞
+
+(Hinglish + Arth ke saath)
+
+Yuddh ke beech Rama thak chuke the.
+Saamne Ravana phir se taiyaar khada tha.
+Shakti thi, par mann bhaari ho gaya tha.
+
+Isi samay Rishi Agastya Rama ke paas aaye —
+na shastra le kar,
+na sena ke saath,
+balki ek mantra ke saath."""
         create_image_text_layout("attached_assets/chapter6/6.107.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌼 Aditya-Hridaya kya hai?
+
+Agastya ne kaha:
+
+“Rama, yeh sirf stuti nahi —
+yeh hriday (heart) ka bal hai.
+Yeh Surya ka hriday hai,
+jo andhakaar, bhay aur thakaan ko jala deta hai.”
+
+Aditya-Hridaya:
+
+Vijay dene wala mantra
+
+Bhay, shok aur chinta ka nashak
+
+Jeevan-shakti badhane wala
+
+Aapda ke samay sahara
+
+🔥 Stuti ka Saar (Simple Arth)
+
+Is stotra mein Surya ko kaha gaya:
+
+Aap srishti ke rachayita, palak aur vinashak ho
+
+Aap samay, mrityu aur jeevan ho
+
+Aap Devón aur Asurón donón ke adhaar ho
+
+Aap andhakaar, agyaan aur bhay ko nasht karte ho
+
+Aap hi yagya ho, yagya ka phal ho
+
+Aap hi din ka aarambh aur jeevan ka bal ho
+
+Yeh yaad dilaya gaya ki
+shakti bahar nahi, prakash ke saath andar se aati hai.
+
+📜 Agastya ka Vachan
+
+Agastya ne kaha:
+
+Jo is stotra ko sankat mein padhta hai, woh nahi girta
+
+Jo ise teen baar shraddha se padhe, nishchit vijay paata hai
+
+Ab samay aa gaya hai, Rama — Ravana ka ant nischit hai
+
+Kehkar Agastya chale gaye.
+
+🌞 Rama ka Parivartan
+
+Rama ne:
+
+Man shant kiya
+
+Surya ka dhyaan kiya
+
+Aditya-Hridaya ka paath kiya
+
+Aur tab —
+
+Thakaan gayab
+
+Mann sthir
+
+Aatma prakaash se bhar gayi
+
+Surya Dev ne swayam dekhkar kaha:
+
+“Apni poori shakti lagao.”
+
+Yuddh ab sirf shastra ka nahi tha,
+dharma aur prakash ka tha.
+
+🕉️ Gehri Seekh (Moral)
+
+Jab bal kam pad jaye, bhakti bal deti hai
+
+Andar ka andhakaar mitaye bina, bahar ka shatru nahi mit sakta
+
+Aditya-Hridaya yaad dilata hai:
+
+“Prakash hamesha jeet ta hai.”
+
+✨ Yeh adhyay yeh sikhata hai ki
+sachchi shakti shastra se pehle
+shraddha aur smaran se aati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.108
     with st.expander("Chapter 6.108 – Bad signs appear"):
         text1 = """
-        """
+        Chapter 108 – Ashubh Shakun (Sinister Portents appear) 🌩️
+
+(Yuddha se pehle niyati ka sanket)
+
+Is adhyay mein yuddh shastra se pehle hi jeet-haar ka faisla kar deta hai.
+Prakriti khud bol uthti hai —
+aur jo bolti hai, woh jhooth nahi hota.
+
+⚔️ Yuddh ka Aarambh
+
+Rama aur Ravana dono apne-apne rath par aamne-saamne aaye.
+
+Ravana ka rath — bhayanak, garajta hua, bijli jaisa
+
+Rama ka rath — Indra ka divya rath, Matali ke niyantran mein
+
+Rama ne Matali se kaha:
+
+“Shant chitt, tez drishti, aur sthir haath —
+aaj yeh yuddh megh ko hawa se hataane jaisa hoga.”
+
+Matali ne Ravana ke rath ko daahine se kaat diya —
+yeh hi yuddh mein shakun maana jaata hai."""
         create_image_text_layout("attached_assets/chapter6/6.108.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        ☠️ Ravana ke liye Ashubh Shakun
+
+Jaise hi yuddh badha, prakriti ne Ravana ka saath chhod diya:
+
+🔴 Ravana ke rath par khoon ki baarish
+
+🌪️ Ulti disha se aandhi (left → right)
+
+🦅 Gidh aur siyaron ka upar-upar ghoomna
+
+🌑 Din mein bhi Lanka par sandhya jaisa andhera
+
+☄️ Bijli ke saath ulka-paat
+
+🐎 Ghodón ki aankhon se aag aur aansu saath-saath
+
+🌫️ Dhool aur andhera — kuch dikhai na de
+
+⚡ Indra ke vajra — bina baadal ke garaj
+
+Yeh sab nishchit mrityu ke sanket the.
+
+🌞 Rama ke liye Shubh Shakun
+
+Jab Ravana ke liye sab ulta ho raha tha, Rama ke liye:
+
+Aakash saaf lag raha tha
+
+Prakriti sthir thi
+
+Devta, Rishi, Siddh — sab Rama ki vijay ki pratiksha mein
+
+Rama in sab ko dekhkar prasann hue, kyunki ve shakunón ko pehchaan sakte the.
+
+“Jo dharma ke saath ho,
+prakriti bhi uske saath hoti hai.”
+
+🕉️ Gehri Seekh (Moral)
+
+Jab adharma apni seema paar karta hai, prakriti virodh karti hai
+
+Shakun sirf bhay ke liye nahi — sachet karne ke liye hote hain
+
+Ravana ke paas shakti thi, par sahmati nahi
+
+Rama ke paas shastra kam nahi the, par sabse bada bal dharma tha
+
+✨ Is adhyay ka sandesh spasht hai:
+
+Jab prakriti khud faisla suna de,
+yuddh sirf ek aupchaarikta reh jaata hai.
+
+Agle adhyay mein —
+🔥 Rama ka antim prahar aur Ravana ka ant 🔥"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.109
     with st.expander("Chapter 6.109 – The battle rises and falls"):
         text1 = """
-        """
+        Chapter 109 – Yuddh ka Utaar-Chadhaav ⚔️
+
+(Jab jeet aur haar hilne lagti hai)
+
+Is pal yuddh aur zyada bhayankar ho gaya.
+Rama aur Ravana
+dono apne-apne rath par poori shakti se lade.
+
+😮 Dono Senaein Ruk Gayi
+
+Vanar sena aur Rakshas sena —
+sab stambhit ho gaye.
+
+Haath mein hathiyaar the
+
+Par koi chalaya nahi
+
+Sabki aankhen sirf apne-apne nayak par thi
+
+Dil tez dhadak rahe the.
+Jaise poori duniya saans roke dekh rahi ho."""
         create_image_text_layout("attached_assets/chapter6/6.109.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🧠 Do Mann, Do Soch
+
+Rama ke mann mein vishwas tha:
+
+“Main jeetunga.”
+
+Ravana ke mann mein sach tha:
+
+“Ya toh jeet, ya phir mrityu.”
+
+Dono ne apni poori taakat dikha di.
+
+🏳️ Dhvaja Girna – Bada Sanket
+
+Ravana ne pehle Rama ke rath ke jhande par vaar kiya.
+Par nishana chook gaya.
+
+Phir Rama ne shaant par dridh mann se teer chhoda.
+Ek chamakta hua teer —
+aur Ravana ka dhvaja toot kar gir gaya.
+
+Yeh sirf jhanda nahi gira tha.
+Yeh Ravana ke ahankar ka sanket tha.
+
+🔥 Ravana ka Gussa
+
+Dhvaja girte hi Ravana aag-baboola ho gaya.
+
+Teer
+
+Gada
+
+Chakr
+
+Patthar
+
+Ped
+
+Bhale
+
+Hazaaron hathiyaar —
+sab maya se rache hue.
+
+Aasmaan jaise hathiyaaron se bhar gaya.
+
+Par fir bhi —
+Rama ka rath surakshit raha.
+Ghode aise khade rahe jaise kamal ke phool chhoo liye hon.
+
+🌪️ Aasmaan Mein Yuddh
+
+Ab Rama bhi rukne wale nahi the.
+
+Teer par teer
+
+Shastra par shastra
+
+Aasmaan aisa lag raha tha jaise
+doosra swarg ban gaya ho, sirf hathiyaaron ka.
+
+Koi teer bekaar nahi gaya.
+Har teer kisi na kisi se takraaya.
+
+⚖️ Barabari ka Pal
+
+Kabhi Rama Ravana ke ghodon par vaar karte.
+Kabhi Ravana Rama ke rath par.
+
+Yeh yuddh barabari par tha,
+par Ravana ka mann ab bhi
+apne toote jhande par atka hua tha.
+
+Uska gussa aur badhta gaya.
+
+🌱 Moral / Seekh
+
+Jab ahankar ka jhanda girta hai,
+tab ant nazdeek hota hai
+
+Sachcha veer shor nahi, sthirta dikhata hai
+
+Yuddh sirf shastra se nahi, mann se bhi jeeta jaata hai
+
+✨ Agla adhyay:
+🔥 Ravana ke krodh ka antim ubhaar
+aur
+🌞 Rama ki nishchit vijay ki aur badhte kadam"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.110
     with st.expander("Chapter 6.110 – The duel continues"):
         text1 = """
-        """
+        Chapter 110 – Yuddh Abhi Jaari Hai ⚔️
+
+(Jab ant paas hai, par abhi prakat nahi)
+
+Rama aur Ravana ka yeh yuddh dekh kar
+teenon lok hairaan ho gaye.
+
+Dono veer gusse mein bhare hue the.
+Dono ek-dusre ka ant chahte the.
+
+🛞 Rath aur Saarthi ka Kaushal
+
+Dono ke rath aise ghoom rahe the
+jaise bijli chamak rahi ho.
+
+Aage badhna
+
+Ghoom kar vaar karna
+
+Achaanak ruk jana
+
+Saarthi apni poori kala dikha rahe the.
+Teer baras rahe the jaise badal baras rahe ho."""
         create_image_text_layout("attached_assets/chapter6/6.110.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        ⚔️ Seedha Samna
+
+Kuch pal baad,
+dono rath bilkul aamne-saamne aa gaye.
+
+Ghode takraane jaise paas
+
+Jhande ulajh gaye
+
+Saans bhi ruk si gayi
+
+Rama ne chaar teer chala kar
+Ravana ke ghodon ko peeche dhakel diya.
+
+Ravana aur bhadak utha.
+
+🔥 Matali par Vaar
+
+Gusse mein Ravana ne
+Matali par teer chala diye.
+
+Matali hila bhi nahi.
+Par Rama ko yeh apmaan bardasht nahi hua.
+
+Rama ne teer par teer chhode—
+das, bees, pachaas, hazaar!
+
+🌍 Poora Brahmand Hil Gaya
+
+Yuddh itna bhayankar ho gaya ki—
+
+Samundar uchhal pade
+
+Prithvi kaanp uthi
+
+Suraj ki roshni dheemi ho gayi
+
+Hawa ruk si gayi
+
+Devta, Rishi, Gandharva sab prarthana karne lage:
+
+“Gaayen surakshit rahein,
+Brahman surakshit rahein,
+aur Raghava vijayi ho!”
+
+😲 Ravana ke Sir Girne Lage
+
+Phir Rama ne ek zahreela teer chhoda.
+
+Ravana ka ek sir kata
+
+Zameen par gir gaya
+
+Teenon lok ne dekha
+
+Par…
+turant naya sir ug aaya 😮
+
+Rama ne doosra kaata.
+Phir teesra.
+Phir sau!
+
+Par Ravana gir nahi raha tha.
+
+🤔 Rama ka Vichaar
+
+Ladte-ladte Rama sochne lage:
+
+“Yahi teer se
+maine Bali, Khara, Dushana ko maara.
+Pahaad hilaaye.
+Samundar ko kampaya.
+
+Phir Ravana par asar kyun nahi?”
+
+Par sochte hue bhi
+Rama ka haath nahi ruka.
+
+⏳ Saat Din Ka Yuddh
+
+Yeh yuddh—
+
+7 din
+
+7 raat
+
+bina ruke chalta raha
+
+Na din mein thakaavat.
+Na raat mein viraam.
+
+Aasmaan, dharti, pahaad—
+sab is yuddh ke gawah bane.
+
+🌪️ To Be Continued…
+
+Aakhir Indra ke saarathi Matali ne dekha—
+abhi nirnay nahi ho paaya.
+
+Woh Rama ki taraf mudhe.
+Aur kuch bahut mahatvapurn baat kehne wale the…
+
+✨ Agla Adhyay:
+🌞 Woh shastra jo Ravana ka ant tay karega
+aur
+🔥 Yuddh ka antim mod"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
