@@ -9999,110 +9999,900 @@ maryada aur nyay ka marg chuna 🙏."""
     # Chapter 6.81
     with st.expander("Chapter 6.81 – Indrajit tricks the army with illusion"):
         text1 = """
-        """
+        Chapter 81 – Indrajit ki Chaal aur Jhoothi Sita
+
+Indrajit samajh gaya ki Rama ka iraada kya hai.
+Woh ladayi chhod kar shehar ke andar chala gaya.
+Uske mann mein gussa bhara tha.
+Uski aankhen laal ho chuki thi.
+
+Thodi der baad Indrajit phir nikla.
+Is baar woh pashchim gate se aaya.
+Uske saath bhayanak rakshas the.
+Saamne Rama aur Lakshmana yuddh ke liye taiyaar khade the."""
         create_image_text_layout("attached_assets/chapter6/6.81.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Indrajit ne ek gandi chaal sochi.
+Usne apni maya ka upyog kiya.
+Usne rath par Sita ki jhoothi tasveer bana di.
+Aur dikhaya jaise woh use maarne wala ho.
+
+Yeh sab vanaron ko dhokha dene ke liye tha.
+Vanar gusse se bhar gaye.
+Sab patthar utha kar daud pade.
+Unke aage Hanuman the.
+Hanuman ke haath mein ek bada pahad tha.
+
+Hanuman ne rath par Sita ko dekha.
+Woh dukhi lag rahi thi.
+Sirf ek choti thi.
+Kapde mailay the.
+Sharir par mitti lagi thi.
+
+Hanuman kuch pal ke liye sunn ho gaya.
+Abhi thodi der pehle hi usne asli Sita ko dekha tha.
+Uske mann mein sawaal aaya,
+“Yeh rakshas kya karne ja raha hai?”
+
+Tab Indrajit ne talwaar nikali.
+Usne sabke saamne Sita par talwaar uthayi.
+Jhoothi Sita cheekhi,
+“Ram! Ram!”
+
+Hanuman ka dil toot gaya.
+Uski aankhon se aansu gir pade.
+Uska gussa aag ban gaya.
+
+Hanuman garja,
+“Paapi!
+Auraton par haath uthana maha-paap hai.
+Tu is paap se bach nahi payega.
+Sita ko chhu kar tune apna ant likh diya hai.”
+
+Itna keh kar Hanuman aur vanar sena toot pade.
+Rakshas bhi teer chalane lage.
+Yuddh aur bhayanak ho gaya.
+
+Indrajit hansa.
+Usne phir se talwaar uthayi.
+Aur us jhoothi Sita ko kaat diya.
+Woh chillata hua bola,
+“Dekho! Ram ki Sita mar gayi!”
+
+Vanar sena yeh dekh kar kaanp uthi.
+Unke mann mein dukh aur bhay bhar gaya.
+Woh sochne lage sab kuch khatam ho gaya.
+
+Par yeh sirf maya thi.
+Sach abhi baaki tha.
+Dharma ki jeet abhi door nahi thi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.82
     with st.expander("Chapter 6.82 – Hanuman rallies the monkeys"):
         text1 = """
-        """
+        Chapter 82 – Hanuman ne Vanar Sena ko Sambhala, Indrajit ka Yagya
+
+Indrajit ki bhayanak garaj sun kar vanar darr gaye.
+Uski awaaz Indra ke baadal jaisi thi.
+Sab vanar idhar-udhar bhaagne lage.
+
+Tab Hanuman, jo Vayu putra the, zor se bole.
+Unhone bhaagte hue vanaron ko roka.
+
+Hanuman ne kaha,
+“Tum sab kyun bhaag rahe ho?
+Tumhara veerta kahan gaya?
+Dushman se peeth mat dikhao.
+Mere saath yuddh mein aao!”"""
         create_image_text_layout("attached_assets/chapter6/6.82.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ki baat sun kar vanaron ka mann majboot ho gaya.
+Unhone patthar aur ped uthaye.
+Gusse se bhare hue rakshason par toot pade.
+
+Hanuman beech mein the.
+Unke charon taraf shresht vanar the.
+Jaise suraj apni roshni se andhera mita deta hai,
+waise hi Hanuman ne shatru sena ko hila diya.
+
+Hanuman ka roop kaal jaisa lag raha tha.
+Dukh aur krodh se bhare hue,
+unhone ek bada patthar Indrajit ke rath par phenka.
+
+Rath ke saarathi ne turant rath mod diya.
+Indrajit bach gaya.
+Patthar zameen mein dhans gaya.
+
+Ab vanar sena aur zor se garji.
+Sau-sau vanar aage badhe.
+Ped, chattan aur pahad uthane lage.
+Indrajit par pattharon ki baarish hone lagi.
+
+Rakshas sena bikharne lagi.
+Kai rakshas pedon ke neeche dab gaye.
+Yuddh aur bhi bhayanak ho gaya.
+
+Apni sena ko pitta dekh kar Indrajit gusse se bhadak utha.
+Usne teeron ki varsha kar di.
+Kai veer vanar gir pade.
+
+Par vanar bhi kamzor nahi the.
+Unhone bhale, talwaar aur gadayein chalayi.
+Hanuman ne bade-bade vriksh utha kar rakshason ko kuchal diya.
+
+Ant mein rakshas peeche hat gaye.
+Tab Hanuman ne apni sena se kaha,
+“Humne Ram ke liye apni jaan daav par laga di.
+Par jinke liye hum yuddh kar rahe the,
+woh Sita ab nahi rahi.”
+
+Vanaron ka mann bhaari ho gaya.
+Hanuman ne kaha,
+“Hum yeh baat Rama aur Sugriva ko batayenge.
+Phir jo aadesh milega, wahi karenge.”
+
+Yeh keh kar Hanuman dheere-dheere sena ko le kar laut aaye.
+
+Udhar Indrajit ne dekha ki Hanuman wapas ja rahe hain.
+Usne ek aur chaal sochi.
+Woh Nikumbhila ke yagya sthal par gaya.
+
+Wahan usne Agni ko ahvaan kiya.
+Havan mein ahuti di.
+Aag tez jalne lagi.
+Agni dev santusht ho gaye.
+
+Indrajit ne rakshason ki vijay ke liye prarthana ki.
+Sab rakshas shant khade dekhte rahe.
+
+Yuddh ab ruk gaya tha.
+Par toofan abhi baaki tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.83
     with st.expander("Chapter 6.83 – Lakshmana speaks bravely"):
         text1 = """
-        """
+        Chapter 83 – Lakshman ka Kathor Vichaar
+
+Us bhayanak yuddh ke shor ko sun kar Rama ne Jambavan se kaha,
+“Dost, yeh shor bata raha hai ki Hanuman bahut kathin yuddh kar rahe hain.
+Tum apni sena ke saath jao aur unki madad karo.”
+
+Jambavan bole, “Aisa hi hoga.”
+Woh bhaluon ki sena ke saath pashchim gate ki taraf chale.
+
+Wahan unhone dekha ki Hanuman laut rahe hain.
+Vanar dukhi the.
+Unki aankhon mein aansu the.
+Unhone yuddh chhod diya tha.
+
+Hanuman ne bhaluon ko rok diya.
+Phir sab ke saath tez kadmon se Rama ke paas aaye.
+Unka mann bahut bhaari tha."""
         create_image_text_layout("attached_assets/chapter6/6.83.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ne dukhi swar mein kaha,
+“Yuddh ke dauraan, hamari aankhon ke saamne,
+Indrajit ne roti hui Sita ko maar diya.
+Yeh dekh kar mera mann toot gaya.
+Isi liye main yeh sandesh dene aaya hoon.”
+
+Yeh sunte hi Rama dharti par gir pade.
+Jaise jad se kata ped gir jata hai.
+Unka dukh agni ki tarah bhadak utha.
+
+Sab vanar neta daud kar aaye.
+Unhone kamal ki sugandh wala paani Rama par chhidka.
+Par unka shok kam nahi hua.
+
+Tab Lakshmana ne Rama ko apni baahon mein bhar liya.
+Unki aankhon mein peeda aur gussa tha.
+Unhone gehri baat kehni shuru ki.
+
+Lakshman bole,
+“Bhaiya, aap dharma ke raaste par chalte ho.
+Phir bhi aapko itna dukh kyun milta hai?
+Mujhe lagta hai dharma dikhai hi nahi deta.
+Agar dharma hota, to aap jaise satpurush ko yeh dukh nahi milta.”
+
+“Yadi adharma sach mein bura hota,
+to Ravana kab ka nasht ho chuka hota.
+Par dukh hamesha achchon ko hi kyun milta hai?”
+
+Lakshman ka swar aur kathor ho gaya.
+“Jo shaktiwaan hai, wahi jeet raha hai.
+Jo dharmic hai, wahi peedit ho raha hai.
+Isse lagta hai jaise dharma kamzor ho.”
+
+Unhone kaha,
+“Raj chhodna galat nirnay tha.
+Dhan se hi shakti aati hai.
+Dhan se hi mitra, samman aur bal milta hai.
+Garib aadmi ke sapne bhi sookh jaate hain.”
+
+Lakshman ne aage kaha,
+“Jab aap vanvaas mein the,
+tab ek rakshas aapki priya ko le gaya.
+Yeh sab is tyag ka phal hai.”
+
+Phir unka swar badal gaya.
+Ab usme veerta thi.
+
+Lakshman bole,
+“Par bhaiya, uthiye.
+Main hoon na.
+Indrajit ne jo dukh diya hai,
+main use apni shakti se mita dunga.”
+
+“Janak ki putri ki mrityu ka samachar
+mere khoon ko jala raha hai.
+Main apne baanon se poori Lanka hila dunga.
+Rath, ghode, rakshas aur uska raja—
+sab ka vinash kar dunga!”
+
+Lakshman ki aankhon mein agni thi.
+Aur unke shabd yuddh ka sanket ban chuke the."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.84
     with st.expander("Chapter 6.84 – Vibhishana comforts Rama"):
         text1 = """
-        """
+        Chapter 84 – Bibishan ne Rama ko Sambhala
+
+Jab Lakshmana apne bhai ko sambhaal rahe the,
+tab Bibishana wahan aaye.
+Woh sena ko sambhaal kar aa rahe the.
+Unke saath chaar veer rakshas the.
+
+Bibishan ne dekha ki Rama gehre dukh mein doobe hue hain.
+Vanaron ki aankhon mein aansu the.
+Sabka mann bhaari tha.
+
+Bibishan ka dil bhi dukhi ho gaya.
+Unhone poocha,
+“Yeh sab kya ho gaya?”"""
         create_image_text_layout("attached_assets/chapter6/6.84.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Tab Lakshman bole,
+“Indrajit ne Sita ko maar diya!
+Hanuman ne khud yeh baat batayi.
+Isliye Rama shok mein doob gaye hain.”
+
+Yeh sunte hi Bibishan ne baat kaat di.
+Unhone shaant swar mein Rama se kaha,
+“Hey purushon mein shreshth,
+yeh baat utni hi asambhav hai
+jitni samundar ka sookh jana.”
+
+“Main Ravana ko achhi tarah jaanta hoon.
+Woh kabhi bhi Sita ko nuksaan pahunchane nahi dega.
+Maine usse kai baar samjhaya tha.
+Par na vinati se, na dhamki se,
+na hi kisi chaal se koi Sita ke paas pahunch saka.”
+
+Bibishan ne aage kaha,
+“Indrajit ne yeh sab vanaron ko darane ke liye kiya.
+Woh Sita sirf maya thi.
+Sachchi Sita surakshit hain.”
+
+Phir Bibishan bole,
+“Aaj Indrajit Nikumbhila mein yagya karne ja raha hai.
+Agar usne yagya poora kar liya,
+to woh devtaon se bhi ajey ho jayega.”
+
+“Isliye der mat kijiye.
+Aapka dukh poori sena ko kamzor kar raha hai.
+Uthiye, apna sahas yaad kijiye.”
+
+Bibishan ne dridhata se kaha,
+“Lakshman ko aadesh dijiye.
+Unke teekhe baan Indrajit ke yagya ko tod denge.
+Jaise Indra apna vajra chhodta hai,
+waise hi Lakshman Indrajit par toot padein.”
+
+“Shatru ko maarne mein vilamb theek nahi.
+Abhi ka samay sahi hai.
+Lakshman ko jaane dijiye.
+Yahi dharma hai.
+Yahi sahi raasta hai.”
+
+Bibishan ke shabd
+Rama ke mann mein roshni ban kar utre.
+Andhera dheere-dheere chhatne laga."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.85
     with st.expander("Chapter 6.85 – Lakshmana goes to fight Indrajit"):
         text1 = """
-        """
+        Chapter 85 – Lakshman Nikumbhila Van ki Ore
+
+Bibishan ki baat sunkar bhi Rama abhi poori tarah sambhal nahi paaye the.
+Dukh unke mann par bhaari tha.
+Thodi der baad unhone himmat jutaayi.
+
+Rama ne Bibishana se kaha,
+“Tumne jo kaha, use phir se batao.
+Main sab kuch saaf-saaf sunna chahta hoon.”
+
+Bibishan ne shant swar mein dobara kaha,
+“Senayein tayaar hain.
+Sab apni jagah par khade hain.
+Par jab tak aap shok mein doobe rahenge,
+tab tak sabka hausla tootega.”"""
         create_image_text_layout("attached_assets/chapter6/6.85.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Unhone aage kaha,
+“Indrajit Nikumbhila van mein yagya kar raha hai.
+Agar yagya poora ho gaya,
+to woh ajey ho jayega.
+Tab hum sab haar jayenge.”
+
+Bibishan bole,
+“Isliye Lakshmana ko turant bhejiye.
+Unke baan zehrele saanp jaise honge.
+Yagya todna hi Indrajit ka ant hai.”
+
+Rama ne gambhir swar mein kaha,
+“Main Indrajit ki maya ko jaanta hoon.
+Woh aakash mein rath se ghoomta hai.
+Uski gati badalon mein chhupe suraj jaisi hai.
+Par ab der nahi ho sakti.”
+
+Rama ne Lakshman ki taraf dekha.
+Unki aankhon mein vishwas tha.
+Unhone kaha,
+“Lakshman,
+vanar sena ke saath jao.
+Hanuman tumhare saath honge.
+Bhaluon ki sena aur Jambavan bhi saath jayenge.”
+
+“Indrajit ko wahi roko.
+Uski maya ko wahi tod do.”
+
+Lakshman ka chehra tej se chamak utha.
+Unhone apna divya dhanush uthaya.
+Kavach pehna.
+Talwar aur baan sambhale.
+
+Lakshman bole,
+“Aaj mere baan
+Lanka ko hila denge.
+Indrajit aaj nahi bachega.”
+
+Yeh keh kar unhone Rama ke charan chhuye.
+Teen baar parikrama ki.
+Aur tez kadmon se nikal pade.
+
+Unke saath Bibishan the.
+Angada aur Vayu putra Hanuman bhi the.
+Vanar sena samundar ki tarah unke peeche umad padi.
+
+Raaste mein bhaluon ki sena mili.
+Sab yuddh ke liye tayaar the.
+
+Aage jaakar Lakshman ne dekha—
+rakshas sena tayaar khadi hai.
+Chamakte hathiyaar.
+Rathon ki lambi panktiyan.
+
+Lakshman ne dhanush kas liya.
+Unka mann dridh tha.
+Aaj dharma ka kaam unke haath mein tha.
+
+Aur veer Lakshman
+andhere mein pravesh karte hue
+bhayanak shatru sena ke beech ghus gaye."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.86
     with st.expander("Chapter 6.86 – Indrajit stops his ritual to fight"):
         text1 = """
-        """
+        Chapter 86 – Indrajit ne Yagya Todega, Lakshman se Yuddh
+
+Us samay Bibishana ne Lakshmana ko sahi salah di.
+Yeh salah Lakshman ke liye laabhdayak thi.
+Aur rakshason ke liye vinashkari.
+
+Bibishan bole,
+“Lakshman,
+patthar aur ped lekar vanar sena ko aage bhejo.
+Rakshas sena ka ghera todo.
+Jaise hi pankti tootegi,
+Indrajit khud saamne aa jayega.”
+
+“Der mat karo.
+Apne baan chalao.
+Yagya poora hone se pehle
+Indrajit ko yuddh ke liye majboor karo.”"""
         create_image_text_layout("attached_assets/chapter6/6.86.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Bibishan ki baat sun kar Lakshman ne turant baan chhod diye.
+Teer Indra ke vajra jaise girne lage.
+
+Bhalu aur vanar ek saath aage badhe.
+Unhone bade-bade ped utha liye.
+Rakshas sena bhi talwaar, bhale aur teer lekar toot padi.
+
+Yuddh bhayanak ho gaya.
+Aakash andhera pad gaya.
+Ped, chattan aur teer hawa mein udne lage.
+Zameen kaanp uthi.
+
+Rakshas darawane chehron ke saath vaar kar rahe the.
+Vanar bhi poori shakti se jawab de rahe the.
+Kai rakshas pedon ke neeche kuchle gaye.
+
+Jab Indrajit ne dekha
+ki uski sena haar rahi hai,
+toh uska gussa phoot pada.
+
+Uska yagya abhi poora nahi hua tha.
+Phir bhi woh Nikumbhila van chhod kar
+turant apne rath par chadh gaya.
+
+Laal aankhen.
+Haath mein dhanush.
+Woh Mrityu jaise bhayanak lag raha tha.
+
+Yeh dekh kar Hanuman aage badhe.
+Unhone ek bahut bada ped ukhaad liya.
+Aur rakshason par barsa diya.
+
+Rakshas behosh hote gaye.
+Zameen laashen se bhar gayi.
+
+Ab hazaron rakshas Hanuman par toot pade.
+Talwaar, bhale, gada, lohe ke dande—
+sab kuch chalaya gaya.
+
+Par Hanuman pahad jaise atal khade rahe.
+Unka krodh aur bhi badh gaya.
+Unhone bhayanak sanhaar macha diya.
+
+Indrajit ne dekha
+ki Hanuman akela hi sab kuchal raha hai.
+Usne apne saarathi se kaha,
+“Rath udhar le chalo.
+Agar is vanar ko nahi roka,
+toh sab rakshas nasht ho jayenge!”
+
+Rath Hanuman ki taraf badha.
+Indrajit ne teer, talwaar aur bhale chalaye.
+
+Hanuman aur bhadak uthe.
+Unhone garaj kar kaha,
+“Hey Ravana ke putra!
+Agar veer hai,
+toh saamne aa kar
+haathon se yuddh kar!”
+
+Isi samay Bibishan ne Lakshman ko sanket diya.
+Unhone kaha,
+“Dekho, wahi Indrajit hai.
+Woh Hanuman ko maarna chahta hai.”
+
+“Lakshman!
+Apne shreshth baan chalao.
+Isi samay is rakshas ka ant karo!”
+
+Lakshman ne dhanush uthaya.
+Unki aankhon mein tej tha.
+Saamne Indrajit khada tha—
+ajey, ghamandi, aur bhayanak.
+
+Aur yahin se
+do maha veeron ka
+saamna hone wala tha…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.87
     with st.expander("Chapter 6.87 – Indrajit and Vibhishana argue"):
         text1 = """
-        """
+        Chapter 87 – Indrajit aur Bibishan ka Aamne-Saamne Virodh
+
+Yeh keh kar Bibishana khush ho gaye.
+Woh Lakshmana ko saath lekar tez chal pade.
+Thodi door jaakar woh ek gehre jungle mein pahunche.
+
+Bibishan ne Lakshman ko ek jagah dikhayi.
+Wahin Indrajit yagya karta tha.
+Wahan ek bahut bada Nyagrodha (Banyan) ka ped khada tha.
+Woh kaale baadal jaisa bhayanak lag raha tha."""
         create_image_text_layout("attached_assets/chapter6/6.87.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Bibishan bole,
+“Yahin Ravana ka putra balidan deta hai.
+Yahin se woh yuddh ke liye nikalta hai.
+Woh adrishya ho jata hai
+aur teekhe baanon se shatru ko nishkriya kar deta hai.”
+
+“Isse pehle ki woh is ped tak pahunche,
+tum apne jalte teeron se
+uska rath, ghode aur saarathi tod dena.”
+
+Lakshman bole,
+“Bilkul aisa hi hoga.”
+Unhone apna adbhut dhanush kas liya.
+
+Tab achanak Indrajit saamne aaya.
+Woh rath par tha.
+Kavach pehne hue.
+Talwaar aur dhwaj chamak rahe the.
+Aag jaise tej ke saath woh aage badha.
+
+Lakshman ne lalkaar lagayi,
+“Indrajit!
+Mujhse seedha yuddh karo.
+Saamne aa kar ladho!”
+
+Indrajit ne yeh suna.
+Uski nazar Bibishan par padi.
+Uska gussa phoot pada.
+
+Indrajit chillaya,
+“Tum mere pita ke bhai ho!
+Isi vansh mein paida hue.
+Phir mere pita ke shatru ka saath kyun de rahe ho?”
+
+“Tumne apna dharma chhod diya.
+Apni jaati ko chhod diya.
+Dushman ke paas jaakar khade ho gaye.
+Khoon ka rishta hamesha rishta hota hai.
+Paraye kabhi apne nahi hote!”
+
+“Jo apno ko chhod deta hai,
+woh aakhir nasht ho jata hai.
+Tum jaise log hi apne vansh ka kalank hote ho!”
+
+Yeh sun kar Bibishan shaant rahe.
+Phir gambhir awaaz mein bole,
+“Indrajit,
+tum mujhe nahi jaante.”
+
+“Main rakshas vansh mein paida hua hoon,
+par mere siddhant manushyon jaise hain.
+Main anyaay aur kroorta ko sweekaar nahi karta.”
+
+“Jo bhai adharm par chal pade,
+usse chhod dena hi dharma hota hai.
+Jaise haath par baitha saanp jhaad diya jata hai.”
+
+Bibishan ne aage kaha,
+“Paraye dhan par nazar,
+parayi patni par lalach,
+aur mitron par avishwas—
+yeh teen gunaah vinash laate hain.”
+
+“Tumhare pita Ravana mein
+ahankaar, krodh aur anyaay bhara hai.
+Isi wajah se Lanka ka ant nazdeek hai.”
+
+Bibishan ki awaaz kathor ho gayi.
+“Tum, tumhara pita aur tumhari sena—
+sab mrityu ke jaal mein bandhe ho.”
+
+“Ab tum is Nyagrodha ped tak
+kabhi nahi pahunch paoge.
+Tumne Rama ka apmaan kiya hai.
+Iska daam tumhe chukana hoga.”
+
+“Ab yuddh karo!
+Apni poori shakti dikhao.
+Par yaad rakhna—
+agar Lakshman ke baanon ki seema mein aaye,
+toh tum aur tumhari sena
+zinda nahi bachegi!”
+
+Hawa bhaari ho gayi.
+Do paksh saamne the.
+Shabd khatam ho chuke the.
+Ab sirf yuddh baaki tha…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.88
     with st.expander("Chapter 6.88 – Lakshmana and Indrajit fight"):
         text1 = """
-        """
+        Chapter 88 – Lakshman aur Indrajit ka Mahayuddh
+
+Bibishan ke shabdon ko sun kar Indrajit gusse se jal utha.
+Usne aur kadve shabd kahe.
+Aur poore krodh ke saath aage badha.
+
+Woh kaale ghodon se jude rath par khada tha.
+Haath mein talwaar aur bhayanak dhanush.
+Uska roop Mrityu jaisa lag raha tha.
+
+Uske saamne Lakshmana prakat hue.
+Woh Hanuman ki peeth par baithe the.
+Unka tej ubharte suraj jaisa tha."""
         create_image_text_layout("attached_assets/chapter6/6.88.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Indrajit zor se garja,
+“Dekho meri shakti!
+Mere baan baadalon ki baarish jaise girenge.
+Tum sab ko aaj Yama lok bhej dunga!”
+
+“Pehle bhi maine tum dono bhaiyon ko
+raat ke yuddh mein behosh kar diya tha.
+Kya tum bhool gaye ho?”
+
+Lakshman ne shant par kathor awaaz mein kaha,
+“Sirf bolna veerta nahi hota.
+Jo kaam kar dikhaye, wahi veer hota hai.”
+
+“Chhup kar ladna kayaron ka kaam hai.
+Agar veer ho,
+toh saamne aa kar ladho.
+Baaton se kuch nahi hota.”
+
+Yeh sun kar Indrajit ne dhanush khinch liya.
+Tez teer zehrele saanpon jaise chhoot pade.
+Lakshman ka sharir baanon se chhalni ho gaya.
+Khoon behne laga.
+
+Par Lakshman gire nahi.
+Woh bina dhuen ki agni jaise chamak rahe the.
+
+Indrajit hansa aur bola,
+“Aaj jungle ke jaanwar
+tumhare sharir par mandrayenge.
+Rama dekhega
+apne bhai ko girte hue!”
+
+Lakshman ne dhairya se uttar diya,
+“Khali ghamand se kuch nahi hota.
+Ab dekhna,
+main bina shor ke
+tumhara ant kaise karta hoon.”
+
+Yeh keh kar Lakshman ne dhanush kaan tak kheench liya.
+Unhone paanch shaktishaali baan chhode.
+Teer Indrajit ke seene mein ja lage.
+Suraj ki kirnon jaise chamak uthe.
+
+Gusse se bhara Indrajit ne bhi teen baan chhode.
+Lakshman phir ghaayal hue.
+Par unka sankalp nahi toota.
+
+Ab yuddh aur bhayanak ho gaya.
+Dono veer ek doosre par
+teeron ki baarish kar rahe the.
+
+Koi kisi se kam nahi tha.
+Dono mein apar shakti thi.
+Dono atoot veer the.
+
+Aisa lag raha tha
+jaise aakash mein do grah takra rahe ho.
+Ya jaise do sher
+ek jagah jam kar lad rahe ho.
+
+Shabd khatam ho chuke the.
+Ab sirf dhanush bol rahe the.
+Yeh yuddh ab
+ant ki taraf badh raha tha…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.89
     with st.expander("Chapter 6.89 – The fierce battle continues"):
         text1 = """
-        """
+        Chapter 89 – Lakshman aur Indrajit ka Lagataar Yuddh
+
+Is beech Lakshmana, Dasharath ke putra,
+ne gusse mein teer uthaye.
+Unhone Indrajit par teeron ki baarish kar di.
+
+Dhanush ki tan-tan sun kar
+Indrajit ka chehra feeka pad gaya.
+Uski aankhen Lakshman par tik gayi.
+
+Yeh dekh kar Bibishana bole,
+“Lakshman,
+Indrajit ke charon taraf apashakun dikh rahe hain.
+Jaldi karo.
+Uska ant nazdeek hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.89.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Lakshman ne zehrele saanp jaise teer chune.
+Aur Indrajit par chhod diye.
+Teer bijli jaise lage.
+Indrajit kuch pal ke liye chakkar kha gaya.
+
+Phir woh laal aankhon se aage badha.
+Gusse mein chillaya,
+“Kya tum bhool gaye ho?
+Pehli baar maine tum dono bhaiyon ko
+baandh kar gira diya tha!”
+
+“Ab phir se mere saamne aaye ho?
+Lagta hai tum mrityu chahte ho!”
+
+Itna keh kar Indrajit ne vaar kiya.
+Lakshman par saat teer lage.
+Hanuman par das teer pade.
+Bibishana par sau teer barsa diye.
+
+Lakshman hase.
+Bole,
+“Bas itna hi?
+Yeh kuch bhi nahi!”
+
+Phir Lakshman ne bhaari teer uthaye.
+Gusse mein chhod diye.
+Bole,
+“Veer yuddh aise nahi karte.
+Tumhare teer kamzor hain.”
+
+Lakshman ke teeron se
+Indrajit ka sone ka kavach toot gaya.
+Rath par bikhar gaya.
+Uska sharir ghaavon se bhar gaya.
+
+Gusse se bhara Indrajit
+hazaar teer chhodne laga.
+Lakshman ka divya kavach bhi toot gaya.
+
+Ab dono ek doosre par toot pade.
+Teer-teer se takra rahe the.
+Khoon beh raha tha.
+
+Yuddh bahut lamba chala.
+Koi thaka nahi.
+Koi peeche nahi hata.
+
+Aisa lag raha tha
+jaise aakash mein do kaale baadal takra rahe ho.
+Ya jaise do pahaad aapas mein lad rahe ho.
+
+Dono ke sharir
+teeron se bhare the.
+Khoon nadiyon ki tarah beh raha tha.
+Phir bhi dono chamak rahe the,
+jaise jungle ke phool khil gaye ho.
+
+Lakshman aur Indrajit
+barabar vaar kar rahe the.
+Koi kisi se kam nahi tha.
+
+Kaafi der tak yeh yuddh chala.
+Tab Bibishana
+Lakshman ke paas aa gaye.
+Taaki ve thakaan se bach sakein.
+Aur dharma ka yeh yuddh
+ant tak ja sake."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.90
     with st.expander("Chapter 6.90 – Indrajit loses his chariot and horses"):
         text1 = """
-        """
+        Chapter 90 – Indrajit ka Rath, Saarathi aur Ghode Gir Gaye
+
+Insaan aur rakshas ka yeh yuddh
+do tootey hue daanton wale haathiyon jaisa lag raha tha.
+Dono ek-dusre ko haraana chahte the.
+
+Yeh sab dekh kar Bibishana
+yuddh ke aage aa gaye.
+Haath mein unka shreshth dhanush tha.
+Woh ant dekhna chahte the.
+
+Bibishan ne teer chhode.
+Tez aur jalte hue teer.
+Rakshason par bijli jaise gिरे.
+Pahaad jaise rakshas tootne lage."""
         create_image_text_layout("attached_assets/chapter6/6.90.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Bibishan ke saathi bhi aage badhe.
+Gada, talwaar aur bhale chale.
+Bibishan beech mein
+ek bade haathi jaise dikh rahe the,
+jinke chaaron taraf unke veer the.
+
+Vanaron ka hausla badhane ke liye
+Bibishan zor se bole,
+“Indrajit hi Ravana ka aakhri sahara hai.
+Uski sena ab bas itni hi bachi hai!”
+
+“Prahasta mar chuka.
+Nikumbha, Kumbhakarna,
+aur kai maha-veer rakshas bhi gir chuke!”
+
+“Tum samundar paar kar chuke ho.
+Ab bas gaay ke khur ke nishaan jitna raasta baaki hai!”
+
+“Main apne bhai ke bete ko nahi maar sakta.
+Meri aankhon mein aansu aa jaate hain.
+Isliye Lakshmana hi
+Indrajit ka ant karenge.”
+
+Bibishan ki baat sun kar
+vanar garaj uthe.
+Taali bajayi.
+Cheekh-chilla ki.
+Jaise mor baadal dekh kar naachte hain.
+
+Udhar Jambavan
+aur bhalu sena bhi toot padi.
+Naakhun, daant, patthar—
+sab chalne lage.
+
+Rakshas bhi chup nahi rahe.
+Bhale, kulhaadi, teer barsa diye.
+Yuddh aur bhi bhayanak ho gaya.
+
+Isi beech Hanuman ne
+ek pahaad ka tukda tod liya.
+Lakshman ko neeche utaara.
+Aur hazaaron rakshason ko kuchal diya.
+
+Phir Indrajit
+phir se Lakshman par toot pada.
+Dono ka seedha dvandh shuru ho gaya.
+
+Teer itni tez chal rahe the
+ki aankhon se pakadna mushkil tha.
+Aakash andhera ho gaya.
+Jaise suraj-chand badalon mein chhup gaye ho.
+
+Shaam ho gayi.
+Khoon behne laga.
+Jungle ke jaanwar zor se bolne lage.
+Rishiyon ne kaha,
+“Jagat ka kalyan ho.”
+
+Tab Lakshman ne chaar teeron se
+Indrajit ke chaar kaale ghodon ko maar giraaya.
+Phir ek chamakte Bhalla se
+uske saarathi ka sir kaat diya.
+
+Ab Indrajit khud
+rath ki lagam sambhalne laga.
+Ek haath se dhanush,
+ek se ghode.
+
+Par Lakshman ke teer
+kabhi usse, kabhi ghodon ko lag rahe the.
+
+Vanaron ne mauka dekha.
+Pramathin, Rabhasa, Sharabha, Gandhamadan
+sab ghodon par kud pade.
+
+Bhaari bojh se ghode
+khoon ugal kar gir pade.
+Rath toot gaya.
+
+Indrajit ab paidal ho gaya.
+Par usne haar nahi maani.
+Usne phir teer chhode.
+
+Lakshman bhi rukey nahi.
+Mahendra jaise dridh khade rahe.
+Aur Indrajit par
+teeron ki baarish karte rahe.
+
+Ab yuddh
+bina rath, bina ghodon
+sirf veerta aur sankalp ka reh gaya tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
