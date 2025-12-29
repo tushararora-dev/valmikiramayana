@@ -13370,110 +13370,1132 @@ aur
     # Chapter 6.111
     with st.expander("Chapter 6.111 – Rama kills Ravana"):
         text1 = """
-        """
+        Us pal Matali ne Rama se kaha,
+“Prabhu, apni shakti ko yaad kijiye.
+Ab samay aa gaya hai.
+Brahma Astra ka prayog kijiye.
+Devtaon ne pehle hi bata diya tha—
+Ravana ka ant ab nischit hai.”
+
+Rama ne shant mann se
+wo divya baan uthaya
+jo unhe pehle Rishi Agastya ne diya tha."""
         create_image_text_layout("attached_assets/chapter6/6.111.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Wo baan koi normal teer nahi tha.
+Usme Agni ki aag,
+Surya ki roshni,
+Vayu ki gati,
+aur Aakash ki vishalata thi.
+
+Wo baan kabhi lakshya nahi chookta tha.
+Uski chamak sooraj jaisi thi.
+Uski awaaz bijli jaisi garajti thi.
+
+Rama ne mantron ke saath
+us baan ko apne dhanush par chadhaaya.
+Zameen kaanp uthi.
+Hawa tham si gayi.
+Sab jeev dar gaye.
+
+Phir Rama ne poori shakti se
+us baan ko Ravana ki taraf chhod diya.
+
+⚡⚡⚡
+
+Wo baan seedha Ravana ke seene mein laga.
+Ek hi pal mein
+Ravana ki saari shakti khatam ho gayi.
+
+Uske haath se dhanush gir gaya.
+Aur wo maha-bali raja
+apne rath se neeche gir pada,
+jaise Indra ke vajra se
+Vritra gira tha.
+
+Ravana ka ant ho chuka tha.
+
+🌸 Vijay ka Utsav
+
+Jaise hi Ravana gira—
+
+Rakshas bhay se bhaag gaye
+
+Vanar sena ne jeet ka naara lagaya
+
+Aakash se phoolon ki baarish hui
+
+Devtaon ke nagade baj uthe
+
+“Shabash! Shabash!”
+yeh awaaz aakash mein goonj uthi.
+
+Prithvi shaant ho gayi.
+Hawa shuddh ho gayi.
+Surya phir se poori roshni dene laga.
+
+🤍 Shanti aur Dharma
+
+Sugriva,
+Vibhishan,
+Angad
+aur Lakshmana
+Rama ke paas aaye
+aur prem aur samman se
+unka abhinandan kiya.
+
+Rama sab ke beech
+aise khade the
+jaise Devraj Indra
+devtaon ke beech khade hote hain.
+
+🌟 Is Adhyay ka Sandesh
+
+Ahankar ka ant nischit hota hai
+
+Dharma aur satya hamesha jeette hain
+
+Shakti tab safal hoti hai jab woh nyay ke saath ho"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.112
     with st.expander("Chapter 6.112 – Vibhishana mourns Ravana"):
         text1 = """
-        """
+        Jab Vibhishan ne apne bhai Ravana ko
+yuddh-bhoomi par gira hua dekha,
+toh uska dil toot gaya.
+Aankhon se aansu behne lage.
+
+Woh dard bhari awaaz mein bola—
+
+“Bhai…
+tum jo itne veer the,
+itne buddhimaan the,
+aaj zameen par nishchal kaise pade ho?"""
         create_image_text_layout("attached_assets/chapter6/6.112.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Jo hamesha sone ke palang par sote the,
+aaj mitti par kaise lete ho?
+Tumhare mukut ki chamak
+sooraj ke barabar thi,
+aaj woh dharti par gir gaya hai.
+
+Meri baat sach ho gayi…
+Maine pehle hi kaha tha.
+Par tumne ghamand mein
+meri salah nahi maani.
+
+Isi ahankar ke kaaran
+Prahasta gira,
+Indrajit gira,
+Kumbhakarna gira,
+aur aaj… tum bhi.
+
+Aaj dharm ka stambh gir gaya.
+Shakti ka sahara toot gaya.
+Aisa lagta hai jaise
+sooraj dharti par gir pada ho,
+chand andhere mein kho gaya ho.
+
+Tum ek bade vriksh jaise the—
+jiski jad veerta thi,
+phool shaurya the,
+aur ras tapasya.
+Aaj woh vriksh Rama ke toofan se
+gir gaya hai.
+
+Tum ek gusse se bhare haathi jaise the,
+jise sher ne pakad liya.
+Tum ek jalti aag jaise the,
+jise baadal ne bujha diya.
+
+Aaj rakshason ka raja
+nishabd pada hai.”
+
+Vibhishan ke shabd
+dard aur samajh dono se bhare the.
+Unhe sunkar Rama ne shant swar mein kaha—
+
+“Vibhishan,
+Ravana kisi kamzori ki wajah se nahi gira.
+Usne poori veerta se yuddh kiya.
+Yoddha ka yeh marg hai.
+
+Jo veer yuddh mein girta hai,
+us par shok nahi kiya jaata.
+Yeh kshatriya dharm hai.
+
+Yuddh mein
+kabhi jeet hoti hai,
+kabhi haar.
+Aaj jo gira hai,
+kal jeet bhi usi ki ho sakti thi.
+
+Isliye ab shok chhodo.
+Aur apna kartavya yaad rakho.”
+
+Vibhishan ne bhari mann se kaha—
+
+“Prabhu,
+yeh wahi Ravana hai
+jo kabhi devtaon se bhi nahi haara.
+Jo daan dena jaanta tha,
+mitron ko samman deta tha,
+shatru par krodh barsata tha.
+
+Usne yagya kiye,
+ved padhe,
+aur veer ka dharm nibhaya.
+
+Aaj main uske antim sanskaar
+karna chahta hoon.
+Aapki anumati chahiye.”
+
+Rama ka hriday
+yeh sunkar pighal gaya.
+Unhone kaha—
+
+“Mrityu ke saath
+shatruta samapt ho jaati hai.
+Ab woh mera bhi apna hai,
+jaise tum ho.
+
+Uske antim sanskaar
+poore samman ke saath karo.”
+
+🌱 Is Adhyay ka Sandesh
+
+Yuddh mein gire veer ka bhi samman hota hai
+
+Mrityu shatruta ka ant kar deti hai
+
+Karuna aur dharma, jeet ke baad aur bhi zaroori hote hain"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.113
     with st.expander("Chapter 6.113 – Ravana’s wives cry"):
         text1 = """
-        """
+        Jab Lanka ke mahalon mein
+yeh khabar pahunchi
+ki Ravana yuddh mein gir chuka hai,
+toh uski patniyon ka haal
+bilkul behaal ho gaya.
+
+Jaise gaay apna bachhda kho de,
+waise hi woh sab
+apna sahaara kho chuki thi.
+
+Bikhre hue baal,
+aankhon mein aansu,
+dil mein bhayankar dard—
+woh sab daudti hui
+mahal se bahar nikli."""
         create_image_text_layout("attached_assets/chapter6/6.113.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Kisi ne roka,
+par woh nahi ruki.
+Bar-bar dhool mein girti,
+uthti,
+phir gir jaati.
+
+“Haaye mere swami!
+Haaye mere raja!”
+yeh pukaar poore yuddh-kshetra mein
+goonj rahi thi.
+
+Zameen par
+kate hue sharir,
+kichad aur lahu bikhra tha.
+Us bhayanak drishya ke beech
+woh apne raja ko
+dhoondh rahi thi.
+
+Phir unhone dekha—
+Ravana,
+jo kabhi sabko daraata tha,
+aaj nishchal
+mitti par pada tha.
+
+Bas phir kya tha—
+sab uske sharir par
+toot padi.
+
+Koi usse gale laga kar royi,
+koi uske pair pakadne lagi,
+koi uske gale se lipat gayi.
+
+Koi zameen par lot-pot kar rone lagi,
+koi behosh ho gayi.
+Ek ne apna sir
+uski god mein rakh li
+aur aansuon se
+uska chehra bhigo diya—
+jaise kamal par os gir jaati hai.
+
+Woh ro-ro kar boli—
+
+“Jisse Indra bhi darte the,
+jo Yama ke liye bhi bhay tha,
+jisne Kubera se Pushpak Vimaan chheen liya,
+aaj wahi
+yahan pada hai.
+
+Devta, Asur, Yaksha—
+koi use maar nahi sakta tha.
+Par likha tha
+ki uski mrityu
+ek manav ke haath se hogi.
+
+Jo devtaon se nahi haara,
+aaj ek nirdhan yoddha ke
+teer se gir gaya.”
+
+Phir unka vilap
+aur gehra ho gaya—
+
+“Tumne apne hit mein bolne wale
+mitron ki baat nahi maani.
+Vibhishan ne samjhaya,
+par tumne apmaan kiya.
+
+Agar tum Sita ko wapas kar dete,
+toh aaj
+yeh vinash na hota.
+
+Na hum vidhva hoti,
+na Lanka jalti,
+na shatru jeet paate.
+
+Par tumne
+ahankaar aur vasna mein
+sab kuch kho diya—
+khud ko bhi,
+humein bhi,
+poori jaati ko bhi.
+
+Par phir bhi…
+shayad yeh tumhari galti nahi.
+Yeh vidhi ka likha tha.
+
+Jo marna hota hai,
+woh vidhi se marta hai.
+Na dhan,
+na shakti,
+na rajya
+kisi ko bacha sakta hai.”
+
+Aise keh kar
+Ravana ki patniyan
+pakshi ki tarah cheekhti-chillaati rahi.
+Aankhon se aansu rukne ka naam
+hi nahi le rahe the.🌿 Is Adhyay ka Sandesh
+
+Ahankaar aur galat ichha poore vansh ko mita sakti hai
+
+Sahi salah ko thukrana vinash laata hai
+
+Vidhi apna raasta poora karti hai
+
+Shakti se bada dharma hota hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.114
     with st.expander("Chapter 6.114 – Mandodari mourns and Ravana’s funeral is done"):
         text1 = """
-        """
+        Jab Ravana ki baaki patniyan ro rahi thi,
+tab Mandodari—
+sabse shant, sabse gambhir—
+apne pati ke paas aayi.
+
+Uski aankhon mein
+pyaar bhi tha,
+dard bhi,
+aur sach bhi.
+
+Woh Ravana ke paas baith kar boli—"""
         create_image_text_layout("attached_assets/chapter6/6.114.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “O mere swami…
+jisse kabhi Indra bhi darte the,
+jisse rishi, gandharva aur devta
+bhaag jaate the…
+aaj tum yahan nishchal pade ho.
+
+Tum teenon lokon se balwaan the.
+Phir kaise ek vanvaasi manav
+tum par vijayi ho gaya?
+
+Nahi…
+Rama koi sadharan manav nahi tha.
+Woh swayam Vishnu the—
+jo manav roop mein aaye.
+
+Tumne pehle indriyon ko jeeta,
+phir indriyon ne tumhe jeet liya.
+
+Maine kitni baar kaha—
+‘Sita ko wapas kar do.’
+Par tumne nahi suna.
+
+Isi vasna aur ahankaar ne
+tumhara rajya,
+tumhara vansh,
+aur tumhari jaan
+sab chheen li.
+
+Sita ka pativrata bal
+tumhare tap aur shakti se bhi zyada tha.
+
+Jab samay aata hai,
+toh paap apna phal deta hi hai.
+Achha karm sukh deta hai,
+bura karm dukh.
+
+Bibhishan ne dharma chuna
+aur sukh paaya.
+Tumne adharma chuna
+aur vinash paaya.
+
+Kabhi hum Kailash aur Meru par
+saath ghooma karte the.
+Aaj main vidhva ho gayi.
+
+Jo kabhi ratnon se chamakta tha,
+aaj teeron se chhalni
+mitti par pada hai.
+
+Mera hriday pathar ka hai
+jo abhi bhi jeevit hai.”
+
+Yeh keh kar
+Mandodari behosh ho kar
+Ravana ke vaksh par gir padi—
+jaise bijli
+laal baadal par gir jaati ho.
+
+Uski saheliyon ne use sambhala
+aur kaha—
+
+“Rani,
+rajaon ka bhagya
+pal bhar mein badal jaata hai.”
+
+Tab Rama ne Bibhishan se kaha—
+
+“Apne bhai ke
+antim sanskaar karo
+aur raniyon ko shant karo.”
+
+Bibhishan ne pehle mana kiya—
+“Jo striyon ka apaharan kare,
+jo dharma bhool jaye,
+uska sanskaar kaise karun?”
+
+Par Rama ne shaant swar mein kaha—
+
+“Mrityu ke baad
+shatruta samaapt ho jaati hai.
+Veer yoddha ke roop mein
+uska samman hona chahiye.
+
+Yeh tumhara dharma hai.”
+
+Bibhishan ne Rama ki baat maani.
+
+Lanka mein
+Ravana ka antim sanskaar hua—
+chandan, agni, mantra,
+aur aansuon ke saath.
+
+Sab rivaaj poore kiye gaye.
+Raniyon ko wapas mahal bheja gaya.
+
+Yuddh samaapt ho chuka tha.
+
+Ab Rama ne
+apna krodh tyag diya,
+astra-shastra rakhe,
+aur phir se
+karuna aur shaanti ka roop
+dhaaran kiya.
+
+🌿 Is Adhyay ka Sandesh
+
+Ahankaar sabse bada shatru hai
+
+Sahi salah na maanna vinash laata hai
+
+Paap ka phal nishchit hota hai
+
+Mrityu ke baad shatruta samaapt ho jaati hai
+
+Dharma hamesha karuna ke saath hota hai
+
+Yeh adhyay
+sirf Ravana ka ant nahi,
+balki
+ahankaar ke ant ki kahani hai 🌙"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.115
     with st.expander("Chapter 6.115 – Vibhishana becomes king of Lanka"):
         text1 = """
-        """
+        Ravana ke ant ke baad,
+Devta, Gandharva aur Danav
+apne-apne rath par chadh kar
+khushi ke saath swarg laut gaye.
+
+Woh baat karte ja rahe the—
+Ravana ka ghamandi ant,
+Rama ka dhairy aur veerta,
+vanaron ka sahas,
+Hanuman aur Lakshmana ki nishtha,
+aur Sita ka pavitra prem.
+
+Rama ne
+Indra ka diya hua
+chamakta hua divya rath
+adar ke saath wapas bhej diya.
+Aur Matali ko dhanyavaad keh kar
+vida kiya."""
         create_image_text_layout("attached_assets/chapter6/6.115.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Phir Rama ne
+Sugriva ko gale lagaya.
+Lakshmana ka abhinandan kiya.
+Vanar sena ne
+“Jai Raghunath!” ke naare lagaye.
+
+Tab Rama ne
+shaant swar mein kaha—
+
+“Lakshmana,
+ab samay aa gaya hai.
+Bibishana ko
+Lanka ka raja banaya jaye.
+
+Usne mushkil samay mein
+dharma chuna.
+Humara saath diya.
+Isliye wahi is yogya hai.”
+
+Lakshmana ne muskurakar kaha—
+“Aisa hi hoga, Bhaiya.”
+
+Sone ka kalash mangwaya gaya.
+Vanar chaaron samundron se
+paavitra jal le aaye.
+
+Phir shastron ke anusaar,
+sab ke saamne,
+Bibishana ka
+rajyabhishek hua.
+
+Vanar khush the.
+Lanka ke log khush the.
+Naya raja dharmic tha.
+Naya yug shuru ho chuka tha.
+
+Bibishana ne
+vinamrta se praja ko sambodhit kiya
+aur phir
+Rama ke paas aakar
+shradha se natmastak hua.
+
+Lanka ke log
+phal, mithai, phool
+Rama aur Lakshmana ko
+bheint mein laaye.
+Rama ne sab kuch
+Bibishana ke maan ke liye
+sweekar kiya.
+
+Phir Rama ne
+Hanuman ki taraf dekha—
+jo haath jode khade the.
+
+Rama bole—
+
+“Hanuman,
+ab tum Lanka jao.
+Sita Maa se milo.
+
+Unhe batana—
+main, Lakshmana aur Sugriva
+sab kushal se hain.
+
+Unhe yeh bhi kehna—
+Ravana ka ant ho chuka hai.
+
+Unka sandesh lekar
+wapas aana.”
+
+Hanuman ne
+sir jhuka kar kaha—
+“Jaise aapki aagya, Prabhu.”
+
+Aur Lanka mein
+ek naya, shant aur dharmic
+savera ug aaya 🌸
+
+🌼 Is Adhyay ka Sandesh
+
+Dharma ka saath dene wala hi raja banne yogya hota hai
+
+Wafadari aur sachchai ka phal milta hi hai
+
+Ahankaar ka ant, shaanti ki shuruaat hoti hai
+
+Sahi faisle se hi naya yug aata hai
+
+Yeh adhyay
+sirf rajyabhishek nahi,
+dharma ki jeet ka utsav hai ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.116
     with st.expander("Chapter 6.116 – Hanuman carries Rama’s message to Sita"):
         text1 = """
-        """
+        Rama ki aagya paakar,
+Hanuman
+tez kadmon se Lanka pahunche.
+
+Ab Lanka mein
+Bibishana ka raj tha,
+isliye Hanuman bina kisi dar ke
+Ashok Vatika gaye.
+
+Wahan unhone
+Sita Maa ko dekha.
+Woh ped ke neeche baithi thi.
+Dukhi thi, par shant thi.
+Aas-paas rakshasiyaan khadi thi."""
         create_image_text_layout("attached_assets/chapter6/6.116.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman ne
+sir jhuka kar pranam kiya.
+
+Sita Maa pehchaan gayi.
+Unki aankhon mein
+chhupi hui roshni jag uthi ✨
+
+Hanuman bole, dheere se—
+
+“Vaidehi Maa,
+Rama bilkul theek hain.
+Lakshmana aur Sugriva bhi kushal hain.
+
+Aapke liye yuddh hua.
+Aur Rama ne
+Ravana ka ant kar diya.
+
+Vanar sena aur Bibishana ke saath
+Rama vijayi hue hain.
+Ab aap bilkul surakshit hain.
+Bahut jald Rama
+aapse milne aa rahe hain.”
+
+Yeh sunte hi
+Sita Maa ki aankhon se
+aansu beh nikle.
+Par yeh aansu
+khushi ke the 🌙
+
+Kuch pal tak
+woh kuch bol hi nahi paayi.
+
+Phir boli—
+
+“Hanuman,
+is sandesh se bada
+koi daan nahi ho sakta.
+Is duniya ki koi cheez
+iska mol nahi.”
+
+Hanuman ne haath jod kar kaha—
+“Yeh sab Rama ki kripa hai, Maa.”
+
+Tab Hanuman bole—
+
+“Jo rakshasiyaan
+aapko dukh deti thi,
+agar aagya ho
+toh main unhe dand doon.”
+
+Sita Maa ne
+shaant muskaan ke saath kaha—
+
+“Nahi, Hanuman.
+Ve sirf aadesh maan rahi thi.
+
+Bura ka jawab
+bure se dena
+dharma nahi hota.
+
+Dayaa hi
+sachcha shringaar hai.”
+
+Hanuman ne sir jhuka liya.
+Unhe samajh aa gaya—
+yeh hi Rama ki shakti ka mool hai.
+
+Sita Maa ne kaha—
+“Main apne Prabhu Rama ko dekhna chahti hoon.”
+
+Hanuman muskuraye—
+
+“Aaj hi, Maa.
+Aaj hi aap Rama ko dekhenge.
+Jaise Indrani
+Indra ko dekhti hai.”
+
+Yeh keh kar
+Hanuman turant
+Rama ke paas laut gaye
+aur Sita Maa ka sandesh
+bilkul shabd-shabd suna diya 🌺🌼 Is Adhyay ka Sandesh
+
+Achhai ka jawab hamesha daya se dena chahiye
+
+Sachcha bal shama aur karuna mein hota hai
+
+Dukh ke baad hi sukh ka savera aata hai
+
+Jo dharma par tikta hai, wahi vijayi hota hai
+
+Yeh adhyay
+sirf sandesh ka nahi,
+karuna ki jeet ka hai 💛"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.117
     with st.expander("Chapter 6.117 – Rama sends Sita away"):
         text1 = """
-        """
+        Hanuman
+ne Rama ko pranam kiya
+aur dheere se kaha—
+
+“Prabhu,
+Sita Maa bahut dukhi hain.
+Aapki jeet sunkar
+unhone bas ek baat kahi—
+‘Main apne Rama ko dekhna chahti hoon.’”"""
         create_image_text_layout("attached_assets/chapter6/6.117.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Yeh sunkar
+Rama
+ki aankhon mein aansu aa gaye.
+Unka mann bhar aaya.
+
+Rama ne paas khade
+Bibishana se kaha—
+
+“Vaidehi ko yahan laao.
+Use snaan karao,
+divya vastra aur gehne pehnao.
+Der mat karo.”
+
+Bibishana turant
+Ashok Vatika gaye.
+Unhone Sita Maa ko
+adar se pranam kiya aur bole—
+
+“Maa, aapko Rama bula rahe hain.”
+
+Sita Maa boli—
+
+“Bibishana,
+main bina snaan ke
+apne Prabhu ko dekhna chahti hoon.”
+
+Par jab kaha gaya
+ki yeh Rama ki aagya hai,
+toh Sita Maa ne
+shant mann se kaha—
+
+“Jaise mere Prabhu chahen.”
+
+Phir Sita Maa
+sundar vastron aur gehno mein
+palanquin par baith kar
+Rama ki or aayi.
+
+Jab Rama ne
+Sita Maa ko aate dekha,
+toh unke dil mein
+khushi, dard aur gussa
+sab ek saath uth pade.
+
+Rama ne apni khushi
+chhupa li.
+
+Unhone Bibishana se kaha—
+
+“Sita ko aur paas laao.”
+
+Jab bheed hatayi jaane lagi,
+toh Rama achanak bole—
+
+“Ruko!
+Yeh mere apne log hain.
+
+Aur sun lo—
+aurat ka rakshak
+uska charitra hota hai,
+na ki parda ya gehne.
+
+Yuddh, vipatti aur milan ke samay
+kisi stri ko chhupana galat hai.
+
+Sita palanquin se utar kar
+mere paas aaye.
+Sab log dekhen
+meri patni ko.”
+
+Yeh sunkar
+Lakshmana,
+Hanuman aur Sugriva
+sab udaas ho gaye.
+
+Sita Maa
+thodi ghabraayi hui
+aage badhi.
+
+Aur jab unhone
+Rama ka chehra dekha—
+chaand jaisa shant,
+tej se bhara hua—
+toh unka saara dukh
+ek pal ke liye
+pighal gaya 🌕
+
+Bahut samay baad
+patni ne
+apne pati ko dekha.
+
+Par yeh milan
+abhi poora nahi tha…
+abhi
+agni-pariksha ka kathin pal
+aana baaki tha.
+
+🌼 Is Adhyay ka Sandesh
+
+Sachcha samman charitra se hota hai, dikhave se nahi
+
+Sachchai par chalna kabhi-kabhi bahut kathin hota hai
+
+Dharma ke raaste mein emotions bhi pariksha lete hain
+
+Mahaan banna sirf jeet se nahi, nyay se hota hai
+
+Agle adhyay mein
+Sita Maa ki agni-pariksha aayegi—
+ek kathin, par pavitra pal 🔥"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.118
     with st.expander("Chapter 6.118 – Rama rejects Sita"):
         text1 = """
-        """
+        Rama
+jab Maithili ke saamne khade hue,
+toh unka mann do hisson mein toot chuka tha—
+ek pati ka dil
+aur ek raja ka kartavya.
+
+Unhone gambhir swar mein kaha—
+
+“Sita,
+maine tumhe phir se jeet liya hai.
+Ravana maara ja chuka hai.
+Mera pratigya poora hua.
+Mera krodh shaant hua.”"""
         create_image_text_layout("attached_assets/chapter6/6.118.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Par phir Rama ka swar
+aur kathor ho gaya—
+
+“Yeh yuddh sirf tumhare liye nahi tha.
+Yeh mere kul ke apmaan ka pratikaar tha.
+
+Par tumhare charitra par
+lok-vyavhaar ki chhaaya pad chuki hai.
+
+Isliye ab
+tumhara yahan rehna
+mujhe kasht deta hai
+jaise rogi aankh ko deepak.”
+
+Sab ke saamne,
+vanaron aur raakshason ke beech,
+Rama ne kaha—
+
+“Main us stri ko
+punah sweekar nahi kar sakta
+jo kisi aur ke ghar rahi ho.
+
+Tum swatantra ho.
+Jahan chaho jao.
+Lakshmana, Bharata, Sugriva
+ya Bibishana—
+jise chaho apna sahara banao.”
+
+Yeh shabd
+talvaar jaise the ⚔️
+
+Sita
+jo itne samay tak
+dharma, sanyam aur pati-vrat mein rahi,
+yeh sunkar
+phoot-phoot kar ro padi.
+
+Vah us latā ki tarah thi
+jo haathi ke zor se
+jad se ukhaad di gayi ho 🌿
+
+Lakshmana,
+Hanuman aur Sugriva—
+sabka hriday bhar aaya,
+par koi bol na saka.
+
+Yeh Rama ka tyag
+prem ki kami se nahi tha—
+yeh raja ka kathor dharm tha
+jo usne apne hi dil par
+sabse pehle lagaya.
+
+🌼 Is Adhyay ka Gambhir Sandesh
+
+Rama yahan pati se pehle raja bane
+
+Yeh shabd Sita par shanka se nahi,
+balki samaj ke nyay ke darr se bole gaye
+
+Yeh Ramayana ka sabse kathin aur vivaadit pal hai
+
+Yahin se Sita ki agni-pariksha ka maarg khulta hai 🔥
+
+👉 Agle adhyay mein:
+Sita Maa ka mahaan nishchay—
+jahan woh shabd se nahi,
+satya aur agni se uttar dengi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.119
     with st.expander("Chapter 6.119 – Sita passes the fire test"):
         text1 = """
-        """
+        Sita
+jab Rama ke kathor shabd
+Sita ke kaanon tak pahunche,
+toh unka hriday kaanp utha.
+Aise shabd
+jo unhone kabhi sapne mein bhi
+apne swami se nahi sune the.
+
+Sab ke saamne
+apmaanit hokar,
+Sita ki aankhon se
+ashru behne lage 💧
+par unka swar
+phir bhi shaant aur maryada se bhara tha."""
         create_image_text_layout("attached_assets/chapter6/6.119.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Unhone dheere se kaha—
+
+“He Prabhu,
+mere mann mein kabhi bhi
+aapke siwa koi nahi raha.
+
+Agar mera sharir
+kisi aur ke adheen raha,
+toh woh meri ichchha se nahi,
+balki bhagya ke bal se hua.
+
+Mera hriday
+hamesha aapka hi raha.”
+
+Phir Sita ne
+Lakshmana
+ki taraf dekha.
+Unki aankhon mein dard tha,
+par nishchay bhi.
+
+“Lakshmana,
+mere liye chita taiyaar karo.
+
+Agar mera charitra shuddh hai,
+toh Agni mujhe sparsh nahi karegi.
+
+Yeh hi mere liye
+ekmatra raasta hai.”
+
+Lakshmana ka hriday
+vidaar ho gaya 💔
+par Rama ke sanket par
+unhone chita sajayi.
+
+Sab chup the.
+Vanar, raakshas, dev—
+koi kuch bol na saka.
+
+Sita ne
+apne pati ke charan ghoome,
+devtaon aur brahmanon ko pranam kiya,
+aur agni ke saamne khade hokar boli—
+
+“He Agni Dev,
+aap sabke sakshi ho.
+
+Agar main nirdosh hoon,
+agar mera mann shuddh ho,
+toh mujhe apni sharan mein lo.”
+
+Aur bina bhay ke,
+Sita agni mein pravesh kar gayi 🔥
+
+Us pal—
+sabhi ne dekha
+jaise sona aag mein
+aur bhi chamak uthe ✨
+Sita agni mein
+jal nahi rahi thi,
+woh shuddhta ka prateek ban chuki thi.
+
+Sabhi striyaan ro padiं.
+Vanaron aur raakshason mein
+haahaakaar mach gaya.
+Teenon lok
+us drishya ko
+saans roke dekh rahe the.
+
+🌼 Is Adhyay ka Mahaan Sandesh
+
+Satya ko pramaan ki zarurat nahi hoti,
+par kabhi-kabhi samaj usse maang leta hai
+
+Sita ki shakti aag se bhi adhik pavitra thi
+
+Yeh balidaan kamzori nahi,
+dharma aur aatma-shakti ka shikhar hai
+
+Agni-Pariksha ek stri ki nahi,
+samaj ki pariksha bhi thi
+
+👉 Agle adhyay mein:
+Agni Dev swayam prakat honge
+aur Sita ki pavitrata ka elaan karenge 🌺🔥"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.120
     with st.expander("Chapter 6.120 – Brahma praises Rama"):
         text1 = """
-        """
+        Rama
+jab logon ka vilap
+Rama ke kaanon tak pahuncha,
+toh unke netron mein aansu aa gaye 😢
+unka hriday bhaari ho gaya.
+
+Usi samay,
+akash se divya rath utarne lage ✨
+Yama, Varuna, Mahadeva, Indra,
+aur ant mein
+Brahma
+svayam wahan pahunche.
+
+Sab devtaon ne
+haath jod kar
+Rama ko pranam kiya 🙏"""
         create_image_text_layout("attached_assets/chapter6/6.120.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Tab Indra bole—
+
+“He Raghava,
+aap kaise bhool sakte ho
+ki aap keval ek manushya nahi ho?
+
+Sita ka agni mein pravesh
+dekhkar bhi
+aap shant kaise ho?”
+
+Rama ne vinamrta se kaha—
+
+“Main toh
+apne aap ko
+Dasarath ka putra hi maanta hoon.
+
+Agar main kuch aur hoon,
+toh he Brahma ji,
+aap hi mujhe bataiye.”
+
+Tab Brahma ji muskuraye 😊
+aur gambhir swar mein bole—
+
+“Rama,
+aap hi Narayan ho.
+
+Aap Vishnu ho,
+aap hi srishti ke rakshak ho.
+
+Aakash, dharti, nadi, parvat—
+sab aap se hi bane hain.
+
+Sita swayam Lakshmi hain,
+aur aap Vishnu.”
+
+Brahma ji ne kaha—
+
+“Ravana ka vinash
+aapke avatar ka uddeshya tha.
+
+Woh kaarya poora ho chuka hai.
+
+Jo log aap par vishwas karte hain,
+unka kabhi ahit nahi hota.
+
+Aapka smaran
+manushya ko
+dharm aur shanti ki or le jaata hai.”
+
+Devtaon ke shabd sun kar
+Rama ko apni divyata ka bodh hua,
+par phir bhi
+unka hriday karuna se bhara raha 🌸
+
+🌈 Is Adhyay ka Saral Sandesh
+
+Sachcha dharm vinamrta ke saath chalta hai
+
+Mahaan hoke bhi jo swayam ko saadhaaran samjhe,
+wahi sachcha mahaan hota hai
+
+Bhagwan bhi jab dharti par aate hain,
+toh maryada aur kartavya ka paalan karte hain
+
+Vishwas aur bhakti
+kabhi vyarth nahi jaati ✨
+
+👉 Agle adhyay mein:
+Agni se Sita ka nirdosh hona prakat hoga,
+aur sabke saamne satya ki vijay hogi 🔥🌺"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
