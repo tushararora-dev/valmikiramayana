@@ -14502,119 +14502,1258 @@ aur sabke saamne satya ki vijay hogi 🔥🌺"""
     # Chapter 6.121
     with st.expander("Chapter 6.121 – Sita is reunited with Rama"):
         text1 = """
-        """
+        Sita
+jab Brahma ji ke divya shabd poore hue,
+toh Agni Dev ne agni-kund se
+Sita Maa ko apni god mein uthaya 🔥✨
+
+Aag bujh chuki thi.
+Aur sab log sthabdh khade the.
+
+Sita Maa bilkul suraj ki subah jaise lag rahi thi 🌅
+laal vastron mein,
+sone ke gehne pehne,
+baal ghunghraale,
+chehra nirmal aur shant.
+
+Agni Dev ne
+Sita Maa ko
+Rama
+ke paas laakar kaha—"""
         create_image_text_layout("attached_assets/chapter6/6.121.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        “He Rama,
+Sita bilkul pavitra hain.
+
+Shabd, soch, ya nazar—
+kisi bhi roop mein
+unhone kabhi galat kuch nahi kiya.
+
+Ravana unhe zabardasti le gaya tha.
+
+Lanka mein rehkar bhi
+unka mann sirf aap mein hi tha.
+
+Dhamkiyon aur lalchon ke beech bhi
+Sita ne kabhi apna dharm nahi chhoda.
+
+Main sakshi hoon—
+Sita nirdosh hain.
+
+Unhe bina kisi sankoch ke
+sweekar kijiye.”
+
+Agni Dev ke shabd
+Rama ke hriday tak pahunche ❤️
+unke chehre par shanti aa gayi.
+
+Rama ne shant swar mein kaha—
+
+“Main jaanta tha
+Sita hamesha pavitra hain.
+
+Par raj-dharm ke kaaran
+yeh pariksha avashyak thi.
+
+Agar main bina pramaan
+unhe sweekar karta,
+toh log galat sochte.
+
+Sita meri maryada hain,
+jaise surya ki roshni.
+
+Main unhe kabhi chhod hi nahi sakta.”
+
+Fir Rama aur Sita ka punarmilan hua 🌼
+dono ke chehron par shanti aur gaurav tha.
+
+Aakash mein devta prasann hue ✨
+sab jagah satya ki vijay hui 🌈
+
+🌟 Is Adhyay ka Saral Sandesh
+
+Sachcha sach kabhi jalta nahi
+
+Pavitrata ko pariksha ki zarurat nahi hoti,
+par duniya ko kabhi-kabhi pramaan chahiye
+
+Dharm, maryada aur prem
+jab saath chalte hain,
+tab hi poorna vijay hoti hai
+
+Ant mein satya hi jeet-ta hai 💛"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.122
     with st.expander("Chapter 6.122 – Dasharatha appears and blesses Rama"):
         text1 = """
-        """
+        Rama
+Dasaratha
+
+Jab Rama ne Sita ki pavitrata ko dharm ke saath sweekar kiya,
+tab Mahadev (Shiva) ne unki prashansa ki 🌺
+
+Mahadev bole—
+
+“He Rama,
+tumne poore jagat ka andhkar mita diya.
+Ravana ka bhay samapt ho chuka hai.
+
+Ab Ayodhya laut jao,
+Bharata ko gale lagao,
+apni maataon—
+Kaushalya, Kaikeyi aur Sumitra
+ko shant karo.
+
+Ikshvaku vansh ka gaurav sthapit karo
+aur dharm ke saath raj karo.”"""
         create_image_text_layout("attached_assets/chapter6/6.122.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Tab Mahadev ne kaha—
+
+“Dekho!
+Tumhare pita Maharaj Dasharatha
+swarg se tumhe dekhne aaye hain.”
+
+✨ Aakash mein ek divya rath prakat hua
+usme Maharaj Dasharatha,
+prakash se ghire hue,
+shant aur prasann khade the.
+
+Rama aur Lakshmana ne
+turant pranam kiya 🙏
+
+Dasharatha ne Rama ko
+apni god mein bithaya
+aur bhavuk swar mein bole—
+
+“He Rama,
+tumse door rehkar
+swarg bhi mujhe sukh nahi deta.
+
+Tumhara vanvaas
+mere hriday ka sabse bada dukh tha.
+
+Aaj tumhe jeevit, vijayi aur pavitra dekhkar
+main mukta ho gaya hoon.”
+
+Unhone kaha—
+
+“Ab mujhe spasht ho gaya hai
+ki tum Ravana ke vinash ke liye
+Ishwar ke avtar bane the.”
+
+Dasharatha ne aage kaha—
+
+Ayodhya tumhari pratiksha kar rahi hai
+
+Tumhara vanvaas poora ho chuka hai
+
+Tumhara kartavya poorn hua
+
+Ab rajya sambhalo 👑
+
+Phir unhone Lakshmana ko aashirvaad diya—
+
+“Tumhari seva mahaan hai.
+Tumne Rama aur Sita ki poori bhakti se raksha ki.”
+
+Fir Maharaj Dasharatha ne
+Sita Maa ko dekha
+aur pyaar se bole—
+
+“Beti,
+Rama ne tumhe tyaga nahi,
+balki tumhari pavitrata
+duniya ke saamne pramaanit ki.
+
+Aaj tum sab striyon mein shreshth ho.”
+
+Ant mein,
+Dasharatha ne sabko aashirvaad diya
+aur apne divya rath par
+Indra-lok ki ore prasthaan kiya 🌈
+
+🌼 Is Adhyay ka Gehra Sandesh
+
+Putra-dharm aur raj-dharm dono ka palan hi maryada hai
+
+Sacrifice bina shikayat ke ho, toh vah divyata ban jaata hai
+
+Sahi samay par satya ka samman hota hi hai
+
+Mata–Pita ka aashirvaad
+sabse bada kavach hota hai ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.123
     with st.expander("Chapter 6.123 – Indra brings back the fallen army"):
         text1 = """
-        """
+        Jab Maharaj Dasharatha swarg laut gaye,
+tab Indra Dev ne Rama se kaha—
+
+“He Rama,
+hum tumse prasann hain.
+Jo chaho, maang lo.”
+
+Rama ne haath jod diye 🙏
+Unka hriday karuna se bhara tha.
+
+Rama bole—
+
+“He Devraj,
+meri ek hi ichha hai.
+
+Jo vanar aur bhalu
+mere liye yuddh mein veer-gati ko praapt hue,
+unhe phir se jeevan de do.
+
+Unhone apne parivaar chhod kar
+mere dharm ke liye balidaan diya.
+
+Main un sabko
+phir se muskurata dekhna chahta hoon.”"""
         create_image_text_layout("attached_assets/chapter6/6.123.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ne aage kaha—
+
+“Unke ghaav mit jaayein.
+Unki shakti laut aaye.
+
+Jahan-jahan vanar rahein,
+wahan phool, phal, jal hamesha mile.”
+
+Indra Dev thode pal shaant rahe.
+Phir unhone muskura kar kaha—
+
+“Yeh vardaan kathin hai,
+par mera vachan kabhi jhootha nahi hota.
+
+Tathaastu!”
+
+✨ Chamatkaar ho gaya!
+
+Jo vanar yuddh mein gire the,
+wo dheere-dheere uthne lage.
+Unke sharir bilkul theek the.
+Koi ghaav nahi.
+Koi dard nahi.
+
+Wo aise jaage
+jaise gehri neend ke baad subah hoti hai 🌄
+
+Vanar ek-doosre ko dekhkar bole—
+
+“Yeh kya ho gaya?” 😲
+
+Sab taraf khushi phail gayi 🎉
+Parivaar mil gaye.
+Dukh mit gaya.
+
+Indra Dev aur anya devta bole—
+
+“He Rama,
+ab Ayodhya laut jao.
+
+Bharata tumhari raah dekh rahe hain.
+Maataayein pratiksha mein hain.
+
+Rajyabhishek karo
+aur praja ko sukh do.”
+
+Devta pranam karke
+apne-apne lok laut gaye 🌈
+
+Rama aur Lakshmana ne
+sena ko vishram diya.
+Poora shivir
+chandni raat jaisa shant aur ujla lag raha tha 🌙🌱 Is Adhyay ka Moral
+
+Sachchi mahaanta
+jeet ke baad bhi
+doosron ke liye sochti hai
+
+Karuna, shakti se bhi badi hoti hai
+
+Jo dharm ke liye ladta hai,
+bhagwan uska saath dete hain
+
+Neta wahi hota hai
+jo apni sena ko parivaar samjhe 💛"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.124
     with st.expander("Chapter 6.124 – Vibhishana gives Pushpaka chariot to Rama"):
         text1 = """
-        """
+        Subah hui 🌅
+Raat shanti se beet chuki thi.
+Rama khushi se uthe.
+
+Tab Bibishana
+haath jod kar bole—
+
+“He Raghava,
+snaan ke liye sugandhit tel,
+vastra, abhooshan,
+aur divya haar taiyaar hain.
+
+Sundar striyan seva ke liye upasthit hain.”"""
         create_image_text_layout("attached_assets/chapter6/6.124.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama shaant swar mein bole—
+
+“Pehle Sugriva aur vanar-sena snaan kare.
+
+Mera mann abhi sajavat mein nahi lagta.
+Bharata mujhse door dukh jhel rahe hain.
+
+Jab tak main Bharata se na mil loon,
+mujhe vastra aur abhooshan mein
+koi anand nahi.”
+
+Rama ne aage kaha—
+
+“Humein jaldi Ayodhya lautna hai.
+Raasta lamba aur kathin hai.”
+
+Bibishana muskuraye 😊
+aur vinamrata se bole—
+
+“He Prabhu,
+main aapko ek din mein Ayodhya pahuncha sakta hoon.
+
+Yeh dekhiye—
+Pushpaka Vimaan 🚀
+
+Yeh divya vimaan
+pehle Kubera ka tha,
+jise Ravana le aaya tha.
+
+Ab yeh aapka hai.
+Suraj jaisa chamakta hai.
+Mann ki gati se udta hai.”
+
+Phir Bibishana ne nivedan kiya—
+
+“Bas ek din aur ruk jaiye.
+
+Main poore mann se
+aapka samman karna chahta hoon.
+
+Main aapka sevak hoon,
+aadesh nahi de sakta.”
+
+Rama ne pyar se jawab diya 💛
+
+“He Bibishana,
+tumne mujhe apna sab kuch diya.
+
+Par mera hriday
+Bharata ko dekhne ke liye vyakul hai.
+
+Maa Kaushalya, Sumitra
+aur Kaikeyi meri raah dekh rahi hongi.
+
+Ab yahan rukna uchit nahi.
+Kripya Pushpaka Vimaan taiyaar karao.”
+
+Bibishana ne turant aadesh diya.
+
+✨ Pushpaka Vimaan taiyaar hua ✨
+
+Suraj jaisa ujla
+
+Moti aur panna se saja
+
+Ghantiyon ki madhur dhvani 🔔
+
+Sheeshe aur chandi ke kaksh
+
+Sone ke kamal latke hue
+
+Vimaan poora chalta mahal lag raha tha 🏰
+Jaise Meru Parvat aasman mein uth aaya ho.
+
+Jab sab taiyaar hua,
+Bibishana Rama ke saamne khade hue.
+
+Rama ne Pushpaka Vimaan dekha
+aur vismit reh gaye 😮
+Lakshmana bhi ashcharya mein the.
+
+Ab
+Ayodhya ki yatra
+bilkul nikat thi… 🌄👑🌱 Is Adhyay ka Moral
+
+Sachcha prem rokta nahi, aage badhne deta hai
+
+Jimmedaari, suvidha se pehle aati hai
+
+Vinamrata aur krtagyata
+dono mahaanta ki pehchaan hain
+
+Dil jahan apna ho,
+wahi asli ghar hota hai 💖"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.125
     with st.expander("Chapter 6.125 – Rama starts the journey to Ayodhya"):
         text1 = """
-        """
+        Pushpaka Vimaan phoolon se saj chuka tha 🌺
+Sab kuch taiyaar tha.
+
+Thodi door khade Bibishana
+haath jod kar bole—
+
+“He Rama,
+ab mujhe kya karna chahiye?”
+
+Rama ne thoda socha 🤍
+phir pyar se bole—
+
+“Van mein rehne wale sab praniyon ne
+meri yatra safal banayi hai.
+
+Unhone apni jaan ki parwah nahi ki.
+
+Isliye tum un sab ko
+sona, ratna aur dhan do.
+
+Yahi ek raja ka kartavya hota hai.”"""
         create_image_text_layout("attached_assets/chapter6/6.125.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ne aage kaha—
+
+“Jo raja udaar hota hai,
+wahi sena ka vishwas jeet paata hai.
+
+Laalach se rajya tikta nahi.”
+
+Bibishana ne turant
+sab vanaron ko anek uphaar diye 💎✨
+Vanar khush ho gaye 🐒😊
+
+Phir Rama
+Vaidehi Sita ko apne paas bithakar
+Lakshmana ke saath
+Pushpaka Vimaan mein chadh gaye 🚀
+
+Vimaan se Rama ne sabko dekha
+aur bole—
+
+“He vanar-veeron,
+tumne mitrata ka sachcha arth dikhaya.
+
+Ab tum apne ghar laut jao.
+
+Sugriva,
+tum apni sena ke saath
+Kishkindha jao.
+
+Aur Bibishana,
+tum Lanka ke raja bankar
+dharm se rajya karna.”
+
+Yeh sun kar
+vanar, Sugriva aur Bibishana
+sab haath jod kar bole—
+
+“Prabhu,
+humein bhi Ayodhya le chaliye 🙏
+
+Hum aapke rajyabhishek ko dekhna chahte hain.
+
+Maa Kaushalya ko pranam karke
+hum laut jaayenge.”
+
+Rama muskuraye 😊
+aur bole—
+
+“Yeh to mere liye
+bahut anand ki baat hai.
+
+Aaiye,
+sab Pushpaka Vimaan mein baithiye.”
+
+Phir kya tha! ✨
+Sugriva vanaron ke saath
+Bibishana apne mantriyon ke saath
+sab Vimaan mein baith gaye.
+
+Rama ke sanket par
+Pushpaka Vimaan aakash mein utha ☁️🚀
+
+Hanson (swans) se jute hue
+woh divya rath
+aasman mein chamakne laga 🌤️
+
+Rama beech mein virajmaan the,
+Sita aur Lakshmana ke saath,
+bilkul Kubera jaise lag rahe the 👑
+
+Vanar, bhalu aur rakshas
+sab sukh se yatra kar rahe the 😄
+
+✨ Ayodhya ki ore pavitra yatra shuru ho chuki thi… ✨
+
+🌱 Is Adhyay ka Moral
+
+Jo saath de, uska maan aur samman zaroor karo
+
+Achha raja udaar aur nyaypriye hota hai
+
+Safalta mein sabko saath lena hi
+sachchi mahaanta hai 🤍
+
+Krtagyata (gratitude)
+dil ko aur bhi bada banati hai 🌸"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.126
     with st.expander("Chapter 6.126 – Rama shows places to Sita on the way"):
         text1 = """
-        """
+        Rama ke ishare par
+Pushpaka Vimaan hanson ke saath
+aasmaan mein shor karte hue aage badha 🦢☁️
+
+Rama ne charon dishaon mein dekha
+aur Sita se bole,
+bilkul pyar aur shaanti se 🤍
+
+“Dekho Sita,
+yeh Lanka hai.
+Trikuta Parvat par basi hui.
+Vishvakarma ki rachna hai.
+
+Yahin woh yuddh-bhoomi hai,
+jahan vanaron aur rakshason ka
+bhayankar sangharsh hua."""
         create_image_text_layout("attached_assets/chapter6/6.126.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Wahin Ravana gira tha,
+jise maine tumhare liye
+paraajit kiya.”
+
+Rama dheere-dheere aage dikhate gaye—
+
+“Yahin Kumbhakarna gira.
+Yahin Hanuman ne
+Prahasta aur Dhumraksha ko maara.
+
+Is jagah Lakshmana ne
+Indrajit ko haraaya.
+Aur yahin kai veer rakshas
+apne ant ko pahunche.”
+
+Sita shaant man se
+sab dekhti rahi 🌸
+
+Rama ne samudra ki taraf ishara kiya—
+
+“Dekho Sita,
+yeh wahi samudra hai
+jise humne paar kiya tha.
+
+Aur yeh raha Setubandhan,
+jo Nala ne banaya tha.
+Is pul ke bina
+Lanka pahunchna asambhav tha.”
+
+Phir Rama bole—
+
+“Woh dekho,
+samudra se ubhar kar nikla
+woh sunehra parvat,
+jahan Hanuman ne
+vishram kiya tha.”
+
+Aage badhte hue Rama bole—
+
+“Ab hum Kishkindha pahunch gaye hain.
+Yeh Sugriva ki nagri hai.
+Yahin maine Bali ka vadh kiya tha.”
+
+Sita ne dheere se kaha 💗—
+
+“Prabhu,
+main chahti hoon
+ki Ayodhya
+Sugriva ki patni Tara
+aur sab vanar-veeron ki patniyon
+ke saath pravesh karun.”
+
+Rama muskuraye 😊
+aur bole—
+“Tathaastu.”
+
+Rama ne Sugriva se kaha—
+
+“Sab vanaron ko
+unke parivaar ke saath bulao.
+Sab Ayodhya chalen.”
+
+Sugriva ne turant
+Tara ko sandesh diya.
+Tara ne sab vanar-striyon ko ikattha kiya
+aur sab saj-dhaj kar
+Vimaan mein baith gaye ✨🐒
+
+Rama ne phir Sita ko dikhaya—
+
+“Yeh Rishyamuka Parvat hai.
+Yahin meri Sugriva se mitrata hui.
+
+Yeh Pampa Sarovar hai.
+Yahin main tumhari yaad mein roya tha.
+Yahin mujhe Shabari mili thi.”
+
+Sita ki aankhen bhar aayi 🥹
+
+“Yeh Janasthana hai,
+jahan Jatayu ne
+tumhare liye apna jeevan diya.
+
+Woh dekho,
+hamari kutiya…
+jahan se tumhara haran hua tha.”
+
+Sita ne mann hi mann
+us sthal ko pranam kiya 🙏
+
+“Yeh Godavari nadi hai.
+Yeh Agastya aur Atri ke ashram hain.
+Yeh Chitrakoot parvat hai,
+jahan Bharata mujhe manane aaye the.”
+
+Aur phir Rama bole—
+
+“Ab dekho,
+yeh Yamuna,
+yeh Ganga,
+aur woh Shringavera nagar
+jahan mera mitra Guha rehta hai.”
+
+Aakhir mein Rama ne kaha,
+aankhon mein aanand ke aansu ke saath—
+
+“Woh dekho Sita…
+Sarayu nadi…
+aur woh rahi Ayodhya 🏰✨
+
+Apni janm-bhoomi ko pranam karo.
+Hum laut aaye hain.”
+
+Vanar aur rakshas
+khushi se uchhalne lage 😄
+Unhein Ayodhya
+Amaravati jaisi sundar lagi.
+
+✨ Vanvaas ke baad,
+ghar wapsi ka sukh
+sabke chehron par chamak raha tha. ✨
+
+🌼 Is Adhyay ka Moral
+
+Safar yaadein banata hai 🛤️
+
+Dukh ke sthanon ko yaad karna
+humein krtagyata sikhata hai
+
+Saath nibhaane walon ko
+kabhi bhoolna nahi chahiye 🤝
+
+Ghar lautna
+sabse bada sukh hota hai 🏡💖"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.127
     with st.expander("Chapter 6.127 – Rama meets Sage Bharadvaja"):
         text1 = """
-        """
+        Chaudah saal ka vanvaas poora hua.
+Panchami ke din, Rama
+Rishi Bharadvaja ke ashram pahunche.
+
+Rama ne jhuk kar pranam kiya 🙏
+Aur vinamrata se poocha—
+
+“Bhagavan,
+kya nagri mein sab kushal-mangal hai?
+Kya Bharata apne dharm par sthir hain?
+Kya meri mataayein surakshit hain?”"""
         create_image_text_layout("attached_assets/chapter6/6.127.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rishi Bharadvaja muskuraye 😊
+Aur pyar se bole—
+
+“Rama,
+Bharata ne apne baal jataa bana rakhe hain.
+Woh tumhari paadukaon ko
+raja maankar rajya chala rahe hain.
+
+Tumhare naam par hi
+sab faisle lete hain.
+Unka man bilkul shuddh hai.”
+
+Phir rishi ne kaha—
+
+“Pehle jab maine tumhe
+van jaate dekha tha,
+valkal pehne,
+phal–mool par jeete hue,
+Sita aur Lakshmana ke saath,
+toh mera hriday bhar aaya tha.
+
+Par aaj tumhe
+vijayi, shaant aur
+mitron se ghira dekh kar
+mujhe apaar anand ho raha hai.”
+
+Rishi Bharadvaja ne aage kaha—
+
+“Mujhe sab kuch pata hai, Rama.
+Janasthana ka dukh,
+Maricha ka mayavi hiran,
+Sita ka haran,
+Kabandha se bhent,
+Pampa sarovar,
+Sugriva se mitrata,
+Bali ka vadh,
+Hanuman ka samudra langhan,
+Nala ka setu,
+Lanka ka dahan,
+aur Ravana ka ant.
+
+Tapasya se
+yeh sab mujhe gyaat hai.”
+
+Rishi ne phir kaha—
+
+“Main apne shishyon ko
+Ayodhya sandesh bhej chuka hoon.
+Kal tum nagri pravesh karoge.
+Aaj Arghya grahan karo.
+
+Aur main tumhe
+ek var bhi deta hoon.”
+
+Rama ne vinamrata se kaha 🙏—
+
+“Bhagavan,
+jab main Ayodhya jaoon,
+chahe ritu na ho,
+raaste ke sab vriksh
+meethe phalon se bhar jaayein.
+
+Phalon mein Amrit jaisi sugandh ho,
+aur har prakaar ke phal milen.”
+
+Rishi Bharadvaja bole—
+“Tathaastu! ✨”
+
+Turant chamatkaar hua 🌸🍯
+Jo vriksh sookhe the,
+woh hariyale ho gaye.
+Jin par phal nahi the,
+un par phal aa gaye.
+Phool aur phal
+shehad se tapakne lage.
+
+Teen kos tak ka maarg
+swarg jaisa lagne laga 🌈
+
+Vanar sena ne
+mann bhar kar phal khaye 🍌🍎
+Aur khushi se bole—
+
+“Lagta hai hum
+swarg mein aa gaye hain!” 😄🐒
+
+🌼 Is Adhyay ka Moral
+
+Dharm par sthir rehne ka phal
+avashya milta hai
+
+Vinamrata se maangi hui ichchha
+shubh hoti hai 🙏
+
+Sache tapasvi
+sab kuch jaante hain
+
+Achhe kaam ka raasta
+khud hi phoolon se saj jaata hai 🌸"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.128
     with st.expander("Chapter 6.128 – Rama sends Hanuman to Bharata"):
         text1 = """
-        """
+        Ayodhya ko door se dekh kar
+Rama ka mann khush ho gaya 💛
+Unhone thoda socha
+aur Hanuman se bole—
+
+“Hanuman,
+jaldi Ayodhya jao.
+Dekho sab theek hai ya nahi.
+
+Pehle Guha se milna.
+Usse mera pranam kehna.
+Woh tumhe raasta bhi dikhayega.”"""
         create_image_text_layout("attached_assets/chapter6/6.128.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Rama ne aage kaha—
+
+“Bharata se kehna:
+main Sita aur Lakshmana ke saath
+wapas aa raha hoon.
+Ravana ka ant ho chuka hai.
+Sab kaam poora ho gaya hai.
+
+Aur dhyaan se dekhna—
+yeh khabar sunkar
+Bharata ka chehra kaisa badalta hai.”
+
+Hanuman ne “Jai Shri Ram!” kaha
+aur hawa ki tarah ud chale 🐒💨
+
+Unhone nadiyaan paar ki,
+jangal aur shehar cross kiye,
+aur Guha se milkar
+Ayodhya ki taraf badhe.
+
+Nandigrama ke paas
+Hanuman ne dekha—
+Bharata
+kale mrigcharm mein,
+jataon ke saath,
+zamin par reh rahe hain.
+
+Unke saamne
+Rama ki paaduka rakhi thi 👣
+Aur woh usi ko raja maan kar
+rajya chala rahe the.
+
+Hanuman ne haath jod kar kaha 🙏—
+
+“Rajkumar Bharata,
+aapke bhai Rama kushal hain.
+Ravana ka vadh ho gaya hai.
+Sita mil chuki hain.
+
+Rama ab
+aapke paas aa rahe hain.”
+
+Yeh sunte hi Bharata
+khushi se behosh ho gaye 😭💫
+Thodi der baad sambhle,
+Hanuman ko gale laga liya
+aur aansuon se bhigo diya.
+
+Bharata bole—
+
+“Tum dev ho ya manushya,
+par tumne
+mera jeevan khushiyon se bhar diya.
+
+Main tumhe
+gaayein, gaon aur dhan dena chahta hoon.”
+
+Hanuman muskuraye 😊
+Unhone sirf itna kaha—
+
+“Yeh sab
+Rama ki bhakti ka phal hai.”
+
+🌼 Is Adhyay ka Moral
+
+Sacchi bhakti
+satta se bhi badi hoti hai 🙏
+
+Bharata ka tyag
+sachche bhai aur raja ki pehchaan hai
+
+Achhi khabar
+dukhi dil ko bhi jeevit kar deti hai 💛
+
+Seva bina laalach ke ho
+to woh bhakti ban jaati hai 🐒✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.129
     with st.expander("Chapter 6.129 – Hanuman tells Bharata the full story"):
         text1 = """
-        """
+        Bharata ne gehri saans li
+aur bhavuk awaaz mein bole—
+
+“Kitni khushi ki baat hai
+ki itne saalon baad
+mere rakshak, mere bhai
+ke baare mein achhi khabar mili.
+
+Sach hi kaha gaya hai—
+khushi chahe 100 saal baad aaye,
+par aati zaroor hai.
+
+Hanuman,
+mujhe sab kuchh batao.
+Rama aur vanaron ki dosti kaise hui?
+Aur kyun hui?”"""
         create_image_text_layout("attached_assets/chapter6/6.129.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Hanuman kushha ghaas par baith gaye
+aur shaant awaaz mein bolna shuru kiya—
+
+“Rajkumar Bharata,
+aap sab jaante ho—
+kaise aapki maa ke do vardan ke kaaran
+Rama ko vanvaas mila,
+kaise Raja Dasharatha ka dehaant hua,
+aur kaise aapne rajya lene se mana kar diya.
+
+Aap Chitrakoot aaye,
+Rama se rajya lene ki prarthana ki,
+par woh dharm par atal rahe.
+Aap unki paaduka le aaye
+aur unke naam par rajya chalaya.”
+
+Hanuman thoda ruke,
+phir bole—
+
+“Iske baad jo hua,
+ab main sunata hoon…”
+
+“Rama, Sita aur Lakshmana
+bhayanak Dandaka van mein gaye.
+Wahan Viradha naam ka raakshas aaya,
+jise dono bhaiyon ne maar giraya.
+
+Janasthaan mein
+14,000 raakshas
+Rama ke haathon mare gaye.
+Khara, Dushana, Trishira—
+sab ka ant hua.
+
+Phir Shurpanakha aayi.
+Uski galti ke kaaran
+Lakshmana ne use dand diya.
+Wahi Ravana ke paas gayi
+aur badla ugla.”
+
+“Marich sone ke hiran ka roop bana.
+Sita usse dekh kar boli—
+‘Isse pakad lao.’
+
+Rama jaise hi peeche gaye,
+Ravana sadhu ke bhes mein aaya
+aur Sita ko utha le gaya.
+
+Jatayu ne rokne ki koshish ki,
+par veer pakshi shaheed ho gaye.”
+
+“Rama toot gaye the.
+Par phir Kabandha se milkar
+unhone Sugriva ka raasta paaya.
+Dosti hui.
+Bali ka vadh hua.
+Sugriva raja bana.
+
+Vanar sena chaaron disha mein nikli.
+Vindhya par hum thak gaye the.
+Tab Sampati ne bataya—
+Sita Lanka mein hai.
+
+Tab main samudra laangh kar gaya,
+Ashok Vatika mein
+Maa Sita se mila.
+Unhe Rama ki anguthi di,
+aur unhone apna ratna diya.”
+
+“Ratna dekh kar
+Rama phir jeevit jaise ho gaye.
+Samudra par setu bana.
+Yuddh hua.
+
+Kumbhakarna gira.
+Meghnad gira.
+Aur ant mein
+Rama ne Ravana ka vadh kiya.
+
+Devta aaye.
+Ashirvaad mile.
+Aur ab
+Rama Pushpaka Vimaan se
+wapas aa rahe hain.”
+
+Hanuman ne shant hote hue kaha—
+
+“Kal Pushya nakshatra mein
+aap apne bhai se miloge.”
+
+Yeh sunte hi
+Bharata ki aankhon mein aansu aa gaye 😭
+Unhone Hanuman ko pranam kiya
+aur bole—
+
+“Bahut samay baad
+mera jeevan poora hua.
+Aaj meri saari prarthnayein
+safal ho gayi.”
+
+🌼 Is Adhyay ka Moral
+
+Dharma aur dhairya
+hamesha jeet-te hain 🌿
+
+Saccha bhai
+apna sukh tyag sakta hai
+
+Dukh chahe gehra ho,
+ant mein aasha zaroor aati hai ✨
+
+Kahani yaad dilati hai—
+Sach aur prem kabhi haarte nahi 💛"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.130
     with st.expander("Chapter 6.130 – Bharata goes to meet Rama"):
         text1 = """
-        """
+        Hanuman ki baat sunte hi
+Bharata ka chehra khil utha 😊
+Dil khushi se bhar gaya.
+
+Unhone turant Shatrughna ko bulaya aur bole—
+
+“Shatrughna,
+shehar ko pavitra karo.
+Devtaon ki pooja ho.
+Phool, dhoop, sangeet ho.
+Aaj hum Rama se milne ja rahe hain.”"""
         create_image_text_layout("attached_assets/chapter6/6.130.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        Shatrughna ne shehar ko saja diya ✨
+Sadkein saaf hui.
+Thandi thandi jal-chhidkaav hua.
+Phool aur bhune hue anaj bikhar gaye.
+Har ghar rangon se chamakne laga 🌼
+
+Haathi, ghode, rath nikle.
+Senayein taiyaar ho gayin.
+Narsinghe, shankh, dhol bajne lage 🥁
+
+Poora Ayodhya jaag utha.
+
+Bharata ne
+Rama ki paaduka
+apne sir par rakhi 👑
+Safed chhatra uthaya
+aur bark ke kapdon mein hi
+Rama se milne nikal pade.
+
+Woh kamzor the,
+par dil se mazboot 💛
+Aankhon mein aansu
+aur chehre par muskaan thi.
+
+Raaste mein Bharata ne Hanuman se poocha—
+
+“Hanuman,
+Rama abhi dikh kyun nahi rahe?”
+
+Hanuman muskuraye aur bole—
+
+“Dekhiye uss taraf ☁️
+Woh chamakta hua vimaan—
+Pushpaka Vimaan ✨
+Usme Rama aa rahe hain.
+
+Saath mein
+Sita,
+Lakshmana,
+Sugriva
+aur Bibhishana bhi hain.”
+
+Achaanak har taraf se awaaz aayi—
+“Rama aa gaye! Rama aa gaye!” 🎉
+
+Log rath se utar kar
+paidal aage badhne lage.
+Haath jod kar
+Pushpaka Vimaan ko dekhte rahe.
+
+Bharata bhaag kar aage gaye 🙏
+Paani aur arghya lekar
+Rama ka swagat kiya.
+
+Vimaan dharti par utra.
+
+Rama aur Bharata
+ek doosre se lipat gaye 🤍
+Rama ne Bharata ko
+apni god mein baitha liya.
+
+Lakshmana, Sita, Sugriva—
+sabko Bharata ne prem se pranam kiya.
+Vanar veer bhi gale mile 🐒
+
+Bharata bole—
+
+“Hum chaar bhai hain,
+Sugriva, aap paanchve ho.”
+
+Sabki aankhon mein aansu aa gaye 😭
+
+Bharata ne Rama ke paon mein
+unhi paadukaon ko pehna diya
+aur bole—
+
+“Bhaiya,
+yeh rajya maine aapke liye sambhala tha.
+Aaj main ise aapko wapas deta hoon.
+Mera jeevan safal ho gaya.”
+
+Rama ne Bharata ko
+phir se gale laga liya 💛
+
+Pushpaka Vimaan ko
+Rama ne vida ki
+aur sab milkar
+ashram ki taraf badhe.
+
+Ayodhya phool jaise khil uthi 🌸
+Aur bhaiyon ka milan
+sabke dil ko chu gaya.
+
+🌼 Is Adhyay ka Moral
+
+Sachcha tyag sabse bada rajya hota hai
+
+Bhaiyon ka prem
+taaj se bhi zyada keemti hota hai 👣
+
+Jo dharma par chalta hai,
+wahi sachcha vijeta hota hai ✨"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 6.131
     with st.expander("Chapter 6.131 – Rama is crowned king of Ayodhya"):
         text1 = """
-        """
+        Bharata ne haath jod kar
+apne bade bhai Rama se kaha—
+
+“Bhaiya,
+ye rajya aapka hai.
+Main sirf iska rakshak tha.
+Aapke bina
+ye bojh bahut bhaari tha.”
+
+Rama ne pyaar se kaha,
+“So be it.” 😊"""
         create_image_text_layout("attached_assets/chapter6/6.131.jpg", text1, layout="side", image_position="left")
 
         text2 = """
-        """
+        🌼 Rajyabhishek ki taiyaari
+
+Sab log khushi se lag gaye kaam par ✨
+Rama, Lakshmana, Sugriva aur Bibhishana ne snaan kiya.
+Rama ke jataa khole gaye.
+Sundar vastra, phool aur sugandh lagayi gayi 🌺
+
+Sita ko
+Mataon ne pyaar se sajaya.
+Ayodhya chamak uthi 🌸
+
+🏰 Ayodhya ka bhavya swagat
+
+Rama rath par baithkar shehar mein aaye.
+Bharata rath ke aage chale.
+Lakshmana chhatra liye the.
+Sugriva aur
+Hanuman
+chaamaron se seva kar rahe the 🙏
+
+Shankh, dhol, geet aur nritya—
+sab taraf anand hi anand 🎶
+
+🌊 Chaar samudron ka jal
+
+Vanar veer
+chaaron samudron se pavitra jal laaye 🌊
+Rishi Vashishtha ne
+mantron ke saath
+Rama ka rajyabhishek kiya.
+
+Devta aakash se phool barsa rahe the 🌼
+Apsarayein nritya kar rahi thi 💫
+
+👑 Rama ka daan aur prem
+
+Rama ne brahmanon ko
+sona, gaaye aur vastra daan kiye 🤍
+Sab mitron ko uphaar mile.
+
+Sita ne apna haar
+Hanuman ko diya.
+Rama ne muskurakar kaha—
+“Jise tum chaaho, use do.” 😊
+
+Hanuman ka chehra
+chand ki tarah chamak utha 🌙
+
+🌍 Ram Rajya ka aarambh
+
+Rama ne nyay aur dharma se raj kiya ⚖️
+Kisi ko dukh nahi tha.
+Kisi ko bhookh nahi thi.
+Rog aur bhay door ho gaye.
+
+Ped hamesha phal dete the 🌳
+Barish sahi samay par hoti thi 🌧️
+Log shant aur khush the.
+
+Is rajya ko
+Ram Rajya kaha gaya ✨
+
+📖 Ramayana ka phal (Blessings)
+
+Jo Ramayana sunta hai—
+
+usse sukh milta hai 😊
+
+buddhi badhti hai 🧠
+
+shanti aati hai 🕊️
+
+aur bhagya jagta hai 🌟
+
+Shraddha se suno,
+prem se padho,
+Rama sada prasann rahte hain ❤️
+
+🌟 Is Adhyay ka Moral
+
+Dharma se raj hi sacha raj hota hai
+
+Tyag aur prem sabse badi shakti hai
+
+Ram Rajya ka matlab hai
+nyay, daya aur shanti✨ Yahin Ramayana ka mangalmay samapan hota hai. ✨"""
         create_image_text_layout(text_content=text2, layout="full")
