@@ -1560,81 +1560,1608 @@ andhere mein bhi roshni ban jaate hain ✨"""
 
     # Chapter 7.11
     with st.expander("Chapter 7.11 – Kubera gives Lanka to Ravana"):
-        text1 = """ """
+        text1 = """ 
+        Sumali ko jab pata chala
+ki Dashagriva aur uske bhaiyon ko
+bahut bade var mil gaye hain,
+to uska darr khatam ho gaya 😈
+
+Woh Paatal se bahar aaya.
+Uske saath Marica, Prahasta, Virupaksha aur Mahodara
+bhi gusse aur josh mein aa gaye."""
         create_image_text_layout("attached_assets/chapter7/7.11.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🐍 Sumali ka Sapna
+
+Sumali ne Dashagriva ko gale lagaya
+aur bola:
+
+“Beta, aaj mera sapna poora ho gaya.
+Vishnu ke darr se hum
+Lanka chhodkar bhag gaye the.
+Ab tum shaktishaali ho gaye ho.
+Lanka wapas le aao.
+Chahe baat se, tohfe se,
+ya phir shakti se!”
+
+Usne kaha:
+
+“Agar tum Lanka ke raja bane,
+to Rakshas vansh phir se uth khada hoga.”
+
+🤔 Dashagriva ka Pehla Vichaar
+
+Dashagriva ne shaant swar mein kaha:
+
+“Dhanada mera bada bhai hai.
+Uske khilaaf jaana
+theek nahi lagta.”
+
+Sumali ne baat aage nahi badhayi.
+Par uske mann mein beej pad chuka tha 🌱
+
+🔥 Prahasta ki Bhadkaane Wali Baat
+
+Kuch samay baad Prahasta bola:
+
+“Veeron ke liye bhai–bhai
+ka rishta zyada maayne nahi rakhta.
+Devta aur daitya bhi
+ek dusre ke khilaaf lade hain.”
+
+Usne purani kahani sunayi
+aur bola:
+
+“Isliye tum bhi
+apna adhikar lo.”
+
+Dashagriva ne thoda socha…
+aur phir bola:
+
+“Theek hai!” 😈
+
+🏔️ Lanka ke Paas Aagman
+
+Dashagriva apni sena ke saath
+Trikuta Parvat par pahucha.
+
+Usne Prahasta ko
+doot bana kar bheja.
+
+Sandesh yeh tha:
+
+“Lanka Rakshason ki nagri hai.
+Agar tum ise wapas kar do,
+to shanti bani rahegi.”
+
+💰 Dhanada ka Uttam Uttar
+
+Prahasta ne yeh sandesh
+Dhanada (Kubera) ko diya.
+
+Dhanada shaant tha 😊
+Usne kaha:
+
+“Lanka mujhe mere pita ne di thi.
+Par main yeh rajya
+apne bhai ke saath
+baantne ko taiyaar hoon.”
+
+Phir bhi Dhanada
+apne pita Vishravas ke paas gaya
+aur poocha:
+
+“Pitaji, mujhe kya karna chahiye?”
+
+👴 Pita Vishravas ka Nirdesh
+
+Vishravas ne gambhir swar mein kaha:
+
+“Dashagriva ka mann
+varon ke ghamand se andha ho gaya hai.
+Usse ladna theek nahi.
+Tum Lanka chhod do
+aur Kailash Parvat par jao.”
+
+Unhone kaha:
+
+“Wahan Mandakini nadi behti hai.
+Devta, gandharva aur apsara
+wahan anand se rehte hain.”
+
+🚶‍♂️ Tyag aur Maryada
+
+Pita ki baat maan kar
+Dhanada ne:
+
+Lanka chhod di
+
+apna parivaar, dhan
+aur sevak saath le gaya
+
+Usne yuddh nahi chuna,
+maryada chuni 🌼
+
+👑 Dashagriva ka Rajyabhishek
+
+Prahasta khushi se Dashagriva ke paas gaya
+aur bola:
+
+“Lanka khaali ho chuki hai!”
+
+Dashagriva apni sena ke saath
+Lanka mein pravesh karta hai.
+Rakshas use raja bana dete hain 👑
+
+Lanka phir se
+andhere aur ahankar se bhar jaati hai ☁️
+
+🌕 Dhanada ka Naya Nagar
+
+Dhanada ne Kailash Parvat par
+ek nayi, pavitra nagri basayi ✨
+Jo chamakti thi
+jaise chandrama.
+
+🌱 Is Adhyay ka Sandesh
+
+Ahankar rajya dila sakta hai,
+par shanti cheen leta hai
+
+Tyag hamesha haar nahi hota
+
+Maryada aur dharma
+sabse badi shakti hain
+Dhanada ne rajya chhoda,
+par imaan nahi chhoda 🙏"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.12
     with st.expander("Chapter 7.12 – Marriages of the Rakshasas"):
-        text1 = """ """
+        text1 = """ 
+        Dashagriva ab Lanka ka raja ban chuka tha 👑
+Rajyabhishek ke baad
+usne apne bhaiyon ke saath
+parivaar ke kaam sochne shuru kiye.
+
+Sabse pehle baat aayi
+behen Shurpanakha ke vivaah ki."""
         create_image_text_layout("attached_assets/chapter7/7.12.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        💍 Shurpanakha ka Vivaah
+
+Dashagriva ne
+apni behen Shurpanakha
+ko Kalaka vansh ke raja Vidyujjihva
+se vivaah karwa diya.
+
+Vivaah shaan se hua,
+par Rakshasiyon ke tareeke se 😈
+
+🌲 Jungle mein Maya se Mulakaat
+
+Iske baad Dashagriva
+shikaar par nikla.
+
+Wahan jungle mein
+uski mulaqat hui
+Danava Maya se.
+
+Maya ek yuvati ladki ke saath tha.
+Dashagriva ne poocha:
+
+“Tum kaun ho?
+Aur is sunsaan jungle mein
+is sundar ladki ke saath
+kyun ghoom rahe ho?”
+
+🧙‍♂️ Maya ki Kahani
+
+Maya ne shaant swar mein kaha:
+
+“Meri patni apsara Hema thi.
+Devta use mujhse le gaye.
+Main akela reh gaya.”
+
+Usne bataya:
+
+Usne sone ka shehar banaya
+
+Par dukh door nahi hua
+
+Ab woh apni beti ke liye pati dhoondh raha tha
+
+Usne kaha:
+
+“Beti pita ke liye
+chinta ka kaaran hoti hai.”
+
+Phir Maya ne apna parichay diya
+aur poocha:
+
+“Ab tum batao, tum kaun ho?”
+
+🧬 Dashagriva ka Parichay
+
+Dashagriva ne garv se kaha:
+
+“Main Paulastya vansh ka hoon.
+Mera naam Dashagriva hai.
+Mere pita rishi Vishravas hain.”
+
+Yeh sunte hi
+Maya bahut prabhavit hua ✨
+
+👰 Mandodari ka Vivaah
+
+Maya ne turant kaha:
+
+“Main apni beti
+Mandodari
+tumhe vivaah mein deta hoon.”
+
+Dashagriva ne kaha:
+
+“Theek hai!”
+
+Jungle mein hi
+agni jala kar vivaah hua 🔥
+
+Maya jaanta tha
+ki Dashagriva ke pita ka shraap hai,
+phir bhi usne yeh vivaah kiya.
+
+Shaadi ke saath Maya ne
+Dashagriva ko ek divya bhala (spear)
+bhi diya.
+Isi bhale se baad mein
+Lakshmana ghaayal hue.
+
+👩‍❤️‍👨 Bhaiyon ke Vivaah
+
+Lanka laut kar
+Dashagriva ne
+apne dono bhaiyon ka bhi vivaah karwaya:
+
+Kumbhakarna ki shaadi
+Vajravala se hui
+
+Bibishana ne vivaah kiya
+Sarama se
+
+Sarama ek gandharva rajkanya thi.
+Uska janm Manasa sarovar ke paas hua tha.
+Isliye uska naam Sarama pada.
+
+🎉 Sukh aur Vilas
+
+Sab rakshas apni–apni patniyon ke saath
+sukh aur vilas mein jeene lage.
+Jaise gandharva
+Nandana van mein rehte hain 🌸
+
+⚡ Indrajit ka Janm
+
+Mandodari ne
+ek shaktishaali putra ko janm diya.
+
+Bachcha paida hote hi
+garaj utha,
+jaise baadal ⚡
+
+Puri Lanka ghoonj uthi.
+
+Isliye Dashagriva ne kaha:
+
+“Iska naam Meghanada hoga.”
+
+Wahi Meghanada
+baad mein Indrajit ke naam se
+prasiddh hua.
+
+Woh apne mahal mein
+aise bada hua
+jaise raakh ke neeche
+aag 🔥
+
+🌱 Is Adhyay ka Sandesh
+
+Shaadi sirf sukh nahi,
+bhavishya bhi banati hai
+
+Ghamand aur shakti ke saath
+zimmedaari bhi aati hai
+
+Indrajit ka janm
+aane wale mahavinash ka sanket tha"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.13
     with st.expander("Chapter 7.13 – Crimes committed by Ravana"):
-        text1 = """ """
+        text1 = """ 
+        😴 Kumbhakarna ki Gehri Neend
+
+Kuch samay baad,
+Bhagwan ne Nidra (neend) ko bheja
+Kumbhakarna ke paas.
+
+Neend itni bhaari thi
+ki Kumbhakarna ne Ravana se kaha:
+
+“Bhai,
+mujhe bahut neend aa rahi hai.
+Mere liye ek surakshit jagah banao.”"""
         create_image_text_layout("attached_assets/chapter7/7.13.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ravana ne
+shreshth shilpiyon ko bulaya.
+
+Unhone ek vishal mahal banaya:
+
+bahut lamba–chauda
+
+heere aur sphaṭik ke farsh
+
+sone ke stambh
+
+shaant aur alag jagah
+
+Wahin Kumbhakarna so gaya
+aur hazaaron saalon tak nahi jaga 😴
+
+😈 Ravana ka Andha Ghamand
+
+Jab Kumbhakarna so raha tha,
+tab Ravana ka ghamand badhne laga.
+
+Usne:
+
+Devtaon ko pareshaan kiya
+
+Rishiyon ke tapasya-sthal tod diye
+
+Yaksh aur Gandharvon ke udyan barbaad kar diye
+
+Nadiyon ko uthaala,
+ped giraye,
+pahadon ko maara
+
+Woh pagal haathi ki tarah
+sab kuch ujaad raha tha.
+
+✉️ Kubera ka Sandesh
+
+Ravana ke bade bhai
+Kubera (Dhanada)
+yeh sab sun kar chintit hue.
+
+Socha:
+
+“Yeh mera bhai hai.
+Main ise sambhalne ki koshish karoon.”
+
+Kubera ne
+ek doot (messenger) ko Lanka bheja.
+
+🤝 Bibishana ka Achha Vyavhaar
+
+Doot sabse pehle
+Bibishana ke paas gaya.
+
+Bibishana ne:
+
+aadar se swagat kiya
+
+bhai Kubera ka haal poocha
+
+phir use Ravana ke darbar le gaya
+
+👑 Darbar mein Sandesh
+
+Ravana apne raaj-sinhāsan par tha.
+
+Doot ne vinamrata se kaha:
+
+“Yeh sandesh aapke bade bhai Kubera ka hai.”
+
+Sandesh ka saar:
+
+“Ravana, apne paapon ko roko”
+
+“Dharma ka raasta apnao”
+
+“Devta aur Rishi tumhare khilaaf yojna bana rahe hain”
+
+“Main bhi kathor tapasya karke
+Shiv ji ka mitra bana hoon”
+
+“Apne vansh ko badnaam mat karo”
+
+🔥 Ravana ka Krodh
+
+Yeh sunte hi
+Ravana ki aankhen laal ho gayi 😡
+
+Usne daant pees kar kaha:
+
+“Na tu mera bhai hai,
+na woh jo tujhe bhejne wala hai!”
+
+“Mujhe gyaan dene wala kaun hota hai Kubera?”
+
+“Main apni shakti se
+Teenon Lok jeet loonga!”
+
+Aur phir…
+sabse bhayanak paap hua 😢
+
+🗡️ Doot ki Hatya
+
+Ravana ne
+ek hi vaar mein doot ko maar diya.
+
+Aur uska sharir
+dusht rakshason ko de diya.
+
+Yeh rajdharma ka poora apmaan tha.
+
+🌍 Teen Lok jeetne ka Ahankaar
+
+Khoon se haath rang kar
+Ravana apne rath par chadha.
+
+Usne ghoshna ki:
+
+“Ab main Kubera se bhi yuddh karunga!
+Main sab Lok ka swami banunga!”
+
+Aur ghamand mein
+woh Teen Lok jeetne nikal pada.
+
+🌱 Is Adhyay ka Sandesh (Moral)
+
+Ghamand insaan ko andha bana deta hai
+
+Achhi salah ko thukrana vinash laata hai
+
+Doot ko maarna maha-paap hai
+
+Ravana ka patan
+yahin se shuru ho chuka tha"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.14
     with st.expander("Chapter 7.14 – Ravana fights the Yakshas"):
-        text1 = """ """
+        text1 = """ 
+        😈 Ravana ka Yuddh ke liye Nikalna
+
+Ravana apni taakat par ghamand karke
+apne 6 mantriyon ke saath nikla:
+
+Mahodara
+
+Prahasta
+
+Marica
+
+Shuka
+
+Sarana
+
+Dhumraksha
+
+Sab ke mann mein sirf yuddh tha.
+Aisa lag raha tha jaise Ravana
+poori duniya jala dega 🔥"""
         create_image_text_layout("attached_assets/chapter7/7.14.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🏔️ Mount Kailasha par Aagman
+
+Ravana:
+
+shehron se guzra
+
+nadiyon ko paar kiya
+
+jungle aur pahaad laanghe
+
+Aur aakhir mein
+Mount Kailasha pahunch gaya.
+
+Wahan rehne wale Yaksha
+use dekh kar dar gaye 😨
+
+Unhone kaha:
+
+“Yeh to hamare Raja ka bhai hai.”
+
+Phir woh apne Raja
+Kubera (Dhanada) ke paas gaye
+aur Ravana ke iraadon ki khabar di.
+
+⚔️ Yakshon ka Pratikar
+
+Kubera ne anumati di.
+Yaksha khushi aur veerta ke saath
+yuddh ke liye nikal pade.
+
+Jab dono senaayein takrayin,
+
+pahaad kaanp uthe
+
+zameen hil gayi
+
+bhayankar yuddh chhid gaya
+
+🔥 Ravana aur Uske Mantri
+
+Ravana ne garaj kar sena ko utsaahit kiya.
+
+Uske mantriyon ne:
+
+har ek ne 1000 Yakshon ka saamna kiya
+
+Hathiyaar chale:
+
+gada
+
+talwaar
+
+lohe ke danda
+
+barchhi
+
+Yakshaon ke vaar
+baarish ki tarah gir rahe the ☔
+
+🪨 Marica ka Girna
+
+Ek bhayanak Yaksha
+Samyodhakantaka
+tez gati se aaya.
+
+Usne Marica par aisa vaar kiya
+ki Marica gir pada,
+jaise taara Kailasha se toot kar gir jaaye 🌠
+
+Par Marica:
+
+thodi der mein sambhal gaya
+
+phir se yuddh mein kood pada
+
+Yaksha haar kar bhaag gaya.
+
+🚪 Ravana ka Dwaar Todna
+
+Ravana khud
+Yaksha nagar ke dwaar tak pahunch gaya.
+
+Dwaar-rakshak ne use roka,
+par Ravana ruka nahi 😤
+
+Usne:
+
+dwaar todna shuru kiya
+
+Yaksha ne dwaar ka danda uthakar maara
+
+Khoon behne laga,
+par Ravana amar vardaan ke kaaran gira nahi.
+
+Ulta Ravana ne:
+
+wahi danda uthaya
+
+Yaksha par zor se maara
+
+Yaksha mitti ban kar gaayab ho gaya.
+
+😱 Yakshon ki Haar
+
+Yeh dekh kar
+Yaksh sena mein bhagdad mach gayi.
+
+Yaksha:
+
+nadiyon mein kood gaye
+
+gufaon mein chhup gaye
+
+hathiyaar phenk diye
+
+Dar se:
+
+chehre bigad gaye
+
+saans phool gayi
+
+Yuddh ka maidaan
+poori tarah shant ho gaya.
+
+🌱 Is Adhyay ka Sandesh (Moral)
+
+Ghamand se jeet mil sakti hai,
+par shanti nahi
+
+Shakti bina dharma ke
+sirf bhay paida karti hai
+
+Ravana jeeta zaroor,
+par uska paap aur badh gaya"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.15
     with st.expander("Chapter 7.15 – Battle between Ravana and Kubera"):
-        text1 = """ """
+        text1 = """ 
+        👑 Dhanada ka Aadesh
+
+Jab hazaaron Yaksha bhaagte hue dikhai diye,
+to Dhanada (Kubera) ka mann dukhi ho gaya.
+
+Unhone Manibhadra se kaha:
+
+“O Yaksha Rajkumar,
+iss paapi Ravana ko roko.
+Hamare veer Yakshon ko bachao!”"""
         create_image_text_layout("attached_assets/chapter7/7.15.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        ⚔️ Manibhadra ka Pravesh
+
+Manibhadra:
+
+4000 Yakshon ke saath
+
+poori shakti se yuddh mein kooda
+
+Yaksha:
+
+gada
+
+bhala
+
+talwar
+
+lathi
+
+chillaate hue bole:
+
+“Aage badho!”
+“Peeche mat hato!”
+“Lado!”
+
+Yuddh bahut bhayanak ho gaya 😨
+
+🔥 Ravana ke Mantriyon ka Tandav
+
+Prahasta ne 1000 Yaksh maar giraye
+
+Mahodara ne aur 1000
+
+Marica ne pal bhar mein 2000 Yaksh
+
+Devta, Rishi, Gandharva
+sab dekh kar hairaan reh gaye.
+
+💥 Manibhadra vs Dhumraksha
+
+Manibhadra aur Dhumraksha
+aamne–saamne aaye.
+
+Dhumraksha ne seene par bhala maara
+
+Manibhadra hila tak nahi
+
+Phir Manibhadra ne:
+
+zor se vaar kiya
+
+Dhumraksha behōsh hokar gir pada
+
+😈 Ravana ka Seedha Hamla
+
+Dhumraksha ko gira dekh
+Ravana khud yuddh mein kood pada.
+
+Manibhadra ne:
+
+Ravana par 3 teer chalaaye
+
+Ravana ne:
+
+gada se vaar kiya
+
+Manibhadra ka mukut tedha ho gaya
+
+Isliye Manibhadra ka naam pada
+“Parshvamauli” 👑➡️↘️
+
+Aakhir Manibhadra bhi
+yuddh se peeche hat gaya.
+
+🗣️ Kubera ka Updesh
+
+Ab Dhanada khud yuddh ke maidan mein aaye.
+
+Unhone Ravana ko kaha:
+
+“Tu meri baat nahi maanta.
+Iska phal tujhe bhavishya mein milega.
+Jo maa–baap, guru aur dharma ka
+apmaan karta hai,
+woh vinaash paata hai.”
+
+“Paap se shakti mil sakti hai,
+par sukh nahi.
+Jaise beej boya jaata hai,
+waisa hi phal milta hai.”
+
+Phir Dhanada bole:
+
+“Main aur baat nahi karunga.
+Paapi se bas itna hi kehna kaafi hai.”
+
+Yeh sun kar
+Ravana ke kai mantri bhaag gaye.
+
+🌪️ Antim Yuddh – Ravana vs Kubera
+
+Ab sirf Ravana aur Dhanada.
+
+Kubera ne Agni-astra chalaaya 🔥
+
+Ravana ne Varuna-astra se roka 💧
+
+Phir Ravana ne maya ka sahara liya:
+
+kabhi sher bana
+
+kabhi badal
+
+kabhi pahad
+
+kabhi samundar
+
+Aakhir Ravana ne:
+
+bhaari gada ghumayi
+
+Kubera ke sir par zor se maari
+
+Kubera behosh hokar gir pade,
+jaise jad se kata hua ped 🌳💥
+
+🌿 Kubera ka Bachav
+
+Rishi Padma aur anya Rishi:
+
+Kubera ko utha kar
+
+Nandana van le gaye
+
+🚀 Pushpaka Vimaan par Kabza
+
+Ravana jeet gaya 😈
+
+Usne:
+
+Pushpaka Vimaan chheen liya
+
+sunehre stambh
+
+mani–moti
+
+phal dene wale ped
+
+har mausam mein sukh
+
+Yeh Vimaan:
+
+mann ke vichaar se tez
+
+Vishvakarma ki rachna
+
+devtaon ka vaahan
+
+Ravana us par chadh kar sochne laga:
+
+“Maine teenon lok jeet liye!”
+
+🔥 Adhyay ka Sandesh (Moral)
+
+Ghamand se jeet mil sakti hai,
+par woh jeet tikti nahi
+
+Dharma ke bina shakti vinaash laati hai
+
+Ravana upar se jeeta,
+par andar se aur andhera ho gaya"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.16
     with st.expander("Chapter 7.16 – How Ravana got his name"):
-        text1 = """ """
+        text1 = """ 
+        🚀 Pushpaka Vimaan ka Rukna
+
+O Rama,
+apne bhai Kubera ko haraane ke baad,
+Rakshason ka raja Dashagriva
+Pushpaka Vimaan par ghoom raha tha.
+
+Ek din woh
+sunehri ghaas se bhare ek vishaal jungle ke upar aaya.
+Beech mein ek unchha pahad tha.
+
+Jaise hi Vimaan pahad ke paas pahuncha,
+achanak ruk gaya 😮
+
+Ravana hairaan ho gaya."""
         create_image_text_layout("attached_assets/chapter7/7.16.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Usne socha:
+
+“Yeh kaise ho sakta hai?
+Pushpaka to meri iccha se chalta hai!
+Kya koi pahad ka vaasi ise rok raha hai?”
+
+🗣️ Marica ka Uttar
+
+Tab Marica bola:
+
+“O Raja,
+yeh Vimaan sirf Kubera ki seva karta hai.
+Usse alag hone par
+yeh apni shakti kho deta hai.”
+
+🐒 Nandi ka Pravesh
+
+Tab ek chhota, majboot, peela–kaala bauna prakat hua.
+Uska naam tha Nandi —
+Bhagwan Shiva ka sevak.
+
+Nandi ne bina dare kaha:
+
+“O Dashagriva, yahan se laut jao.
+Is pahad par Mahadev vihar kar rahe hain.
+Yahan Devta, Yaksha, Gandharva,
+ya Rakshas kisi ko aana mana hai!”
+
+😈 Ravana ka Ahankaar
+
+Ravana gusse se hans pada 😤
+Uski aankhen laal ho gayi.
+
+Usne bola:
+
+“Yeh Shankara kaun hai?
+Main is pahad ko hi ukhaad dunga!”
+
+Nandi ko
+bandar-mukh dekh kar
+Ravana zor se hasa.
+
+🔮 Nandi ka Shaap
+
+Nandi ka chehra kathor ho gaya.
+
+Usne kaha:
+
+“O Dashanana,
+tumne mere roop ka mazaak udaaya.
+Isliye bandar jaise veer janmenge,
+jo tumhe aur tumhari jaati ko
+nasht kar denge!”
+
+“Main abhi tumhe maar sakta hoon,
+par tumhara vinaash pehle hi likha ja chuka hai.”
+
+Aasmaan se
+phool barse 🌸
+aur dev-vadya baj uthe.
+
+🏔️ Ravana ka Ghor Apmaan
+
+Ravana shaap ki parwah na karke
+pahad ke paas gaya.
+
+Ghamand mein bola:
+
+“Main is pahad ko hi ukhaad dunga!”
+
+Usne pahad ko baahon mein pakadkar
+zor se hila diya.
+
+Pahad kaanp utha 😱
+Parvati dar ke maare
+Shiva se chipak gayi.
+
+👣 Mahadev ka Ek Angutha
+
+Mahadev muskuraye 😊
+aur sirf apna angutha
+pahad par rakh diya.
+
+Bas.
+
+Ravana ki:
+
+baahen pis gayi
+
+haddiyan chubhne lagi
+
+Woh dard se
+bhayanak cheekh utha 😫
+
+Us cheekh se:
+
+teenon lok kaanp gaye
+
+samundar uchhal pade
+
+pahad hilne lage
+
+🙏 Ravana ka Pashchatap
+
+Devta aur mantri chillaye:
+
+“Mahadev ko shaant karo!
+Unke bina koi sharan nahi!”
+
+Tab Ravana ne:
+
+sir jhukaya
+
+hazaar saal tak stuti ki
+
+bhajan aur mantra gaye
+
+🕉️ Ravana Naam ka Janm
+
+Mahadev prasann ho gaye.
+
+Unhone Ravana se kaha:
+
+“Tumne dard mein jo cheekh maari,
+usse teenon lok ro pade.”
+
+“Isliye aaj se
+tumhara naam hoga —
+RAVANA
+yani jo duniya ko rula de.”
+
+Mahadev ne use:
+
+ek divya talwar di
+Chandrahasa ⚔️
+
+aur lambi aayu ka vardaan diya
+
+Par chetavani bhi di:
+
+“Is talwar ka apmaan mat karna.
+Varna yeh mere paas laut aayegi.”
+
+🌍 Ravana ka Andha Safar
+
+Naam aur vardaan paakar
+Ravana aur bhi ghamandi ho gaya.
+
+Pushpaka Vimaan par baith kar
+woh poori duniya ghoomne laga.
+
+Jo jhuk gaye — bach gaye.
+Jo nahi jhuke —
+nasht ho gaye.
+
+📜 Is Adhyay ka Sandesh (Moral)
+
+Ahankaar se shakti badhti lagti hai,
+par ant kareeb aa jaata hai
+
+Devta daya dete hain,
+par ghamand kabhi maaf nahi hota
+
+Ravana ka naam shaktishaali bana,
+par uska vinaash bhi usi mein chhupa tha"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.17
     with st.expander("Chapter 7.17 – Story of Vedavati"):
-        text1 = """ """
+        text1 = """ 
+        🌲 Himalaya ke Van mein
+
+O Raja,
+jab Ravana duniya bhar mein ghoom raha tha,
+woh Himalaya ke ghane jungle mein pahuncha.
+
+Wahan usne ek yuva ladki dekhi.
+Woh devta si chamak wali thi ✨
+
+kaale hiran ki khal pehne
+
+jataa (bikhre baal)
+
+aur tapasya ka jeevan jee rahi thi."""
         create_image_text_layout("attached_assets/chapter7/7.17.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        😈 Ravana ka Ghamand
+
+Us sundar ladki ko dekh kar
+Ravana ka mann bigad gaya.
+
+Hans kar bola:
+
+“O Sundari,
+itni chhoti umar mein yeh kathor jeevan kyun?
+Tumhari sundarta tapasya mein kyun chhupi rahe?”
+
+“Tum kaun ho?
+Kis ki beti ho?
+Tumhara pati kaun hai?”
+
+🕊️ Vedavati ka Sach
+
+Ladki ne shant swar mein kaha:
+
+“Mera naam Vedavati hai.”
+
+“Mere pita Kushadhwaja the,
+ek mahaan Brahmarishi.
+Unhone Vishnu ko mera pati chuna tha.”
+
+“Kai Devta, Gandharva,
+aur Rakshas mere liye aaye,
+par pita ne mana kar diya.”
+
+“Is par Shumbha naam ke Daitya ne
+mere pita ko raat mein maar diya 😔
+Maa ne unke saath agni mein pravesh kar liya.”
+
+“Ab main sirf Narayana (Vishnu) ke liye tapasya kar rahi hoon.
+Woh hi mere swami hain.”
+
+“Ravana, tum mujhe jaante nahi.
+Main apni tapasya se
+teenon lok ka gyaan rakhti hoon.”
+
+🔥 Ravana ka Apmaan
+
+Ravana ne phir bhi kaha:
+
+“Vishnu kaun hai?
+Main Lanka ka Raja hoon!
+Mujhse shaadi karo,
+saare sukh milenge!”
+
+Vedavati gusse se boli:
+
+“Sharam karo!
+Vishnu teenon lok ke swami hain.
+Unka apmaan sirf tum jaise ghamandi karte ho!”
+
+⚔️ Antim Apmaan
+
+Ravana ne
+Vedavati ke baal pakad liye 😡
+
+Vedavati ne:
+
+apna haath talwar bana liya
+
+apne baal khud kaat diye
+
+Aag jalakar boli:
+
+“Tumhare sparsh se main ashuddh ho gayi hoon.
+Main jeevit nahi rahungi!”
+
+“Main tumhe shraap nahi dungi,
+kyunki meri tapasya nasht ho jaayegi.”
+
+“Par agar meri tapasya sachchi hai,
+toh main phir janm loongi,
+aur tumhara vinaash karungi!”
+
+🔥 Agni mein Pravesh
+
+Yeh kehkar
+Vedavati ne agni mein kood kar praan tyag diye 🔥
+
+Turant:
+
+phoolon ki baarish hui 🌸
+
+devta prasann hue
+
+🌸 Punarm Janm ka Rahasya
+
+O Rama,
+Vedavati hi baad mein:
+
+Janak ke ghar janmi
+
+Sita ke roop mein 🌼
+
+Woh:
+
+pehle Satya Yug mein Vedavati thi
+
+phir Treta Yug mein Sita bani
+
+Aur tum, Rama,
+khud Vishnu ho.
+
+Vedavati ka balidaan
+hi Ravana ke ant ka kaaran bana.
+
+📜 Is Kahani ka Sandesh (Moral)
+
+Pavitrata aur bhakti kabhi nasht nahi hoti
+
+Ahankaar aur kaam ant mein vinaash laate hain
+
+Nari ka apmaan hi Ravana ke patan ki jad bana
+
+Sachchi tapasya anyaay ka ant karti hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.18
     with st.expander("Chapter 7.18 – Gods hide in fear of Ravana"):
-        text1 = """ """
+        text1 = """ 
+        🔥 Vedavati ke balidaan ke baad
+
+Vedavati ke agni mein pravesh karne ke baad,
+Ravana phir se apne Pushpaka Vimaan par chadh kar
+poori dharti par ghoomne laga.
+
+Ek din woh Ushirabija naam ke sthal par pahuncha,
+jahaan Raja Marutta ek maha-yagya kar rahe the.
+
+Is yagya mein:
+
+Devta khud upasthit the
+
+Samvarta Rishi (Brihaspati ke bhai) yagya karwa rahe the"""
         create_image_text_layout("attached_assets/chapter7/7.18.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        😨 Devtaon ka Bhay
+
+Ravana ko dekhte hi devta kaanp uthe.
+
+Unhe pata tha:
+
+Ravana ko boon mil chuke hain
+
+Woh apavitra aur nirdayi hai
+
+Yagya bigaad sakta hai
+
+👉 Isliye devtaon ne apni raksha ke liye jaanwaron ke roop le liye:
+
+Devta	Roop
+Indra	🦚 Mor (Peacock)
+Yama (Dharmaraja)	🐦 Kauwa (Crow)
+Kuvera	🦎 Girgit (Chameleon)
+Varuna	🦢 Hans (Swan)
+
+Baaki devta bhi kisi na kisi roop mein chhup gaye.
+
+🐕 Ravana ka Apmaan
+
+Devta bhag gaye,
+aur Ravana yagya-sthal mein gande kutte ki tarah ghus gaya.
+
+Usne Raja Marutta se kaha:
+
+“Lado ya mere aage jhuk jao!”
+
+Raja Marutta bole:
+
+“Tum kaun ho?”
+
+Ravana hans kar bola:
+
+“Main Ravana hoon!
+Kuvera ka chhota bhai!
+Jisne apne bhai ko hara kar
+Pushpaka Vimaan chheen liya!”
+
+⚔️ Raja Marutta ka Dharm
+
+Raja Marutta gusse mein bole:
+
+“Apne bhai ko hara kar ghamand karta hai?
+Yeh koi veerta nahi!”
+
+“Main abhi tumhe apne teeron se maar dunga!”
+
+Raja ne dhanush utha liya,
+par Guru Samvarta Rishi ne roka:
+
+“Yagya adhoora reh gaya toh
+tumhari vansh ka naash ho jayega.”
+
+“Yagya karte samay
+krodh aur yuddh mana hai.”
+
+Raja Marutta ne:
+
+dhanush chhod diya
+
+shant ho gaye
+
+yagya poora kiya
+
+🩸 Ravana ka Paap
+
+Ravana ne isse:
+
+apni jeet maana
+
+aur ghoshna karwa di
+
+“Ravana vijayi hai!”
+
+Uske baad:
+
+usne wahan maujood Rishiyon ko maar diya
+
+unka rakht peeya
+
+aur phir dharti par ghoomne chala gaya 😔
+
+🌈 Devtaon ke Vardaan (Boons)
+
+Ravana ke jaane ke baad
+devta apne-apne roop se bahar aaye.
+
+Khushi mein unhone un jaanwaron ko vardaan diye:
+
+🦚 Indra → Mor
+
+Mor ke pankhon mein 1000 aankhen aayi 👁️
+
+Saanp mor ko nuksaan nahi pahuncha sakte
+
+Baarish mein mor nachta hai ☔
+
+👉 Isi wajah se mor ke pankh itne rang-birange hote hain.
+
+🐦 Yama → Kauwa
+
+Kauwa:
+
+lambi aayu paata hai
+
+rog kam hote hain
+
+Kauwa jab khata hai,
+pitar (purvaj) bhi tript hote hain
+
+🦢 Varuna → Hans
+
+Hans:
+
+poora shwet (white) ho gaya 🤍
+
+pehle pankhon ke kinare kaale hote the
+
+Paani mein rehkar usse anand milta hai
+
+🦎 Kuvera → Girgit
+
+Girgit ke sir par sona jaisa rang aa gaya ✨
+
+Yeh Kuvera ki kripa ka chihn hai
+
+📜 Is Adhyay ka Sandesh (Moral)
+
+Adharm se prapt shakti bhay paida karti hai
+
+Devta bhi adharmi se bachne ke liye chhup jaate hain
+
+Yagya aur dharm krodh se bade hote hain
+
+Prakriti ke rang aur gun bhi dharm ka phal hain
+
+Ravana ka har kadam uske ant ko aur paas la raha tha"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.19
     with st.expander("Chapter 7.19 – Ravana fights King Anaranya"):
-        text1 = """ """
+        text1 = """ 
+        🌪️ Ravana ka Ghamand
+
+Marutta ko hara kar,
+Ravana aur zyada ghamandi ho gaya.
+
+Woh shehron-shehron ghoomta raha.
+Har raja se ek hi baat bolta:
+
+“Ya to mujhse lado,
+ya haar maan lo.”
+
+Bahut se samajhdaar raja the.
+Unhone socha, samjha,
+aur Ravana ki shakti dekh kar bole:
+
+“Hum haar gaye.”
+
+Ravana aur zyada ghamand mein aa gaya."""
         create_image_text_layout("attached_assets/chapter7/7.19.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🏰 Ayodhya mein Chunauti
+
+Phir Ravana pahuncha Ayodhya.
+Wahan ke raja the Anaranya.
+Bahut veer. Bahut dharmic.
+
+Ayodhya utni hi majboot thi
+jitni Amaravati devtaon ki nagri.
+
+Ravana bola:
+
+“Mujhse yuddh karo
+ya haar maan lo!”
+
+Raja Anaranya ko gussa aaya.
+Unhone shant par dridh awaaz mein kaha:
+
+“Main yuddh sweekar karta hoon.
+Tum bhi taiyaar ho jao.”
+
+⚔️ Bhayankar Yuddh
+
+Raja Anaranya apni poori sena ke saath nikle:
+
+hazaaron rath
+
+lakhon ghode
+
+das hazaar haathi
+
+aur anek sainik
+
+Zameen kaanp uthi.
+Yuddh shuru ho gaya.
+
+Lambe samay tak ladaai hui.
+Par Ravana ki sena aag jaise thi.
+Anaranya ki sena
+jalti hui agni mein ghee jaise sama gayi.
+
+Dheere-dheere
+poori sena nasht ho gayi 😔
+
+🏹 Raja Anaranya ka Antim Sangharsh
+
+Apni sena ko khoya dekh kar,
+Raja Anaranya ne dhanush uthaya.
+
+Unhone 800 teer chhode.
+Par Ravana par
+ek bhi ghaav nahi laga.
+
+Phir Ravana ne ek bhaari prahar kiya.
+Raja Anaranya rath se gir pade.
+Zameen par gir kar
+saans mushkil ho gayi.
+
+Ravana hans kar bola:
+
+“Mujhse lad kar kya mila?
+Teenon lokon mein
+koi mujhe hara nahi sakta!”
+
+🕯️ Dharmic Raja ke Antim Vachan
+
+Raja Anaranya ne dheere se kaha:
+
+“Mujhe tumne nahi haraya.
+Samay (Time) ne mujhe haraya.”
+
+“Par ek baat yaad rakhna, Ravana.”
+
+Unki awaaz kamzor thi,
+par vachan majboot tha:
+
+“Ikshvaku vansh mein
+ek balak janm lega.”
+
+“Uska naam hoga – Rama.”
+
+“Wahi tumhara ant karega.”
+
+Jaise hi yeh vachan bole gaye,
+
+aakash se phool barse 🌸
+
+dev dundubhi baj uthi
+
+Raja Anaranya
+swarg lok chale gaye.
+
+🌱 Kahani ka Sandesh (Moral)
+
+Ghamand se shakti andhi ho jaati hai
+
+Adharm jeet sakta hai, par bach nahi sakta
+
+Dharmic vachan kabhi vyarth nahi jaate
+
+Ravana ka ant likha ja chuka tha
+
+Ram ka janm pehle hi nirdharit tha"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.20
     with st.expander("Chapter 7.20 – Ravana meets Sage Narada"):
-        text1 = """ """
+        text1 = """ 
+        ☁️ Achanak Mulakaat
+
+Ravana prithvi par ghoom raha tha.
+Har jagah darr faila raha tha.
+
+Tab usne dekha —
+Rishi Narada,
+baadal par sawar,
+akash mein chamakte hue ✨
+
+Ravana ne turant vinamrata dikhayi.
+Pranam kiya.
+Aur poocha:
+
+“Maharshi, aap yahan kaise?”"""
         create_image_text_layout("attached_assets/chapter7/7.20.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🪶 Narada ka Shant Updesh
+
+Narada muskuraaye.
+Unki awaaz shaant thi,
+par gehri.
+
+Unhone kaha:
+
+“O Dashagriva,
+tumhare parakram se
+devta bhi hile hue hain.”
+
+“Tumne Gandharvon,
+Nagas aur auron ko haraya.
+Yeh sab mujhe pata hai.”
+
+Phir Narada ne dheere se kaha:
+
+“Par ek baat socho.”
+
+🌍 Narada ka Prashn
+
+Narada bole:
+
+“Is manushya lok ko
+kyun sata rahe ho?”
+
+“Yeh duniya pehle hi
+dukh se bhari hai.”
+
+“Log budhaape,
+bhookh, pyaas,
+rog aur shokh se peedit hain.”
+
+“Kahin naach–gaana hai,
+kahin aansu aur cheekh.”
+
+“Koi maa ke moh mein bandha,
+koi patni aur bachchon ke.”
+
+“Jo duniya pehle hi kamzor hai,
+usey satana
+kis veerata ka kaam hai?”
+
+⚖️ Maha Salah
+
+Narada ne gehri baat kahi:
+
+“Agar sach mein
+sab par vijay chahte ho…”
+
+“Toh Yama ko harao.”
+
+“Mrityu ko jeet lo.”
+
+“Jab maut jeet li,
+tab samjho
+poora sansaar jeet liya.”
+
+😈 Ravana ka Ghamandi Hasna
+
+Narada ki baat sun kar,
+Ravana zor se hansa 😈
+Jaise badal garaj uthe.
+
+Usne kaha:
+
+“Maharshi!
+Main Rasatal jaunga.”
+
+“Devta, Nag,
+sab ko jhukaa dunga.”
+
+“Phir amrit ke liye
+samudra manthan bhi karunga!”
+
+Phir aur aage badh kar bola:
+
+“Main Yama se ladne ja raha hoon.”
+
+“Dakshin disha mein,
+Surya putra Yama ke nagar tak.”
+
+“Main chaaron
+Lokpalon ko bhi haraunga!”
+
+🌑 Yama se Yuddh ka Sankalp
+
+Ravana ne garaj kar kaha:
+
+“Mrityu ka ant kar dunga!”
+
+“Sabko rulaane wale Yama ko
+khud rone par majboor karunga!”
+
+Yeh kehkar Ravana
+apne mantriyon ke saath
+dakshin disha ki taraf nikal gaya.
+
+🔥 Narada ka Manan
+
+Narada wahi ruk gaye.
+Gehri soch mein doob gaye.
+
+Unka tej
+dhuaan rahit agni jaise tha 🔥
+
+Unhone socha:
+
+“Mrityu ko kaun hara sakta hai?”
+
+“Jo devtaon ko bhi
+niyam mein rakhta hai.”
+
+“Jo har jeev ke karm ka
+hisaab karta hai.”
+
+“Agar Yama hara diya gaya,
+toh sansaar ka niyam
+kaise chalega?”
+
+Narada ke mann mein jigyaasa jaagi:
+
+“Main khud Yama lok jaa kar
+yeh yuddh dekhunga.”
+
+🌱 Kahani ka Sandesh (Moral)
+
+Ghamand buddhi ko andha kar deta hai
+
+Jo mrityu ko chunauti de,
+woh apne ant ko nazdeek laata hai
+
+Narada jaise gyaani
+shant hote hain,
+par sach bolte hain
+
+Adharm jitna bhi upar uthe,
+girna uska niyam hai"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
