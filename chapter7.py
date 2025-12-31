@@ -4444,41 +4444,455 @@ raaste nikal aate hain 🌼"""
 
     # Chapter 7.26
     with st.expander("Chapter 7.26 – Nalakuvara curses Ravana"):
-        text1 = """ """
+        text1 = """ 
+        Raat ke samay
+Ravana
+Kailasha Parvat par apni sena ke saath
+vishram kar raha tha.
+Chandni raat thi.
+Phool, hawa aur sangeet
+parvat ko aur bhi sundar bana rahe the.
+
+Is sundarta ko dekh kar
+Ravana ka mann bhatak gaya.
+Uske vichaaron mein
+sanyam kam ho gaya."""
         create_image_text_layout("attached_assets/chapter7/7.26.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Usi samay
+ek apsara Rambha
+wahan se guzar rahi thi.
+Woh pavitra utsav ke liye
+ja rahi thi.
+Uske mann mein
+koi galat bhaav nahi tha.
+
+Ravana ne use roka.
+Rambha darr gayi.
+Usne vinamrata se kaha—
+
+“Rajan,
+aap mere rakshak ho.
+Main aapke putra-samaan
+Nalakuvara
+ki patni hoon.
+Mujhe jaane dein.”
+
+Par Ravana ne
+uski baat nahi suni.
+Apne ahankaar aur ichchha ke vash mein
+usne maryada ka ullanghan kiya.
+
+Rambha rote hue
+Nalakuvara ke paas pahunchi
+aur saari ghatna batai.
+
+Nalakuvara ka mann
+dukh aur krodh se bhar gaya.
+Usne dhyaan kiya
+aur satya jaan liya.
+
+Phir usne
+Ravana ko shraap diya—
+
+“Jo bal aur pad ka ghamand karke
+kisi stri ki icchha ke bina
+uski maryada todega,
+woh kabhi sukh nahi paayega.
+Aisi galti dobara hui
+to uska vinash nishchit hoga.”
+
+Yeh shraap sunte hi
+akash se phool barse.
+Devta prasann hue.
+
+Jab Ravana ko
+is shraap ka pata chala,
+toh uska ghamand
+toot gaya.
+Usne samjha
+ki shakti bina maryada
+sirf vinash laati hai.
+
+Is ghatna ke baad
+jo striyaan pehle darr mein thi,
+unke mann mein
+thodi shanti aayi.
+
+Moral (Soft Message):
+
+Sachchi shakti wahi hoti hai
+jo maryada aur samman ke saath ho.
+Bal ya pad ka ghamand
+jab niyantran kho deta hai,
+toh uska parinaam
+hamesha dukh deta hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.27
     with st.expander("Chapter 7.27 – War between Gods and Rakshasas"):
-        text1 = """ """
+        text1 = """ 
+        Bahut samay pehle,
+Ravana
+apni badi sena ke saath
+Kailasha Parvat paar karke
+Indraloka pahunch gaya.
+
+Jab Rakshason ki sena aayi,
+toh Devaloka hil gaya.
+Awaazon se aakash goonj utha."""
         create_image_text_layout("attached_assets/chapter7/7.27.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Indra
+apne singhasan par ghabra gaye.
+Unhone sab Devtaon ko bulaya.
+
+“Taiyaar ho jao,”
+Indra bole,
+“Ravana se yuddh ka samay aa gaya hai.”
+
+Sab Devta
+– Aditya, Vasu, Rudra, Marut –
+apne shastra le kar
+maidan mein utar aaye.
+
+Par Indra ka mann abhi bhi
+chinta se bhara tha.
+Woh seedhe
+Vishnu
+ke paas gaye.
+
+“Hey Narayana,”
+Indra ne kaha,
+“Ravana ko Brahma ka vardaan mila hai.
+Hum kaise jeetenge?”
+
+Vishnu shaant the.
+Unhone kaha—
+
+“Dar mat, Indra.
+Aaj Ravana ko koi nahi maar sakta.
+Par uska ant zaroor hoga.
+Main khud uske vinash ka kaaran banunga.
+Abhi Devta milkar yuddh karo.”
+
+Indra ko thoda sahas mila.
+
+Yuddh shuru hua.
+Devta aur Rakshas
+aamne–saamne aa gaye.
+
+Aakash mein teer ude.
+Zameen par shor tha.
+Har taraf yudh ka kohra tha.
+
+Ravana ke saath
+uske bahut saare yoddha the.
+Unmein ek tha
+Sumali,
+Ravana ka nana.
+
+Sumali bahut shaktishaali tha.
+Usne Devtaon ko
+peeche dhakel diya.
+Kai Devta thak gaye.
+
+Tab ek Devta aage aaye—
+Vasu Savitra.
+
+Savitra ne
+poori himmat se
+Sumali ka saamna kiya.
+
+Dono ke beech
+bhayanak yuddh hua.
+Aakhir Savitra ne
+apni gada uthayi.
+
+Ek zor daar prahar hua.
+Sumali gir pada.
+Uski shakti wahin samaapt ho gayi.
+
+Jab Rakshason ne
+Sumali ko girte dekha,
+unke mann mein darr aa gaya.
+Woh sab yuddh chhod kar
+bhaag gaye.
+
+Devtaon ko rahat mili.
+
+Moral (Soft Message):
+
+Ahankaar aur anyaay
+kitni bhi shakti ke saath ho,
+ant mein haar jaata hai.
+Aur dharma ke saath khadi himmat
+kabhi vyarth nahi jaati 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.28
     with st.expander("Chapter 7.28 – Indra fights Ravana"):
-        text1 = """ """
+        text1 = """ 
+        Sumali ke vinash ke baad jab Rakshas sena bhagne lagi, tab Indrajit (Ravani) ne apni garajti hui awaaz se Rakshason ko phir se sambhala.
+Woh apne divya rath par chadhkar Devtaon par toot pada — jaise jungle mein aag lag jaaye 🔥
+
+Devta ghabra gaye, par tab Indra ne unhe roka:
+
+“Bhago mat! Dekho, mera putra Jayanta bhi yuddh ke liye aa raha hai!”"""
         create_image_text_layout("attached_assets/chapter7/7.28.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Jayanta vs Indrajit
+
+Jayanta, apne rath par aakar Indrajit se bhid gaya.
+Dono taraf se teer, shaktiyan aur astr-shastr barsne lage.
+
+Indrajit ne maya-yuddh ka prayog kiya —
+poori dishaon mein andhkaar chha gaya 🌑
+Devta aur Rakshas ek-dusre ko pehchaan bhi nahi paa rahe the.
+
+Isi andhkaar mein Puloman (Jayanta ka nana) Jayanta ko utha kar samudra mein le gaya.
+Jayanta ke gaayab hote hi Devtaon ka sahas toot gaya aur ve idhar-udhar bikhar gaye.
+
+Indra ka Pravesh
+
+Putra ke lapata hone par Indra swayam yuddh ke liye nikle.
+Unka divya rath, Matali ne taiyaar kiya.
+Aakash mein bijli, aandhi aur apsaraon ka nritya —
+yeh sab Indra ke prayan ke sanket the ⚡
+
+Isi samay Ravana bhi apne Pushpaka Vimana par chadh gaya.
+Saanp-jute rath, bhayankar gati, aur pralaya-jaisi shakti ke saath woh maidan mein kooda.
+
+Indrajit ne yuddh chhod diya —
+ab pita aur Devraj aamne-saamne the.
+
+Devta vs Rakshas – Antariksh Yuddh
+
+Rudra, Vasu, Marut, Aditya — sab Devta ek saath lade.
+Rakshas sena chithar-bithar ho gayi.
+Yuddh-kshetra khoon ki nadi jaisa lagne laga,
+jahaan shastra magarmachh the aur pakshi mandra rahe the 🩸
+
+Phir Ravana, krodh se bhara hua,
+seedha Indra ko chunauti dene aaya.
+
+Indra vs Ravana
+
+Indra ne apna maha-dhanush chadhaaya —
+uski tankaar se dishaen kaanp uthi.
+
+Indra ke agni-teer Ravana par barsne lage ☀️
+Aur Ravana bhi hazaaron teeron se Indra ko dhakne laga.
+
+Aakash poori tarah andhkaar se bhar gaya.
+Devta aur Rakshas — dono apni poori shakti se lade.
+
+👉 Yeh yuddh ab apne charam par tha…
+aur iska nateeja aane wala tha agle adhyay mein.
+
+Dharmik Arth (Moral Insight)
+
+Ahankaar + Vardaan = Bhayankar Vinash ka Marg
+
+Maya aur bal se kuch samay jeet mil sakti hai,
+par Dharma ka niyam atal hota hai 🌿
+
+Devta bhi tab haarte hain jab ve ekjut nahi hote."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.29
     with st.expander("Chapter 7.29 – Indra is captured by Ravana’s son"):
-        text1 = """ """
+        text1 = """ 
+        Yuddh ka maidan ghor andhkaar se bhar gaya tha 🌑
+Devta aur Rakshas ek-dusre ko pehchaan nahi paa rahe the.
+Par teen log aise the jo bilkul bhatke nahi —
+Indra, Ravana
+aur Ravana ka putra Indrajit (Meghnad)."""
         create_image_text_layout("attached_assets/chapter7/7.29.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ravana ka Ahankaar
+
+Apni sena ko nasht hota dekh kar Ravana ka krodh bhadak utha 🔥
+Usne apne saarathi se kaha:
+
+“Aaj main sab Devtaon ko Yama-lok bhej dunga!
+Indra, Varuna, Yama — sab mere pairon tale honge!”
+
+Uska rath bijli ki gati se Devtaon ki panktiyon ko kaatne laga.
+
+Indra ki Yojana
+
+Indra samajh gaye ki Ravana ko maara nahi ja sakta
+(kyonki Brahma ka vardaan uski raksha karta tha).
+
+Isliye Indra ne Devtaon se kaha:
+
+“Ravana ko maaro mat, zinda pakad lo!
+Jaise Bali ko bandhi bana kar maine teenon lok paaye the.”
+
+Yeh kehkar Indra doosri disha mein chale gaye.
+
+Indrajit ka Maya-Yuddh
+
+Tab Indrajit ne apni maya-shakti ka prayog kiya ✨
+Usne Devtaon ki sena ko ghabra diya.
+
+Phir woh chupke se Indra par toot pada.
+Devta Indrajit ko dekh hi nahi paaye.
+
+Indra thak chuke the…
+Aur usi pal Indrajit ne maya ke bandhan se
+Devraj Indra ko baandh liya ⛓️
+
+👉 Devtaon ke Raja ko bandhi bana liya gaya!
+
+Devtaon ka Hausla Toot Gaya
+
+Jab Devtaon ne dekha ki Indra bandhi ban chuke hain,
+unka sahas toot gaya 😔
+Aur ve yuddh chhod kar peeche hat gaye.
+
+Putra ka Gaurav
+
+Indrajit ne apne pita Ravana se kaha:
+
+“Pitaji, vijay mil chuki hai.
+Devraj bandhi ban chuke hain.
+Ab aur yuddh ki zarurat nahi.”
+
+Ravana ne garv se kaha:
+
+“Putra, aaj tumne apne vansh ka maan badha diya.
+Indra par vijay paana koi sadharan baat nahi.”
+
+Phir Ravana ne Indrajit ko Indra ke rath par
+bandhi bane Devraj ke saath Lanka jaane ko kaha.
+
+Is Adhyay ka Moral 🌿
+
+Ahankaar se jeet mil sakti hai, par shaanti nahi
+
+Maya aur bal se Devta bhi bandhe ja sakte hain
+
+Par yeh jeet asthaayi hoti hai ⏳
+
+Dharma ka uday abhi baaki tha…
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.30
     with st.expander("Chapter 7.30 – Gautama curses Indra"):
-        text1 = """ """
+        text1 = """ 
+        Jab Indra
+Ravana ke putra Indrajit ke haathon bandhi ban gaye,
+tab Devta chintit ho gaye 😔
+
+Sab Devta Brahma ke saath
+Lanka pahuche aur Ravana se shanti se baat ki."""
         create_image_text_layout("attached_assets/chapter7/7.30.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Indrajit ko vardaan
+
+Brahma ne kaha:
+
+“Tumhare putra ka veerata adbhut hai.
+Uska naam Indrajit hoga —
+jo Indra par vijay paane wala hai.”
+
+Devtaon ne kaha:
+“Indra ko chhod do, jo chaho vardaan le lo.”
+
+Indrajit ne kaha:
+
+“Mujhe amar bana do!”
+
+Brahma bole:
+
+“Amar koi nahi hota.”
+
+Tab Indrajit ne doosra vardaan maanga:
+
+“Jab tak main yuddh se pehle
+Agni-dev ki pooja karun,
+main ajay rahun.
+Aur bina pooja ke yuddh karun,
+to meri mrityu ho jaaye.”
+
+Brahma ne kaha:
+“Tathaastu.” ✨
+
+Aur Indra ko chhod diya gaya.
+
+Indra ka dukh
+
+Indra ki shaan toot chuki thi.
+Woh udaas ho gaye 😞
+
+Tab Brahma ne kaha:
+
+“Indra, kya tumhe apna paap yaad hai?”
+
+Ahalya ka prasang
+
+Brahma ne Indra ko uski bhool yaad dilayi…
+
+Ek samay Ahalya
+ko Gautama ke saath vivaah mein diya gaya tha.
+
+Indra ne Gautama ka roop dharan karke
+Ahalya ko bhramit kiya 😔
+
+Gautama Rishi ne yeh dekh liya.
+Aur krodh mein Indra ko shraap diya:
+
+“Tum yuddh mein apne shatru ke haath
+bandhi banoge!”
+
+Isi shraap ka phal tha
+jo Indra ko Indrajit ke haathon mila.
+
+Ahalya ko bhi shraap
+
+Gautama ne Ahalya se kaha:
+
+“Tum tapasya karogi.
+Ikshvaku vansh mein janme
+Rama
+tumhe shuddh karenge.”
+
+Aur wahi hua 🌸
+Vanvaas ke dauran
+Rama ke sparsh se
+Ahalya ka uddhaar hua.
+
+Indra ka prashchit
+
+Brahma ne Indra se kaha:
+
+“Vishnu ki pooja karo.
+Apni indriyon par niyantran rakho.”
+
+Indra ne yagya kiya 🙏
+Aur phir se Swarg ke Raja bane.
+
+Is Adhyay ka Moral 🌿
+
+Pad aur shakti galtiyon se nahi bachati
+
+Paap ka phal der se sahi, par milta zaroor hai
+
+Prashchit aur bhakti se hi uddhaar hota hai
+
+Rama dharma ka prateek hain — jo giron ko bhi utha dete hain
+
+Agla adhyay batayega
+Ravana ke ant ka raasta kaise tay hua…
+Agar chaho, main next chapter ko
+chibi-style moral story ya simple children’s kahani mein likh sakta hoon 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
