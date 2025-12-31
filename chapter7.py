@@ -3167,80 +3167,1278 @@ girna uska niyam hai"""
 
     # Chapter 7.21
     with st.expander("Chapter 7.21 – Ravana challenges Yama"):
-        text1 = """ """
+        text1 = """ 
+        Narada ji ne mann mein socha—
+“Yeh baat Yama Dev ko batani zaroori hai.”
+Aur woh halka kadam rakhte hue
+Yama ke lok ki taraf chale gaye.
+
+Wahan Yama
+agni ke paas baithe the.
+Woh har jeev ko
+uske karm ke hisaab se
+nyay de rahe the.
+
+Yama Dev ne Narada ji ko dekha.
+Unhe aasan diya.
+Arghya diya.
+Aur pyaar se poocha—"""
         create_image_text_layout("attached_assets/chapter7/7.21.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Hey Devarishi,
+sab kushal toh hai?
+Dharma theek chal raha hai na?
+Tum yahan kyun aaye ho?”
+
+Narada ji ne shaant swar mein kaha—
+
+“Yama Dev,
+main ek chinta ki baat lekar aaya hoon.
+Dashagriva, jise log Ravana kehte hain,
+yahaan aa raha hai.
+Woh apni ichchha ki shakti se
+tumhe chunauti dena chahta hai.”
+
+Itna sunte hi,
+door se ek chamak dikhai di.
+Suraj jaise tej wala
+Pushpak Vimaan aage badh raha tha.
+
+Woh tha Ravana.
+
+Uska tej
+mrityu-lok ke andhkaar ko bhi
+hata raha tha.
+
+Ravana ne charon taraf dekha.
+Usne dekha—
+kuch log apne achhe karm ka phal pa rahe hain.
+Aur kuch log
+apni galtiyon ka bojh mehsoos kar rahe hain.
+
+Kahin shaanti thi.
+Kahin peeda.
+Har jagah ek hi niyam tha—
+jaise karm, waisa phal.
+
+Ravana ne ghamand mein aakar
+kuch peedit atmaon ko
+bandhan se mukt kar diya.
+
+Isse Yama ke sainik
+chaukannay ho gaye.
+Unhone nyay ki raksha ke liye
+aage badhna shuru kiya.
+
+Yama ki sena aur Ravana ke saathi
+aamne-saamne aa gaye.
+Aakash goonj utha.
+Par Pushpak Vimaan
+Brahma ji ke vardaan se
+phir se surakshit ho gaya.
+
+Yuddh tez hota gaya.
+Ravana akela hi
+kaiyon ka saamna kar raha tha.
+Uske sharir par chot thi,
+par uska ahankaar aur bhi bada tha.
+
+Aakhir Ravana
+zameen par aa khada hua.
+Uski aankhon mein krodh tha.
+Usne ek divya astra uthaya
+aur zor se bola—
+
+“Ruko! Sab ruko!”
+
+Astra chhodte hi
+aag aur roshni phail gayi.
+Yama ki sena
+peeche hatne lagi.
+
+Ravana aur uske saathi
+garjana karne lage.
+Prithvi kaanp uthi.
+
+Moral (Soft Message):
+Har lok mein ek niyam hota hai—
+karma ka niyam.
+Ghamand aur shakti
+agar dharma se alag ho jaaye,
+to woh sirf vinaash ka raasta dikhati hai.
+Sachchi mahaanta
+nyay, maryada aur santulan mein hoti hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.22
     with st.expander("Chapter 7.22 – Duel between Ravana and Yama"):
-        text1 = """ """
+        text1 = """ 
+        Zor-zor ki awaaz sunkar
+Yama samajh gaye—
+unki sena haar chuki hai.
+
+Unki aankhen laal ho gayin.
+Gussa saaf dikh raha tha.
+
+Yama ne apne saarathi se kaha—
+“Jaldi rath le chalo.
+Mujhe khud aage jaana hoga.”
+
+Divya rath taiyaar hua.
+Yama us par chadh gaye.
+Unke saath Mrityu aur Kaal bhi the.
+Unke hathiyaar aag jaise chamak rahe the."""
         create_image_text_layout("attached_assets/chapter7/7.22.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Teenon lok kaanp uthe.
+Devta bhi darr gaye.
+Aisa lag raha tha
+jaise samay khud chal pada ho.
+
+Jab Yama ka bhayanak rath
+yuddh-sthal ke paas aaya,
+to Ravana ke saathi
+darr ke maare bhaag gaye.
+
+Par Ravana
+bilkul nahi hila.
+Uske mann mein
+na darr tha,
+na sankoch.
+
+Yama ne paas aakar
+apne astra chhode.
+Ravana par kai baan lage.
+Par Ravana bhi chup nahi raha.
+
+Usne bhi
+teer-par-teer chala diye.
+Aakash bhar gaya
+teekhi chamak se.
+
+Saat din tak
+yeh sangharsh chalta raha.
+Na koi peeche hataa,
+na koi jhuka.
+
+Sab devta,
+gandharva,
+rishi—
+sab dekh rahe the.
+Unhe laga
+jaise duniya ka ant ho raha ho.
+
+Ravana ne
+apne dhanush ko kheench kar
+poore aakash ko
+teeron se bhar diya.
+
+Yama bhi
+krodh se bhar gaye.
+Unke mukh se
+aag aur dhuan nikla.
+
+Mrityu ne kaha—
+“Is Rakshasa ko
+ab ant milna hi chahiye.
+Meri drishti se
+koi bhi jeev
+zinda nahi reh sakta.”
+
+Yama ne bhi
+apna maha-dand utha liya.
+Woh dand
+kabhi nishana nahi chookta.
+
+Par tabhi—
+achanak—
+Brahma
+wahan prakat hue.
+
+Brahma ji ne shaant swar mein kaha—
+
+“Yama,
+ruk jao.
+Is par maine vardaan diya hai.
+Mera vachan
+jhootha nahi hona chahiye.”
+
+“Ye dand agar gira,
+to sirf Ravana hi nahi,
+poora jagat nash ho jaayega.”
+
+“Isliye isse hata lo.
+Dharma ka rakshan karo.”
+
+Yama ne
+Brahma ji ki baat maani.
+Unhone kaha—
+
+“Main apna dand rok leta hoon.
+Par phir
+main is yuddh se
+adrishya ho jaata hoon.”
+
+Yeh keh kar
+Yama apne rath ke saath
+gaayab ho gaye.
+
+Ravana ne
+apna naam zor se pukara.
+Pushpak Vimaan par chadha
+aur Yama-lok se
+bahar nikal gaya.
+
+Devta,
+Brahma ji aur Narada ji
+shanti se
+swarg lok laut gaye.
+
+Moral (Soft Message):
+
+Kabhi-kabhi
+bohot zyada shakti bhi
+niyam ke aage ruk jaati hai.
+Vardaan, vachan aur dharma
+sabse upar hote hain.
+Aur bina dharma ke
+jeet bhi
+poori nahi hoti 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.23
     with st.expander("Chapter 7.23 – Ravana fights Varuna’s sons"):
-        text1 = """ """
+        text1 = """ 
+        Yama se saamna karne ke baad
+Ravana
+apne saathiyon ko dhoondhne nikla.
+
+Uska sharir ghayal tha.
+Khoon laga hua tha.
+Par uski aankhon mein
+abhi bhi ghamand chamak raha tha.
+
+Marich aur baaki saathi
+use dekh kar hairaan reh gaye.
+Unhone Ravana ko badhai di
+aur sab Pushpak Vimaan mein baith gaye."""
         create_image_text_layout("attached_assets/chapter7/7.23.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ravana ab
+jal-lok ki taraf gaya.
+Yeh wo jagah thi
+jo Varuna
+ke rakshan mein thi.
+
+Wahan Naag aur Daitya rehte the.
+Ravana Bhogavati nagari pahuncha,
+jahan Naagraj Vasuki ka raj tha.
+
+Usne Naagon ko jeet liya
+aur ratnon se bani nagari mein
+ghamand se ghus gaya.
+
+Aage
+Nivatakavacha Daitya rehte the.
+Unhe Brahma ka vardaan mila hua tha.
+
+Ravana ne unhe yuddh ki chunauti di.
+Daitya khush ho kar
+hathiyaar utha laaye.
+
+Rakshas aur Daitya
+saal bhar tak ladte rahe.
+Na koi jeeta,
+na koi haara.
+
+Aakhir
+Brahma
+khud prakat hue.
+
+Brahma ji ne shaant swar mein kaha—
+
+“Tum dono ko
+koi poori tarah nahi hara sakta.
+Isliye shatru nahi,
+mitra bano.”
+
+Ravana aur Nivatakavacha
+aag ke saamne
+mitrata mein bandhe.
+
+Ravana kuch samay
+wahi raha.
+Usne maya aur vidya seekhi
+aur phir aage badha.
+
+Ab Ravana
+Rasatala gaya.
+Wahan Varuna ki rajdhani
+Ashma nagari thi.
+
+Ravana ne wahan yuddh kiya.
+Phir usne
+Varuna ke lok ki taraf badhna shuru kiya.
+
+Usne Surabhi Gau ko dekha—
+jisse amrit aur doodh ka sagar banta hai.
+Ravana ne uska chakkar lagaya
+aur aage badh gaya.
+
+Usne Varuna ke sainikon ko
+sandesh bheja—
+
+“Apne raja ko batao,
+Ravana aaya hai.
+Yuddh sweekaar karo,
+ya haar maan lo.”
+
+Yeh sunkar
+Varuna ke putra aur pautra
+rath le kar aa gaye.
+
+Aakash mein
+bhayankar yuddh hua.
+Kabhi Ravana bhaari padta,
+kabhi Varuna ke putra.
+
+Kuch der ke liye
+Ravana peeche hat gaya.
+Par uske saathi
+Mahodara ne
+Varuna ke putron ke rath gira diye.
+
+Fir se ghor yuddh hua.
+Aakhir Varuna ke putra
+thak gaye aur gir pade.
+
+Ravana zor se bola—
+
+“Yeh sandesh Varuna tak pahuncha do!”
+
+Tab Varuna ke mantri Prahasta ne kaha—
+
+“Varuna dev yahan nahi hain.
+Woh Brahmalok gaye hain
+Gandharva sangeet sunne.”
+
+Yeh sunkar
+Ravana ne apna naam ghoshit kiya.
+Ghamand bhari hasi hasi.
+Aur Pushpak Vimaan mein baith kar
+Lanka ki taraf laut gaya.
+
+Moral (Soft Message):
+
+Jeet agar sirf ghamand se ho,
+to woh jeet poori nahi hoti.
+Sachchi mahaanta
+sanyam, maryada aur samajh se aati hai.
+Aur jo har jagah yuddh dhoondhta hai,
+use ant mein
+sirf thakaan milti hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.23b
     with st.expander("Chapter 7.23b – Ravana meets Bali"):
-        text1 = """ """
+        text1 = """ 
+        Yuddh ke nashe mein doobe hue
+Ravana ke sainik
+Ashma nagari mein ghoomne lage.
+
+Ravana ne wahan
+ek adbhut mahal dekha.
+Hare-bhare panna,
+motiyon ke jaal,
+sunehre stambh,
+aur heere-jare seedhiyan.
+Woh mahal
+Indra ke lok jaisa lag raha tha.
+
+Ravana ne socha—
+“Yeh itna sundar mahal
+kis ka ho sakta hai?”
+
+Usne Prahasta ko bheja—
+“Jaakar pata lagao.”"""
         create_image_text_layout("attached_assets/chapter7/7.23b.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Prahasta andar gaya.
+Ek ke baad ek
+saath kamre paar kiye.
+Aakhir ek aag jalti hui dikhi.
+
+Us aag ke beech
+ek vyakti baitha tha.
+Woh zor-zor se hans raha tha.
+Uska tej suraj jaisa tha.
+
+Prahasta darr gaya
+aur turant laut aaya.
+Usne sab Ravana ko bata diya.
+
+Ravana khud andar jaane laga.
+Tab darwaaze par
+ek bhayanak roop wala vyakti khada tha.
+Uski aankhen laal,
+jeebh aag jaisi,
+aur haath mein gada thi.
+
+Ravana ka dil tez dhadakne laga.
+Uska sharir kaanp gaya.
+
+Us vyakti ne kaha—
+“Ruk kyun gaye, Rakshasa?
+Batao, kya chahte ho?”
+
+Phir usne poocha—
+“Kya tum Bali se yuddh karna chahte ho?”
+
+Ravana sambhal kar bola—
+“Is mahal ka swami kaun hai?”
+
+Vyakti ne kaha—
+
+“Yahan Bali rehta hai.
+Woh mahaan hai.
+Veer hai.
+Satya par chalne wala hai.
+Usse koi hara nahi sakta.”
+
+“Agar yuddh chahte ho,
+to andar jao.”
+
+Ravana andar gaya.
+Bali ko dekha.
+Bali aag jaise chamak rahe the.
+
+Bali ne hans kar
+Ravana ko apni godi mein bithaya
+aur kaha—
+
+“Batayo, Lanka ke raja,
+yahaan kyun aaye ho?”
+
+Ravana bola—
+“Maine suna hai
+tum kabhi bandhan mein the.
+Main tumhe chhuda sakta hoon.”
+
+Bali zor se hansa.
+Aur bola—
+
+“Ravana,
+jisne mujhe bandha,
+use koi nahi hara sakta.”
+
+“Darwaaze par jo khada hai,
+wahi sab ka malik hai.”
+
+“Woh samay hai.
+Woh srishti hai.
+Woh vinaash bhi hai.”
+
+“Devta, Daitya,
+sab uske adheen hain.”
+
+Bali ne kaha—
+
+“Bahut se mahaan veer
+ghamand mein aa kar
+uske saamne gire hain.”
+
+Phir Bali ne ek
+chamakta hua chakra dikhaya.
+
+“Kya tum ise utha sakte ho?”
+usne poocha.
+
+Ravana ne socha—
+“Yeh toh aasaan hai.”
+
+Par jaise hi usne uthaya,
+woh chakra hila tak nahi.
+
+Ravana ne poori taakat lagayi.
+Par agle hi pal
+woh zameen par gir pada.
+Behosh ho gaya.
+
+Thodi der baad
+Ravana hosh mein aaya.
+Sharm se uska sir jhuk gaya.
+
+Bali ne pyaar se kaha—
+
+“Yeh chakra
+us bhagwan ka hai
+jo Hiranyakashipu ko bhi
+hara chuka hai.”
+
+“Wahi
+darwaaze par khada tha.”
+
+Tab Bali ne us bhagwan ka naam liya—
+
+Vishnu
+Hari, Narayana, Nrsingha.
+
+“Wahi
+srishti karta hai,
+palta hai,
+aur samay par vinaash bhi.”
+
+“Jo use jaanta hai,
+woh paap se mukt hota hai.”
+
+Yeh sab sunkar
+Ravana aur bhi gusse mein aa gaya.
+Usne hathiyaar utha liye.
+
+Par bhagwan Hari ne socha—
+“Brahma ke vachan ke kaaran
+main ise abhi nahi maarunga.”
+
+Aur woh adrishya ho gaye.
+
+Ravana ne dekha
+ki koi saamne nahi hai.
+Usne khushi mein naara lagaya
+aur Lanka ki taraf
+laut gaya.
+
+Moral (Soft Message):
+
+Sirf shakti aur ghamand
+sab kuch nahi hota.
+Kuch shaktiyan
+samajh aur vinamrata se pehchaani jaati hain.
+
+Jo apni seema samajh leta hai,
+wahi sach mein mahaan hota hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.23c
     with st.expander("Chapter 7.23c – Ravana challenges the Sun"):
-        text1 = """ """
+        text1 = """ 
+        Thoda sochne ke baad
+Ravana
+Surya-lok ki taraf chal pada.
+
+Raat usne
+Sumeru Parvat ki choti par bitayi.
+Subah hote hi
+Pushpak Vimaan mein baith kar
+aage badha.
+
+Vimaan
+suraj ke ghodon jitni tezi se
+chal raha tha."""
         create_image_text_layout("attached_assets/chapter7/7.23c.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Tab Ravana ne
+chamakte hue Surya ko dekha.
+Hazaar kirnon se chamakta hua.
+Sone ke gehne,
+laal kamal ki mala,
+aur laal chandan se
+shobhit sharir.
+
+Surya Dev
+poore jagat ko
+pavitra kar rahe the.
+
+Surya ki roshni
+itni tez thi
+ki Ravana bhi
+kuch pal ke liye
+dab sa gaya.
+
+Usne Prahasta se kaha—
+
+“Jaakar Surya Dev ko batao—
+Ravana yahan aaya hai.
+Ya to yuddh karein,
+ya haar sweekaar karein.”
+
+Prahasta aage badha.
+Surya ke dwaar par
+do dwarpaal the—
+Pingala aur Dandi.
+
+Sandesh sun kar
+Dandi ne Surya Dev ko bataya.
+
+Surya Dev shaant rahe.
+Unhone sirf itna kaha—
+
+“Dandi,
+jaakar Ravana se keh do—
+ya to mujhe jeeto,
+ya keh do ki main haar gaya.
+Jo theek lage, karo.”
+
+Dandi ne
+yeh sandesh Ravana tak pahuncha diya.
+
+Surya ki kirnen
+abhi bhi tez thi.
+Ravana unke saamne
+aur aage badh nahi paaya.
+
+Usne door se hi
+nagaade bajwa diye.
+Aur apni jeet ka
+elan kar diya.
+
+Phir woh
+Pushpak Vimaan mein baitha
+aur wahan se
+laut gaya.
+
+Moral (Soft Message):
+
+Kabhi-kabhi
+insaan apni shakti se
+prakriti ko bhi chunauti de deta hai.
+Par asli tej
+shor se nahi,
+shaanti aur niyam se pehchaana jaata hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.23d
     with st.expander("Chapter 7.23d – Ravana meets King Mandhata"):
-        text1 = """ """
+        text1 = """ 
+        Raat Sumeru Parvat par bitakar
+Ravana
+chandralok ki taraf badha.
+Uske mann mein
+ab bhi yuddh ka josh tha.
+
+Wahan usne
+ek chamakta hua rath dekha.
+Apsaraon se ghira hua.
+Sangeet aur nritya se bhara hua.
+
+Ravana ko jigyasa hui.
+Usne paas khade rishi Parvata se poocha—
+
+“Yeh kaun hai
+jo bina darr ke
+aise aage badh raha hai?”
+
+Rishi Parvata ne shaant swar mein kaha—"""
         create_image_text_layout("attached_assets/chapter7/7.23d.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Putra,
+yeh sab raja hain
+jo apne karm ke phal bhogne
+swarg ki yatra par ja rahe hain.
+
+Jaise tumne tapasya se
+shakti paayi hai,
+waise hi inhone bhi
+dharm aur daan se
+apna sthaan kamaya hai.”
+
+Ravana ne phir poocha—
+
+“Kya inmein se koi
+mujhe yuddh ka sukh dega?”
+
+Rishi bole—
+
+“Yeh sab swarg chahte hain,
+yuddh nahi.
+Par ek raja hai
+jo tumhara saamna karega.”
+
+“Uska naam hai
+Mandhata.
+Saat dweep ka swami.
+Ayodhya ka mahaan raja.”
+
+Thodi hi der mein
+Ravana ne Mandhata ko dekha.
+Sunehra rath.
+Divya tej.
+Shaant par veer chehra.
+
+Ravana ne garv se kaha—
+
+“Raja Mandhata,
+mujhse yuddh karo!”
+
+Mandhata hans pade.
+Aur bole—
+
+“Agar jeevan pyaara nahi,
+to saamne aao, Rakshasa.”
+
+Ravana ne ghamand se kaha—
+
+“Main Varuna, Yama aur Kuvera se nahi dara.
+Phir ek manushya se kyun darun?”
+
+Aur yuddh shuru ho gaya.
+
+Mandhata ne
+apne teeron se
+Rakshaso ki sena ko
+rok diya.
+Jaise aag
+sookhi ghaas ko jala deti hai.
+
+Unhone Ravana ke rath par
+gada se prahaar kiya.
+Ravana gir pada.
+Behosh ho gaya.
+
+Rakshas darr gaye.
+
+Par thodi der mein
+Ravana sambhal gaya.
+Usne phir se yuddh chhed diya.
+
+Mandhata bhi uth khade hue.
+Unka tej
+suraj jaisa chamak utha.
+
+Dono taraf se
+divya astron ka prayog hone laga.
+Puri srishti
+kaamp uthi.
+
+Tab do mahaan rishi—
+Paulastya aur Galava—
+wahan prakat hue.
+
+Unhone prem se kaha—
+
+“Bas karo.
+Yeh yuddh
+sirf vinaash laayega.”
+
+Unki baat sunkar
+Ravana aur Mandhata
+shaant hue.
+
+Dono ne
+yuddh rok diya.
+Aur apne-apne raaste
+laut gaye.
+
+Moral (Soft Message):
+
+Shakti aur veerata
+tabhi sundar hoti hai
+jab uske saath
+sanyam aur vivek ho.
+
+Jo samay par
+talwar rakh de,
+wahi sach mein
+mahaan veer hota hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.23e
     with st.expander("Chapter 7.23e – Ravana visits the Moon world"):
-        text1 = """ """
+        text1 = """ 
+        Do rishiyon ke jaane ke baad,
+Ravana
+aakash ke aur upar badhne laga.
+
+Woh hazaaron yojan door
+alag-alag divya lokon se guzra.
+Kahin hans rehte the,
+kahin Siddha aur Charan,
+kahin Ganga ka pavitra jal
+aakash se beh raha tha.
+
+Har lok shant tha.
+Har jagah niyam aur maryada thi."""
         create_image_text_layout("attached_assets/chapter7/7.23e.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Aakhir Ravana
+us lok mein pahuncha
+jahan Chandra
+virajmaan the.
+
+Chandra Dev
+taaron se ghire hue the.
+Unki shital roshni
+sab jeevon ko sukh deti thi.
+
+Par jaise hi Ravana wahan aaya,
+chandramā ki thandi kirnein
+aag jaisi lagne lagi.
+
+Ravana ke saathi
+kampne lage.
+Prahasta ne kaha—
+
+“Rajaji,
+yeh thandi roshni
+jalane wali hai.
+Humein yahan se nikalna chahiye.”
+
+Par Ravana
+krodh se bhar gaya.
+Usne dhanush uthaya
+aur Chandra Dev par
+baan chalaane laga.
+
+Tab achanak
+Brahma
+wahan prakat hue.
+
+Brahma ji ne
+shaant aur gambhir swar mein kaha—
+
+“Ravana,
+bas karo.
+Chandra sabka kalyan chahte hain.
+Unhe peeda mat do.”
+
+“Main tumhe
+ek divya vardaan deta hoon.
+Ek pavitra mantra.”
+
+“Is mantra ko
+roz nahi,
+sirf tab japna
+jab tumhari jaan khatre mein ho.”
+
+“Rudraksha mala haath mein lekar
+iska smaran karna.
+Tab tumhe koi hara nahi paayega.
+Par bina smaran ke
+safalta nahi milegi.”
+
+Ravana ne
+haath jod kar kaha—
+
+“Prabhu,
+agar main aapko priya hoon,
+to mujhe yeh mantra de dijiye.
+Isse main
+devon ke bhay se
+mukt ho jaunga.”
+
+Brahma ji ne
+us pavitra mantra ke
+108 naam sunaye—
+jo Ishwar ke
+anek roopon ka varnan karte the.
+
+Unhone kaha—
+
+“Jo in naamon ka
+shraddha se smaran karega,
+uske paap nasht honge.
+Use sharan milegi.
+Aur jeevan ke yuddh mein
+sahi disha milegi.”
+
+Ravana ne
+mantra suna.
+Uska ghamand
+thoda shaant hua.
+
+Woh wahan se
+laut gaya.
+Par uske haath mein
+ab shakti ke saath
+ek yaad bhi thi—
+ki shakti ke upar bhi
+niyam hota hai.
+
+Moral (Soft Message):
+
+Sirf taakat se
+sab kuch nahi jeeta jaata.
+Kabhi-kabhi
+kripa aur niyam
+shakti se bhi bade hote hain.
+
+Aur jo shakti ko
+maryada ke saath rakhe,
+wahi sach mein
+surakshit rehta hai 🌙"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.23f
     with st.expander("Chapter 7.23f – Ravana meets the Maha-Purusha"):
-        text1 = """ """
+        text1 = """ 
+        Brahma ji se vardaan paakar
+Ravana
+apne raaste par aage badh gaya.
+
+Kuch din baad
+woh pashchim samudra ke kinaare pahuncha.
+Ek tapu par
+ek adbhut purush baitha hua tha.
+Uska tej aag jaisa tha.
+Naam tha Mahajambunada.
+
+Us purush ka roop
+itna vishaal aur prabhavshaali tha
+jaise devon ka raja
+ya suraj sab grahon mein."""
         create_image_text_layout("attached_assets/chapter7/7.23f.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ravana ne garjana ki—
+“Mujhse yuddh karo!”
+
+Usne teer aur hathiyaar chalaye.
+Par woh Mahapurush
+bilkul shaant raha.
+Jaise sher ko
+kamzor jaanwar ka darr nahi hota.
+
+Usne shaant swar mein kaha—
+“Ravana,
+main tumhari yuddh ki ichchha
+abhi shant kar deta hoon.”
+
+Us Mahapurush ki shakti
+Ravana se hazaar guna zyada thi.
+Uske sharir mein
+poora jagat basa hua tha—
+devta, rishi, parvat, samudra,
+veda, kaal, dharma sab kuch.
+
+Us Mahapurush ne
+sirf khel-khel mein
+Ravana ko haath se chhua.
+Aur Ravana
+zameen par gir pada.
+Jaise ped jad se ukhad jaaye.
+
+Phir woh Mahapurush
+prithvi ke neeche ke lok mein
+antardhaan ho gaya.
+
+Ravana hosh mein aaya
+aur apne mantriyon se bola—
+“Woh kaun tha?
+Kahan chala gaya?”
+
+Mantriyon ne kaha—
+“Woh purush
+devon aur daityon ke
+ghamand ko tod deta hai.”
+
+Ghamand mein andha Ravana
+gufa ke andar ghus gaya.
+Wahan usne dekha—
+bahut se divya purush
+nrittya kar rahe the.
+Sab usi Mahapurush jaise lag rahe the.
+
+Tab Ravana ka
+rom-rom kaanp utha.
+Par Brahma ke vardaan ke kaaran
+woh zinda bahar aa gaya.
+
+Usne dekha—
+ek shwet shayya par
+Mahapurush shant so rahe the.
+Unke paas
+Lakshmi
+seva kar rahi thi.
+
+Ravana ke mann mein
+galat ichchha jaagi.
+Woh Lakshmi ji ki taraf badha.
+
+Tab Mahapurush hans pade.
+Unki aag jaisi shakti se
+Ravana jalne laga
+aur phir gir pada.
+
+Mahapurush ne kaha—
+“Utho Ravana.
+Aaj tumhari mrityu nishchit nahi.
+Brahma ka vardaan tumhari raksha karta hai.”
+
+Ravana ka darr
+ab poori tarah jag chuka tha.
+Usne poocha—
+“Tum kaun ho?”
+
+Mahapurush muskuraye—
+“Tumhara ant nikat hai.”
+
+Ravana ne ghamand se kaha—
+“Main amar hoon.
+Mujhe koi maar nahi sakta.”
+
+Tab Ravana ne
+Mahapurush ke sharir mein
+poora brahmand dekha—
+dev, rishi, grah,
+samudra, parvat,
+jeev aur nirjeev sab kuch.
+
+Yeh sun kar
+Rama
+Rishi Agastya se bole—
+“Yeh Mahapurush kaun the?”
+
+Agastya ji ne kaha—
+
+“Woh Mahapurush
+Kapila the.
+Aur jo sab nrittya kar rahe the,
+woh unke saman hi divya the.”
+
+“Ravana turant nash nahi hua
+kyunki Kapila ji ne
+use krodh se nahi dekha.”
+
+“Unke shabdon ne hi
+Ravana ka ghamand tod diya.”
+
+Kuch samay baad
+Ravana sambhla
+aur apne mantriyon ke paas
+laut gaya.
+
+Moral (Soft Message):
+
+Kabhi-kabhi
+sabse bada yuddh
+bahar nahi,
+andar hota hai.
+
+Aur jo apne ghamand ko
+nahi pehchaan pata,
+use sachchi shakti
+sirf ek jhalak dikha kar
+jhuka deti hai 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 7.24
     with st.expander("Chapter 7.24 – Ravana abducts women and gets cursed"):
-        text1 = """ """
+        text1 = """ 
+        Safar ke dauran
+Ravana
+ghamand aur jeet ke nashe mein aage badhta gaya.
+Par uske kaamon ka raasta
+ab andhera hota ja raha tha.
+
+Usne kai rajao, rishiyon aur devtaon ki
+betiyon ko zabardasti
+Pushpak Vimaan mein baitha liya.
+Dar aur dukh se bhari
+un aankhon se aansu girte rahe.
+Vimaan ke andar
+sirf siskiyon ki awaaz thi."""
         create_image_text_layout("attached_assets/chapter7/7.24.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Un bechariyon ko
+apne maa-baap,
+apne pati,
+apne ghar yaad aa rahe the.
+Koi roti hui boli—
+“Ab mere bachche ka kya hoga?”
+Koi dukhi mann se keh uthi—
+“Kya maine pehle kabhi
+koi galti ki thi?”
+
+Sabne milkar kaha—
+
+“Yeh anyay hai.
+Dusron ke sukh ko cheenna
+bahut bada paap hai.
+Is paap ka phal
+use avashya milega.”
+
+Un pavitra aur nirdosh
+mahilaon ke shabdon se
+aakash goonj utha.
+Phoolon ki varsha hui.
+Aur Ravana ka tej
+pal bhar ke liye
+kam sa lagne laga.
+
+Yeh ek shraap tha—
+anyay ke khilaaf sach ka shraap.
+
+Kuch hi samay baad
+Ravana Lanka pahuncha.
+Rakshas khushiyaan mana rahe the.
+
+Tab uski behen
+Shurpanakha
+roti hui uske saamne gir padi.
+
+Aankhon mein gussa aur dukh tha.
+
+Woh boli—
+
+“Bhai,
+tumhari talwar se
+mera suhaag chhin gaya.
+Mere pati ko tumne
+yuddh ke junoon mein
+maar diya.”
+
+“Ab main
+jeete-jeete vidhwa ho gayi.”
+
+Ravana thoda hila.
+Usne narm swar mein kaha—
+
+“Behen,
+yuddh ke shor mein
+galti ho gayi.
+Mujhe pehchaan nahi rahi.”
+
+“Main tumhe samman aur suraksha doonga.”
+
+Usne kaha—
+
+“Tum apne cousin
+Khara
+ke paas jao.
+Main uske saath
+14,000 veer Rakshas bhejta hoon.”
+
+“Khara
+Dandaka Van ki raksha karega.
+Tum wahan
+nirbhay raho.”
+
+Ravana ne
+Rakshaso ki sena
+Khara ko saunp di.
+Khara turant
+Dandaka Van ki taraf
+chal pada.
+
+Shurpanakha
+ussi van mein rehne lagi.
+
+Moral (Soft Message):
+
+Shakti jab daya aur maryada ke bina ho,
+to woh shraap ban jaati hai.
+Aur jab nirdosh log anyay ke khilaaf bolte hain,
+to unke shabd
+bhavishya ka raasta badal dete hain 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.25
     with st.expander("Chapter 7.25 – Ravana allies with Madhu"):
-        text1 = """ """
+        text1 = """ 
+        Apni behen ko samjha-bujha kar
+Ravana
+ka mann thoda shaant hua.
+Uska gussa kuch kam hua
+aur chinta bhi door ho gayi.
+
+Phir woh Nikumbhila Van gaya.
+Wahan yagya-sthal chamak raha tha.
+Havan-kund, stambh aur ved-mantra
+sab kuch pavitra lag raha tha.
+
+Wahin Ravana ne apne putra
+Meghanada (Indrajit)
+ko dekha.
+Woh tapasya aur yagya mein lage hue the."""
         create_image_text_layout("attached_assets/chapter7/7.25.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ravana ne pyaar se poocha—
+“Beta, yahan kya kar rahe ho?”
+
+Tab Guru Shukracharya ne kaha—
+“Meghanada ne bahut kathin yagya kiye hain.
+Isse use divya rath, maya-shakti,
+akshay baan aur adbhut dhanush mile hain.”
+
+Ravana ne suna aur kaha—
+“Achha hai.
+Par ab ghar chalo.”
+
+Lanka laut kar
+Ravana ne bandi banayi hui
+sab mahilaon ko bulaya.
+Yeh dekh kar
+Vibhishana
+dukh se bole—
+
+“Bhai,
+yeh kaam tumhare liye achha nahi.
+Isse tumhara naam, vansh aur bhavishya
+sab ko nuksaan hoga.”
+
+Vibhishana ne ek aur baat batayi—
+“Madhu naam ka Rakshasa
+Kumbhinasi ko le gaya hai.
+Woh hamari rishtedaar hai.”
+
+Ravana ko gussa aa gaya.
+Usne turant yatra ki tayyari karne ko kaha.
+
+Badi sena nikli—
+aage Meghanada,
+beech mein Ravana,
+peeche Kumbhakarna.
+
+Vibhishana Lanka mein hi rahe,
+kyunki unka mann dharm ke saath tha.
+
+Jab Ravana
+Madhu ke nagar pahuncha,
+Madhu wahan nahi mila.
+Par Kumbhinasi
+darr ke maare
+Ravana ke charanon mein gir padi.
+
+Usne vinamrata se kaha—
+“Bhai,
+mere pati ko mat maarna.
+Ek stri ke liye vidhwa hona
+sabse bada dukh hota hai.”
+
+Ravana ka mann pighla.
+Usne kaha—
+“Daro mat.
+Main Madhu ko nahi maarunga.”
+
+Phir Madhu ko jagaya gaya.
+Usse kaha gaya—
+
+“Ravana dev-lok jeetna chahte hain.
+Tum unke mitra bano.”
+
+Madhu ne sammaan se
+Ravana ka swaagat kiya.
+Aur mitrata sweekaar kar li.
+
+Ravana ne raat
+Madhu ke ghar bitayi.
+Subah apni sena ke saath
+Kailasha Parvat ki taraf
+prasthaan kiya.
+
+Moral (Soft Message):
+
+Jab gussa shaant hota hai,
+to samajh paida hoti hai.
+Aur jab samjhauta aur mitrata hoti hai,
+to bina yuddh ke bhi
+raaste nikal aate hain 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
