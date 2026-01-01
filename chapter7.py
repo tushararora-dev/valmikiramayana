@@ -4890,65 +4890,854 @@ Prashchit aur bhakti se hi uddhaar hota hai
 Rama dharma ka prateek hain — jo giron ko bhi utha dete hain
 
 Agla adhyay batayega
-Ravana ke ant ka raasta kaise tay hua…
-Agar chaho, main next chapter ko
-chibi-style moral story ya simple children’s kahani mein likh sakta hoon 🌼"""
+Ravana ke ant ka raasta kaise tay hua…"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.31
     with st.expander("Chapter 7.31 – Ravana at Narmada river"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 31 – Ravana aur Narmada Nadi (Hinglish Moral Story)
+
+Rama
+hairaan ho kar
+Agastya se poochte hain—
+
+“Gurudev, jab Ravana dharti par ghoom raha tha,
+kya usse rokne wala koi nahi tha?
+Kya sab raja kamzor ho gaye the?”
+
+Agastya ji muskuraye.
+Unhone shaant swar mein kaha—"""
         create_image_text_layout("attached_assets/chapter7/7.31.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Mahishmati ki kahani
+
+“Rama,
+Ravana rajyon ko giraata hua
+Mahishmati nagari tak pahuncha.
+
+Wahan ek pratapi raja raaj karta tha—
+Kartavirya Arjuna
+jo tej mein agni jaisa tha.
+
+Us din raja Arjuna
+apni patniyon ke saath
+Narmada River ke kinaare
+vihar karne gaye hue the.”
+
+Ravana ka ghamand
+
+Ravana shehar aaya aur bola—
+“Batao, Arjuna kahan hai?
+Main apni shakti naapna chahta hoon.”
+
+Jab use pata chala
+ki raja shehar mein nahi hai,
+toh Ravana
+Vindhya parvat ki taraf badh gaya
+aur phir Narmada nadi tak aa pahuncha.
+
+Narmada ka saundarya 🌸
+
+Narmada nadi:
+
+saaf aur sheetal thi
+
+phoolon se saji hui
+
+hans, chakravak aur machhliyon se bhari
+
+Ravana use dekh kar bola—
+“Yeh toh Ganga jaisi pavitra hai!”
+
+Uska ghamand
+kuch pal ke liye
+khushi mein badal gaya.
+
+Snan aur pooja
+
+Ravana ne apne saathi Rakshason se kaha—
+“Is nadi mein snan karo.
+Yeh thakaan aur dukh door karegi.”
+
+Sab Rakshas:
+
+haathi jaise paani mein utre
+
+phool ikattha kiye
+
+ret par phoolon ka dher laga diya
+
+Phir Ravana ne:
+
+nadi mein snan kiya
+
+safed vastra pehne
+
+Shivling ko ret par sthapit kiya
+
+Usne:
+
+phool, chandan aur sugandh chadhayi
+
+gaate hue aur nritya karte hue
+Shiv ki pooja ki
+
+Kahani ki seekh 🌱
+
+Shakti ke saath bhakti bhi hoti hai
+
+Prakriti ke saamne
+sabhi ko vinamr hona padta hai
+
+Ghamand bhi
+kabhi-kabhi
+shanti dhoondhne nadi ke kinaare aa jaata hai
+Yeh kahani batati hai—
+prakriti aur bhakti
+insaan ke mann ko badal sakti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.32
     with st.expander("Chapter 7.32 – Arjuna defeats Ravana"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 32 – Arjuna ne Ravana ko bandi banaya (Hinglish Moral Story)
+
+Ravana
+Narmada nadi ke kinaare
+abhi pooja kar hi raha tha.
+
+Usi nadi mein, thodi door,
+Kartavirya Arjuna
+apni patniyon ke saath
+jal-vihar kar raha tha."""
         create_image_text_layout("attached_assets/chapter7/7.32.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Arjuna ki shakti
+
+Arjuna ne mazaak-mazaak mein
+apni hazaar baahon se
+Narmada River ka flow rok diya.
+
+Paani ulta behne laga.
+Machhliyaan uchhalne lagi.
+Phool aur Ravana ki pooja
+paani mein beh gayi.
+
+Ravana hairaan ho gaya.
+Usne apne sainikon se kaha—
+“Dekho, yeh kaun hai jo nadi ko rok raha hai?”
+
+Sach saamne aaya
+
+Rakshas jaakar aaye aur bole—
+“Raja, ek mahaan purush hai.
+Hazaar baahen hain.
+Nadi ko khel-khel mein rok raha hai.”
+
+Ravana samajh gaya—
+“Yeh Arjuna hi hai.”
+
+Ghamand se bhara Ravana
+yudh ke liye aage badha.
+
+Yudh se pehle chetavni
+
+Arjuna ke mantriyon ne kaha—
+“Ravana, aaj yeh yudh ka samay nahi.
+Raja jal mein hain, patniyon ke saath.”
+
+Par Ravana nahi maana.
+Uske sainikon ne pehle hamla kar diya.
+
+Arjuna ka prakop
+
+Arjuna turant jal se bahar aaya.
+Aisa laga jaise
+agni swayam prakat ho gayi ho.
+
+Usne apni gada uthai
+aur Rakshason par toot pada.
+
+Ek hi vaar mein
+Prahasta gir pada.
+Baaki Rakshas
+darr ke maare bhaag gaye.
+
+Arjuna vs Ravana
+
+Ab dono mahaan yoddha
+saamne-saamne the.
+
+Gada se gada takrai.
+Dharti kaanp uthi.
+Aasmaan garajne laga.
+
+Par Ravana ko
+Brahma ka varadaan tha.
+Isliye woh toota nahi.
+
+Tab Arjuna ne
+apni buddhi ka upyog kiya.
+
+Ravana bandi bana
+
+Arjuna ne Ravana ko
+pakad liya.
+Jaise Garuda ne saanp ko pakda ho.
+
+Hazaar baahon se
+use baandh diya.
+
+Devtaon ne aakash se
+phool barsaaye—
+“Shabash! Shabash!”
+
+Ravana bandi ban chuka tha.
+
+Vijay aur maryada
+
+Arjuna Ravana ko
+baandh kar
+apni nagari le gaya.
+
+Logon ne
+phool aur akshat barsaaye.
+
+Yeh sirf shakti ki jeet nahi thi,
+yeh maryada aur sanyam ki jeet thi.
+
+Kahani ki seekh 🌱
+
+Sirf ghamand se shakti ka matlab nahi hota
+
+Asli mahaanta bal + buddhi se aati hai
+
+Jo apni shakti par ahankaar kare,
+use kabhi-na-kabhi
+koi rokh hi leta hai
+Yeh kahani yaad dilati hai:
+👉 Sachchi taakat vinamrata ke saath hi sundar lagti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.33
     with st.expander("Chapter 7.33 – Ravana is released"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 33 – Paulastya ke kehne par Arjuna ne Ravana ko chhod diya
+
+Ravana
+jab bandi bana hua tha,
+toh swarg mein sab devta
+is baat ko yaad kar rahe the.
+
+Yeh baat
+Paulastya
+tak bhi pahunchi.
+Dil se nana the woh.
+Mann pighal gaya."""
         create_image_text_layout("attached_assets/chapter7/7.33.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Paulastya ka aagman
+
+Paulastya ji
+hawaa ki tarah tez gati se
+Mahishmati nagari aaye.
+
+Unka tej itna tha
+jaise surya prithvi par utar aaya ho.
+
+Log turant samajh gaye—
+“Yeh koi mahaan rishi aaye hain.”
+
+Arjuna ka samman
+
+Kartavirya Arjuna
+jaise hi jaane,
+turant aage badhe.
+
+Haath jod kar
+charanon mein pranam kiya.
+
+Arghya diya.
+Madhuparka diya.
+Gaay aur jal arpan kiya.
+
+Arjuna bola—
+“Mahaan Rishi,
+aaj mera jeevan safal ho gaya.”
+
+Paulastya ki vinamr prarthna
+
+Paulastya ji bole—
+“Arjuna,
+tum sach mein mahaan ho.
+
+Tumne us Ravana ko
+hara diya
+jise koi jeet nahi paata tha.
+
+Par woh mera naati hai.
+Meri prarthna hai—
+use chhod do.”
+
+Arjuna ka mahan nirnay
+
+Arjuna ne
+koi tark nahi kiya.
+Koi ghamand nahi dikhaya.
+
+Bina kuch kahe
+Ravana ko
+mukt kar diya.
+
+Sirf itna hi nahi—
+use vastra, ratna
+aur samman bhi diya.
+
+Agni ke saamne
+mitrata ka bandhan bhi banaya.
+
+Ravana ki laaj
+
+Paulastya ji ne
+Ravana ko gale lagaya
+aur swarg lok chale gaye.
+
+Ravana sharminda tha.
+Uska ghamand toot chuka tha.
+
+Par phir bhi,
+naye gathbandhan ke saath
+woh prithvi par ghoomne laga.
+
+Kahani ki seekh 🌱
+
+Asli mahaanta chhod dene mein hoti hai
+
+Shakti se jeetna aasaan hai,
+daya se jeetna mushkil
+
+Jo apne shatru ko bhi
+samman de sake,
+wahi sachcha veer hota hai
+
+Aur jo apni shakti par ghamand kare,
+use yaad rakhna chahiye—
+us se bhi koi zyada shaktishaali hota hai
+👉 Vinamrata hi asli taakat hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.34
     with st.expander("Chapter 7.34 – Bali humiliates Ravana"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 34 – Bali ne Ravana ko apni kamar se latka diya
+
+Ravana
+Arjuna se chhootne ke baad bhi
+shaant nahi hua.
+Uska ghamand phir jaag gaya.
+
+Jahan kisi shaktishaali ka naam sunta,
+wahin jaakar
+ladne ki zidd karta."""
         create_image_text_layout("attached_assets/chapter7/7.34.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Kishkindha ka ghamandi mehmaan
+
+Ek din Ravana
+Kishkindha
+pahuncha.
+
+Wahan usne
+Vanar Raja Bali
+ko yuddh ke liye lalkara.
+
+Par Bali wahan nahi tha.
+Woh samudron par
+Sandhya pooja kar raha tha.
+
+Tara, Sugriva aur Sushena bole—
+“Ravana,
+Bali se ladna matlab
+apni hi maut ko bulaana.
+
+Yeh jo safed haddiyan dikhti hain,
+yeh sab usi se ladne walon ki hain.”
+
+Par Ravana ne suna nahi.
+
+Bali aur Ravana ka saamna
+
+Dakshin samudra ke kinaare
+Ravana ne Bali ko dekha.
+
+Bali shaant tha.
+Jaise pahad.
+Jaise aag.
+
+Ravana chupke se
+peeche se pakadne aaya.
+
+Par Bali sab samajh gaya.
+
+Ek pal mein ghamand toot gaya
+
+Bali ne bina mudhe
+Ravana ko pakad liya.
+
+Jaise Garuda
+saanp ko pakadta hai.
+
+Aur phir—
+Ravana ko
+apni kamar ke patte se latka diya.
+
+Usi haal mein
+Bali ne chaaron samudron ka
+chakkar laga liya.
+
+Ravana latakta raha.
+Thak gaya.
+Laaj se jhuk gaya.
+
+Ant mein vinamrata
+
+Jab Kishkindha wapas aaye,
+Bali ne Ravana ko chhod diya.
+
+Ravana bola—
+“Tumhari shakti
+man, hawa aur Garuda jaisi hai.
+
+Main tumhara mitra banna chahta hoon.”
+
+Agni ke saamne
+dono ne mitrata ka vachan liya.
+
+Ek mahina Ravana
+Kishkindha mein raha.
+
+Kahani ki seekh 🌿
+
+Ghamand
+sabse pehle
+aankhon ko andha karta hai
+
+Shakti ka matlab
+sirf ladna nahi,
+niyantran bhi hota hai
+
+Jo apni taakat par itraata hai,
+usse bhi koi
+zyada balwaan hota hai
+
+Vinamrata seekh jao,
+warna jeevan
+sikha deta hai
+
+👉 Asli veer wahi hota hai
+jo apni shakti ko sambhaal sake."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.35
     with st.expander("Chapter 7.35 – Story of Hanuman’s childhood"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 35 – Hanuman ji ka Bachpan (Moral Story Style)
+
+Rama ji ne vinamrata se
+Rishi Agastya se poocha—
+
+“Bali aur Ravana bahut shaktishaali the,
+par Hanuman jaisa koi nahi.
+Usme courage, strength, wisdom, sab kuch hai.
+Par phir bhi usne Bali ke samay
+apni poori shakti kyun nahi dikhayi?
+Mujhe Hanuman ke bachpan ki kahani bataiye.”"""
         create_image_text_layout("attached_assets/chapter7/7.35.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Rishi muskuraye aur bole—
+
+“Rama, tum bilkul sahi keh rahe ho.
+Hanuman jaisa veer koi nahi.
+Par bachpan mein ek shraap ke kaaran
+use apni shakti yaad hi nahi rehti thi.”
+
+Hanuman ka janm
+
+Sumeru parvat ke paas,
+Anjana aur Vayu Dev ke putra ka janm hua.
+Bachcha sundar, tej se bhara hua.
+Naam tha—Hanuman.
+
+Ek din maa Anjana phal todne gayi.
+Hanuman bhookh se rone laga.
+
+Tab usne dekha—
+aasmaan mein Suraj laal-laal chamak raha hai.
+
+Usne socha—
+“Yeh toh bada sa phal lag raha hai!”
+
+Bachche ka aasman ki taraf jump
+
+Chhota sa Hanuman
+seedha aasman ki taraf udd gaya.
+Devta hairaan reh gaye.
+
+“इतनी speed?
+Yeh toh Vayu ka beta hai!”
+
+Vayu Dev ne
+thandi hawa se apne bete ko bachaya.
+
+Surya Dev ne bhi socha—
+“Yeh bachcha galti se aa raha hai,
+main ise jalaunga nahi.”
+
+Indra ka vajra aur Hanuman
+
+Usi samay Rahu bhi Suraj ki taraf aa raha tha.
+Usse laga koi aur uska Suraj le ja raha hai.
+
+Indra aaye Airavat par.
+Hanuman ne Airavat ko bhi phal samajh liya
+aur uski taraf badh gaya.
+
+Indra ne dar ke maare
+vajra chhod diya.
+
+Vajra Hanuman ko laga.
+Woh gir pada.
+Uski jabda (chin) toot gayi.
+
+Vayu Dev ka gussa
+
+Apne bete ko behosh dekhkar
+Vayu Dev bahut gusse mein aa gaye.
+
+Unhone saari duniya se
+hawa rok di.
+
+Log saans nahi le pa rahe the.
+Dev, manushya, sab dukhi ho gaye.
+
+Devtaon ki maafi
+
+Sab Prajapati ke paas gaye.
+Prajapati bole—
+
+“Galti ho gayi hai.
+Vayu bina duniya jee nahi sakti.”
+
+Sab devta Vayu ke paas aaye.
+Hanuman ko aashirvaad dene lage—
+
+Koi tumhe maar nahi sakta
+
+Tum sabse tez hoge
+
+Tumhara bal anant hoga
+
+Tumhara buddhi bhi mahaan hogi
+
+Par saath hi ek baat hui—
+
+Rishiyon ke shraap se
+Hanuman apni shakti
+tabhi yaad karega
+jab koi usse yaad dilayega.
+
+Yahi wajah thi…
+
+Isliye Bali ke samay
+Hanuman shaant raha.
+Usse apni poori shakti
+yaad hi nahi thi.
+
+Par jab samay aaya,
+Jambavan ji ne usse kaha—
+
+“Hanuman, tum kya ho, yaad karo!”
+
+Aur phir
+Lanka ka itihas badal gaya 🔥
+
+Seekh 🌼
+
+Asli shakti sirf bal mein nahi,
+sanyam mein hoti hai
+
+Kabhi-kabhi hum apni taakat bhool jaate hain
+
+Sahi samay par
+sahi yaad dilane wala
+mil jaye
+toh hum asambhav bhi kar sakte hain
+
+👉 Hanuman hamesha mahaan the,
+bas unhe yaad dilana pada."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.36
     with st.expander("Chapter 7.36 – Hanuman is cursed by sages"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 36 – Hanuman ko Shraap kaise mila (Hinglish Moral Story)
+
+Jab Brahma ji aaye
+aur Vayu Dev apne chhote se bete Hanuman ko
+behosh haalat mein lekar unke charno mein gire,
+toh Brahma ji ka dil bhar aaya.
+
+Unhone pyaar se
+Hanuman ke sir par haath phera.
+Bas itna hi kaafi tha.
+
+✨ Hanuman phir se jee utha,
+jaise paani padte hi beej ug jaata hai."""
         create_image_text_layout("attached_assets/chapter7/7.36.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Duniya phir se saans lene lagi
+
+Hanuman ke jeevit hote hi
+Vayu Dev shaant ho gaye.
+Hawa phir se chalne lagi.
+Log khush ho gaye.
+Devta, rishi, sab ne chain ki saans li.
+
+Devtaon ke vardaan
+
+Brahma ji bole—
+“Yeh balak bhavishya mein
+sab kaam karega jo tum chahte ho.
+Isse vardaan do.”
+
+Phir ek-ek karke sab Devta aaye:
+
+Indra bole:
+“Mere vajra se ise kabhi chot nahi lagegi.
+Iska naam hoga Hanuman.”
+
+Surya Dev bole:
+“Meri roshni ka ek hissa ise milega.
+Yeh mahaan vidwaan banega.”
+
+Varun Dev bole:
+“Mera paash aur paani ise nuksaan nahi pahuncha sakte.”
+
+Yamraj bole:
+“Yeh kabhi yuddh mein maara nahi jaayega.”
+
+Kubera bole:
+“Meri gada iski raksha karegi.”
+
+Shiv ji bole:
+“Mere astr ise chhoo bhi nahi sakte.”
+
+Vishvakarma bole:
+“Mere banaye hue shastra ise nuksaan nahi pahuncha sakte.”
+
+Brahma ji bole:
+“Mere shastra bhi is par asar nahi karenge.”
+
+Aur phir Brahma ji ne kaha—
+
+🕉️
+“Yeh balak Rama ke kaam ke liye paida hua hai.
+Yeh Ravana ke vinash ka kaaran banega.”
+
+Vayu Dev shaant ho gaye.
+Sab devta apne lok laut gaye.
+
+Shakti ke saath shararat
+
+Hanuman ab bahut shaktishaali tha.
+Par bachcha bhi toh tha.
+
+Woh rishiyon ke aashram mein
+shararat karne laga—
+havan ki cheezein gira deta,
+aag bujha deta,
+bartan tod deta.
+
+Rishi pehle chup rahe.
+Par jab hadd ho gayi,
+toh unhone shraap diya—
+gusse mein nahi,
+samjhaane ke liye.
+
+Rishiyon ka shraap
+
+Rishi bole—
+
+“Hanuman,
+tum apni shakti bhool jaoge.
+Par jab koi tumhe yaad dilayega,
+tab tum phir se
+poori taakat ke saath kaam kar paoge.”
+
+Bas.
+Us pal se
+Hanuman apni shakti bhool gaya.
+
+Isi shraap ki wajah se…
+
+Jab Bali aur Sugriva ka jhagda hua,
+Hanuman chup raha.
+Woh Sugriva ka saath deta raha,
+par apni poori taakat yaad hi nahi aayi.
+
+Hanuman – sirf balwaan nahi, buddhimaan bhi
+
+Baad mein Hanuman ne
+Surya Dev se
+grammar aur gyaan seekha.
+Woh itna gyani ban gaya
+ki Brihaspati jaisa vidwaan bhi
+uski tareef kare.
+
+Ant mein seekh 🌼
+
+Sirf shakti hona kaafi nahi
+
+Vinay aur maryada bhi zaroori hai
+
+Kabhi-kabhi bhagwan
+humein humari taakat bhula dete hain
+taaki hum use
+sahi samay, sahi kaam ke liye use karein
+
+✨ Hanuman hamesha mahaan the,
+par shraap ne unhe vinamr banaya."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.37
     with st.expander("Chapter 7.37 – Praise of Lord Rama"):
-        text1 = """ """
+        text1 = """ 
+        Chapter 37 – Shri Rama ko Sabka Pranam (Hinglish Moral Story)
+
+Jab Shri Rama ka rajya-abhishek ho gaya,
+toh poori raat Ayodhya khushi mein jagi.
+Log gaate rahe,
+deep jalte rahe,
+aur har dil mein sukoon tha. 🌸"""
         create_image_text_layout("attached_assets/chapter7/7.37.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Subah ka pyaara drishya
+
+Agli subah,
+jab suraj ugne wala tha,
+toh raj-mehal mein
+gaayan karne wale gaayak aur bhatt aaye.
+
+Unhone meethi awaaz mein bola:
+
+“O Raja Rama,
+ab jaago.
+Jab aap sote ho,
+poori duniya jaise so jaati hai.”
+
+Unhone Rama ki tarif ki—
+
+“Aapka veerta Vishnu jaisa hai
+
+Aapki sundarta Ashwini Kumar jaisi
+
+Aapki buddhi Brihaspati ke samaan
+
+Aap dharti jaise dhairyavaan ho
+
+Suraj jaise tej aur
+
+Chandra jaise shant ho”
+
+Unhone kaha—
+
+✨
+“Na pehle kabhi aisa raja hua,
+na aage hoga.
+Aap hamesha dharm ke raaste par chalte ho,
+isliye lakshmi aur yash
+kabhi aapka saath nahi chhodenge.”
+
+Rama ka uthna
+
+In madhur geeton ke beech
+Rama ne aankhen kholi
+aur apne shwet vastron se sajje shaiyya se uthe,
+bilkul waise
+jaise Vishnu sheshnaag se uthte hain.
+
+Sevakon ne paani diya,
+Rama ne snaan kiya,
+apne aap ko pavitra kiya.
+
+Pooja aur dharm
+
+Rama ne pehle
+yagya ki agni jalayi.
+Phir unhone—
+
+Devtaon ko pranam kiya
+
+Apne purkhon ko yaad kiya
+
+Brahmanon ka samman kiya
+
+Sab kuch niyam aur maryada ke saath.
+
+Darbar ki aur
+
+Phir Rama bahar aaye.
+
+Unke saath the—
+
+Guru Vashishtha
+
+Raj-mantri
+
+Bade-bade raja
+
+Sammanit brahman
+
+Bharata, Lakshmana aur Shatrughna
+unke aas-paas chale,
+jaise yagya mein teen ved saath hote hain.
+
+Sabka saath
+
+Sugriva aur vanar sena aage thi
+
+Vibhishana kuch rakshason ke saath Rama ke paas chala
+
+Vyapari, buzurg, nagrik sab jhuk kar pranam kar rahe the
+
+Poora darbar
+Rama ke tej se jagmaga raha tha.
+
+Rishi, muni, raja, vanar, rakshas—
+sab ek saath
+Shri Rama ko pranam kar rahe the.
+
+Ant mein seekh 🌼
+
+Sachcha raja wahi hota hai
+jo vinamr ho
+
+Jo dharm ko pehle rakhe
+
+Aur sabka saath lekar chale
+
+✨ Shri Rama isliye poojniya hain,
+kyonki unka raj
+sirf shakti ka nahi,
+dharm aur prem ka raj tha."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
