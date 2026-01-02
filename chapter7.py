@@ -5743,64 +5743,826 @@ dharm aur prem ka raj tha."""
 
     # Chapter 7.37b
     with st.expander("Chapter 7.37b – Supplement"):
-        text1 = """ """
+        text1 = """ 
+        Sun kar poori kahani,
+Rama ne vinamrata se Agastya se poocha—
+
+“Gurudev,
+Bali aur Sugriva ke pita ka naam toh Riksharajas tha.
+Par unki maa kaun thi?
+Aur Bali–Sugriva ko yeh naam kaise mile?
+Kripya mujhe sab bataiye.”"""
         create_image_text_layout("attached_assets/chapter7/7.37b.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Agastya Rishi ka Uttar
+
+Agastya Rishi muskura kar bole—
+
+“Rama,
+jo main tumhe bataane ja raha hoon,
+yeh kahani mujhe Narada se sunne ko mili thi.”
+
+Riksharajas ka Janm
+
+Bahut pehle,
+Meru Parvat par
+Brahma ji tapasya kar rahe the.
+
+Unki aankhon se kuch aansu gire.
+Woh aansu dharti par pade—
+aur unse ek vanar ka janm hua।
+
+Brahma ji bole—
+“Tum Riksharajas kehlayoge.
+Tum parvat par rehkar
+phal, mool aur madhu par jeevan bitao.”
+
+Riksharajas ne aadesh maana.
+Roz shaam ko
+woh phal aur phool le jaakar
+Brahma ji ko arpit karta.
+Uska jeevan seva aur bhakti se bhara tha। 🌸
+
+Ajeeb Ghatna
+
+Ek din Riksharajas
+pyaas lagne par
+Meru ke ek sarovar ke paas gaya।
+
+Jab usne paani mein apni parchai dekhi,
+use laga koi shatru hai।
+Gusse mein woh sarovar mein kood pada—
+
+Aur bahar aate hi
+ek sundar stri mein badal gaya। 😮
+
+Woh itni sundar thi
+ki chaaron dishaon mein prakash chhaa gaya।
+
+Bali aur Sugriva ka Janm
+
+Usi samay
+Indra Dev aur Surya Dev udhar se guzre।
+
+Unhone us stri ko dekha—
+aur bhagya se—
+
+Indra Dev se janme Bali
+
+Surya Dev se janme Sugriva
+
+Is tarah,
+Bali aur Sugriva
+divya shaktiyon se yukt hue। ✨
+
+Subah hote hi,
+Riksharajas wapas
+apne vanar roop mein aa gaya।
+
+Usne dono bachchon ko
+amrit jaisa madhu pilaya
+aur unhe apna putra maana।
+
+Kishkindha ka Rajya
+
+Riksharajas apne dono putron ko lekar
+Brahma ji ke paas gaya।
+
+Brahma ji bole—
+“Kishkindha nagari tumhare yogya hai।”
+
+Vishvakarma ne
+ek sundar aur surakshit nagar banaya।
+Wahin Riksharajas ko
+Vanaron ka Raja banaya gaya।
+
+Baad mein,
+Bali Raja bana
+aur Sugriva Yuvraj।
+
+Antim Seekh 🌼
+
+Janm se nahi, karm se mahaanta milti hai
+
+Shakti ke saath vinamrata zaroori hai
+
+Bhagya ajeeb raaste chunta hai, par dharm hamesha mahatvapurn rehta hai
+
+✨ Jo bhakti, seva aur sachchai se jeeta hai,
+wahi sach mein mahaan hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.37c
     with st.expander("Chapter 7.37c – Supplement"):
-        text1 = """ """
+        text1 = """ 
+        Rama
+apne bhaiyon ke saath
+yeh adbhut aur purani kahani sun kar
+bahut ashcharya mein pad gaye।
+
+Rama bole—
+“Gurudev Agastya,
+aapki kripa se
+maine yeh pavitra katha suni।
+Ab mujhe bilkul bhi hairaani nahi
+ki Bali aur Sugriva itne shaktishaali the।
+Unka janm hi devtaon se hua tha।”"""
         create_image_text_layout("attached_assets/chapter7/7.37c.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Agastya Rishi shaant swar mein bole—
+“Rama,
+ab main tumhe
+ek aur purani kahani sunata hoon।
+Yeh kahani batati hai
+Ravana ne Sita ka haran kyun kiya।
+Dhyaan se suno।”
+
+Ravana aur Sanatkumara Rishi
+
+Satya Yug mein,
+Ravana
+ek mahan rishi
+Sanatkumara
+ke paas gaya।
+
+Ravana ne vinamr ho kar poocha—
+“Gurudev,
+aaj kaun sa devta
+sabse shaktishaali hai?
+Jise devta, rishi
+aur bhakt sab poojte hain?”
+
+Sanatkumara ka Gyaan
+
+Sanatkumara Rishi bole—
+“Sun Ravana।
+Sabse shreshth hai Narayana।
+
+Unhi ke nabhi se
+Brahma ji ka janm hua।
+Saari srishti
+unhi se nikli hai।
+
+Yogi un par dhyaan lagate hain।
+Devta aur asur
+sab unki pooja karte hain।
+Yudh mein
+Hari hamesha vijayi hote hain।”
+
+Ravana ka Sawal
+
+Ravana ne phir poocha—
+“Gurudev,
+jo daitya aur rakshas
+Hari ke haathon maare jaate hain,
+unka kya hota hai?”
+
+Gehri Seekh
+
+Sanatkumara bole—
+“Jo devtaon se maare jaate hain,
+woh swarg jaate hain
+par phir wapas janm lete hain।
+
+Par jo Hari ke haathon maare jaate hain,
+unhe moksha milti hai।
+Hari ka krodh bhi
+ek varadaan hota hai।”
+
+Ravana ke Mann Mein Garv
+
+Yeh sun kar Ravana
+andar hi andar sochne laga—
+“Agar main Hari se yudh karoon,
+toh shayad
+main bhi amar ho jaaun!”
+
+Us pal,
+uske mann mein
+ahankaar ka beej ug gaya। 🌱
+
+Aur yahin se
+uski vinash ki yatra shuru hui।
+
+Antim Moral 🌼
+
+Gyaan bina vinamrata ke khatarnak hota hai
+
+Bhagwan ko samajhne ke liye bhakti chahiye, takkar nahi
+
+Ahankaar hi mahaan shaktiyon ka patan ban jaata hai
+
+✨ Jo Hari ko chunauti deta hai,
+woh apne hi ant ka raasta chunta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.37d
     with st.expander("Chapter 7.37d – Supplement"):
-        text1 = """ """
+        text1 = """ 
+        Jab Ravana
+apne mann mein
+ahankaar aur yudh ke vichaar soch raha tha,
+tab mahan rishi
+Sanatkumara
+us se bole—
+
+“Hey balwaan veer,
+jo tum soch rahe ho,
+woh ek mahaan yudh mein poora hoga।
+Thoda prateeksha karo
+aur prasann raho।”"""
         create_image_text_layout("attached_assets/chapter7/7.37d.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ravana ne turant poocha—
+“Gurudev,
+mujhe us Parameshwar ke
+lakshan vistaar se bataiye।”
+
+Sanatkumara ka Divya Gyaan
+
+Rishi bole—
+
+“Sun Ravana।
+Woh Ishwar
+sab jagah hai।
+
+Woh aakash mein hai,
+prithvi par hai,
+aur patal mein bhi hai।
+
+Woh van, nadi,
+parvat aur nagar—
+sab mein samaaya hua hai।
+
+Woh Aum hai।
+Woh Satya hai।
+Woh samay hai,
+din–raat hai,
+jeevan aur mrityu hai।
+
+Woh Brahma, Rudra, Indra
+aur Varuna bhi hai।
+
+Woh srishti karta hai,
+uska palan karta hai,
+aur ant bhi wahi karta hai।
+
+Uska naam hai
+Narayana।”
+
+Narayana ka Roop
+
+“Woh peele vastron mein
+bijli ki tarah chamakta hai।
+Uske vaksh par
+Shreevatsa chinh hai।
+
+Uske saath
+Lakshmi sada rehti hain,
+jaise badalon ke saath bijli।
+
+Use koi bhi
+sirf tapasya ya daan se nahi dekh sakta।
+Sirf wahi use dekh paata hai
+jo poori tarah sharan mein chala jaata hai।”
+
+Bhavishya ki Mahaan Ghoshna
+
+Sanatkumara ne aage kaha—
+
+“Satya Yug ke ant par,
+Narayana
+manav roop lenge।
+
+Unka naam hoga
+Rama।
+Woh Raja Dasharatha ke putra honge।
+Tej aur dhairya mein
+soorya ke samaan honge।
+
+Unki patni hongi
+Sita।
+Woh dharti se prakat hongi।
+Sundarta aur pavitrata mein
+unka koi saman nahi hoga।
+
+Rama aur Sita
+hamesha saath rahenge—
+jaise soorya aur uski kirnein।”
+
+Ravana ka Andar ka Andhera
+
+Yeh sab sun kar Ravana
+aur bhi zyada sochne laga।
+
+Uske mann mein
+yahi tha—
+“Main Rama se yudh karunga!”
+
+Aur isi vichaar ke saath
+woh idhar-udhar ghoomne laga,
+apni hi vinash ki yojna banata hua।
+
+Rama ka Aashcharya
+
+Yeh katha sun kar
+Rama ki aankhen vismay se bhar gayi।
+Unhone Agastya se kaha—
+
+“Gurudev,
+aap aur bhi purani kathayein sunaiye।”
+
+Moral 🌼
+
+Bhavishya jaanna gyaan hai, par ahankaar use andha bana deta hai
+
+Bhagwan se milne ka raasta yudh nahi, sharanagati hai
+
+Jo Ishwar ko chunauti deta hai, wahi apna ant likhta hai
+
+✨ Rama aur Sita sirf devta nahi,
+dharma aur prem ka jeevit roop hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.37e
     with st.expander("Chapter 7.37e – Supplement"):
-        text1 = """ """
+        text1 = """ 
+        Mahan rishi Agastya,
+jo kalash se janme the,
+ne Rama ko
+pranam kiya,
+jaise Brahma Shiva ko karta hai।
+
+Phir ve bole—
+“Rama, dhyaan se suno.”"""
         create_image_text_layout("attached_assets/chapter7/7.37e.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Agastya rishi ka chehra
+shaant aur tej se bhara tha।
+Unhone aage katha sunai—
+
+“O dheerajwale Rama,
+isi kaaran se
+dusht mann wala
+Ravana
+ne Sita ka haran kiya।
+
+Yeh baat mujhe
+Narada
+ne Meru Parvat par batayi thi।
+
+Yeh katha
+devtaon, gandharvon,
+siddhon aur rishiyon
+ke saamne kahi gayi thi।
+
+Yeh kahani
+bahut pavitra hai,
+aur bade paapon ko bhi
+door kar deti hai।”
+
+Narada ke Vachan
+
+Agastya ne kaha—
+
+“Jab Narada ne
+yeh katha sunayi,
+tab sab rishi aur devta
+bahut prasann hue।
+
+Unki aankhon mein
+kamal jaise chamak thi।
+
+Sab ne ek swar mein kaha—
+
+‘Jo vyakti
+shraddha aur bhakti se
+is katha ko sunta ya sunata hai,
+use santaan ka sukh milta hai।
+
+Aur mrityu ke baad
+use swarg lok mein
+maan–samman milta hai।’”
+
+Moral 🌼
+
+Ahankaar hi Ravana ke patan ka beej bana
+
+Bhagwan ki leela samajhna paap ko door karta hai
+
+Sacchi shraddha se suni gayi kathayein jeevan ko pavitra banati hain
+
+✨ Yeh kahani sirf itihas nahi,
+dharma aur adharma ke beech ka sandesh hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.37f
     with st.expander("Chapter 7.37f – Supplement"):
-        text1 = """ """
+        text1 = """ 
+        Rishi Agastya ne
+shaant swar mein
+Rama se kaha—
+
+“O Rama,
+apni shakti par ghamand karke
+Ravana
+poori prithvi par ghoomne laga।
+
+Jahan bhi koi balwaan tha,
+woh use yuddh ke liye lalkaarta.”"""
         create_image_text_layout("attached_assets/chapter7/7.37f.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ek din Ravana ne
+akash mein chamakte hue
+Narada ko dekha।
+
+Usne vinamr hokar pucha—
+“Kaun si jagah ke log
+sabse zyada shaktishaali hain?”
+
+Narada ne muskurakar kaha—
+“Ek pavitra dweep hai,
+Sveta-dvipa.
+Wahan ke log sirf
+Narayana ki bhakti karte hain.
+Isiliye ve itne balwaan hain.”
+
+Ravana ka ahankaar jaag utha।
+Usne kaha—
+“Main unse bhi yuddh karunga!”
+
+Wo Sveta-dvipa pahuncha,
+par wahan hawa bhi
+uske viruddh thi।
+
+Uska Pushpaka Vimaan
+aage badh hi nahi paya।
+
+Ant mein Ravana akela utara।
+Wahan ki pavitra striyon ne
+use dekha aur hans padiं।
+
+Unke liye Ravana
+ek chhota sa jeev tha।
+
+Unhone use
+khel-khel mein
+idhar-udhar uchaal diya।
+
+Ravana thak gaya।
+Uska ghamand toot gaya।
+
+Narada door khade
+yeh sab dekh kar
+muskurate rahe।
+
+Tab Agastya bole—
+
+“O Rama,
+isi ahankaar ke kaaran
+Ravana ne Sita ka haran kiya।
+
+Wo mrityu tumhare haathon chahata tha,
+kyunki tum hi Narayana ho,
+jo dharma ko sthapit karte ho।
+
+Sita swayam Lakshmi hain।
+Unka janm tumhare liye hua tha।
+
+Ravana ne anjaane mein
+bhagwan ki leela poori ki।”
+
+Yeh sun kar Rama
+aur unke bhai
+ashcharya mein doob gaye।
+
+Vanar, raja, rishi
+sab ke chehron par
+anand tha।
+
+Phir Agastya ne kaha—
+“Ab hum jaate hain, Rama.”
+
+Sab ne pranam kiya।
+Surya ast ho gaya।
+Rama ne sandhya vandan kiya
+aur vishram ke liye chale gaye।
+
+Moral 🌸
+
+Ahankaar hamesha girata hai
+
+Bhakti aur vinamrata se hi asli shakti milti hai
+
+Bhagwan ki leela mein adharm bhi dharm ka kaaran ban jata hai
+
+✨ Yeh kahani hume yaad dilati hai—
+shakti se bada satya aur bhakti hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.38
     with st.expander("Chapter 7.38 – Rama bids farewell to allies"):
-        text1 = """ """
+        text1 = """ 
+        Raja banne ke baad,
+Rama
+shehar aur rajya ka dhyaan
+pyaar aur nyay se rakhte rahe।
+
+Kuch samay baad,
+Rama ne haath jod kar
+Janaka se kaha—
+
+“Pitaji,
+aapke ashirvaad se
+sab kuch shubh hua.
+Aap apne rajya laut jaaiye.
+Bharata
+aapke saath chalenge.”
+
+Janaka muskuraye aur bole—
+“Rama,
+yeh saare ratna
+main apni beti ko deta hoon.”
+Aur woh prasann man se
+Mithila laut gaye।"""
         create_image_text_layout("attached_assets/chapter7/7.38.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Phir Rama ne
+apne maama Yudajita se kaha—
+“Yeh rajya,
+main, Bharata aur Lakshmana,
+sab aapke hain.
+Kripya ghar laut jaaiye.”
+
+Yudajita ne kaha—
+“Yeh sab tumhara hi rahe.”
+Aur Lakshmana unke saath
+raksha ke liye chale gaye।
+
+Rama ne
+apne mitra Pratardana
+ko gale lagaya aur kaha—
+“Tumne sacha mitrata nibhaayi.
+Ab apni sundar Kashi laut jaao.”
+
+Dono ne kuch pal
+chupchaap gale lag kar
+vida li।
+
+Ab Rama ne
+sab rajaon se kaha—
+“Tum sab ki bhakti aur sahas se
+Ravana ka ant hua.
+Main sirf ek nimitt tha.
+Ab main chahta hoon
+tum sab surakshit ghar laut jao.”
+
+Rajaon ne haath jod kar kaha—
+“Rama,
+aapki vijay hi
+hamari vijay hai.
+Aap hamesha
+hamare hriday mein rahoge.”
+
+Rama ne kaha—
+“Tathastu.”
+
+Sab raja
+prasann man se
+apne-apne rajya laut gaye।
+
+Moral 🌼
+
+Sacha neta apni jeet ka shrey sabko deta hai
+
+Vinamrata sabse badi shakti hoti hai
+
+Sambandh samman se hi amar bante hain
+
+✨ Yeh kahani sikhati hai—
+jo vinamr hota hai, wahi sach mein mahaan hota hai. """
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 7.39
     with st.expander("Chapter 7.39 – Rama gives gifts to allies"):
-        text1 = """ """
+        text1 = """ 
+        Sab raja
+khushi-khushi
+apne haathi aur ghodon par
+apne-apne rajya laut gaye.
+Zameen unke kadmon se
+halke se kaanp rahi thi.
+
+Raaste mein raja aapas mein bole—
+“Hum yuddh tak pahunch hi nahi paaye.
+Agar samay milta,
+toh Rakshas tik nahi paate.
+Rama
+aur Lakshmana ke saath
+jeet nischit thi.”"""
         create_image_text_layout("attached_assets/chapter7/7.39.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Apne rajya pahunch kar,
+un rajaon ne
+Rama ko yaad kiya.
+Shraddha se
+uphaar bheje—
+
+ghode,
+rath,
+ratna,
+haathi,
+chandan,
+motiyon aur sone ke gehne,
+aur anmol vastuon ke dher.
+
+Bharata,
+Lakshmana aur Shatrughna
+sab uphaar le aaye
+aur Ayodhya
+pahunch kar
+sab Rama ko arpit kar diye.
+
+Rama ne muskurakar kaha—
+“Yeh jeet meri akeli nahi.”
+
+Unhone sab uphaar
+Sugriva,
+Vibhishana,
+aur vanaron aur rakshason
+mein baant diye.
+
+Sab ne
+apne sir aur bhujaon par
+gehne saja liye.
+
+Phir Rama ne
+Hanuman
+aur Angada
+ko apni godh mein bithaya.
+
+Rama bole—
+“Angada aur Hanuman
+buddhimaan hain,
+nishtha se bhare hain.
+Yeh samman ke poore adhikari hain.”
+
+Rama ne
+apne vaksh se
+anmol abhooshan utaare
+aur dono ko pehna diye.
+
+Phir Rama ne
+sab vanar veeron se kaha—
+“Tum mere mitra ho.
+Tum mere bhai ho.
+Tum hi meri shakti ho.”
+
+Aur unhe
+yogya uphaar diye,
+gale lagaya,
+prem se dekha.
+
+Sab ne
+shahad piya,
+phal-mool khaye,
+aur Anand manaya.
+
+Ek mahina
+aise beet gaya
+jaise ek ghadi ho.
+
+Rama bhi
+unke saath rehkar
+utne hi prasann the.
+
+Moral 🌸
+
+Sacha neta jeet ka phal sabke saath baantta hai
+
+Kritagyata aur samman se rishton mein bal aata hai
+
+Jo saath deta hai, wahi parivaar hota hai
+
+✨ Yeh kahani sikhati hai—
+jeet tab poori hoti hai
+jab sab muskurate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.40
     with st.expander("Chapter 7.40 – Rama sends away Vanaras and others"):
-        text1 = """ """
+        text1 = """ 
+        Kuch samay tak bhallu, vanar aur rakshas
+Rama ke saath
+Ayodhya mein anand se rahe.
+Phir veer Raghava ne
+Sugriva se kaha—
+
+“He Mitra,
+Kishkindha laut jao.
+Woh nagari aisi hai
+jise Devta ya Asur bhi jeet nahi sakte.
+Apne mantriyon ke saath
+nishchint hokar rajya chalao.
+
+Angada, Hanuman, Nala,
+Sushena, Tara,
+Nila, Mainda, Dvivida,
+Gaja, Gavaksha, Gavaya,
+Sharabha aur
+Jambavan—
+in sab par sada sneh rakhna.
+Yeh sab mere liye
+apna jeevan dene ko taiyaar the.
+Inhe kabhi dukh na dena.”
+
+Rama ne Sugriva ko
+baar-baar gale lagaya."""
         create_image_text_layout("attached_assets/chapter7/7.40.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Phir Rama ne
+Vibhishana se kaha—
+
+“Lanka ka raj dharm se karna.
+Tumhara hriday shuddh hai—
+mujhe aur Lanka ke nagrikon ko
+ismein koi sandeh nahi.
+Burai ko kabhi apne mann mein jagah mat dena.
+Mujhe aur Sugriva ko yaad rakhna
+aur shanti se apne rajya ko jao.”
+
+Yeh sun kar
+vanar, bhallu aur rakshas
+ek saath bole—
+“Sadhu! Sadhu!”
+
+Tab Hanuman,
+sir jhuka kar bole—
+
+“He Prabhu,
+meri bhakti sada aapki rahegi.
+Jab tak duniya mein
+aapki katha sunayi jaati rahegi,
+tab tak mere sharir mein
+pran bane rahenge.
+Aapke charitra ka amrit
+mere saare shok mita dega.”
+
+Yeh sun kar Rama
+apne sinhasan se uthe,
+Hanuman ko gale lagaya aur kaha—
+
+“Bilkul aisa hi hoga.
+Tumhari khyati aur jeevan
+meri katha ke saath amar rahega.
+Tumne jo mere liye kiya hai,
+uska rin main kabhi nahi chuka sakta.”
+
+Rama ne
+apne gale se
+motiyon ki mala,
+jismein chandrama jaise chamakta
+panna (emerald) laga tha,
+Hanuman ko pehna di.
+Us mala ke saath
+Hanuman
+Sumeru Parvat par
+chand ki tarah chamak uthe.
+
+Hanuman ke sanket par
+sab vanaron ne
+Rama ke charanon mein
+sheesh jhukaya
+aur ek-ek karke prasthan kiya.
+
+Sugriva aur Vibhishana
+Rama ko kas kar gale lagaye hue the,
+aankhon mein aansu,
+hriday bhara hua.
+
+Sab apne-apne rajya ki or
+laut gaye—
+jaise aatma sharir se
+alvida leti hai.
+
+Moral 🌺
+
+Sachhi mitrata mein vida bhi pavitra hoti hai
+
+Mahaan neta apne sahyogiyon ko samman aur ashirvaad deta hai
+
+Bhakti aur kritagyata, samay aur mrityu se bhi pare hoti hai
+
+✨ Yeh adhyay batata hai—
+jeet ke baad bhi
+prem aur vinamrata
+sabse badi shakti hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
