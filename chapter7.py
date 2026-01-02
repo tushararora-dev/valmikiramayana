@@ -6568,81 +6568,1376 @@ sabse badi shakti hoti hai."""
 
     # Chapter 7.41
     with st.expander("Chapter 7.41 – Pushpaka chariot is dismissed"):
-        text1 = """ """
+        text1 = """ 
+        Sab vanar, bhalu
+aur rakshas veer
+vidai le chuke the.
+Ab Rama
+apne bhaiyon ke saath
+shaanti se reh rahe the.
+
+Ek din dopahar ko,
+aakash se
+ek meethi awaaz aayi—"""
         create_image_text_layout("attached_assets/chapter7/7.41.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Mitra Rama,
+mujhe dekho.
+Main Pushpaka Vimaan hoon.”
+
+“Main Kubera ke nagar se aaya hoon.
+Unhone hi mujhe bheja hai.”
+
+“Unhone kaha—
+‘Rama ne Ravana ko haraya.
+Us mahaan veer ki seva karo.’”
+
+“Isliye main
+khushi-khushi
+tumhari seva mein aaya hoon.”
+
+Rama ne
+aakash ki taraf dekha
+aur pyaar se bole—
+
+“Pushpaka,
+tumhara swagat hai.
+Kubera ka uphaar
+main vinamrata se sweekar karta hoon.”
+
+Rama ne
+Pushpaka ka samman kiya.
+Phool, sugandh
+aur bhog arpit kiya.
+
+Phir bole—
+
+“Ab tum jao.
+Jahan mann ho, wahan ghoomo.”
+
+“Par jab main yaad karun,
+zaroor laut aana.”
+
+“Akash mein
+surakshit rehna.
+Kisi se takrana mat.”
+
+Pushpaka ne kaha—
+“Jaise aap kahe.”
+
+Aur woh
+aakash mein
+adrishya ho gaya.
+
+Tab Bharata ne
+haath jod kar
+Rama se kaha—
+
+“Bhaiya,
+aapke raj mein
+sab kuch badal gaya hai.”
+
+“Devta jaise log
+insaano se baat karte hain.”
+
+“Koi bimari nahi.
+Log shaanti se jeete hain.”
+
+“Boodhe bhi
+dukh se nahi marte.”
+
+“Maaon ko
+bachcha janm dete samay
+peeda nahi hoti.”
+
+“Sab swasth hain.
+Sab khush hain.”
+
+“Barish bhi
+amrit jaise girti hai.”
+
+“Hawa bhi
+sheetal aur shubh lagti hai.”
+
+“Gaon aur shehar ke log
+sirf ek hi baat kehte hain—
+‘Aisa raja
+hamesha raaj kare.’”
+
+Yeh sab sun kar
+Rama muskuraye.
+Unka hriday
+anand se bhar gaya.
+
+🌱 Soft Moral (Simple & Pure):
+
+Achha raja sirf shasan nahi karta,
+woh sukh aur shaanti laata hai.
+
+Vinamrata se kiya gaya balidaan
+sabke jeevan ko sundar bana deta hai.
+
+Jahan dharm hota hai,
+wahan prakriti bhi muskurati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.42
     with st.expander("Chapter 7.42 – Happy life of Rama and Sita"):
-        text1 = """ """
+        text1 = """ 
+        Pushpaka Vimaan ko vida karke,
+Rama
+Ashoka Vatika mein aaye.
+
+Yeh van bahut sundar tha.
+Chandan aur aam ke ped the.
+Champa aur kadamba khile hue the.
+Har taraf phool hi phool the.
+
+Madhur khushboo hawa mein thi.
+Bhanwre gunguna rahe the.
+Koyal aur hans ga rahe the.
+Lagta tha jaise
+swarg dharti par aa gaya ho."""
         create_image_text_layout("attached_assets/chapter7/7.42.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Chhote-talab the.
+Saaf paani mein
+kamal khil rahe the.
+Kinare par
+ratnon jaise patthar the.
+
+Rama ne
+us sundar vatika mein
+aasan grahan kiya.
+Kusha ghaas se saja
+ek shaant singhasan par baithe.
+
+Sita unke paas thi.
+Rama ne
+pyaar se
+unka haath pakda.
+
+Unhone Sita ko
+madhu se bana
+meetha paan diya.
+Phir phal aur bhojan aaye.
+
+Apsaraon ne
+nritya aur geet prastut kiya.
+Sab kuch
+madhur aur komal tha.
+
+Rama Sita ke paas baithe
+bahut tej se chamak rahe the.
+Dono saath mein
+bahut sundar lag rahe the.
+
+Rama roz
+Sita ke liye
+koi naya anand rachte.
+Unka jeevan
+prem aur samman se bhara tha.
+
+Is tarah
+samay beet gaya.
+Ritu badli.
+Phir se vasant aa gaya.
+
+Ek din
+Rama raj-kaaj nipta kar
+mahal laut aaye.
+Sita ne bhi
+subah pooja ki.
+Sab badon ka
+adar kiya.
+
+Phir Sita
+sundar abhushan pehne
+Rama ke paas aayi.
+
+Rama ne
+Sita ko dekha.
+Unka mann
+anand se bhar gaya.
+
+Woh bole—
+“Bahut achha.”
+
+Phir pyaar se poocha—
+
+“Sita,
+tumhare garbh mein
+hamara bachcha hai.
+Batao,
+tum kya chahati ho?”
+
+Sita muskurayi.
+Aur boli—
+
+“Rama,
+main Ganga ke kinare
+rishiyon ke ashram dekhna chahti hoon.”
+
+“Unke charnon mein
+pranam karna chahti hoon.”
+
+“Ek raat
+unke ashram mein
+rehna chahti hoon.”
+
+Rama ne
+shaant swar mein kaha—
+
+“Chinta mat karo, Sita.
+Kal hi
+tum wahan jaogi.”
+
+Yeh keh kar
+Rama
+apne mitron ke saath
+sabha mein chale gaye.
+
+🌱 Soft Moral (Simple & Pure):
+
+Prem mein seva hoti hai.
+
+Sukh tab aata hai
+jab jeevan mein shanti ho.
+
+Sachcha anand
+saath hone aur sammaan dene mein hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.43
     with st.expander("Chapter 7.43 – Rama hears public rumours"):
-        text1 = """ """
+        text1 = """ 
+        Rama sabha mein aaye.
+Unke saath
+pyaare mitra the.
+Sab hans rahe the.
+Mazedaar baatein chal rahi thi.
+
+Par Rama ka mann
+sirf hansne mein nahi tha.
+Unke dil mein
+ek sawaal tha.
+
+Rama ne Bhadra se poocha—"""
         create_image_text_layout("attached_assets/chapter7/7.43.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Bhadra,
+log mere baare mein
+kya kehte hain?”
+
+“Seher aur gaon mein
+mere aur Sita ke baare mein
+kya baatein hoti hain?”
+
+“Bharata, Lakshmana,
+Shatrughna aur Maa Kaikeyi—
+unke baare mein
+kya kaha jaata hai?”
+
+“Raja ho ya vanvaasi,
+log baat toh karte hi hain.”
+
+Bhadra ne
+haath jod kar kaha—
+
+“Prabhu,
+log aapki
+Ravana par jeet ki
+bahut prashansa karte hain.”
+
+Yeh sun kar
+Rama bole—
+
+“Par sirf achha mat batao.
+Jo bhi sach hai,
+achha ya bura—
+sab batao.”
+
+“Main sunna chahta hoon.
+Taaki jo galat ho,
+use sudhaar sakoon.”
+
+“Bina darr ke batao.”
+
+Bhadra ne
+gehri saans li
+aur dheere se bola—
+
+“Prabhu,
+bazaar, raaste, van aur bagichon mein
+log yeh bhi kehte hain—”
+
+“Rama ne samundar par pul bana diya.
+Yeh kaam pehle kisi ne nahi kiya.”
+
+“Ravana jaise mahaan shatru ko
+Rama ne hara diya.”
+
+“Par kuch log yeh bhi kehte hain—
+‘Ravana Sita ko Lanka le gaya tha.’”
+
+“‘Usne Sita ko Ashoka Vatika mein rakha.’”
+
+“‘Phir Rama ne Sita ko
+wapas apna liya.’”
+
+“Log poochte hain—
+‘Kya Rama ke mann mein
+koi sankoch nahi?’”
+
+“‘Agar Raja aisa karega,
+toh praja bhi wahi karegi.’”
+
+Yeh baatein sun kar
+Rama ka chehra
+udass ho gaya.
+
+Unhone poocha—
+
+“Kya sach mein
+log aisa kehte hain?”
+
+Sab mitron ne
+sir jhuka kar kaha—
+
+“Haan, Prabhu.
+Yahi baatein
+phail rahi hain.”
+
+Rama ka hriday
+dukh se bhar gaya.
+Par unhone
+kisi par gussa nahi kiya.
+
+Shaant swar mein
+unhone sabko
+vida kar diya.
+
+Aur akela reh kar
+gehra vichaar karne lage.
+
+🌱 Soft Moral (Simple & Deep):
+
+Achha raja
+sirf apni khushi nahi,
+praja ki soch bhi sunta hai.
+
+Sach sunna mushkil hota hai,
+par wahi sudhaar ka raasta dikhata hai.
+
+Dharma kabhi gusse se nahi,
+tyaag aur soch se banta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.44
     with st.expander("Chapter 7.44 – Rama calls his brothers"):
-        text1 = """ """
+        text1 = """ 
+        Apne mitron ko vida karke,
+Rama akela baith gaye.
+Unka mann bhaari tha.
+Dil mein gehri chinta thi.
+
+Thodi der soch kar
+Rama ne dwarpal se kaha—
+
+“Jaldi jao.
+Lakshmana ko bulao.
+Bharata ko bulao.
+Aur Shatrughna ko bhi bula lao.”"""
         create_image_text_layout("attached_assets/chapter7/7.44.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Dwarpal ne haath jod kar
+aagya li
+aur pehle Lakshmana ke ghar gaya.
+
+Wahan jaakar bola—
+
+“Raja ne turant bulaya hai.”
+
+Lakshmana bole—
+“Thik hai.”
+
+Woh turant rath par baithe
+aur mahal ki taraf chal pade.
+
+Phir dwarpal
+Bharata ke paas gaya.
+Sandesh sunte hi
+Bharata uth khade hue
+aur seedhe Rama ke paas chal diye.
+
+Uske baad
+Shatrughna ko sandesh diya gaya.
+Woh bhi turant
+Rama ke darshan ke liye nikal pade.
+
+Kuch hi der mein
+dwarpal laut aaya
+aur Rama se bola—
+
+“Prabhu,
+aapke sab bhai aa gaye hain.”
+
+Yeh sun kar
+Rama aur bhi vyakul ho gaye.
+Unhone dheere se kaha—
+
+“Jaldi unhe andar lao.
+Mera jeevan
+unhi par tika hai.”
+
+Bhagwan jaise Raja ke kehne par
+chaaron bhai
+safed vastron mein
+vinamrata se andar aaye.
+
+Unhone dekha—
+Rama ka chehra udas tha.
+Aankhon mein aansu the.
+Jaise chaand par badal aa gaye ho.
+
+Sab bhai
+Rama ke charnon mein
+sir jhuka kar khade ho gaye.
+
+Rama ne unhe uthaya.
+Gale lagaya.
+Aankhon se aansu beh rahe the.
+
+Phir pyaar se bole—
+
+“Baitho, mere bhaiyo.”
+
+“Tum hi meri sampatti ho.
+Tum hi meri saans ho.”
+
+“Tumhare sahare
+maine rajya paaya.”
+
+“Tumhare sahare
+main raj kar raha hoon.”
+
+Rama ki baat sun kar
+sab bhai
+gehra mehsoos kar rahe the.
+
+Sab chup the.
+Sab soch rahe the—
+ab Rama
+kya kehne wale hain?
+
+🌱 Soft Moral (Simple & Gentle):
+
+Parivaar hi sabse badi taakat hota hai.
+
+Sachcha neta
+apne dukh bhi
+apnon ke saath baantta hai.
+
+Prem aur vishwas
+har kathin samay ko
+aasaan bana dete hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.45
     with st.expander("Chapter 7.45 – Rama orders Lakshmana to leave Sita"):
-        text1 = """ """
+        text1 = """ 
+        Sab bhai
+apni jagah baith gaye.
+Mahaul bahut bhari tha.
+Kisi ke chehre par muskaan nahi thi.
+
+Tab Rama bole.
+Unki awaaz kamp rahi thi.
+
+“Bhaiyo,
+meri baat dhyaan se suno.”"""
         create_image_text_layout("attached_assets/chapter7/7.45.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Log mere baare mein
+aur Sita ke baare mein
+galat baatein kar rahe hain.”
+
+“Seher aur gaon—
+har jagah
+mujhe dosh diya ja raha hai.”
+
+“Yeh baatein
+mere dil ko cheer rahi hain.”
+
+Rama ne aage kaha—
+
+“Main Ikshvaku vansh mein paida hua hoon.
+Sita Janaka ki putri hai.”
+
+“Tum jaante ho, Lakshmana,
+Ravana ne jungle mein
+Sita ko uthaya tha.”
+
+“Us paap ke liye
+maine Ravana ko maara.”
+
+“Sita ne
+mere aur devtaon ke saamne
+agni-pariksha di.”
+
+“Agni, Vayu, Surya, Chandra—
+sabne kaha
+Sita nirdosh hai.”
+
+“Main bhi jaanta hoon—
+Sita pavitra hai.”
+
+“Phir bhi log
+baatein bana rahe hain.”
+
+Rama ki aankhon se
+aansu behne lage.
+
+Unhone dheere se kaha—
+
+“Badnaami
+insaan ko gira deti hai.”
+
+“Devta bhi
+apmaan ko pasand nahi karte.”
+
+“Main apna jeevan,
+apne bhai—
+sab chhod sakta hoon
+sirf apmaan ke darr se.”
+
+“Toh phir
+Sita se alag hona
+mujhe karna hi padega.”
+
+Sab bhai
+sann reh gaye.
+
+Rama ne
+bhaari mann se kaha—
+
+“Kal subah,
+Lakshmana,
+tum rath lo.”
+
+“Sumantra rath haankenge.”
+
+“Sita ko rath par bithao
+aur rajya ki seema ke paar
+chhod aao.”
+
+“Ganga ke us paar,
+Tamasa nadi ke paas,
+Valmiki Rishi ka ashram hai.”
+
+“Wahin,
+ek shaant jagah par
+Sita ko chhod aana.”
+
+“Is par
+koi sawaal mat uthana.”
+
+“Agar kisi ne
+mujhe rokne ki koshish ki,
+toh mujhe bahut dukh hoga.”
+
+“Main kasam khaata hoon—
+jo mujhe badalne ki koshish karega,
+main use apna shatru maanunga.”
+
+“Lakshmana,
+agar tum mujhe
+apna raja aur bhai maante ho,
+toh meri baat maano.”
+
+“Waise bhi,
+Sita ne khud kaha tha—
+‘Main Ganga ke ashram dekhna chahti hoon.’”
+
+“Uski ichchha
+poori hone do.”
+
+Itna keh kar
+Rama apne mahal ki taraf
+chale gaye.
+
+Unka hriday
+toot chuka tha.
+Aankhen aansuon se bhari thi.
+Woh dukhi haathi jaise
+gehri saans le rahe the.
+
+Bhai unke saath the,
+par shabd kisi ke paas nahi the.
+
+🌱 Soft Moral (Very Gentle):
+
+Kabhi-kabhi dharm ka raasta
+sabse zyada dukh deta hai.
+
+Sachcha tyag
+khud ko takleef deta hai,
+par logon ke hit ke liye hota hai.
+
+Shabd logon ke
+talwar jaise hote hain—
+jo bina chhuye bhi
+gehra ghaav de jaate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.46
     with st.expander("Chapter 7.46 – Lakshmana takes Sita away"):
-        text1 = """ """
+        text1 = """ 
+        Raat beet chuki thi.
+Subah hui.
+
+Lakshmana ka dil bahut bhaari tha.
+Chehra udaas tha.
+Aankhen jhuki hui thi.
+
+Unhone Sumantra se kaha—"""
         create_image_text_layout("attached_assets/chapter7/7.46.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Rath taiyaar karo.
+Tez ghode juto.”
+
+“Raja ke aadesh se
+Sita ke liye
+aaraamdaayak seat lagao.”
+
+“Unhe Rishiyon ke ashram
+le jaana hai.”
+
+Sumantra ne kaha—
+“Jaise aap kahe.”
+
+Unhone sundar rath taiyaar kiya.
+Naram gaddiyan lagayi.
+Sab kuch sajaya.
+
+Phir bole—
+“Rath taiyaar hai.”
+
+Lakshmana
+mahal ke andar gaye.
+Sita ke paas pahunche.
+
+Unhone namrata se kaha—
+
+“Bhabhi,
+aapne jo ichchha batayi thi,
+Rama ne use sweekar kiya hai.”
+
+“Main aapko
+Ganga ke kinare
+Rishiyon ke ashram le jaaunga.”
+
+“Wahin
+aap darshan karengi.”
+
+Yeh sun kar
+Sita bahut khush ho gayi.
+Unka chehra chamak utha.
+
+Unhone gehne pehne.
+Sundar vastra liye.
+
+Boli—
+
+“Main yeh sab
+Rishi patniyon ko daan dungi.”
+
+Lakshmana ne
+unhe rath par bithaya.
+Aur yatra shuru hui.
+
+Raste mein
+Sita ne kaha—
+
+“Lakshmana,
+mera mann ghabra raha hai.”
+
+“Meri aankh phadak rahi hai.
+Shareer kaanp raha hai.”
+
+“Mann ashaant hai.”
+
+“Sab theek toh hai na?”
+
+“Rama khush toh hain?”
+
+“Sab ghar ke log
+sukhi hon.”
+
+Yeh keh kar
+Sita ne haath jod kar
+sabke liye prarthana ki.
+
+Lakshmana ne
+sir jhuka liya.
+Dil toot raha tha.
+
+Par phir bhi
+woh bole—
+
+“Tum bhi sukhi raho.”
+
+Woh log
+Gaumati nadi ke paas pahunche.
+Ek raat
+wahin ruke.
+
+Agli subah
+Lakshmana ne kaha—
+
+“Aaj
+Ganga ke jal ko
+sir par dharan karunga.”
+
+Rath phir se chala.
+Tez ghode daude.
+
+Dopahar tak
+woh Ganga ke kinare aa gaye.
+
+Jaise hi
+Lakshmana ne
+Ganga ko dekha,
+unke aansu beh nikle.
+
+Woh chup nahi reh paaye.
+
+Sita ne dekha.
+Unka mann chintit ho gaya.
+
+Woh boli—
+
+“Lakshmana,
+tum ro kyun rahe ho?”
+
+“Yeh toh wahi Ganga hai
+jise main dekhna chahti thi.”
+
+“Khushi ke samay
+dukh kyun?”
+
+“Kya tum
+Rama se door rehne ke kaaran
+udaas ho?”
+
+“Rama mujhe
+apni jaan se zyada pyaare hain,
+phir bhi main shaant hoon.”
+
+“Bachchon jaise mat bano.”
+
+“Chalo,
+Ganga paar karein.”
+
+“Rishiyon ko pranam karenge.
+Daan denge.”
+
+“Phir
+wapas laut aayenge.”
+
+“Mujhe Rama ko
+jaldi dekhna hai.”
+
+Yeh sun kar
+Lakshmana ne
+apni aankhen ponchi.
+
+Unhone naavik ko bulaya.
+
+Naavik bole—
+“Naav taiyaar hai.”
+
+Lakshmana
+mann mein dukh liye
+Sita ko lekar
+Ganga paar le gaye.
+
+🌱 Soft Moral (Very Gentle & Simple):
+
+Kabhi-kabhi sabse zyada dukh
+chupchaap saha jaata hai.
+
+Sachcha prem
+bina shabd bole bhi
+gehra dard mehsoos karta hai.
+
+Bhagya jab kathor hota hai,
+tab sabse pavitra dil
+sabse zyada pariksha deta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.47
     with st.expander("Chapter 7.47 – Sita is told the truth"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ne pehle
+Sita ko naav par bithaya.
+Phir khud bhi baith gaye.
+
+Unhone Sumantra se kaha—
+“Tum yahin raho
+rath ke saath.”
+
+Naav dheere-dheere
+aage badhi.
+Lakshmana ka mann
+toot chuka tha."""
         create_image_text_layout("attached_assets/chapter7/7.47.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ganga ke doosre kinare pahunch kar,
+Lakshmana ne
+haath jod liye.
+Aankhon se aansu beh rahe the.
+
+Woh bole—
+
+“Sita…
+mere dil mein jaise
+kisi ne keel gaad di ho.”
+
+“Mujhe lagta hai
+aaj mar jaana
+is kaam se aasan hota.”
+
+“Jo main karne ja raha hoon,
+duniya mujhe kabhi maaf nahi karegi.”
+
+“Par kripya
+mujhe doshi mat samajhna.”
+
+Yeh keh kar
+Lakshmana zameen par gir gaye.
+Woh ro rahe the.
+Maut ko pukaar rahe the.
+
+Yeh dekh kar
+Sita ghabra gayi.
+
+Woh boli—
+
+“Lakshmana!
+Yeh kya keh rahe ho?”
+
+“Mujhe kuch samajh nahi aa raha.”
+
+“Sach-sach batao,
+kya hua hai?”
+
+“Kya Rama theek hain?”
+
+“Kya baat hai
+jo tumhe itna tod rahi hai?”
+
+Lakshmana ka gala bhar aaya.
+Sir jhukaye hue
+woh bole—
+
+“Sita…
+sheher aur gaon mein
+log aapke baare mein
+galat baatein kar rahe hain.”
+
+“Yeh baatein
+Rama ke dil ko
+bahut dukh pahunchi.”
+
+“Main un shabdon ko
+dobara bol nahi sakta.”
+
+“Main jaanta hoon—
+aap nirdosh ho.”
+
+“Par phir bhi…
+Rama ne
+aapko tyag diya hai.”
+
+“Logon ki baatein
+unke mann ko
+hila gayi.”
+
+“Yeh samajhna,
+Rama ne yeh
+apne mann se nahi kiya.”
+
+“Mujhe aadesh mila hai
+aapko yahin chhodne ka.”
+
+“Isse pehle kaha gaya
+ki yeh aapki ichchha poori karne ke liye hai.”
+
+“Yahan paas mein
+Rishiyon ke pavitra ashram hain.”
+
+“Yahin
+aapko rehna hoga.”
+
+“Yahin
+Valmiki Rishi ka ashram hai.”
+
+“Woh Raja Dasharatha ke
+mitra the.”
+
+“Unki sharan mein
+aap surakshit rahengi.”
+
+“Apne mann mein
+Rama ke prati
+shraddha aur bhakti rakhiye.”
+
+“Isi se
+aapko shanti milegi.”
+
+Lakshmana chup ho gaye.
+Aansu girte rahe.
+
+Sita khadi rahi.
+Nishabd.
+Hawa bhi jaise
+tham gayi ho.
+
+🌱 Soft Moral (Very Gentle):
+
+Kabhi-kabhi sachcha dharm
+sabse zyada dard deta hai.
+
+Logon ke shabd
+patthar se bhi bhaari hote hain.
+
+Jo nirdosh hota hai,
+uski pariksha
+sabse kathin hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.48
     with st.expander("Chapter 7.48 – Sita is left near the Ganga"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ke kadve shabd sunte hi
+Sita zameen par gir padi.
+Dil toot chuka tha.
+Saans ruk si gayi.
+
+Thodi der baad
+jab hosh aaya,
+aankhon se aansu beh rahe the.
+
+Woh dheere-dheere boli—"""
         create_image_text_layout("attached_assets/chapter7/7.48.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Lagta hai
+mera sharir hi
+dukh ke liye bana hai.”
+
+“Main nirdosh hoon.
+Phir bhi mujhe chhod diya gaya.”
+
+“Kaunsa paap kiya maine?
+Kis se kya galti hui?”
+
+“Jungle mein bhi
+Rama ke saath reh kar
+main khush thi.”
+
+“Par ab…
+akeli kaise rahoon?”
+
+“Apna dard
+kisse kahoon?”
+
+“Rishiyon se
+kya boloon?”
+
+Sita ne aansuon ke beech kaha—
+
+“Main Ganga mein
+jaan nahi de sakti.”
+
+“Aisa karne se
+Raghu vansh ka ant ho jaayega.”
+
+“Isliye, Lakshmana,
+jo aadesh mila hai
+use poora karo.”
+
+“Bas meri ek baat sun lo.”
+
+“Sab maaon ko
+mera pranam kehna.”
+
+“Rama ke charnon mein
+mera sandesh rakhna.”
+
+“Unse kehna—
+‘Aap jaante hain
+main pavitra hoon.’”
+
+“‘Phir bhi
+aapne mujhe
+logon ke darr se
+tyaag diya.’”
+
+“‘Aap hi
+mere ek matra sahara the.’”
+
+“Par phir bhi—
+aap apna yash bachaiye.”
+
+“Kyunki
+stree ke liye
+pati hi sab kuch hota hai.”
+
+“Bhagwan bhi.”
+
+“Guru bhi.”
+
+“Yahi mera vachan hai.”
+
+“Bas itna keh dena.”
+
+Sita chup ho gayi.
+Woh garbh se thi.
+Phir bhi dridh thi.
+
+Lakshmana kuch bol nahi paaye.
+Unhone sir jhuka diya.
+Zameen ko pranam kiya.
+
+Woh rote hue
+Sita ke chaaron or
+parikrama karne lage.
+
+Phir bole—
+
+“Sita…
+maine kabhi
+aapki taraf
+aankh utha kar bhi nahi dekha.”
+
+“Main hamesha
+aapke charnon ko hi
+dekhta aaya hoon.”
+
+“Rama ke bina
+main kaise
+aapko dekh sakta hoon?”
+
+Yeh keh kar
+Lakshmana ne
+aakhri baar pranam kiya.
+
+Aur naav mein baith gaye.
+
+Naav aage badhi.
+
+Lakshmana baar-baar
+peeche mud kar
+Sita ko dekhte rahe.
+
+Sita wahin khadi thi.
+Akeli.
+Niradhar.
+
+Mayooron ki awaaz
+van mein goonj rahi thi.
+
+Aur Sita—
+sab kuch kho chuki thi.
+
+Unki aankhen
+chalte hue rath ko dekhti rahi.
+
+Phir woh toot gayi.
+
+Zor-zor se rone lagi.
+
+Van bhi jaise
+unka dukh sun raha tha.
+
+🌱 Soft Moral (Very Gentle & Deep):
+
+Sachchai hone par bhi
+kabhi-kabhi insaan
+akela reh jaata hai.
+
+Sabse pavitra dil
+sabse kathin pariksha deta hai.
+
+Dard jab shabd ban jaata hai,
+toh van bhi chup ho jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.49
     with st.expander("Chapter 7.49 – Valmiki shelters Sita"):
-        text1 = """ """
+        text1 = """ 
+        Sita ro rahi thi.
+Unka dard
+van mein goonj raha tha.
+
+Rishiyon ke chhote shishya
+yeh sab dekh kar
+turant Valmiki Rishi ke paas daude.
+
+Unhone haath jod kar kaha—
+
+“Gurudev,
+nadi ke kinare
+ek stri ro rahi hai.”"""
         create_image_text_layout("attached_assets/chapter7/7.49.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Woh bahut sundar hai.
+Bilkul Lakshmi ji jaisi lagti hai.”
+
+“Woh akeli hai.
+Koi sahara nahi.”
+
+“Kripya unhe sharan dijiye.”
+
+Valmiki Rishi
+sab samajh chuke the.
+Tapasya se
+unhe sab gyaat tha.
+
+Woh turant uthe.
+Shishyon ke saath
+nadi ke kinare pahunche.
+
+Wahan
+unhone Sita ko dekha.
+Bilkul tooti hui.
+Jaise sab kuch kho chuki ho.
+
+Valmiki Rishi ne
+meethi awaaz mein kaha—
+
+“Putri,
+tum Raja Dasharatha ki bahu ho.”
+
+“Tum Rama ki patni ho.
+Aur Janaka ki beti ho.”
+
+“Mujhe sab pata hai
+ki tum yahan kyun aayi ho.”
+
+“Tum pavitra ho.
+Nirdosh ho.”
+
+“Tum surakshit ho.”
+
+“Ab se
+tum meri sharan mein ho.”
+
+“Yahan
+sadhvi striyan rehti hain.”
+
+“Woh tumhe
+apni beti jaise rakhenge.”
+
+“Dar mat.”
+
+“Is jagah ko
+apna ghar samjho.”
+
+Yeh sun kar
+Sita ne
+Valmiki Rishi ke charan chhuye.
+
+Aankhon mein aansu the,
+par mann mein
+thodi shaanti aa gayi.
+
+Jab woh ashram pahunche,
+toh sadhvi striyan
+bahar aayi.
+
+Unhone pyaar se kaha—
+
+“Gurudev,
+aapka swagat hai.”
+
+Valmiki Rishi bole—
+
+“Yeh Sita hai.
+Rama ki patni.”
+
+“Yeh nirdosh hai.
+Phir bhi tyag di gayi.”
+
+“Ab yeh
+hamari zimmedari hai.”
+
+“Iska dhyaan rakhna.”
+
+Sadhvi striyon ne
+Sita ko gale lagaya.
+Apna bana liya.
+
+Valmiki Rishi
+phir apne ashram laut gaye.
+
+Aur kahani ke ant mein
+aashirvaad diya gaya—
+
+Jo Rama ko
+apne mann mein basata hai,
+woh kabhi haar nahi maanta.
+
+Jahan dharm hota hai,
+wahan shanti hoti hai.
+
+Jahan sachchai hoti hai,
+wahan raksha milti hai.
+
+Jahan karuna hoti hai,
+wahan naya jeevan shuru hota hai.
+
+Sita ko
+ashram mein
+sharan mili.
+
+Dukh ab bhi tha.
+Par ab
+woh akeli nahi thi.
+
+🌱 Soft Moral (Very Gentle & Hopeful):
+
+Jab duniya chhod de,
+toh dharm sharan deta hai.
+
+Sachchai kabhi akeli nahi rehti.
+
+Karuna naya ghar bana deti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.50
     with st.expander("Chapter 7.50 – Sumantra consoles Lakshmana"):
-        text1 = """ """
+        text1 = """ 
+        Sita ko ashram tak chhod kar,
+Lakshmana ka mann bilkul toot gaya.
+
+Woh rath mein baithe-baithe
+gehri peeda mehsoos kar rahe the.
+Aankhen bhari hui thi.
+
+Lakshmana ne
+Sumantra se kaha—
+
+“Dekho Sumantra,
+Sita ke saath jo hua,
+usne Rama ko kitna dukh diya hai.”"""
         create_image_text_layout("attached_assets/chapter7/7.50.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Rama ke liye
+sabse bada kasht yahi hai—
+apni pavitra patni ko chhodna.”
+
+“Mujhe lagta hai
+yeh sab bhagya ka khel hai.”
+
+“Rama ne
+devta, daanav, rakshas—
+sabko jeeta.”
+
+“Par aaj
+woh bhagya ke aage
+bebas ho gaye.”
+
+“Vanvaas bhi
+itna kathin nahi tha
+jitna yeh pal hai.”
+
+“Sirf logon ki baaton par
+Sita ka tyag—
+yeh mujhe andar se jala raha hai.”
+
+Yeh sun kar
+Sumantra ne
+shaant aur gehri awaaz mein kaha—
+
+“Lakshmana,
+Maithili ke liye
+itna shok mat karo.”
+
+“Yeh sab
+pehle hi likha ja chuka tha.”
+
+“Brahmanon ne
+pehle hi kaha tha
+ki Rama ko
+bahut dukh milega.”
+
+“Bhagya ke adheen,
+Rama apnon se
+door honge.”
+
+“Ek din
+tumse, Bharata se,
+Shatrughna se bhi.”
+
+“Yeh baat
+maine pehle bhi suni thi.”
+
+“Par Raja Dasharatha ne
+mujhe aadesh diya tha—
+‘Isse kisi ko mat batana.’”
+
+“Mainne
+unka aadesh
+aaj tak maana hai.”
+
+“Yeh baat
+Bharata aur Shatrughna ko
+kabhi mat batana.”
+
+“Jo ho raha hai,
+woh bhagya ke kaaran hai.”
+
+Sumantra ke shabd
+Lakshmana ke dil par
+bhaari pad gaye.
+
+Lakshmana ne
+dheere se kaha—
+
+“Sumantra…
+agar tum mujh par
+bharosa karte ho,
+toh mujhe
+poora sach batao.”
+
+Rath aage badhta raha.
+Hawa chup thi.
+Aur dono ke dil
+dukh se bhare hue the.
+
+🌱 Soft Moral (Gentle & Reflective):
+
+Kabhi-kabhi sabse veer log bhi
+bhagya ke aage jhuk jaate hain.
+
+Dukh ka kaaran
+kamzor dil nahi,
+gehra prem hota hai.
+
+Kuch sach
+samay se pehle kehna
+aur bhi peeda de sakta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
