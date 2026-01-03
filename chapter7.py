@@ -7943,129 +7943,1416 @@ aur bhi peeda de sakta hai."""
 
     # Chapter 7.51
     with st.expander("Chapter 7.51 – Bhrigu curses Vishnu"):
-        text1 = """ """
+        text1 = """ 
+        “Vishnu par Bhrigu ka Shraap”**
+
+(Short sentences • simple language • soft moral tone)
+
+Lakshmana ne jab poocha,
+toh Sumantra dheere se bolne lage.
+
+“Bahut pehle ki baat hai,”
+Sumantra bole.
+
+Ek mahan rishi the — Durvasa.
+Woh rishi Vasishtha ke ashram mein rahe."""
         create_image_text_layout("attached_assets/chapter7/7.51.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ek din
+Raja Dasharatha
+unse milne aaye.
+Dil mein ek sawaal tha.
+
+Raja ne vinamr ho kar poocha—
+
+“Rishi ji,
+mera vansh kitni der tak chalega?”
+“Rama kitni der jeeyega?”
+“Aur uske putron ka kya bhavishya hoga?”
+
+Durvasa rishi
+shaant ho kar bole.
+
+“Sunno Raja,”
+“yeh baat bahut purani hai.”
+
+“Dev aur Asur ke yudh ke samay,
+Asuron ne
+Rishi Bhrigu ki patni ke paas sharan li.”
+
+Yeh dekh kar
+Vishnu
+ne gusse mein aakar
+Bhrigu ki patni ko maar diya.
+
+Bhrigu rishi ka mann toot gaya.
+Unhone gusse mein kaha—
+
+“Vishnu,
+tumhe manav roop lena padega.”
+“Aur tum apni patni se
+lambi avadhi tak
+alag rahoge.”
+
+Shraap bolne ke baad
+Bhrigu ko pachtava hua.
+Unhone Vishnu se kshama maangi.
+
+Vishnu bole—
+
+“Lok kalyan ke liye
+main yeh shraap sweekar karta hoon.”
+
+Durvasa rishi ne kaha—
+
+“Isi shraap ke kaaran
+Vishnu ne
+Rama ke roop mein janm liya.”
+
+“Rama Ayodhya par raaj karega.”
+“Log sukhi rahenge.”
+“Ant mein
+woh Brahmalok jayega.”
+
+“Rama ke
+do putra honge.”
+“Wahi Ayodhya ke
+bhavishya ke raja banenge.”
+
+Yeh sab kehkar
+Durvasa rishi
+chup ho gaye.
+
+Raja Dasharatha ne
+shraddha se pranam kiya
+aur laut aaye.
+
+Sumantra ne baat khatam ki aur bole—
+
+“Lakshmana,”
+“jo hona hai
+woh hoga.”
+
+“Sita aur Rama ka dukh
+sirf samay ke liye hai.”
+
+“Rishi ke vachan
+kabhi jhoothe nahi hote.”
+
+Yeh sunkar
+Lakshmana ka mann halka ho gaya.
+Unki aankhon mein aas aa gayi.
+
+Unhone kaha—
+“Bahut sundar baat hai.”
+“Ab mann shaant hai.”
+
+Aur shaam ke waqt
+woh dono
+nadi ke kinare ruk gaye.
+
+🌸 Simple Moral:
+
+Kabhi-kabhi dukh
+purane karmon ka phal hota hai.
+
+Sach aur dharm
+ant mein hamesha jeet jaate hain.
+
+Samay ke saath
+har dukh ka ant hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.52
     with st.expander("Chapter 7.52 – Lakshmana meets Rama"):
-        text1 = """ """
+        text1 = """ 
+        “Lakshmana ka Rama se milna”**
+
+(Short • simple • emotional • children’s moral tone)
+
+Raat guzarne ke baad,
+subah subah Lakshmana uthe.
+Unka mann bhari tha.
+Par woh chal pade.
+
+Dopahar tak
+woh Ayodhya pahunch gaye.
+Sheher khush tha.
+Log muskurate the."""
         create_image_text_layout("attached_assets/chapter7/7.52.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Par Lakshmana ka dil dara hua tha.
+Woh soch rahe the—
+“Rama ke charanon mein girkar
+main kya kahunga?”
+
+Pal bhar mein
+Rama ka mahal saamne aa gaya.
+Chand jaisa ujla.
+
+Lakshmana ne rath roka.
+Sir jhuka kar
+andar gaye.
+
+Wahan Rama
+apne sinhasan par baithe the.
+Chehra udaas tha.
+Aankhon mein dard tha.
+
+Lakshmana ro pade.
+Seedhe Rama ke pair pakad liye.
+
+Bharai hui awaaz mein bole—
+
+“Bhaiya,”
+“aapke aadesh ke anusaar,”
+“maine Sita ji ko
+Ganga ke kinare chhod diya.”
+
+“Woh Valmiki
+ke ashram ke paas hain.”
+
+“Main jaanta hoon,
+yeh bahut kathin hai.”
+
+“Par bhaiya,”
+“yeh sab niyati ka likha hai.”
+
+Lakshmana ne dheere se samjhaya—
+
+“Jo paida hota hai,
+uska ant hota hai.”
+“Jo milta hai,
+woh kabhi na kabhi bichadta hai.”
+
+“Putra, patni, dhan—
+sab se ek din judaav hota hai.”
+
+“Aap jaise dhairyavaan purush
+dukh mein nahi toot-te.”
+
+“Log phir aapko dosh denge
+agar aap shok mein doob gaye.”
+
+“Isliye bhaiya,”
+“mann ko sambhaliye.”
+“Dukh chhod dijiye.”
+
+Lakshmana ki baat sun kar
+Rama ka chehra shaant hua.
+Unhone pyar se kaha—
+
+“Lakshmana,”
+“tumne mera aadesh poora kiya.”
+“Mujhe santosh hai.”
+
+“Tumhari baaton ne
+mera bojh halka kar diya.”
+
+“Main dhairya rakhoonga.”
+
+🌼 Simple Moral:
+
+Kabhi-kabhi sahi kaam
+dil tod deta hai.
+
+Par dharm aur kartavya
+hamesha pehle aate hain.
+
+Samajhdari aur dhairya
+dukh ko kam kar dete hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.53
     with st.expander("Chapter 7.53 – Story of King Nriga"):
-        text1 = """ """
+        text1 = """ 
+        “Rama aur Raja Nriga ki Katha”**
+
+(Simple • dharmic • moral-focused • samajhne mein aasaan)
+
+Lakshmana
+ki samajhdaar baaton ko sun kar
+Rama
+gambhir ho gaye aur bole—"""
         create_image_text_layout("attached_assets/chapter7/7.53.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Lakshmana,
+aaj ke yug mein
+tum jaise bhai milna bahut kathin hai.”
+
+“Tum meri tarah sochte ho,
+tum meri buddhi ho.”
+
+“Ab jo mere mann mein hai,
+use dhyaan se suno.”
+
+“Chaar din ho gaye hain
+jab se main praja ke kaamon par
+dhyaan nahi de paaya.”
+
+“Isse mera hriday vyakul hai.”
+
+“Jo raja roz apni praja ke kaamon ko
+nahi dekhta,
+woh apna kartavya chhod deta hai.”
+
+Phir Rama bole—
+
+“Main tumhe
+Raja Nriga
+ki katha sunata hoon.”
+
+Raja Nriga ki Katha
+
+Raja Nriga
+sachche, daani aur
+Brahman-bhakt the.
+
+Ek baar
+Pushkara
+ke teerth par
+unhone hazaaron gaayein
+daan mein di—
+sone ke singh aur bachhdo ke saath.
+
+Par galti se
+ek gareeb Brahman ki gaay
+daan mein chali gayi.
+
+Woh Brahman
+bhooka-pyaasa
+apni gaay ko dhoondta raha.
+
+Aakhirkaar
+usne apni gaay
+ek doosre Brahman ke ghar dekhi.
+
+Gaay ne awaaz pehchaani
+aur purane maalik ke paas chali gayi.
+
+Is baat par
+donon Brahmano mein jhagda ho gaya.
+
+Dono raja Nriga ke paas gaye
+par unhe darshan nahi mile.
+
+Din-be-din
+unmein krodh badhta gaya.
+
+Aakhirkaar
+unhone bhayanak shraap diya—
+
+“Raja!
+Tum lizard (chipkali) ban jao.”
+
+“Hazaroon saalon tak
+ek gaddhe mein pade raho.”
+
+“Jab Vishnu
+manav roop mein avtar lenge,
+tab tumhe mukti milegi.”
+
+Aur aisa hi hua.
+
+Raja Nriga
+sirf isliye shraapit hue
+kyunki unhone
+nyay maangne walon ko
+samay par nahi suna.
+
+Rama ka Updesh
+
+Rama ne Lakshmana se kaha—
+
+“Dekho,
+nyay mein deri
+bhi paap hoti hai.”
+
+“Isliye jo bhi
+faisle ya sunvai ke liye aaye,
+use kabhi roko mat.”
+
+“Jaao Lakshmana,
+khud dekh kar aao
+koi mujhse milna chahta hai kya.”
+
+🌼 Simple Moral (Neeti):
+
+Raja ka kartavya hai
+har vyakti ki baat sunna.
+
+Nyay mein deri
+anyaay ban jaati hai.
+
+Chhoti laaparvahi
+badi vipatti laa sakti hai.
+
+Dharm ka palan
+sirf daan se nahi,
+nyay se hota hai.
+
+Agar chaho,
+main is chapter ka
+short children version,
+one-paragraph moral,
+ya chibi-style symbolic scene description bhi bana sakta hoon 🌸"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.54
     with st.expander("Chapter 7.54 – End of Nriga’s story"):
-        text1 = """ """
+        text1 = """ 
+        “Raja Nriga ki Katha ka Ant”**
+
+Lakshmana
+ne jab Rama
+ki baat suni, to vinamrta se poocha—
+
+“O Kakutstha,
+itni chhoti si baat par
+brahmanon ne Raja Nriga
+par itna bhayankar shraap kyon diya?
+Raja Nriga ne unke shraap ka uttar kya diya?”"""
         create_image_text_layout("attached_assets/chapter7/7.54.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Rama ka uttar (Katha ka Ant)
+
+Rama bole—
+
+“Lakshmana, dhyaan se suno.
+Jab Raja Nriga ko pata chala
+ki Narada aur Parvata rishi
+shraap dekar Brahmalok chale gaye hain,
+to unhone turant apna kartavya nibhaya.”
+
+Unhone apne mantri, nagriyon,
+aur raj-purohiton ko bulaya
+aur sabke saamne kaha—
+
+“Sun lo!
+Mujh par brahmanon ka shraap pad chuka hai.
+Isliye aaj hi mere putra Vasu
+ko rajgaddi par bithaya jaaye.”
+
+Phir Raja Nriga ne aadesh diya—
+
+Teen gaddhe (ditches) banaye jaayen—
+
+ek barsaat se surakshit
+
+ek sardi se
+
+ek garmi se
+
+Unke chaaron taraf phal-daar vriksh,
+phoolon ki belen,
+aur chhaaya dene wale paudhe lagaye jaayen
+
+Vahan ka vatavaran sukhad aur shant ho
+
+“Main wahi rehkar
+apne karm ka phal bhogunga
+jab tak shraap samaapt na ho.”
+
+Putra ko Updesh
+
+Raja Nriga ne apne putra Vasu se kaha—
+
+“Putra,
+dharm ke marg par chalna.
+Kshatriya ke niyam ke anusar
+praja ka paalan karna.”
+
+“Mere dukh par shok mat karna.
+Karma hi nyay karta hai.
+Pichhle janm ke karm
+is janm mein phal dete hain.”
+
+“Jo hona hota hai,
+wahi hota hai—
+shubh ho ya ashubh.”
+
+Shraap ka Grahan
+
+Yeh kehkar
+Raja Nriga ne
+ratnon se sajje hue
+gehre gaddhe mein pravesh kiya
+aur brahmanon ke shraap
+ko shant mann se sweekar kiya.
+
+Is prakaar
+ek dharmparayan raja
+ne apni galti ka
+poori jimmedari li
+aur karm-bhog ko saharsh apnaya.
+
+🌿 Is Katha ki Gehari Seekh (Moral)
+
+Nyay mein deri bhi anyaay hai
+
+Raja ho ya sadharan vyakti—
+karm se koi nahi bach sakta
+
+Galti maan lena hi
+sachchi mahaanta hai
+
+Dharm ka palan
+shraap se bhi shuddh hota hai
+
+Agar aap chahen, main is katha ko
+
+children-friendly short story,
+
+sirf 5-line moral,
+
+ya Rama–Lakshmana–Nriga par chibi symbolic scene
+mein bhi badal sakta hoon 🌸"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.55
     with st.expander("Chapter 7.55 – Story of King Nimi"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana
+jab Rama
+se kehte hain ki “mujhe aisi kathayein sunne mein kabhi thakaan nahi hoti”,
+tab Rama ek aur bahut gahri dharmic katha sunate hain — Raja Nimi ki katha.
+
+👑 Raja Nimi ka Parichay
+
+Nimi
+Ikshvaku vansh ke 12ve raja the
+
+satya, sahas, aur dharm mein sthit
+
+Unhone Vaijanta naam ki ek divya nagri basayi
+(Gautama Rishi ke ashram ke paas)
+
+Unka uddeshya tha:
+👉 “Main ek maha-yagya karunga, apne pitron aur devtaon ko prasann karne ke liye.”"""
         create_image_text_layout("attached_assets/chapter7/7.55.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🔥 Yagya aur Ahankar ka Sangharsh
+
+Raja Nimi ne nimantran diya:
+
+Vasishtha
+
+Atri, Angira, Bhrigu jaise maharshiyon ko
+
+Lekin Vasishtha bole:
+
+“Main pehle Indra ke yagya se bandha hoon,
+uske baad aaoonga.”
+
+⏳ Yahin se sangharsh shuru hota hai
+
+Raja Nimi intezaar nahi karte
+
+Gautama Rishi ko yagya ka purohit bana dete hain
+
+Yagya 5000 varsh tak chalta hai
+
+Jab Indra ka yagya samapt hota hai,
+Vasishtha wapas aate hain —
+aur dekhte hain ki unka sthan kisi aur ne le liya.
+
+⚡ Krodh se Shraap
+
+Vasishtha
+krodh mein Raja Nimi ko shraap dete hain:
+
+“Tumne mera apmaan kiya,
+tumhara sharir nirjeev ho jaayega!”
+
+Raja Nimi neend se uthkar sunte hain aur krodh mein pratyuttar dete hain:
+
+“Aapne mujhe sote hue shraap diya,
+is anyaay ke liye
+aapka sharir bhi chetna-rahit ho!”
+
+⚖️ Dono ka Patan
+
+Raja Nimi ✖️
+
+Vasishtha ✖️
+
+👉 Dono ne apna sharir kho diya
+👉 Dono divya shaktiyon ke hote hue bhi
+👉 krodh par vijay nahi pa sake
+
+🌿 Katha ka Mool Arth (Core Teaching)
+🔑 Is katha ki 5 badi seekhein
+
+Krodh = vinash, chahe raja ho ya rishi
+
+Adhikaar aur ahankar dharm ko andha kar dete hain
+
+Samay aur maryada ka ullanghan paap ban jata hai
+
+Shakti ke saath sanyam na ho, to shakti bhi shraap ban jaati hai
+
+Dharma tabhi shuddh hai jab karuna aur kshama saath ho
+
+🕊️ Rama kyon ye katha sunate hain?
+
+Rama is samay:
+
+raj-dharma se bojhil hain
+
+lok-apvaad aur kartavya ke beech phanse hue hain
+
+👉 Nimi ki katha ek chetavani hai:
+
+“Yagya, niyam aur adhikaar se zyada
+man ki shanti aur sanyam mahatvapurn hai.”
+
+Agar aap chahen, main:
+
+Is katha ka sirf 3-line moral,
+
+Rama–Lakshmana samvaad style,
+
+ya Nimi–Vasishtha par chibi symbolic scene
+bhi bana sakta hoon 🌸"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.56
     with st.expander("Chapter 7.56 – Urvashi is cursed"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ke prashn par
+Rama is adbhut katha ko spasht karte hain—
+yeh katha śrāp (curse), kāma (desire), aur niyati (destiny) ke gehre sambandh ko dikhati hai.
+
+🔁 Nimi–Vasiṣṭha ke baad kya hua?
+
+Raja Nimi
+aur Maharshi Vasishtha
+ne ek-dūsre ko śrāp diya.
+
+Dono ne sthūl sharīr tyāg diya aur sūkṣma rūp mein sthit rahe.
+
+Vasishtha ko chintā hui:
+
+“Sharīr ke bina dhārmik karm pūre nahi hote.”
+
+Isliye ve Brahma ke paas gaye."""
         create_image_text_layout("attached_assets/chapter7/7.56.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🪷 Brahma ka Varadān
+
+Brahma ne kaha:
+
+“Tum Mitra
+aur Varuna
+ke vīrya (vital seed) mein praveś karo.
+Tum mā ke garbh ke bina janm loge.”
+
+➡️ Is prakriya se Vasishtha ka punar-janm hona nirdhārit hua.
+
+🌺 Yahin pravesh hoti hai Urvashi ki katha
+
+Us samay dev-lok mein aayi:
+
+Urvashi
+— sundar apsarā, jiske saundarya se devta bhi mohit ho jaate hain.
+
+Varuna aur Mitra ka sangharsh
+
+Varuna Urvashi par ākarṣit hue
+
+Urvashi ne kaha:
+
+“Main pehle hi Mitra ko vachan de chuki hoon”
+
+Varuna ne apni icchā ko niyantran diya aur:
+
+Brahma dwārā banāye gaye pātra mein apna vīrya tyāg diya
+➡️ Isi se Vasishtha ka punar-janm sambhav hua
+
+Urvashi ne kaha:
+
+“Mera man aapke saath hai, sharīr Mitra ka hai”
+
+⚡ Mitra ka Krodh aur Urvashi ka Śrāp
+
+Jab Mitra ko gyaat hua:
+
+ve krodhit hue
+
+aur Urvashi ko śrāp diya:
+
+“Tum manushya-lok mein jaogi
+aur Pururavas
+se vivāh karogi!”
+
+👶 Vansh-paramparā ka vistār
+
+Urvashi:
+
+Pratiṣṭhāna nagar gayi
+
+Pururavas se putra Ayu ko janm diya
+
+Ayu → Nahusha (jo Indra ke saman pratāpi bane)
+
+Jab Indra Vritra-vadh ke baad kamzor hue,
+➡️ Nahusha ne dev-lok ka shāsan bhi sambhāla
+
+Śrāp ki avadhi pūri hone par:
+
+Urvashi phir se Indra-lok laut gayi
+
+🌿 Is katha ka gahra arth (Philosophical Meaning)
+🔑 6 Mahatvapurn Seekhein
+
+Śrāp bhi dharm ka upkaran hai — vināś nahi, parivartan ke liye
+
+Sharīr ke bina karm adhūra hai — isliye Vasishtha ne punar-janm chāha
+
+Kāma jab maryādit ho, tab sṛṣṭi ko sahāyak banta hai
+
+Devta bhi bhāvon ke adheen hote hain, par niyati unhe dharm ke path par laati hai
+
+Urvashi ka patan nahi, balki vansh-nirmaan ka kāraṇ hai
+
+Rama ka sandesh:
+
+“Jo dukh mujhe mil raha hai,
+vah bhi purātan niyati ka phal hai.”
+
+🕊️ Rama is katha ko kyun suna rahe hain?
+
+Rama:
+
+apni patni-viyog ke dukh se guzar rahe hain
+
+ye katha unhe smaran karati hai:
+
+Vishnu khud bhi patni-viyog bhog chuke hain
+
+👉 Isliye Rama ka dukh vyaktigat nahi,
+👉 balki loka-kalyāṇ ke liye svīkārit tapasyā hai.
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.57
     with st.expander("Chapter 7.57 – End of Nimi and Vasishtha story"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ne khushi se poocha:
+“O Rama, jab dono ne apna sharir kho diya tha,
+toh Vasishtha aur Raja Nimi
+wapas kaise jeevit hue?”
+
+Rama muskuraye aur shaant swar mein kahani batane lage."""
         create_image_text_layout("attached_assets/chapter7/7.57.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🌱 Vasishtha ka punar-janm
+
+Rama bole:
+“Lakshmana, us pavitra patra se,
+jisme Mitra aur Varuna ka tej tha,
+do maha-rishi janme.
+
+Pehle Agastya aaye.
+Unhone kaha, ‘Main yahin nahi rukunga,’
+aur aage badh gaye.
+
+Phir Vasishtha ka janm hua.
+Devta bhi unka samman karte the.
+Raja Ikshvaku ne unhe apna kul-guru banaya.
+
+Is tarah, jo rishi pehle sharir ke bina the,
+wo phir se sharir ke saath dharti par aaye.”
+
+👁️ Raja Nimi ki anokhi ichchha
+
+Rama aage bole:
+“Ab suno Raja Nimi ki baat.
+
+Jab Nimi ka sharir nishchal tha,
+toh rishiyon ne milkar yagya kiya.
+Unka sharir jadibootiyon aur kapdon se surakshit rakha gaya.
+
+Yagya ke ant mein,
+Maharshi Bhrigu bole:
+‘Main tumhe jeevan wapas deta hoon.’
+
+Devtaon ne poocha:
+‘Var maango, tum kahan rehna chahte ho?’
+
+Nimi ne vinamrata se kaha:
+
+‘Main sab praniyon ki aankhon mein rehna chahta hoon.’
+
+Devta bole:
+‘Aisa hi hoga.
+Tum hawa ban kar aankhon mein basoge.
+Isi wajah se aankhen jhapakti hain aur aaram karti hain.’”
+
+🔥 Mithila ka janm
+
+Rama ne kahani poori ki:
+“Uske baad rishiyon ne Nimi ke sharir ko mantron ke saath matha.
+Us mathan se ek mahan purush prakat hue.
+
+Kyuki wo nirjeev sharir se janme the,
+unhe Mithi kaha gaya.
+Wahi aage chal kar Janaka bane.
+
+Aur unhi se Mithila vansh shuru hua—
+jisme baad mein Sita ka janm hua.”
+
+🌸 Is katha ka seedha sa sandesh
+
+Gussa sharir aur samman dono chheen sakta hai
+
+Kshama aur dhairya se naya jeevan milta hai
+
+Kabhi-kabhi nuksaan se hi naya srijan hota hai
+
+Har ghatna ke peeche bhagya aur dharm ka raaz hota hai
+
+Rama ne pyaar se kaha:
+
+“Lakshmana,
+jo hota hai, uska koi gehra kaaran hota hai.
+Humein sirf dharm ke saath aage badhna hota hai.”
+
+🌿 Katha yahin samapt hoti hai — par seekh hamesha jeevit rehti hai."""
         create_image_text_layout(text_content=text2, layout="full")
-
-
-    # Chapter 7.57b
-    with st.expander("Chapter 7.57b – Supplement"):
-        text1 = """ """
-        create_image_text_layout("attached_assets/chapter7/7.57b.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
-        create_image_text_layout(text_content=text2, layout="full")
-
-
-    # Chapter 7.57c
-    with st.expander("Chapter 7.57c – Supplement"):
-        text1 = """ """
-        create_image_text_layout("attached_assets/chapter7/7.57c.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
-        create_image_text_layout(text_content=text2, layout="full")
-
-
-    # Chapter 7.57d
-    with st.expander("Chapter 7.57d – Supplement"):
-        text1 = """ """
-        create_image_text_layout("attached_assets/chapter7/7.57d.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
-        create_image_text_layout(text_content=text2, layout="full")
-
 
     # Chapter 7.58
     with st.expander("Chapter 7.58 – Shukra curses Yayati"):
-        text1 = """ """
+        text1 = """ 
+        ILakshmana ne hairaani se kaha:
+“Rama, Nimi jaise veer raja se galti hui,
+par kshama itni mushkil kyun hoti hai?”
+
+Rama shaant ho kar bole:
+
+👑 Raja Yayati ki kahani
+
+“Lakshmana, suno Raja Yayati ki baat.
+Unhone dukh ko bahut dhairya se saha."""
         create_image_text_layout("attached_assets/chapter7/7.58.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Yayati ke do patniyan thi:
+
+Sharmishtha – raja ki priya
+
+Devayani – rishi Shukra ki beti
+
+Dono se do putra hue:
+
+Sharmishtha se Puru
+
+Devayani se Yadu
+
+Raja Yayati Puru ko zyada prem dete the.
+Isse Yadu ka mann dukhi ho gaya.
+
+😢 Maa-bete ka dukh
+
+Yadu ne ro kar apni maa Devayani se kaha:
+“Ma, pitaji mujhe nazarandaz karte hain.
+Yeh apmaan main sah nahi sakta.
+Ya toh hum sab chhod dein,
+ya main jeena hi chhod dunga.”
+
+Devayani ka mann toot gaya.
+Gusse aur dukh mein unhone apne pita Shukra ko yaad kiya.
+
+🔥 Shukra ka krodh
+
+Turant Shukra Rishi prakat hue.
+Devayani ne rote hue kaha:
+“Jab patni ka apmaan hota hai,
+toh pita ka bhi hota hai.”
+
+Shukra ka krodh badh gaya.
+Unhone Raja Yayati ko shraap diya:
+
+“Tumhare jeevan mein budhapa aa jayega.
+Tum jawani kho doge.”
+
+Shraap dekar,
+Shukra Rishi apni beti ko shaant karke
+apne ashram laut gaye.
+
+🌼 Kahani ki seekh
+
+Rama ne pyaar se kaha:
+“Lakshmana,
+
+Pakshpaat se dukh badhta hai
+
+Krodh se shraap janam leta hai
+
+Kshama sabse badi shakti hoti hai
+
+Jo kshama nahi karta,
+wo pehle khud jalta hai.”
+
+🌿 Isliye dhairya, nyay aur kshama hi sachcha dharm hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.59
     with st.expander("Chapter 7.59 – Puru accepts his father’s curse"):
-        text1 = """ """
+        text1 = """ 
+Rama ne kaha:
+
+“Lakshmana, ab suno
+Raja Yayati ki kahani ka aakhri hissa.”
+
+👑 Shukra ka shraap sach ho gaya
+
+Shukra ke shraap se
+Raja Yayati achanak buddhe ho gaye.
+Sharir kamzor ho gaya.
+Mann abhi bhi bhogon mein atka tha.
+
+Yayati ne apne putra Yadu se kaha:
+“Beta, meri budhapa tum le lo.
+Mujhe meri jawani wapas de do.
+Main abhi sukh se tript nahi hua hoon.”"""
         create_image_text_layout("attached_assets/chapter7/7.59.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        ❌ Yadu ka inkaar
+
+Yadu ka mann bhara hua tha.
+Usne kadak awaaz mein kaha:
+“Pitaji, aapne hamesha mujhe nazarandaz kiya.
+Jo aapke paas rehta hai,
+wo yeh bojh uthaye.”
+
+Yadu ne mana kar diya.
+
+🌸 Puru ka prem
+
+Tab Raja Yayati ne
+apne chhote putra Puru se poocha:
+“Beta, kya tum meri budhapa le loge?”
+
+Puru ne bina soche,
+haath jod kar kaha:
+“Pitaji, yeh mera saubhagya hai.
+Main aapki aagya ka paalan karunga.”
+
+Usi pal,
+Puru buddha ho gaya
+aur Yayati phir se yuvak ban gaye.
+
+⏳ Samay ka bodh
+
+Yayati ne kai varsh rajya kiya.
+Hazaaron yagya kiye.
+Par ant mein unhe samajh aa gaya:
+
+“Bhog se kabhi tripti nahi milti.”
+
+Unhone Puru se kaha:
+“Beta, apni budhapa mujhe wapas de do.
+Tumne jo tyag kiya,
+uska phal tumhe milega.”
+
+Yayati ne Puru ko raja bana diya.
+Aur swayam van ki or chal diye.
+
+⚖️ Yadu ko shraap
+
+Jaate-jaate,
+Yayati ne Yadu se kaha:
+“Tumne pita ki aagya nahi maani.
+Isliye tum raja nahi banoge.
+Tumhari vansh rekha alag hogi.”
+
+🌿 Kahani ki seekh
+
+Rama ne shant swar mein kaha:
+
+Tyag sabse bada dharm hai
+
+Seva se hi raj milta hai
+
+Bhog kabhi santushti nahi deta
+
+Aagya aur prem se vansh chalta hai
+
+“Jo Puru jaisa hota hai,
+wo chhota hokar bhi
+sabse bada ban jata hai.”
+
+✨ Raat ke aakash mein taare chamak uthe.
+Aur kahani shanti mein sama gayi."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.59b
     with st.expander("Chapter 7.59b – Supplement"):
-        text1 = """ """
+        text1 = """ 
+Subah ka samay tha.
+Aakash bilkul saaf tha.
+Lotus-netra Rama ne apne morning rituals poore kiye.
+Phir wo raj-sabha mein apne sinhasan par baithe.
+
+Sabha mein
+Brahmin the,
+Rishi the,
+Mantri the.
+Sab nyay aur dharm jaante the.
+Sabha Indra ki sabha jaisi lag rahi thi."""
         create_image_text_layout("attached_assets/chapter7/7.59b.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+       Rama ne shant swar mein Lakshmana se kaha:
+“Lakshmana,
+shahar ke dwaar par jao.
+Dekho, koi apni shikayat lekar aaya hai ya nahi.”
+
+Lakshmana turant gaye.
+Par dwaar par koi insaan nahi tha.
+
+Kyunki Rama ke raj mein:
+
+Na gareebi thi
+
+Na beemari
+
+Na anyaay
+
+Na akal mrityu
+
+Log sukhi the.
+Dharti anaj se bhari thi.
+
+Lakshmana ne laut kar kaha:
+“Prabhu,
+koi bhi shikayat lekar nahi aaya.”
+
+Rama muskuraye.
+Par bole:
+“Ek baar phir jao.
+Raja ko hamesha satark rehna chahiye.
+Nyay kabhi so nahi sakta.”
+
+Lakshmana phir bahar gaye.
+Tab unhone ek kutta dekha.
+Wo dwaar par baitha tha.
+Aur zor-zor se ro raha tha.
+
+Lakshmana ne pyaar se poocha:
+“Batayo,
+tum yahan kyun aaye ho?
+Dar mat.”
+
+Kutte ne kaha:
+“Mujhe
+Rama se kuch kehna hai.
+Wahi sabka rakshak hain.”
+
+Lakshmana andar gaye.
+Rama ko sab bataya.
+Phir bahar aakar kutte se bole:
+“Agar tum sach kehna chahte ho,
+to raja se milo.”
+
+Kutta bola:
+“Main neechi jaati ka hoon.
+Bina raja ki ijazat
+main mahal mein pravesh nahi kar sakta.
+Par mujhe vishwas hai
+Rama sabka nyay karte hain.”
+
+Lakshmana ne yeh baat Rama tak pahunchayi.
+Rama ne bina der kiye kaha:
+
+“Jo bhi ho,
+use turant andar lao.”
+
+🌱 Kahani ki Seekh
+
+Rama ka nyay sab ke liye barabar tha
+
+Raja ke liye jaati ya roop maayne nahi rakhta
+
+Jo bhi dukh mein ho,
+use sunna hi sachcha dharm hai
+
+✨
+Jahan nyay zinda hota hai,
+wahan sabki awaaz suni jaati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.59c
     with st.expander("Chapter 7.59c – Supplement"):
-        text1 = """ """
+        text1 = """ 
+        Is adhyay mein Rama ka sabse gehra nyay-bodh dikhaya gaya hai—aisa nyay jo sirf dand dene ka nahi, balki karma, zimmedari aur bhavishya ke parinaam samajhne ka hai.
+
+🐕 Kutte ki Shikayat – Dharma ka Gyaan
+
+Jab kutta Rama ke samne aata hai, wo shikayat se pehle dharma ka gyaan deta hai:
+
+Raja sabka pita hai
+
+Raja hi dharma ka rakshak hai
+
+Dharma sabse bada hai
+
+Daya, daan, vinamrata aur krodh-tyaag hi asli dharma hain
+
+👉 Yeh bahut gehra sanket hai:
+Jo peedit hai, wahi aksar dharma ko sabse zyada samajhta hai."""
         create_image_text_layout("attached_assets/chapter7/7.59c.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🦯 Brahmin ka Aparadh
+
+Kutta batata hai ki ek brahmin Sarvartha-siddha ne use bina dosh ke maara.
+
+Rama brahmin ko bulwate hain aur usse kehte hain:
+
+Krodh sabse bada shatru hai
+
+Krodh tapasya, daan aur punya sab nashṭ kar deta hai
+
+Vidya hone ke baad bhi svabhav kabhi-kabhi ubhar hi aata hai
+
+Brahmin apna dosh sweekar karta hai aur dand maangta hai.
+
+⚖️ Sabha ka Faisla – Aur Twist
+
+Rishigan kehte hain:
+👉 “Brahmin dand se mukt hota hai.”
+
+Tab Rama kutte se poochte hain:
+“Main tumhare liye kya karun?”
+
+Aur yahin kahani ka sabse bada twist aata hai 👇
+
+🏛️ Kutte ki Maang – Sabko Hairan Kar Dene Wali
+
+Kutta kehta hai:
+👉 “Is brahmin ko Kalanjava Math ka adhyaksh bana do.”
+
+Sabha chakit ho jaati hai 😲
+Dand dene ke bajay pad aur samman?
+
+Rama bina virodh ke maan lete hain.
+
+🔥 Asli Rahasya – Pichhla Janm
+
+Baad mein kutta batata hai:
+
+Pichhle janm mein wahi Math ka adhyaksh tha
+
+Usne bahut saare dharmik kaam kiye
+
+Phir bhi zimmedari mein thodi si chook ho gayi
+
+Isliye use kutta ka janm mila
+
+Isliye wo jaanta tha:
+👉 Adhikaar sabse kathor pariksha hota hai
+
+Aur jo vyakti:
+
+krodhi ho
+
+kathor ho
+
+anyaayi ho
+
+👉 Aisa vyakti jab pad par baithta hai, to apna hi nahi, apni aane wali peedhiyon ka bhi patan karta hai
+
+🧠 Rama ka Nyay – Dand se Bada
+
+Is kahani mein Rama:
+
+brahmin ko maarte nahi
+
+use pad dete hain
+
+❗ Kyuki Rama jaante hain:
+
+Galat vyakti ke liye pad hi sabse bada dand hota hai.
+
+🌱 Mool Seekh (Core Lessons)
+
+Sirf punya kaam kaafi nahi, zimmedari nibhana bhi zaroori hai
+
+Pad aur adhikar bhari karmic pariksha hote hain
+
+Krodh sabse bada shatru hai
+
+Nyay ka matlab hamesha danda nahi hota
+
+Rama ka raj = dharma + karuna + gyaan
+
+✨ Isliye Ram Rajya mein
+na sirf chor,
+balki galat adhikari bhi swayam hi apne karm ka fal bhogta hai.
+
+Agar chaho, main:
+
+is kahani ka short moral poster version
+
+ya modern life se comparison
+
+ya pure Uttara-kanda ka theme explain
+kar sakta hoon."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.59d
     with st.expander("Chapter 7.59d – Supplement"):
-        text1 = """ """
+        text1 = """ 
+        Bahut pehle ki baat hai.
+Ayodhya ke paas ek pahaadi jungle tha.
+Wahan nadiyan beh rahi thi, pakshi gaate the,
+aur jungle jeevon se bhara hua tha.
+
+Us jungle mein ek gidh (vulture) aur ek ulloo (owl) rehte the.
+Dono ek hi jagah par the."""
         create_image_text_layout("attached_assets/chapter7/7.59d.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🪺 Jhagda Shuru Hua
+
+Ek din gidh ne ulloo se kaha:
+👉 “Yeh ghosla mera hai. Tumne kabza kiya hai.”
+
+Ulloo bola:
+👉 “Nahi, yeh ghosla mera hai.”
+
+Dono gusse mein aa gaye.
+Phir dono ne socha—
+
+👉 “Chalo, Raja Rama ke paas chalte hain.
+Wahi sabse nyay-priye hain.”
+
+👑 Rama ke Darbar Mein
+
+Dono Rama ke darbar mein aaye
+aur unke charan sparsh kiye.
+
+🦅 Gidh ne pehle bola
+
+Gidh ne Rama ki bahut tareef ki.
+Usne kaha:
+
+“Main is ghosle mein tab se reh raha hoon
+jab se insaan prithvi par aaye hain.”
+
+🦉 Phir Ulloo bola
+
+Ulloo ne shaant swar mein kaha:
+
+“Main is ghosle mein tab se reh raha hoon
+jab prithvi par pehli baar ped-paudhe uge the.”
+
+🧠 Rama ka Gyaan
+
+Rama ne apne mantriyon ko dekha
+aur kaha:
+
+👉 “Jahan sach na bola jaaye,
+woh sabha sabha nahi hoti.
+Aur jo jaante hue bhi chup rahe,
+woh paap ke bhaagi hote hain.”
+
+Mantriyon ne kaha:
+👉 “Maharaj, ulloo sach bol raha hai.
+Ped insaan se pehle aaye the.
+Gidh jhooth bol raha hai.”
+
+⚖️ Rama ka Faisla
+
+Rama ne puranon ki katha sunai—
+kaise srishti bani,
+kaise ped-paudhe pehle aaye,
+phir manav.
+
+Aur phir Rama bole:
+
+👉 “Yeh ghosla ulloo ka hai.
+Gidh ne jhooth bola aur anyaay kiya.
+Isliye gidh dand ka yogya hai.”
+
+🔊 Aakashvani – Asli Sach
+
+Tab achanak akash se awaaz aayi:
+
+👉 “Hey Rama, is gidh ko mat maaro.”
+
+Awaaz ne bataya:
+
+Gidh pichhle janm mein ek dharmic raja Brahmadatta tha
+
+Usne anjaane mein rishi Gautama ka apmaan kar diya
+
+Rishi ne use gidh banne ka shraap diya
+
+Par saath hi yeh bhi kaha:
+
+“Jab Ikshvaku vansh mein Rama janmenge
+aur tumhe sparsh karenge,
+tab tum mukti paoge.”
+
+✨ Shraap Mukti
+
+Rama ne gidh ko sparsh kiya.
+Turant—
+
+Gidh ka sharir chamak utha
+
+Woh divya manav roop mein badal gaya
+
+Usne Rama ko pranam kiya aur bola:
+
+“Prabhu, aapne mujhe narak se bacha liya.”
+
+🌼 Is Kahani ki Seekh (Moral)
+
+Sach hamesha jeetta hai, chahe der se hi sahi
+
+Raja ka nyay tareef se nahi, tathyon se hota hai
+
+Jhooth aur lobh vyakti ko neeche gira dete hain
+
+Anjaana paap bhi karm ka phal deta hai
+
+Rama ka nyay = satya + karuna + gyaan
+
+🌿 Sandesh
+
+Jo aaj anyaay karta hai,
+woh kal swayam peedit hota hai.
+Aur jo sach ka saath deta hai,
+wahi dharma ke saath khada hota hai.
+
+Agar chaho, main is kahani ka
+
+short kids version,
+
+modern office-life example,
+
+ya Ram Rajya ke nyay ka summary
+bhi bana sakta hoon."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.60
     with st.expander("Chapter 7.60 – Sages approach Rama"):
-        text1 = """ """
+        text1 = """ 
+        Rama aur Lakshmana raat bhar shaant baatein karte rahe.
+Spring ki thandi raat dheere-dheere guzar gayi.
+Subah hui.
+Nirmal roshni phail gayi.
+
+Rama ne apni morning pooja ki.
+Phir woh raj-sabha ki taraf gaye.
+Desh ke kaamon par dhyaan dene ke liye."""
         create_image_text_layout("attached_assets/chapter7/7.60.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🌿 Rishiyon ka Sandesh
+
+Tab Sumantra aaya.
+Usne vinamr swar mein kaha:
+
+“Prabhu, Yamuna ke kinare rehne wale kuch mahan rishi aaye hain.
+Unke saath Cyavana Rishi bhi hain.
+Woh sab aapse milna chahte hain.”
+
+Rama ne shaant man se kaha:
+👉 “Unhe andar aane do.”
+
+🌼 Sabha Mein Rishiyon ka Swagat
+
+Darban ne rishiyon ko andar bulaya.
+Sau se bhi zyada rishi aaye.
+Sab ke chehre tapasya se chamak rahe the.
+
+Unke haath mein
+
+pavitra jal
+
+phal
+
+kand-mool
+
+Rama ne sab kuch prem se sweekar kiya.
+
+Phir Rama bole:
+👉 “Aap jahan chahein, wahan baithiye.”
+
+Rishi sone ke sundar aasanon par baithe.
+
+🙏 Rama ki Vinamr Vaani
+
+Rama ne haath jod kar kaha:
+
+“Batayiye, aap kyun aaye hain?
+Main aapki seva ke liye hi hoon.
+Mera rajya, mera sharir, meri saans—
+sab brahmanon ki seva ke liye hai.
+Yeh mera satya vachan hai.”
+
+✨ Rishiyon ka Anand
+
+Yeh sunte hi rishi khush ho gaye.
+Sab ne ek saath kaha:
+
+👉 “Excellent! Excellent!”
+
+Unhone kaha:
+
+“Rama, aaj ke yug mein
+aisa vachan dena asaan nahi.
+
+Bahut se raja
+pehle mushkil sochte hain,
+phir madad ka vachan dete hain.
+
+Par tum—
+bina yeh jaane ki kaam kya hai,
+sirf shraddha ke kaaran,
+pehle hi apna sab kuch arpit kar dete ho.”
+
+⚠️ Ek Badi Mushkil
+
+Rishi bole:
+
+“Rama, hum ek bade sankat mein hain.
+Humein aapki raksha chahiye.
+Sirf aap hi humein bacha sakte ho.”
+
+Rama shaant khade rahe.
+Unki aankhon mein daya thi.
+Unka hriday kartavya se bhara tha.
+
+🌟 Is Adhyay ki Seekh (Moral)
+
+Sacha neta pehle seva ka vachan deta hai
+
+Ahankar nahi, vinamrata rajya ko bada banati hai
+
+Jo brahman aur satya ka samman karta hai,
+wahi sachcha raja hota hai
+
+Madad ka haath pehle badhao,
+shartein baad mein dekho
+
+🌸 Sandesh:
+
+Jo bina swaarth ke madad karta hai,
+wahi dharma ke raaste par chalta hai.
+
+Agar chaho, main next chapter ko bhi isi style mein likh doon 😊"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 7.61
