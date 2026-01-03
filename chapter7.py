@@ -8292,12 +8292,7 @@ badi vipatti laa sakti hai.
 Dharm ka palan
 sirf daan se nahi,
 nyay se hota hai.
-
-Agar chaho,
-main is chapter ka
-short children version,
-one-paragraph moral,
-ya chibi-style symbolic scene description bhi bana sakta hoon 🌸"""
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
@@ -8402,14 +8397,7 @@ sachchi mahaanta hai
 Dharm ka palan
 shraap se bhi shuddh hota hai
 
-Agar aap chahen, main is katha ko
-
-children-friendly short story,
-
-sirf 5-line moral,
-
-ya Rama–Lakshmana–Nriga par chibi symbolic scene
-mein bhi badal sakta hoon 🌸"""
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
@@ -9097,15 +9085,7 @@ Rama ka raj = dharma + karuna + gyaan
 ✨ Isliye Ram Rajya mein
 na sirf chor,
 balki galat adhikari bhi swayam hi apne karm ka fal bhogta hai.
-
-Agar chaho, main:
-
-is kahani ka short moral poster version
-
-ya modern life se comparison
-
-ya pure Uttara-kanda ka theme explain
-kar sakta hoon."""
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
@@ -9234,15 +9214,7 @@ Jo aaj anyaay karta hai,
 woh kal swayam peedit hota hai.
 Aur jo sach ka saath deta hai,
 wahi dharma ke saath khada hota hai.
-
-Agar chaho, main is kahani ka
-
-short kids version,
-
-modern office-life example,
-
-ya Ram Rajya ke nyay ka summary
-bhi bana sakta hoon."""
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
@@ -9351,87 +9323,1242 @@ shartein baad mein dekho
 
 Jo bina swaarth ke madad karta hai,
 wahi dharma ke raaste par chalta hai.
-
-Agar chaho, main next chapter ko bhi isi style mein likh doon 😊"""
+"""
         create_image_text_layout(text_content=text2, layout="full")
 
     # Chapter 7.61
     with st.expander("Chapter 7.61 – Story of Madhu"):
-        text1 = """ """
+        text1 = """ 
+        Rama ne muniyon se shaant awaaz mein poocha:
+“Hey Muniyon,
+mujhe batao,
+main kya karun jisse
+tumhara yeh bhay door ho jaaye?”
+
+Tab Bhargava bole:
+
+“Hey Rajkumar Rama,
+dhyaan se suno.
+Tumhare liye hum
+ek purani kahani batate hain.”"""
         create_image_text_layout("attached_assets/chapter7/7.61.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Bahut pehle,
+Krita Yug mein,
+ek maha-daitya tha—
+Madhu.
+
+Madhu buddhi-maan tha.
+Brahmanon ka samman karta tha.
+Jo sharan mein aata,
+uski raksha karta tha.
+
+Devta bhi
+uska aadar karte the.”
+
+Madhu ne
+bhakti aur dharm se
+Shiva ko prasann kiya.
+
+Shiva ne khush hokar
+apne trishul se
+ek divya shakti use di.
+
+Shiva bole:
+“Jab tak tum
+Devtaon ya Brahmanon ko
+nuksaan nahi pahunchate,
+yeh shastra tumhare paas rahega.
+
+Jo bhi tumse
+galat tareeke se ladega,
+yeh shastra use
+raakh bana dega.”
+
+Madhu ne
+vinamr hokar kaha:
+“Prabhu,
+yeh shakti
+mere vansh mein bani rahe.”
+
+Shiva bole:
+“Tumhare baad
+yeh shakti
+tumhare putra ko milegi.
+Par yaad rahe—
+jab tak shastra
+uske haath mein hoga,
+tabhi raksha hogi.”
+
+Madhu ka ek beta tha—
+Lavana.
+
+Bachpan se hi
+Lavana kathor tha.
+Dusron ko dukh dena
+use pasand tha.
+
+Madhu dukhi hota tha,
+par chup raha.
+
+Samay aaya,
+Madhu ne yeh duniya chhod di.
+Jaate-jaate
+shastra Lavana ko de diya
+aur uski shakti samjha di.
+
+Par Lavana ne
+shakti ka galat upyog kiya.
+
+Woh Rishiyon ko daraane laga.
+Aashram ujaadne laga.
+Teenon lok
+uske bhay se kaanpne lage.
+
+Muniyon ne kaha:
+
+“Hey Rama,
+bahut rajon se humne madad maangi.
+Par koi safal nahi hua.
+
+Par jab suna ki
+tumne Ravana ko hara diya,
+tab humein aas jagi.
+
+Tum hi humare rakshak ho.
+Tumhare alawa
+aur koi nahi jo
+Lavana ke bhay ko mita sake.”
+
+Muniyon ne
+haath jod kar kaha:
+
+“Hey Rama,
+tumhari veerta aparajit hai.
+Kripya humari raksha karo.
+Yehi humari prarthna hai.”
+
+🌿 Is Kahani ki Moral Seekh
+
+Shakti agar galat haath mein ho,
+toh woh vinash laati hai
+
+Achha pita hona kaafi nahi,
+santaan ko sahi sanskar dena bhi zaroori hai
+
+Jo sharan maange,
+uski raksha karna
+sachche raja ka kartavya hota hai
+
+Bhakti se shakti mil sakti hai,
+par ahankaar se woh shraap ban jaati hai
+
+🪔 Simple Moral Line (Children Style):
+
+Shakti tabhi achhi hoti hai,
+jab uske saath daya ho."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.62
     with st.expander("Chapter 7.62 – Shatrughna asks to fight Lavana"):
-        text1 = """ """
+        text1 = """ 
+        Rama ne haath jod kar muniyon se poocha:
+“Yeh Lavana kaise jeeta hai?
+Woh kya khata hai?
+Aur kahan rehta hai?”
+
+Muniyon ne shaant swar mein kaha:
+“Hey Rama,
+Lavana bahut bhayankar hai.
+Woh sab jeev-jantu khata hai.
+Khaaskar rishiyon ko.
+
+Woh jungli jeevan jeeta hai.
+Hamesha Madhu-vana mein ghoomta hai.
+Sher, baagh, hiran, pakshi,
+yahaan tak ki manushya bhi—
+sab uska bhojan hain.”"""
         create_image_text_layout("attached_assets/chapter7/7.62.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Yeh sunkar Rama bole:
+“Tum chinta mat karo.
+Main is asur ko nash kar dunga.”
+
+Phir Rama ne apne bhaiyon se kaha:
+“Batao,
+kaun hai jo Lavana se ladega?
+Bharata ya
+Shatrughna?”
+
+Bharata turant bole:
+“Yeh kaam mujhe do.
+Main Lavana ko haraunga!”
+
+Tab Shatrughna uthe.
+Unhone vinamr hokar kaha:
+“Hey Raghava,
+Bharata ne pehle hi
+bahut kasht sahe hain.
+
+Jab aap van mein the,
+tab Bharata ne raj sambhala.
+Nandigram mein
+sade vastron mein rahe.
+Phal-phal aur mool par jeevan jiya.
+
+Ab unhe aur pariksha na do.
+Main aapka sevak hoon.
+Mujhe yeh yuddh karne do.”
+
+Rama muskuraye.
+Unhone kaha:
+“Bahut achha, Shatrughna.
+Tum mere aadesh ka palan karo.
+
+Lavana ko harakar
+uski rajdhani mein
+dharm se raj karna.
+Jo rajya ko nasht karke
+naya raja nahi banata,
+use paap lagta hai.”
+
+Rama ne aage kaha:
+“Bharata yahin rahega.
+Tum Madhu ke putra Lavana ko
+haraakar raj sambhalna.
+
+Chhota bhai
+bade bhai ka aadesh maanta hai.
+Yeh hi dharm hai.”
+
+Phir Vasishtha aur
+anya brahmanon ne
+mantron ke saath
+Shatrughna ka rajyabhishek kiya.
+
+Shatrughna ne vinamr hokar
+Rama ko pranam kiya
+aur apna kartavya
+man mein dharan kiya.
+
+🌱 Is Kahani ki Moral Seekh
+
+Sachcha veer
+apni shakti se zyada
+apni seva ko maanta hai
+
+Bade bhai ka aadesh
+dharm hota hai
+
+Jimmedari lene wala
+hi sachcha raja banta hai
+
+Tyag aur seva
+veerta se bhi badi hoti hai
+
+🪔 Simple Moral Line:
+
+Jo chupchaap zimmedari uthaye,
+wahi sachcha nayak hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.63
     with st.expander("Chapter 7.63 – Shatrughna is crowned"):
-        text1 = """ """
+        text1 = """ 
+        Shatrughna yeh sunkar thode ghabra gaye.
+Unhone dheere se kaha:
+
+“Hey Prabhu,
+mujhe thoda sankoch ho raha hai.
+Jab mere bade bhai zinda hain,
+toh chhota bhai raja kaise ban sakta hai?
+
+Par aapka aadesh
+mere liye sabse bada dharm hai.
+Main kabhi aapki baat ko taal nahi sakta.
+
+Shayad maine galti kar di
+jab maine kaha ki
+‘main Lavana ko maarunga’.
+Buzurgon ke baad bolna
+shastra ke khilaaf mana gaya hai.
+
+Ab main chup rahunga.
+Jo aap kahenge,
+main wahi karunga.
+Bas itna kijiye
+ki meri yeh bhool
+mere hit mein maaf ho jaaye.”"""
         create_image_text_layout("attached_assets/chapter7/7.63.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Rama yeh sunkar bahut prasann hue.
+Unhone Bharata aur
+Lakshmana se kaha:
+
+“Aaj hi sab taiyari karo.
+Isi din Shatrughna ka
+rajyabhishek hoga.
+
+Purohiton, mantriyon,
+aur nagar ke logon ko bulao.”
+
+Sab kuch shubh tareeke se tayaar hua.
+Mantron ki goonj thi.
+Shehnai baj rahi thi.
+Nagri khushi se jagmagaa rahi thi.
+
+Shatrughna ka
+rajyabhishek hua.
+Woh suraj jaise chamak rahe the.
+Mata Kaushalya, Sumitra
+aur Kaikeyi bhi prasann thi.
+
+Yamuna ke tat par rehne wale rishiyon ne kaha:
+“Ab Lavana ka ant nischit hai.”
+
+Rama ne
+Shatrughna ko gale lagaya.
+Pyaar se kaha:
+
+“Yeh ek divya baan lo.
+Yeh kabhi nishfal nahi hota.
+Isi se tum Lavana ka vadh karoge.
+
+Yeh baan
+tab bana tha
+jab Bhagwan Vishnu
+jal par shayan kar rahe the.
+Isse Madhu aur Kaitabha ka naash hua.
+
+Maine yeh baan
+Ravana par isliye nahi chalaya
+kyonki isse bahut logon ka naash hota.
+
+Lavana ke paas
+Shiv ji ka diya hua ek bhayankar shastra hai.
+Lekin jab woh shikaar par jaata hai,
+toh us shastra ko
+ghar par hi chhod deta hai.
+
+Tum usi samay
+nagri ke dwar par khade rehna.
+Jab woh bina shastra ke laute,
+use yuddh ke liye lalkaarna.
+
+Isi tareeke se
+tum vijayi hoge.
+Aur dharm ki raksha hogi.”
+
+Shatrughna ne
+sheesh jhuka kar kaha:
+“Jaise aapka aadesh.”
+
+Unke mann mein
+dar nahi tha,
+sirf kartavya tha.
+
+🌱 Is Kahani ki Moral Seekh
+
+Vinamrata veerta se badi hoti hai
+
+Guru aur bade bhai ka aadesh dharm hota hai
+
+Sahi samay aur sahi tareeka
+sabse badi shakti hoti hai
+
+Jo kartavya ko apnaata hai,
+wahi vijay paata hai
+
+🪔 Simple Moral Line:
+
+Jo jhukna jaanta hai,
+wahi sach mein uncha uthta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.64
     with st.expander("Chapter 7.64 – Shatrughna marches to battle"):
-        text1 = """ """
+        text1 = """ 
+        Rama ne Shatrughna ko baar-baar sahas dete hue kaha:
+
+“Yeh lo
+4,000 ghode,
+2,000 rath,
+100 chuninda haathi,
+aur har tarah ka samaan.
+
+Sone-chandi ke sikke bhi le jao.
+Hathiyaar, bhojan,
+aur safar ki sab tayyari rakho.
+
+Apni sena ko
+pyaar se sambhalo.
+Achhe shabd aur daan se
+unhe khush rakho.
+
+Yaad rakho,
+jahan dhan, samman
+aur apnapan nahi hota,
+wahan wafadari nahi tikti.”"""
         create_image_text_layout("attached_assets/chapter7/7.64.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Rama ne aage kaha:
+
+“Sena ko saath le jao,
+par Lavana ke paas akele pahunchna.
+Haath mein dhanush ho.
+
+Usse pehle se shak nahi hona chahiye.
+Jo bhi seedha
+yuddh ke iraade se
+uske paas jaata hai,
+woh bach nahi paata.
+
+Isliye chupaav zaroori hai.
+Yahi ek hi tareeka hai
+uska ant karne ka.
+
+Garmi ka mausam jaate hi
+barsaat aane wali hai.
+Wahi sahi samay hoga.”
+
+Phir Rama ne kaha:
+
+“Rishiyon ke saath
+sena ko Ganga ke kinare bhejna.
+Wahan shivir lagana.
+
+Tum tez ho,
+isliye aage badhna.
+Jis jagah ka nirdesh diya gaya hai
+wahin rukna.
+
+Aisa bandobast karna
+ki kisi ko bhi
+koi shikayat na ho.”
+
+Yeh sab sun kar
+Shatrughna ne vinamrta se
+Rama ki parikrama ki.
+Haath jod kar pranam kiya.
+
+Bharata, Lakshmana
+aur Guru Vasishtha ko bhi
+shraddha se naman kiya.
+
+Rama se anumati lekar
+woh nikal pade.
+
+Haathiyon aur ghodon se bhari sena
+aage badhi.
+Aur Shatrughna,
+kartavya se bhare mann ke saath,
+apne mission par chal pade.
+
+🌱 Is Adhyay ki Moral Seekh
+
+Sirf shakti kaafi nahi hoti,
+buddhi aur samay ki pehchaan zaroori hoti hai
+
+Achha neta
+sena ka dhyaan rakhta hai
+
+Kab, kahan, aur kaise ka faisla
+vijay tay karta hai
+
+Vinamrta ke saath liya gaya
+kathin kartavya
+hamesha safal hota hai
+
+🪔 Simple Moral Line:
+
+Jo chupchaap, sahi samay par,
+sahi tareeke se kaam karta hai,
+wahi sachchi jeet paata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.65
     with st.expander("Chapter 7.65 – Story of King Saudasa"):
-        text1 = """ """
+        text1 = """ 
+        Ek mahine tak apni sena ko aage badhane ke baad,
+Shatrughna ne sena ko wahi rok diya.
+Phir woh akele, tez kadmon se chal pade.
+
+Do din baad,
+woh Valmiki ke pavitra ashram pahunch gaye.
+Haath jod kar pranam kiya aur bole:
+
+“Bhagavan,
+aaj raat yahin rehna chahta hoon.
+Kal subah,
+main pashchim disha ki or nikal jaunga.”"""
         create_image_text_layout("attached_assets/chapter7/7.65.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Valmiki ji muskuraye.
+Pyaar se bole:
+
+“Swagat hai, Rajkumar.
+Yeh ashram bhi Raghu vansh ka hi hai.
+Baitho,
+paani lo,
+aur bina sankoch vishram karo.”
+
+Shatrughna ne phal-mool grahan kiya.
+Man shant ho gaya.
+
+Phir unhone poocha:
+
+“Guruji,
+ashram ke paas yeh upjaau bhoomi
+kis ki hai?
+Yeh kisi bade yagya ki lagti hai.”
+
+Valmiki ji bole:
+
+“Shatrughna,
+sunno ek purani kahani.
+
+Tumhare purvajon mein
+ek raja the — Saudasa.
+Unka beta tha Mitrasaha.
+
+Ek din Saudasa shikaar par gaye.
+Wahan unhone
+do Rakshas dekhe
+jo baagh ka roop dharan karke
+hazaroon hiran kha rahe the.
+
+Krodh mein aakar
+Saudasa ne
+ek Rakshas ko maar diya.
+
+Doosra Rakshas
+bhaag gaya,
+par jaate-jaate bola:
+
+‘Main badla zaroor lunga.’”
+
+Kuch samay baad,
+Saudasa ne
+yahin Ashvamedha Yagya kiya.
+Us yagya ke purohit the
+Vasishtha.
+
+Yagya ke ant mein,
+woh Rakshas
+Vasishtha ka roop dharan karke aaya.
+Usne raja se kaha:
+
+“Mujhe turant maans chahiye.”
+
+Raja ne anjaan mein
+rasoi walon ko aadesh diya.
+
+Rakshas ne
+manav maans bana kar
+Vasishtha ko paros diya.
+
+Jaise hi Vasishtha ji ne dekha,
+unhe ghor krodh aaya.
+
+Unhone kaha:
+
+“Raja,
+jo bhojan tumne diya hai,
+wahi tumhara bhojan banega.”
+
+Raja bhi gusse mein aaye,
+par unki patni Madayanti ne roka:
+
+“Yeh hamare Guru hain.
+Inhe shraap dena paap hai.”
+
+Raja ne shraap ka jal
+zameen par gira diya.
+Woh jal unke pairon par gira,
+aur tab se
+woh Kalmashapada
+(spotted feet wale) kehlaye.
+
+Baad mein jab sach saamne aaya,
+Vasishtha ji ne daya dikhayi.
+
+Bole:
+
+“12 saal baad
+tum shraap se mukt ho jaoge.
+Aur jo hua,
+tumhe yaad bhi nahi rahega.”
+
+Samay beeta.
+Saudasa ka shraap khatam hua.
+Unhone phir se
+nyay ke saath rajya sambhala.
+
+Valmiki ji bole:
+
+“Shatrughna,
+yeh wahi pavitra bhoomi hai
+jahan yeh sab hua tha.”
+
+Yeh kahani sun kar
+Shatrughna ka mann gambhir ho gaya.
+Unhone Valmiki ji ko pranam kiya
+aur apni kutiya mein vishram karne chale gaye.
+
+🌱 Is Kahani ki Moral Seekh
+
+Krodh andha bana deta hai
+
+Guru ka apmaan
+sabse bada paap mana gaya hai
+
+Galti anjaan mein ho
+tab bhi parinaam bhugatne padte hain
+
+Sach aur vinamrata
+ant mein raksha karti hai
+
+🪔 Simple Moral Line:
+
+Gussa ek pal ka hota hai,
+par uske nuksaan
+saalon tak chal sakte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.66
     with st.expander("Chapter 7.66 – Birth of Lava and Kusha"):
-        text1 = """ """
+        text1 = """ 
+        Us raat,
+jab Shatrughna
+patton ki kutiya mein vishram kar rahe the,
+ek bahut pavitra ghatna hui.
+
+Aadhi raat ke samay,
+Sita
+ne do sundar putron ko janm diya.
+Dono bachche
+naye chaand ki tarah chamak rahe the. 🌙
+Unmein devtaon jaisi shakti aur tejas tha.
+
+Yuva tapasvi
+turant Valmiki
+ke paas gaye aur bole:
+
+“Gurudev,
+Rama ji ki patni ne
+do judwa putron ko janm diya hai.
+Kripya raksha-vidhi kijiye,
+taaki koi buri shakti paas na aaye.”"""
         create_image_text_layout("attached_assets/chapter7/7.66.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Valmiki ji turant uthe.
+Unka mann anand se bhar gaya.
+Woh Sita ke paas gaye
+aur un navjat shishuon ko dekha.
+
+Phir unhone
+raksha ka vidhan kiya.
+
+Valmiki ji ne
+kusha ghaas haath mein li.
+Mantron ke saath bole:
+
+“Pehla bachcha
+is pavitra kusha ghaas se sparsh kiya jayega,
+isliye iska naam hoga Kusha.
+
+Aur doosra bachcha
+jab ghaas ki jadon se sookhaya jayega,
+to iska naam hoga Lava.
+
+Yahi inke naam honge.
+Aur inhi naamon se
+yeh dono prasiddh honge.”
+
+Tapasviniyon ne
+vidhi poori shraddha se poori ki.
+Raat hi raat
+raksha-sanskaar sampann ho gaya.
+
+Jab Shatrughna ko
+yeh shubh samachar mila,
+unka mann khushi se bhar gaya.
+Unhone kutiya ke paas jaakar kaha:
+
+“Mata,
+aap sada sukhi rahiye.”
+
+Shravan maas ki
+woh varsha raat
+Shatrughna ke liye
+bahut mangal aur anandmay rahi. 🌧️✨
+
+Agli subah,
+unhone snaan aur pooja ki.
+Valmiki ji ko pranam kiya
+aur apni yatra phir se shuru ki.
+
+Saat din baad,
+woh Yamuna nadi ke kinare pahunche.
+Wahan kai mahaan rishiyon ke ashram the.
+Unhone raat
+Cyavana Rishi
+aur anya muniyon ki
+purani aur madhur kathayein sunte hue bitayi.
+
+Is prakar,
+Raja Dasharatha ke putra
+Shatrughna ne
+anand aur gyaan se bhari
+apni yatra aage badhai.
+
+🌼 Is Kahani ki Moral Seekh
+
+Janm pavitra hota hai,
+par naam aur sanskaar
+jeevan ko disha dete hain
+
+Rishi aur Gurujan
+bachchon ki raksha aur margdarshan karte hain
+
+Dharma aur tapasya
+andheron se bachati hai
+
+🪔 Simple Moral Line:
+
+Jahan pavitrata aur sanskaar hote hain,
+wahan bhagya swayam muskurata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.67
     with st.expander("Chapter 7.67 – Story of Mandhata"):
-        text1 = """ """
+        text1 = """ 
+        Raat ho chuki thi.
+Shant hawa chal rahi thi. 🌙
+Tab Shatrughna
+ne Cyavana
+se poocha:
+
+“Gurudev,
+Lavana ka hathiyar kitna shaktishaali hai?
+Usne pehle kisko maara hai?”
+
+Cyavana ji shaant swar mein bole:"""
         create_image_text_layout("attached_assets/chapter7/7.67.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Raghu ke putra,
+Lavana ke kaand anek hain.
+Ek kahani suno.
+
+Bahut pehle,
+Ayodhya mein
+Mandhata
+naam ka ek mahaan raja hua karta tha.
+Woh Yuvanashva ka putra tha.
+Teenon lokon mein
+uski veerta prasiddh thi.
+
+Usne poori dharti
+apne adheen kar li.
+Phir uske mann mein
+ek bada vichaar aaya.
+
+‘Main dev-lok bhi jeetunga,’
+yeh soch kar
+usne taiyari shuru kar di.
+
+Yeh sunkar
+Indra
+aur devta ghabra gaye.
+Indra ne raja se kaha:
+
+‘Raja,
+jab tak poori prithvi
+tumhare adheen nahi aati,
+tab tak swarg ka sapna mat dekho.’
+
+Mandhata ne poocha:
+‘Kaun hai
+jo meri shasan ko nahi maanta?’
+
+Indra bole:
+‘Madhu ka putra Lavana.
+Woh jungle mein rehta hai
+aur kisi ko nahi maanta.’
+
+Yeh sunkar
+Mandhata sharminda ho gaya.
+Usne sir jhuka liya
+aur prithvi par laut aaya.
+
+Gusse ko chupakar,
+Mandhata apni sena lekar
+Lavana se ladne nikla.
+Usne pehle
+ek doot bheja.
+
+Par jaise hi
+doot ne Lavana ko chunauti di,
+Lavana ne
+use hi kha liya. 😔
+
+Jab doot wapas nahi aaya,
+Mandhata ne
+baanon ki varsha kar di.
+
+Tab Lavana hansa.
+Usne apna
+trishul uthaya. 🔱
+Aur use raja par pheink diya.
+
+Woh trishul
+aag ki tarah chamka.
+Raja, uski sena,
+rath aur ghode—
+sab raakh ban gaye.
+
+Aur trishul
+wapas Lavana ke haath mein aa gaya.
+
+Cyavana ji ne kaha:
+
+“Is trishul ki shakti
+behad bhayanak hai.
+Isi shakti se
+Mandhata haar gaya.
+
+Par Shatrughna,
+tum chinta mat karo.
+Kal subah
+jab Lavana bhojan ki khoj mein niklega,
+woh apna trishul
+ghar par chhod dega.
+
+Usi samay
+tum use lalkarna.
+Tab tumhari jeet nishchit hai. ✨
+
+Tumhare kaaran
+teeno lokon ko shanti milegi.”
+
+Shatrughna ne
+mann mein dridh sankalp liya.
+Subah hone wali thi.
+Aur dharma
+jeet ke kareeb tha.
+
+🌼 Is Kahani ki Moral Seekh
+
+Ahankaar se badi shakti bhi haar jaati hai
+
+Galat samay par yuddh
+vinash laata hai
+
+Buddhi + sahi samay = vijay
+🪔 Simple Moral Line:
+
+Sirf shakti nahi,
+samajh aur samay ki pehchaan
+jeet dilati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.68
     with st.expander("Chapter 7.68 – Shatrughna meets Lavana"):
-        text1 = """ """
+        text1 = """ 
+        Cyavana ki katha sunte-sunte raat kab beet gayi,
+kisi ko pata hi nahi chala.
+Sab Shatrughna
+ke liye vijay ki kaamna kar rahe the. 🌙
+
+🌅 Subah ka samay
+
+Jab nirmal prabhat hua,
+bhayankar Lavana
+apni nagari se nikla—
+jeevon ka shikaar karne,
+bhojan ki khoj mein."""
         create_image_text_layout("attached_assets/chapter7/7.68.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Isi samay,
+veer Shatrughna
+Yamuna
+ko paar karke,
+dhanush haath mein liye,
+Madhupura
+ke dwaar par khada ho gaya.
+
+☀️ Dopahar
+
+Dopahar ko Lavana lauta—
+apni peeth par
+an-ginat jeevon ka bojh liye hue.
+Jab uski nazar
+dwaar par khade Shatrughna par padi,
+toh woh hans pada aur bola:
+
+“Is hathiyaar ka kya karega,
+O sabse tuchh yoddha?
+Maine tum jaise hazaaron ko
+unke hi shastraon ke saath kha liya hai.
+Mrityu tumhein yahan kheench laayi hai!
+Abhi meri bhookh poori bhi nahi hui—
+kyun apne aap ko
+mere muh mein daalne aaya hai, moorkh?”
+
+Woh zor-zor se hansne laga. 😈
+
+🔥 Shatrughna ka krodh
+
+Yeh sunkar Shatrughna
+krodh se kaanp utha.
+Uski aankhon se aansu nikle,
+aur shareer se
+aag ke chingariyaan si phoot padi.
+
+Usne garaj kar kaha:
+
+“Main tumse ek-se-ek yuddh karunga!
+Main Maharaj Dasharatha ka putra,
+buddhimaan Rama ka bhai,
+aur mera naam hi Shatrughna hai—
+shatruon ka vinash karne wala!
+Tum sab praniyon ke shatru ho,
+aur aaj jeevit bach kar
+yahan se nahi jaa paoge!”
+
+😏 Lavana ka ahankaar
+
+Lavana ne tiraskar se kaha:
+
+“Meri kismat mujhe yahan le aayi hai,
+O nirbuddhi!
+Rama ne meri maasi ke bhai
+Ravana ko ek stree ke kaaran maara.
+Uske poore kul ka vinash ho chuka hai.
+Main badla lene mein dheela raha,
+isi liye tum itne ghamandi ho.
+Main tum sab ko—
+jo paida ho chuke aur jo honge—
+tinke ki tarah udaa dunga!
+Main tumhari chunauti sweekar karta hoon.
+Bas ek kshan ruk jao,
+main apna shastra le aata hoon!”
+
+⚔️ Antim uttar
+
+Shatrughna ne turant kaha:
+
+“Kya tum jeevit bach kar bhag jaoge?
+Jo shatru
+swayam saamne aaye,
+use chhodna moorkhta hai.
+Jo shatru ko jaane deta hai,
+wahi swayam naash ko prapt hota hai.
+Tum is sansaar ko
+aakhri baar dekh lo—
+meri tez dharon wali baanon se
+main tumhein
+Yama-lok pahuncha dunga,
+O teenon lokon ke shatru!”
+
+Yahin se
+dharm aur adharma ka antim sangharsh
+shuru hone wala tha… ⚡
+
+🪔 Moral (Seekh)
+
+Ahankaar shakti ko andha kar deta hai
+
+Jo shatru bina shastra ke ho,
+use mauka dena apni hi haar hai
+
+Dharma ke saath sahas aur buddhi
+vijay ka nishchit marg hai
+
+Simple line:
+Sahi samay par liya gaya nirnay,
+sabse bade bal ko bhi hara deta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.69
     with st.expander("Chapter 7.69 – Lavana is killed"):
-        text1 = """ """
+        text1 = """ 
+        Shatrughna ke kathor shabdon ko sunkar,
+Lavana
+aag-baboola ho gaya. 😡
+Usne daant pees kar zor se chillaya —
+“Ruk jaa!”
+Aur poori taakat se
+Shatrughna
+par prahaar karne laga."""
         create_image_text_layout("attached_assets/chapter7/7.69.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        ⚔️ Veer ka pratigya
+
+Shatrughna ne shaant par dridh swar mein kaha:
+
+“Jab tum doosron ko maar rahe the,
+tab main paida bhi nahi hua tha.
+Par aaj, meri baanon se
+tum Yama-lok jaoge.
+Aaj rishi aur brahman
+tumhari mrityu ke sakshi banenge.
+Jab tum gir jaoge,
+tab desh aur nagar ko shanti milegi.
+Jaise suraj ki kirne kamal ko chhedti hain,
+waise hi meri baan
+tumhara hriday chhed degi!”
+
+🌳 Rakshasa ka hamla
+
+Krodh se andha Lavana
+ne ek bada ped ukhaad kar
+Shatrughna ke seene par de mara.
+Par veer ne use
+sau tukdon mein kaat diya.
+
+Lavana ne ek ke baad ek
+kai ped pheinke,
+par Shatrughna
+teekhi ardh-chandra baanon se
+sab ka vinaash karta gaya.
+
+Phir Rakshasa ne hans kar
+ek aur ped se
+veer ke sir par vaar kiya.
+Shatrughna behosh ho kar gir pada.
+
+😱 Us pal
+Deva, Rishi, Gandharva aur Apsara
+sab “Haay! Haay!” chilla uthe.
+
+⏳ Ahankaar ki bhool
+
+Lavana ne socha,
+“Yeh mar gaya.”
+Isliye woh apna trishool lene
+ghar nahi gaya.
+Woh shaant ho kar
+apna bhojan ikattha karne laga.
+
+Par yahin uski sabse badi galti thi. ❌
+
+🔥 Veer ka punar-uthaan
+
+Shatrughna ko turant hosh aa gaya.
+Woh phir se
+nagardwaar par khada ho gaya,
+rishiyon ke jayghosh ke beech.
+
+Usne ek divya baan chuni —
+jo bijli ki tarah tez thi,
+aur daso dishaon ko chamka rahi thi. ⚡
+
+Yeh baan itni bhayankar thi
+ki Deva, Asura, Gandharva
+sab kaanp uthe.
+Poora brahmand hil gaya.
+
+Sab bhay se
+Brahma
+ke paas pahunche.
+
+Brahma ne shaant swar mein kaha:
+
+“Ghabrao mat.
+Yeh shastra Lavana ke vinaash ke liye hai.
+Yeh baan swayam
+Vishnu
+ka pratham roop hai,
+jo Madhu aur Kaitabha ke vinaash ke liye bana tha.
+Jaao aur Rakshasa ka ant dekho.”
+
+🌩️ Antim prahaar
+
+Deva phir yuddh-sthal par aaye.
+Aakash devtaon se bhar gaya.
+
+Shatrughna ne
+sinh-garjana ki 🦁
+aur Lavana par drishti jamayi.
+
+Krodhit Rakshasa ne phir
+yuddh ki koshish ki,
+par Shatrughna ne
+apna dhanush kaan tak kheench kar
+woh divya baan
+uske seene mein chhod di.
+
+Baan uska hriday chhed kar
+Rasatal tak chali gayi
+aur phir wapas Shatrughna ke paas aa gayi.
+
+⚡ Lavana bijli se gire
+parvat ki tarah dharti par dhad se gir pada.
+Uska ant ho chuka tha.
+
+Uska trishool swayam
+Rudra ke paas laut gaya.
+
+🎉 Vijay aur shanti
+
+Deva, Rishi, Naag aur Apsara
+sab ek saath bole:
+
+“Saubhagya hai!
+Dasharatha ka putra vijayi hua.
+Teenon lokon ka bhay samapt hua.
+Lavana aaj dharti par
+ek vishaal sarp ki tarah
+nishchal pada hai.”
+
+Aur is prakar,
+adharm ka ant
+aur dharma ki vijay hui. 🌸
+
+🪔 Moral (Seekh)
+
+Ahankaar sabse bada shatru hota hai
+
+Jo shatru ko kam samajhta hai,
+wahi pehle girta hai
+
+Dhairya + sahi samay + sahi shastra
+se asambhav bhi sambhav ho jaata hai
+
+Simple line:
+Jo dharma ke saath khada hota hai,
+uski haar kabhi nahi hoti. 🌟"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.70
     with st.expander("Chapter 7.70 – Shatrughna rules Madhu city"):
-        text1 = """ """
+        text1 = """ 
+        Lavana
+jab yuddh mein maara gaya,
+tab Devta apne neta Agni ke saath
+Shatrughna ke paas aaye.
+
+Pyaar se bole:
+
+“Saubhagya hai, putra!
+Tum vijayi hue.
+Rakshasa ka ant ho gaya.
+Ab koi var maango.
+Hum sab yahin hain.”"""
         create_image_text_layout("attached_assets/chapter7/7.70.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🙏 Vinamr ichchha
+
+Shatrughna
+ne haath jod kar
+sir jhukaya aur bola:
+
+“Meri bas ek ichchha hai.
+Yeh sundar nagari,
+jo Devtaon ne banayi hai,
+main yahin raj karna chahta hoon.”
+
+Devta muskuraye 😊
+aur bole:
+
+“Aisa hi hoga.
+Yeh nagari ab
+Shurashena
+ke naam se jaani jaayegi.”
+
+Yeh keh kar
+Devta apne lok laut gaye.
+
+🏙️ Naye rajya ki shuruaat
+
+Shatrughna ne
+Yamuna
+ke kinaare
+apni sena ko bulaya.
+
+Sena ne vijay ka samachar suna
+aur turant aa gayi.
+
+Shravana maas mein
+Shatrughna ne
+Madhu Nagari mein
+apna raj sthapit kiya.
+
+🌾 Shanti aur samriddhi
+
+Agale 12 saal tak:
+
+Log shanti se rahe
+
+Kheton mein anaaj bhara raha 🌾
+
+Barish sahi samay par hui
+
+Rog aur bhookh nahi thi
+
+Shatrughna ke raj mein
+sab swasth aur prasann the.
+
+Nagari:
+
+Chandrama ki kala jaisi chamakti 🌙
+
+Bazaar aur sadkein sundar thi
+
+Chaaron varnon ke log mil-jul kar rehte the
+
+Door-door se vyapari aate the
+
+Lavana ke purane mahal
+Shatrughna ne aur bhi sundar banwaye.
+Bagiche, udyan,
+aur kala ke kaam har jagah the.
+
+😊 Raja ka santosh
+
+Us samriddh nagari ko dekh kar
+Shatrughna ka hriday
+anand se bhar gaya.
+
+Par 12 saal baad
+uske mann mein ek bhavna uthi:
+
+“Main phir se
+apne bade bhai
+Rama
+ke charnon ke darshan
+karna chahta hoon.”
+
+Aur isi bhavna ke saath
+veer Shatrughna
+Rama se milne ka
+nischay karta hai।
+
+🪔 Moral (Seekh)
+
+Vinamrata se maanga gaya var
+hamesha shubh hota hai
+
+Achha shasak wahi hota hai
+jiske raj mein praja sukhi ho
+
+Shakti ke baad bhi
+guru aur bhai ki yaad
+sachche charitra ki pehchaan hai
+
+Simple line:
+Jo dharma se raj karta hai,
+uske raj mein khud bhagya basne lagta hai. 🌸"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
