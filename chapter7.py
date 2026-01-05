@@ -11750,81 +11750,1002 @@ woh praja ko kabhi suraksha nahi de sakta.”"""
 
     # Chapter 7.81
     with st.expander("Chapter 7.81 – Danda’s kingdom destroyed"):
-        text1 = """ """
+        text1 = """ 
+        Yeh chapter raj-dharma ke patan aur guru-shaap ke prabhav ko dikhata hai. Agastya Rishi Rama ko batate hain ki Danda ka rajya kaise poori tarah nasht hua.
+
+🌑 Kya Hua Is Adhyay Mein?
+
+Shukracharya, jo pehle se bhookh aur shok se vyakul the,
+apni beti Aruja ko dhool se lipt aur apmaanit dekh kar
+bhayankar krodh mein aa gaye.
+
+Unhone ghoshna ki:
+
+7 din ke andar raja Danda,
+uske bachche, sena, haathi–ghode sab vinash ko praapt honge.
+
+Aakash se raakh aur dhool ki varsha hogi,
+aur 100 yojan tak sab kuch jeevit–nirjeev bhasm ho jayega.
+
+Shukracharya ne sab tapasviyon ko keh diya:
+
+“Is kshetra se turant chale jao.”
+
+Sirf Aruja ko hermitage mein rehne diya aur kaha:
+
+“Jo bhi jeev tumhari sharan mein aayega,
+us par is vinaash ka prabhav nahi padega.”"""
         create_image_text_layout("attached_assets/chapter7/7.81.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🔥 Shaap ka Phal
+
+Saatve din, jaise bhavishyavani thi:
+
+Danda ka poora rajya jal kar raakh ho gaya.
+
+Jahan pehle hariyali aur nagar the,
+wahan veeran banjar bhoomi reh gayi.
+
+Is kshetra ko tab se kaha gaya:
+
+Dandaka (Dandakaranya)
+
+Aur tapasviyon ke purane nivaas ko: Janasthana
+
+🧠 Is Adhyay ki Gehri Seekh
+
+Raja agar dharma chhod de, toh rajya bhi usse chhod deta hai.
+
+Guru ke apmaan ka phal sirf vyakti nahi,
+poori praja bhugatti hai.
+
+Shakti + ahankaar + kaam = vinaash
+
+Isi Dandaka van mein aage chal kar
+Rama ka vanvaas aur Ramayana ke kai mahatvapurn ghatnayein hoti hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.82
     with st.expander("Chapter 7.82 – Rama bids farewell to Agastya"):
-        text1 = """ """
+        text1 = """ 
+        Yeh adhyay Rama ke kartavya-bodh, rishi–raja sambandh, aur divine maryada ko bahut shaant aur uchch star par dikhata hai.
+
+🌅 Adhyay ka Kram (Step-by-step)
+1️⃣ Sandhya-karm aur Rishi ka Atithya
+
+Rama
+Rishi ke aadesh ka palan karte hue:
+
+Pavitra sarovar par snan aur sandhya-vandan karte hain
+
+Phir Agastya (Kumbhayoni) ke ashram lautte hain
+
+Agastya:
+
+Phal, mool, shuddh ann se amrit saman bhojan taiyar karte hain
+
+Rama raat bhar shaanti aur anand se vahin nivaas karte hain
+
+👉 Sandesh: Raja hokar bhi Rama rishi-ke-niyam ke adheen hain"""
         create_image_text_layout("attached_assets/chapter7/7.82.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        2️⃣ Rama ka Vinay aur Agastya ka Aashirvaad
+
+Subah Rama vinamrta se kehte hain:
+
+“Aapke darshan se main pavitra hua hoon.
+Mujhe phir is ashram mein aane ka adhikar dijiye.”
+
+Agastya ka uttar atyant gahra aur divya hai:
+
+Rama svayam pavitrata ka strot hain
+
+Jo Rama ko prem se dekhta hai → moksha
+
+Jo dwesh se dekhta hai → adhogati
+
+Rama = lok-maryada ka marg
+
+👉 Yeh sirf stuti nahi, balki avatar-tattva ka sanket hai
+
+3️⃣ Pushpaka Vimana aur Rishi-gan ka Aashirvaad
+
+Rama Pushpaka Vimana par chadhte hain
+
+Sabhi rishi un par aashirvaadon ki varsha karte hain
+
+Aakash mein Rama:
+
+badlon se ghire chandrama jaise dikhte hain
+
+Pushpaka Vimana = divine vehicle, jo ichha-anusar chal sakta hai
+
+4️⃣ Ayodhya Pravesh aur Raja ka Kartavya
+
+Dopahar tak Rama Ayodhya pahunchte hain
+
+Mahal ke beech ke aangan mein:
+
+Vimana ko vinamrta se vida karte hain
+
+“Jaao, tumhara kalyan ho”
+
+Turant doorkeeper ko aadesh:
+
+Lakshmana aur
+Bharata ko bulaya jaye
+
+👉 Rama turant punah raj-karya mein lag jaate hain
+
+🧠 Is Adhyay ki Gehri Seekh
+
+Sachcha Raja:
+
+Rishi ka adar karta hai
+
+Shakti ke baad bhi vinay nahi chhodta
+
+Rama ka dharma:
+
+Na sirf shasan, balki lok-maryada sthapit karna
+
+Rishi aur Raja ka sambandh:
+
+Tapasya + Raj-dharma = Santulit Vishva"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.83
     with st.expander("Chapter 7.83 – Bharata stops Rajasuya sacrifice"):
-        text1 = """ """
+        text1 = """ 
+        Yeh adhyay Raj-dharma ki parakaashtha, bhai–bhai ke beech gyaan, aur Rama ke vinay ko bahut gehra roop deta hai.
+
+📜 Kya Ghatit Hota Hai Is Adhyay Mein?
+1️⃣ Rama ka Rajasuya Yajna ka Vichaar
+
+Rama
+Bharata aur Lakshmana ko gale lagakar kehte hain:
+
+Unhone Rishi Agastya ka kaarya poorn kiya
+
+Ab ve Rajasuya Yajna karna chahte hain
+
+Rama batate hain:
+
+Rajasuya dharm ka aadhar hai
+
+Isse pehle:
+
+Mitra ne Varuna-pad paaya
+
+Soma ne amaratva aur kirti
+
+👉 Rama apne bhaiyon se sachcha aur nishpaksh salah maangte hain"""
         create_image_text_layout("attached_assets/chapter7/7.83.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        2️⃣ Bharata ka Gyaan-bhara Virodh
+
+Bharata
+Vinamrta se par dridh tark dete hain:
+
+Bharata ke Mukhya Tark:
+
+Rama:
+
+Dharti ke rakshak
+
+Devtaon aur praja ke pitru-samaan
+
+Rajasuya Yajna ka arth:
+
+Anya rajaon ko yauddh mein parajit karna
+
+Kai raj-vanshon ka vinaash
+
+Yeh:
+
+Lok-ninda ka kaaran banega
+
+Dharti ke veer kshatriyon ka ant karega
+
+👉 Bharata ka saar:
+
+“Jab poori prithvi aapke adheen hai,
+tab use nasht karne wala yajna kyun?”
+
+3️⃣ Rama ka Mahaan Vinay
+
+Rama Bharata ki baat sunkar:
+
+Ati-prasann hote hain
+
+Kehte hain:
+
+“Tumhare vachan ne prithvi ko bacha liya”
+
+“Main Rajasuya Yajna ka sankalp tyagta hoon”
+
+Rama ka mahan siddhant:
+
+“Jo karya jagat ke liye hani-kaarak ho,
+usey gyaani kabhi nahi karta.”
+
+Rama ye bhi kehte hain:
+
+Achhi salah bachche se bhi grahan karni chahiye
+
+🧠 Is Adhyay ki Gehri Seekh
+🔹 Bharata ka Mahattva
+
+Bharata:
+
+Sirf chhote bhai nahi
+
+Raj-nitik aur dharmic vivek ke prateek
+
+Shakti ke samne bhi karuna aur lok-hit ko chunte hain
+
+🔹 Rama ka Ideal Leadership
+
+Poorn shakti hone ke baad bhi:
+
+Ahankar nahi
+
+Salah ko sweekar karna
+
+Yeh dikhata hai:
+
+Rama = maryada purushottam
+
+🌼 Saar (One-line Essence)
+
+Jahan shakti ka upyog na karke, uska tyag kiya jaye—
+wahi sachcha Raj-dharma hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.84
     with st.expander("Chapter 7.84 – Story of Vritra"):
-        text1 = """ """
+        text1 = """ 
+        Rama aur Bharata ki baat ke baad, Lakshmana aage aate hain.
+Unki awaaz shaant thi, par baat gehri thi.
+
+Lakshmana bole,
+“Bhaiya, Ashvamedha Yajna sab paapon ko door karta hai.
+Yeh shuddhi ka pakka marg hai.
+Aap isey kijiye, O Raghukul ke gaurav.”
+
+Phir Lakshmana ek purani kahani sunate hain."""
         create_image_text_layout("attached_assets/chapter7/7.84.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🌿 Vritra ka Janm aur Uska Raj
+
+Bahut pehle ki baat hai.
+Ek Daitya raja Vritra tha.
+
+Uska sharir bahut vishaal tha
+
+Dil se woh dayalu aur gyaani tha
+
+Teenon lokon par woh karuna bhari drishti dalta tha
+
+Uske raj mein:
+
+Zameen bina jute hi phal aur phool deti thi
+
+Log khush the, bhookh ka naam nahi tha
+
+Sab kuch prakriti ke saath santulan mein tha
+
+Vritra sach mein accha shasak tha.
+
+🔥 Vritra ki Tapasya
+
+Ek din Vritra ne socha,
+“Raj ka sukh bhi ek bhram hai.
+Asli anand to tapasya mein hai.”
+
+Usne apna raj:
+
+Bade bete ko सौंप diya
+
+Khud ghor tapasya mein lag gaya
+
+Uski tapasya itni kathor thi ki:
+
+Devta bhi chintit ho gaye
+
+Aakash tak kampne laga
+
+⚡ Indra ka Bhay
+
+Devraj Indra (Vasava) ghabra gaye.
+
+Indra ne socha,
+“Vritra dharmic hai, balwaan hai.
+Main usey yuddh mein nahi hara paunga.”
+
+Dar ke saath Indra gaye
+Vishnu ke paas.
+
+🙏 Indra ka Vishnu se Prarthana
+
+Indra bole,
+“Prabhu, Vritra ki tapasya se
+woh lokon par adhikar pa lega.
+
+Agar aap madad na karein,
+to hum sab uske adheen ho jayenge.
+
+Aap hi sharanagat-vatsal hain.
+Kripya Vritra ka vadh karke
+teenon lokon ko bachaiye.”
+
+Indra ki awaaz mein bhay tha,
+par Vishnu par poora bharosa bhi.
+
+🌼 Kahani ki Seekh (Soft Moral)
+
+Tapasya shakti deti hai, par
+
+Santulan zaroori hota hai
+
+Dev aur Daitya ka farq
+janm se nahi, karm se hota hai
+
+Lakshmana yeh kahani suna kar Rama ko samjhaate hain:
+“Raj-dharma mein shuddhi aur santulan dono chahiye.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.85
     with st.expander("Chapter 7.85 – Vritra is slain"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ki baat sunkar Rama bole,
+“Bhai Lakshmana,
+ab Vritra ke ant ki poori kahani sunao.”
+
+Lakshmana ne sir jhukaya aur dheere se bolna shuru kiya.
+
+🌼 Vishnu ka Faisla
+
+Devtaon ki prarthana sunkar Vishnu bole,
+“Vritra ke saath mera purana rishta hai.
+Main khud use nahi maar sakta.
+
+Lekin main tumhe upay bata sakta hoon.”
+
+Vishnu ne kaha,
+“Main apni shakti ko teen bhaag mein baant dunga:"""
         create_image_text_layout("attached_assets/chapter7/7.85.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Ek bhaag Indra ke andar
+
+Ek bhaag Vajra (thunderbolt) mein
+
+Aur ek bhaag Prithvi ke hriday mein
+
+In teenon se milkar
+Vritra ka ant ho jayega.”
+
+Devtaon ne haath jodkar kaha,
+“Jaise aap kahe, Prabhu.”
+
+⚔️ Yuddh ka Pal
+
+Sab devta Indra ke saath
+Vritra ke ashram tak pahunche.
+
+Vritra itna tejasvi tha
+ki uski roshni se
+aakash aur dishaen kaanp rahi thi.
+
+Devta darr gaye aur sochne lage,
+“Is itne balwaan ko kaise harayenge?”
+
+Tab Indra ne
+Vishnu ki baat yaad ki.
+
+⚡ Vritra ka Ant
+
+Indra ne apna Vajra uthaya
+aur poori shakti se
+Vritra par fenk diya.
+
+Vajra aag jaise chamka,
+aur Vritra ke sir par gira.
+
+Us pal:
+
+Dharti kaanp uthi
+
+Aakash tharr gaya
+
+Aur Vritra ka ant ho gaya
+
+😔 Indra ka Pashchatap
+
+Vritra mar gaya,
+lekin Indra ka mann bhaari ho gaya.
+
+Unhone socha,
+“Mainne ek tapasvi ko maar diya.”
+
+Is soch se Indra par
+paap ka bojh aa gaya.
+
+Woh bhay se
+idhar-udhar bhagne lage.
+
+🙏 Devtaon ki Vishnu se Vinati
+
+Devta Vishnu ke paas gaye aur bole,
+“Prabhu, Vritra to mar gaya,
+par Indra paap ke bojh mein dab gaya hai.
+
+Kripya usey mukt kijiye.”
+
+🐎 Ashvamedha ka Rahasya
+
+Vishnu bole,
+“Indra Ashvamedha Yajna kare.
+
+Is pavitra yagya se:
+
+Uska paap dhul jayega
+
+Woh phir se Devraj banega
+
+Aur nishchint ho jayega”
+
+Yeh kehkar Vishnu
+apne divya lok ko laut gaye.
+
+🌈 Kahani ki Seekh (Soft Moral)
+
+Shakti ke saath zimmedaari bhi hoti hai
+
+Galti ke baad pashchatap aur shuddhi zaroori hoti hai
+
+Yagya aur dharm ka uddeshya
+sirf shakti nahi, santulan hota hai
+
+Lakshmana ne kahani khatam ki aur bole,
+“Isi liye, Bhaiya,
+Ashvamedha sirf vijay ka nahi,
+shuddhi aur nyay ka yagya hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.86
     with st.expander("Chapter 7.86 – Indra is freed"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ne Vritra-vadh ki kahani poori karte hue aage kaha:
+
+⚡ Indra ka Antardwand (Inner Conflict)
+
+Jab bhayankar Vritra ka vadh ho gaya,
+to Indra jeet ke baad bhi shaant nahi hua.
+
+Vritra ek tapasvi tha
+
+Uska vadh karne se Indra par brahma-hatya ka paap aa gaya
+
+Indra ka mann bhramit ho gaya
+
+Woh duniya ke kinare chhup gaya,
+jaise saap apni purani khaal chhod raha ho"""
         create_image_text_layout("attached_assets/chapter7/7.86.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Indra ke gayab hote hi:
+
+Baarish band ho gayi
+
+Nadiyaan sookhne lagi
+
+Jungle murjha gaye
+
+Dharti se hariyali chali gayi
+
+Puri srishti dukhi ho gayi 🌍
+
+🙏 Devtaon ka Upay: Ashvamedha
+
+Tab sab devta, rishi aur guru milkar
+Ashvamedha
+karne ka nishchay karte hain,
+jaise Vishnu ne pehle kaha tha.
+
+Sab milkar Indra ko dhoondhte hain
+aur uski shuddhi ke liye
+Ashvamedha Yagya sampann karte hain.
+
+🔥 Paap ka Vibhajan (Division of Sin)
+
+Yagya poora hote hi,
+brahma-hatya ka paap
+Indra ke sharir se bahar nikal aata hai
+aur poochta hai:
+
+“Ab main kahaan rahoon?”
+
+Devta kehte hain:
+“Apne aap ko chaar bhaagon mein baant lo.”
+
+Paap bolta hai:
+
+¼ bhaag –
+barish ke mausam mein
+tezi se behne wali nadiyon mein rahega
+
+¼ bhaag –
+banjar / namkeen mitti (Ushara) mein
+
+¼ bhaag –
+har mahine teen raat
+ahankaari logon ke saath
+
+¼ bhaag –
+un logon mein
+jo jhoothe aarop se nirdosh brahman ka nash karte hain
+
+Devta bole:
+“Jaise tumne kaha, waise hi ho.”
+
+🌈 Santulan ki Sthapna
+
+Iske baad:
+
+Indra paap-mukt ho gaya
+
+Phir se Devraj ke sinhasan par baitha
+
+Baarish laut aayi 🌧️
+
+Dharti hari-bhari ho gayi 🌱
+
+Sab log sukh aur shaanti se rehne lage
+
+Lakshmana bole:
+
+“Hey Raghukul ke deep,
+isi liye Ashvamedha
+sabhi yagyon mein shreshtha mana gaya hai.”
+
+🪔 Gehra Arth (Soft Takeaway)
+
+Yuddh jeetna hi sab kuch nahi,
+antarmann ka shuddh hona bhi zaroori hai
+
+Ashvamedha sirf shakti ka pradarshan nahi,
+balki paap-shuddhi aur santulan ka yagya hai
+
+Raja ka dharm:
+sirf shatru-vadh nahi,
+balki prithvi aur praja ka kalyan
+
+Is baat ko sunkar Rama ke mann mein
+Ashvamedha ka gaurav aur spasht ho gaya 🌼"""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.87
     with st.expander("Chapter 7.87 – Story of Ila"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ki baat sunkar Rama muskuraye aur bole—
+“Tumne jo kaha, woh bilkul satya hai.”
+Phir Rama ne ek aur gehri aur adbhut katha sunayi—Ila ki kahani.
+
+👑 Raja Ila ka Parichay
+
+Ila, Kardama ke putra the
+
+Bahlika desh ke maha-pratapi raja
+
+Poore prithvi-mandal par vijay
+
+Praja ko apne putron jaise paalte the
+
+Devta, Daitya, Naga, Gandharva, Rakshasa—sab unse bhay aur samman rakhte the"""
         create_image_text_layout("attached_assets/chapter7/7.87.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🌸 Caitra Maas aur Van-vihar
+
+Sundar Caitra maas mein Raja Ila shikaar ke liye
+ek divya van mein pravesh kar gaye.
+
+Unhone hazaron pashu maare,
+par tabhi unhone kuch bahut ajeeb dekha:
+
+Van ke sabhi jeev stree-roop mein the
+
+Ped, pashu—sab nari jaise lag rahe the
+
+Aur phir… Raja Ila khud bhi stree ban gaye 😮
+
+Unke sainik, rath, ghode—sabka roop badal gaya.
+
+🕉️ Shiv–Parvati ka Kshetra
+
+Yeh woh kshetra tha jahan
+Shiva
+apni ardhangini Parvati ke saath
+leela-vihar kar rahe the.
+
+Is kshetra mein:
+
+Jo bhi purush pravesh kare
+
+woh stree ban jata hai
+
+Ila samajh gaye—
+yeh Mahadeva ki leela hai.
+
+🙏 Mahadeva ka Vardaan (Par Ajeeb)
+
+Raja Ila sabke saath Shiv ke sharan gaye.
+Mahadeva hans kar bole:
+
+“Rajarshi, jo maango woh milega—
+par purushatva (manhood) chhod kar!”
+
+Yeh sun kar Ila dukhi ho gaye 😔
+Unhe koi aur vardaan nahi chahiye tha.
+
+🌺 Maa Parvati ki Karuna
+
+Ila ne Maa Parvati (Uma) ke charno mein gir kar prarthana ki.
+
+Karuna se bhari Devi boli:
+
+“Tumhara vardaan aadha Mahadeva se,
+aur aadha mujhse milega.”
+
+🔄 Adbhut Vardaan: Mahina-Mahina Roop Parivartan
+
+Ila ne prarthana ki:
+
+Ek mahina purush
+
+Agla mahina stree
+
+Maa Parvati ne vardaan diya:
+
+Jab tum purush hoge →
+tumhe yaad nahi rahega ki tum kabhi stree the
+
+Jab tum stree hoge →
+tum bhool jaoge ki kabhi purush the
+
+Is prakaar:
+
+Ila ek mahine raja
+
+agle mahine sundari Ila
+(Teenon lokon mein sabse sundar)
+
+🧠 Gehra Arth (Symbolic Meaning)
+
+Yeh katha gender ya sharir se zyada
+atma aur chetna ki baat karti hai
+
+Shiv–Shakti ka ardhanarishwar tattva
+yahan jeevant ho uthta hai
+
+Smriti ka na hona dikhata hai ki
+ahankaar aur pehchaan bhi maya hai
+
+🌼 Saar (Takeaway)
+
+Manushya ka asli swaroop sharir nahi, atma hai.
+Jo sthir nahi—us par garv ya shok dono vyarth hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.88
     with st.expander("Chapter 7.88 – Budha meets Ila"):
-        text1 = """ """
+        text1 = """ 
+        Rama jab Ila ki kahani suna rahe the,
+to Lakshmana aur Bharata bahut hi aashcharya mein aa gaye 😮
+Dono ne haath jod kar poocha—
+
+“Bhagavan, jab Raja Ila stree bane, tab unhone kya kiya?
+Aur jab phir se purush bane, tab kaise rahe?”
+
+Rama ne muskurate hue aage ki kahani shuru ki 🌸"""
         create_image_text_layout("attached_assets/chapter7/7.88.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🌿 Ila ka Stree-roop aur Van-vihar
+
+Jab Ila stree bane,
+to pehla mahina unhone:
+
+apni saheliyon ke saath bitaya
+
+gehre jungle mein ghoomti rahi
+
+rath, ghode sab chhod diye
+
+paidal hi van, bel, jhaadiyon ke beech khelti rahi
+
+Woh itni sundar thi ki
+unke netra kamal jaise lagte the 🌸
+
+💧 Sundar Jheel aur Budha ka Darshan
+
+Us jungle mein ek shaant aur sundar jheel thi—
+jahaan rang-birange pakshi rehte the 🕊️
+
+Wahin Ila ne dekha—
+
+✨ Budha
+(Chandra ke putra, Budh Grah ke devta)
+
+woh paani ke beech tapasya kar rahe the
+
+unka tej ubharte hue chandrama jaisa tha
+
+bahut hi shaant, dayaalu aur gyaani the
+
+💘 Prem ka Uday
+
+Ila aur unki saheliyon ne jab paani mein chhal-chhal ki,
+to Budha ne unhe dekh liya…
+
+Aur bas!
+Kaamdev ke baan lag gaye 💘
+
+Budha ke mann mein vichaar aaya—
+
+“Yeh kaun hai?
+Devi, Apsara, Naga ya Asura stri bhi itni sundar nahi hoti!
+Agar yeh vivahit nahi hai,
+to yeh meri yogya patni ho sakti hai…”
+
+🙏 Saty ka Gyaan
+
+Budha paani se bahar aaye
+aur Ila ki saheliyon ko apne ashram bulaya.
+
+Unhone pyar se poocha—
+
+“Yeh sundari kaun hai?
+Kiski patni hai?
+Yahan kyun aayi hai?”
+
+Saheliyon ne madhur swar mein kaha—
+
+“Yeh hamari swamini hai.
+Inka koi pati nahi hai.
+Yeh hum sabke saath van mein vichar karti hain.”
+
+🔮 Divya Drishti aur Sach ka Gyaan
+
+Yeh sunkar Budha ne
+divya gyaan-vidya ka smaran kiya
+aur unhe poori Ila ki kahani samajh aa gayi—
+
+Raja Ila
+
+Shiv–Parvati ka vardaan
+
+mahina-mashina roop parivartan
+
+Sab kuch unke gyaan mein aa gaya ✨
+
+🌄 Saheliyon ka Roop Parivartan
+
+Budha ne Ila ki saheliyon se kaha—
+
+“Tum log yahin parvat par raho.
+Tum Kimpurushi banogi.
+Tumhara bhojan hoga—phal, mool aur patte.
+Tumhare pati honge—Kimpurusha.”
+
+Budha ke vachan se:
+
+Ila ki purani purush-saathi
+
+ab Kimpurushi ban gaye
+
+aur parvat ki dhaal par rehne lage
+
+🌼 Kahani ka Saar (Moral)
+
+Roop badalne se atma nahi badalti
+
+Prem gyaan ke bina andha hota hai
+
+Par gyaan + karuna se hi sahi marg milta hai
+
+Jahan gyaan hai, wahan maryada hai.
+Jahan maryada hai, wahan dharm hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.89
     with st.expander("Chapter 7.89 – Birth of Pururavas"):
-        text1 = """ """
+        text1 = """ 
+        Rama ne jab Ila ki kahani aage badhayi,
+to Lakshmana aur Bharata dono ne ek saath kaha—
+“Kitna adbhut hai yeh!”
+
+Tab Rama ne Ila aur Budha ki katha ko poorn roop diya.
+
+🌙 Budha ka Prem-Nivedan
+
+Jab Ila ki saari purani saheliyan (jo ab Kimpurushi ban chuki thi) chali gayin,
+tab Budha, jo Soma (Chandra) ke putra the,
+muskurate hue Ila se bole:
+
+“Main Chandra ka priya putra hoon,
+he sundari, mujh par kripa karo.”
+
+Ila ne bhi vinamrta aur madhur bhaav se kaha:"""
         create_image_text_layout("attached_assets/chapter7/7.89.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Main swatantra hoon,
+jahan chahoon vichar karti hoon.
+Main tumhari seva mein hoon—
+jo tumhe uchit lage, karo.”
+
+✨ Is tarah, dono ke beech prem-sambandh sthapit hua.
+
+🌸 Madhu Maas ka Milan
+
+Madhu maas (Feb–March)
+
+Budha aur Ila ne poora mahina prem aur anand mein bitaya
+
+Woh samay Ila ke liye pal bhar jaisa beet gaya
+
+Jab mahina poora hua,
+Ila ne dekha—
+
+Budha jheel ke jal mein khade,
+haath upar uthaye,
+phir se tapasya mein leen the.
+
+🌧️ Smriti-Bhram aur Budha ka Saarthi-Vachan
+
+Ila (jo us samay purush-roop mein aa chuke the) ne poocha:
+
+“Main apne saath bahut se log laaya tha,
+par ab koi dikh nahi raha—
+woh kahan gaye?”
+
+Budha ne Ila ko shant rakhne ke liye kaha:
+
+“Ek bhayankar aandhi-toofan aaya tha.
+Tumhare log dar ke maare ashram mein sharan le gaye.
+Chinta chhodo,
+yahin raho, phal-mool se jeevan chalao.”
+
+👑 Kartavya vs Prem
+
+Ila bole:
+
+“Main apna rajya chhod kar nahi reh sakta.
+Mera ek yogya putra hai—Shashabindu,
+jo rajya sambhal lega,
+par mujhe apni patniyon aur sevakon ke paas lautna hi hoga.”
+
+Budha ne tab kaha:
+
+“Ek varsh yahin raho.
+Varsh ke ant mein
+main tumhe ek boon dunga.”
+
+Ila ne yeh sweekar kar liya.
+
+🔄 Maasik Roop-Parivartan
+
+Stree-maas: Budha ke saath prem aur anand
+
+Purush-maas: dharm, niyam aur kartavya
+
+Is tarah samay beetta raha
+
+👶 Pururavas ka Janm
+
+Nauve mahine mein—
+
+✨ Ila ne ek tejashvi putra ko janm diya
+Uska naam tha Pururavas
+
+Balak mein Budha ke saare lakshan the
+
+Janm ke baad, Ila ne balak ko Budha ko saunp diya
+
+Yahin se janm hota hai
+Chandra-vansh ke mahaan raja Pururavas ka 🌙👑
+
+🌼 Katha ka Saar (Key Takeaways)
+
+Roop badalne se kartavya nahi badalta
+
+Prem aur dharm ka santulan hi jeevan ka satya hai
+
+Pururavas jaise mahan raja
+isi divya sangam se utpann hue
+
+Jahan dharm, prem aur gyaan milte hain,
+wahi se itihaas janm leta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.90
     with st.expander("Chapter 7.90 – Ila regains her form"):
-        text1 = """ """
+        text1 = """ 
+        Rama ne jab Pururavas ke adbhut janm ki katha sunayi,
+to Lakshmana aur Bharata ne pyaar se poocha—
+
+“Ek saal baad Ila ne kya kiya?
+Kya woh apni asli sthiti mein laut paayi?”
+
+Rama muskuraye aur kahani aage badhayi 👇"""
         create_image_text_layout("attached_assets/chapter7/7.90.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        🌿 Budha aur Rishiyon ka Sammelan
+
+Jab Ila apna purush-roop phir se pa chuke the,
+to Budha ne kai mahaan rishiyon ko bulaya.
+
+Sab rishi ek saath hue.
+Sabka ek hi vichaar tha—
+Ila ka jeevan poori tarah se sthir aur sukhi ho.
+
+Tab Ila ke pita Kardama Rishi bole:
+
+“Iska ek hi upaay hai—
+Rudra ko prasann karna.
+Aur Rudra ko sabse priya yagya hai—
+Ashvamedha Yagya.”
+
+Sab rishiyon ne sahmati mein sir hila diya 🙏
+
+🔥 Ashvamedha Yagya ka Mahaan Phal
+
+Ek mahaan rajrishi Marutta ne
+Budha ke ashram ke paas
+Ashvamedha Yagya sampann kiya.
+
+Yagya poora hote hi—
+
+✨ Mahadev (Rudra) prasann hue
+✨ Unhone Ila ko vardaan diya
+✨ Ila ko hamesha ke liye purush-roop wapas mil gaya
+
+Yeh vardaan kisi aur upaay se sambhav hi nahi tha.
+
+🏙️ Naya Nagar, Naya Jeevan
+
+Ila ne apni purani rajdhani chhod di
+
+Pratishthana naam ka ek sundar nagar basaya
+
+Wahi Ila ne apna jeevan vyateet kiya
+
+Baad mein, samay poora hone par,
+Ila Brahmalok ko chale gaye.
+
+Unke putra Pururavas
+Pratishthana ke raja bane 👑
+
+🌼 Katha ka Saar (Moral)
+
+Dharm aur shraddha se asambhav bhi sambhav ho jata hai
+
+Ashvamedha Yagya sirf shakti nahi,
+jeevan ko poornata deta hai
+
+Ila ka sangharsh aur mukti
+hume sikhati hai—
+sahi upaay, sahi samay par, chamatkar la sakta hai
+
+“Jab bhakti, dharm aur niyam ek saath aate hain,
+tab bhagya bhi apna roop badal leta hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
     # Chapter 7.91
     with st.expander("Chapter 7.91 – Ashvamedha sacrifice planned"):
