@@ -12749,81 +12749,1080 @@ tab bhagya bhi apna roop badal leta hai.”"""
         create_image_text_layout(text_content=text2, layout="full")
     # Chapter 7.91
     with st.expander("Chapter 7.91 – Ashvamedha sacrifice planned"):
-        text1 = """ """
+        text1 = """ 
+        Apni poori katha
+apne dono bhaiyon ko suna kar,
+Shri Rama ne Lakshmana se kaha—
+
+“Lakshmana,
+sab gyaani rishiyon ko bulao.
+Vashishtha, Vamadeva, Javali, Kashyapa—
+aur un sab brahmanon ko
+jo Ashvamedha Yagya jaante hain.
+
+Main parampara ke anusar
+Ashvamedha Yagya karna chahta hoon.
+Aur pavitra ghode ko chhodna chahta hoon.”"""
         create_image_text_layout("attached_assets/chapter7/7.91.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Lakshmana turant chale.
+Unhone sab rishiyon ko bulaya.
+Aur unhe Rama ke paas le aaye.
+
+Jab rishiyon ne Rama ko dekha,
+jo devta jaise prakashmaan the,
+aur jo unke charnon mein pranam kar rahe the,
+toh rishiyon ne un par aashirvaad barsa diye.
+
+Rama ne haath jod kar kaha.
+Unki baat dharm se bhari thi.
+Ashvamedha Yagya ke baare mein thi.
+
+Rishiyon ne suna.
+Aur Yagya ki mahima batayi.
+Yeh sun kar Rama prasann hue.
+
+Phir Rama ne Lakshmana se kaha—
+
+“Hey veer,
+Sugriva ko sandesh bhejo.
+Woh apni vanar-sena ke saath aaye.
+Sab vanvaasi bhi aayein.
+Sab is utsav ka anand lein.
+
+Bibishana ko bhi bulao.
+Woh apni Rakshas sena ke saath aaye.
+Woh sab meri madad karein.
+
+Jo raja meri seva karna chahte hain,
+woh apni sena ke saath aayein.
+Door deshon mein rehne wale
+sab rishiyon ko bhi bulao.
+Unki patniyon ko bhi saath lao.
+
+Nartak, gaayak, kalakar,
+sab ko bulao.
+Yeh mahotsav sabka hai.”
+
+Rama aage bole—
+
+“Gaumati nadi ke paas,
+Naimisharanya mein
+bada yagya-sthal banao.
+Woh bahut pavitra sthal hai.
+
+Har jagah shanti aur shuddhi ke karm ho.
+Sau-sau brahman
+yagya mein sahyog karein.
+
+Koi bhi mehmaan
+bhookha ya dukhi na jaaye.
+Sabko bhojan, vastra
+aur samman mile.
+
+Chawal, til, daal, namak, tel,
+aur sugandhit vastuen
+pehle hi bhej do.”
+
+Phir Rama ne kaha—
+
+“Bharata aage jaayenge.
+Woh sona-chandi ka prabandh karenge.
+
+Unke saath vyapari,
+kalakar, rasoiye,
+aur utsah se bhare log honge.
+
+Sena pehle chalegi.
+Baaki log suvyavasthit roop se aayenge.
+
+Yagya ke liye sundar mandap bane.
+Sab rajaon aur mehmaanon ka
+sammaan ho.”
+
+Rama ki baat sun kar,
+Bharata aage badhe.
+Unke saath Shatrughna bhi the.
+
+Sugriva apni vanar-sena ke saath chale.
+Bibishana Rakshason ke saath aaye.
+Aur rishi, apni tapasya aur shanti ke saath,
+sab yagya ke liye chal pade.
+
+✨ Moral (Sikh):
+Dharm ke kaam mein
+sabko saath lena chahiye.
+Jab neta vinamr ho,
+aur sabka samman kare,
+tab bada karya shanti aur sukh se sampann hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.92
     with st.expander("Chapter 7.92 – Ashvamedha described"):
-        text1 = """ """
+        text1 = """ 
+        Sab taiyaari poori ho gayi.
+Tab Shri Rama ne
+kaale daag wale pavitra ghode ko chhod diya.
+Ghoda unke raj-chihn se saja hua tha.
+
+Lakshmana ko,
+rishiyon ki madad ke saath,
+ghode ki dekhbhaal ka kaam diya gaya.
+Rama khud apni sena ke saath
+Naimisha Forest ki or gaye."""
         create_image_text_layout("attached_assets/chapter7/7.92.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Yagya-sthal bahut bada aur sundar tha.
+Use dekh kar Rama khush ho gaye.
+Unke mukh se nikla—
+“Kitna adbhut hai!”
+
+Naimisha Van mein rehte hue,
+sab raja apni bhent le kar aaye.
+Rama ne bhi unka
+poora samman kiya.
+Bhojan, jal aur har zarurat
+khule mann se di.
+
+Bharata aur Shatrughna
+Rama ki seva mein lage rahe.
+Sugriva ke saath aaye vanar
+vinamrata se rishiyon ki seva karte rahe.
+Bibishana aur Rakshas-gan
+tapasvi rishiyon ki madad mein lage rahe.
+
+Rajaon ke liye
+sundar mandap bane.
+Sab kuch vyavasthit tha.
+Yahi Ashvamedha Yagya ki shobha thi.
+
+Udhar Lakshmana
+ghode par nazar rakhe hue the.
+Yagya mein ek hi awaaz sunai deti thi—
+“Jo maango, khul kar do!”
+
+Rama sabko
+manchaha daan dete rahe.
+Mithaiyaan, bhojan, vastra—
+sab itna mila
+ki koi kami nahi rahi.
+
+Vanar aur Rakshas
+sabko baant rahe the.
+Koi bhookha nahi tha.
+Koi dukhi nahi tha.
+Sabke chehre par
+santosh aur muskaan thi.
+
+Bade-bade rishi bole—
+“Humne kabhi
+aisa daan nahi dekha.”
+
+Jo sona chahte the,
+unhe sona mila.
+Jo ratna chahte the,
+unhe ratna mile.
+Chandi, vastra aur dhan
+lagataar baanta ja raha tha.
+
+Tapasvi kehne lage—
+“Indra, Chandra, Yama, Varuna—
+kisi ne bhi
+aisa yagya nahi kiya.”
+
+Yeh yagya
+poori parampara ke saath hua.
+Ek saal beet gaya.
+Par na yagya ruka,
+na khazana khali hua.
+
+✨ Moral (Sikh):
+Sachchi mahanta
+daan aur seva se pehchaani jaati hai.
+Jab shakti ke saath
+karuna ho,
+toh har karya
+yaadgaar ban jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.93
     with st.expander("Chapter 7.93 – Valmiki asks Lava-Kusha to sing Ramayana"):
-        text1 = """ """
+        text1 = """ 
+        Ashvamedha Yagya chal raha tha.
+Sab kuch divya lag raha tha.
+
+Tab Valmiki ke shishya wahan aaye.
+Unhone us adbhut mahotsav ko dekha.
+Rishiyon ne paas hi
+chhoti-chhoti kutiyaan bana li.
+
+Valmiki ke sundar aashram mein
+anaaj, phal aur kand-mool se bhari
+bahut si gaadiyaan aa gayin.
+
+Tab Maharshi Valmiki ne
+apne do shishyon se kaha—
+Kusha aur Lava se।"""
         create_image_text_layout("attached_assets/chapter7/7.93.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Bachcho,
+utsah ke saath
+Ramayana gao.
+Dhyaan aur anand ke saath gao.
+
+Rishiyon ke yagya-sthal par gao.
+Brahmanon ke gharon mein gao.
+Sadkon par aur raj-mahalon mein bhi gao.
+
+Sabse pehle
+Shri Rama ke mandap ke dwar par gao.
+Aur pujariyon ke saamne bhi gao.
+
+Yeh parvaton ke phal aur kand-mool lo.
+Inhe kha kar gao.
+Tum thakoge nahi.
+Tumhari awaaz pavitra aur madhur rahegi.
+
+Agar Rama kahe
+ki rishiyon ke saamne gaao,
+toh waisa hi karna.
+
+Har baar
+sirf bees sarg gao.
+Jaise maine tumhe sikhaya hai.
+
+Yaad rakhna—
+koi puraskar nahi maangna.
+Tapasvi ke liye
+sona kis kaam ka?
+
+Agar Rama pooche—
+‘Tumhare guru kaun hain?’
+toh kehna—
+‘Hum Maharshi Valmiki ke shishya hain.’
+
+In naye veena-jaise vaadyon ke saath gao.
+Kavya ko shuru se gao.
+Raja ka sada samman karna.
+Woh sab praniyon ke pita jaise hain.
+
+Kal subah
+khushi se gao.
+Aur madhur swar mein gao.”
+
+Yeh sab keh kar
+Maharshi Valmiki shaant ho gaye.
+
+Kusha aur Lava ne
+vinamrta se kaha—
+“Guruji,
+hum aapke aadesh ka paalan karenge.”
+
+Phir dono bhai
+vidhi se pranam karke chale gaye.
+
+Us shubh raat
+unhone guru ke shabdon ko
+dil mein basaya.
+Aur utsah ke saath
+agla din aane ka intezaar kiya.
+
+✨ Moral (Sikh):
+Sahi gyaan
+vinamrta ke saath baanta jaaye,
+toh woh amrit ban jaata hai.
+Guru ki aagya aur
+nishkaam bhaav
+jeevan ko uchaai tak le jaate hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.94
     with st.expander("Chapter 7.94 – Lava-Kusha recite Ramayana"):
-        text1 = """ """
+        text1 = """ 
+        Subah ka samay tha.
+Suraj ug chuka tha.
+
+Kusha aur Lava
+snan karke aaye.
+Unhone pavitra agni prajwalit ki.
+Aur apne Guru ke aadesh ke anusar
+gaana shuru kiya.
+
+Woh kavita thi
+jo Valmiki ne rachit ki thi.
+Pehle kisi ne use aise nahi suna tha."""
         create_image_text_layout("attached_assets/chapter7/7.94.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Swar madhur the.
+Taal aur laya saaf thi.
+Veena jaise vaadyon ke saath
+Ramayana beh rahi thi.
+
+Shri Rama sun rahe the.
+Woh chakit ho gaye.
+Unka mann gehra ho gaya.
+
+Yagya ke beech
+Rama ne sabko bulaaya.
+Rishi, raja, vidvaan,
+brahman, gaayak, nartak—
+sab ek saath aaye.
+
+Phir Rama ne
+Kusha aur Lava ko
+sabha ke beech bulaya.
+
+Dono bhai
+Ramayana ka paath karne lage.
+Unka gaan Gandharvon jaisa lag raha tha.
+Sab sunte hi reh gaye.
+Kisi ka mann bharta hi nahi tha.
+
+Log aapas mein kehne lage—
+“Yeh dono to
+Rama jaise hi dikhte hain.
+Agar jata aur valkal na hote,
+toh pehchaan mushkil hoti.”
+
+Kusha aur Lava ne
+katha shuru se gao.
+Dopahar tak
+bees sarg poore ho gaye.
+
+Rama bahut prasann hue.
+Unhone Lakshmana se kaha—
+
+“Inhe turant
+sona do.
+Aur jo chahein,
+woh bhi.”
+
+Lakshmana ne
+sona diya.
+
+Par Kusha aur Lava ne
+vinamrta se mana kar diya.
+Unhone kaha—
+
+“Humein sona nahi chahiye.
+Hum tapasvi hain.
+Phal, kand-mool hi kaafi hain.
+Jungle mein
+sona ka kya kaam?”
+
+Yeh sun kar
+sab log hairaan reh gaye.
+
+Rama ne poocha—
+
+“Yeh kavita kisne rachi hai?
+Us mahan rishi ka
+aashram kahan hai?”
+
+Kusha aur Lava bole—
+
+“Is kavita ke rachayita
+Maharshi Valmiki hain.
+Yahin yagya mein upasthit hain.
+
+Is granth mein
+aapka poora jeevan likha hai.
+Chhabbis hazaar shlok.
+Kai upa-kathayein.
+Saat kand—
+Uttarakanda ke saath.
+
+Agar aap chaahein,
+toh hum
+yagya ke beech-beech
+aapko sunate rahenge.”
+
+Rama ne muskurakar suna.
+Rishi aur rajaon ke saath
+phir se yagya-mandap laute.
+
+Kusha aur Lava ka gaan
+taal aur laya ke saath
+sabke mann mein bas gaya.
+
+✨ Moral (Sikh):
+Sachcha kalaakaar
+daan se nahi,
+apne gyaan se pehchaana jaata hai.
+Aur jab katha
+nishkaam bhaav se gaayi jaaye,
+toh woh seedha hriday ko chhoo leti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.95
     with st.expander("Chapter 7.95 – Rama calls Sita"):
-        text1 = """ """
+        text1 = """ 
+        Kai din tak
+Shri Rama
+Ramayana sunte rahe.
+Rishi, raja aur vanar
+unke aas-paas the.
+
+Gaate hue
+Kusha aur Lava,
+Rama unhe dhyaan se dekhte rahe.
+Unka hriday kaanp gaya.
+Unhone pehchaan liya—
+yeh Sita ke putra hain."""
         create_image_text_layout("attached_assets/chapter7/7.95.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Rama ne gehra vichaar kiya.
+Phir kuch sajjan dooton ko bulaya.
+Sabha mein unse kaha—
+
+“Jaakar
+us pavitra devi se
+mere shabd kehna.
+
+Agar woh nirdosh hain,
+pavitra hain,
+aur rishi ki anumati ho,
+toh apni satyata pramaanit karein.
+
+Kal subah,
+Maithili Sita
+mere saamne,
+is sabha mein,
+apni pavitrata ka vachan dein.
+
+Tum wapas aakar
+mujhe soochit karna.”
+
+Rama ke is gambhir aadesh par
+doot turant chale.
+Woh mahan rishi ke paas gaye.
+Vinay se jhuk kar
+Rama ka sandesh sunaaya.
+
+Maharshi ne suna.
+Aur shaant swar mein bole—
+
+“Yeh theek hai.
+Sab mangal ho.”
+
+Doot wapas aaye.
+Aur rishi ka uttar
+Rama ko sunaaya.
+
+Yeh sun kar
+Rama ke mukh par
+shaanti aur santosh aa gaya.
+
+Unhone sabha mein kaha—
+
+“Hey Rishiyon aur Rajao,
+apne shishyon aur saathi logon ke saath
+kal yahan aaiye.
+Sita jo vachan degi,
+uske sakshi baniye.”
+
+Rama ke shabd sun kar
+sab rishi aur raja
+unki prashansa karne lage.
+
+Woh bole—
+
+“Aisi maryada
+sirf aap jaise purush mein hi ho sakti hai.
+Yeh sansaar mein anokhi hai.”
+
+Rama ne nishchay kiya.
+Aur kaha—
+
+“Kal yeh sab hoga.”
+
+Iske baad
+unhone sabha ko visarit kar diya.
+Agla din nishchit ho gaya.
+
+Rama ne
+sab rishiyon aur rajaon ko
+vida di.
+
+✨ Moral (Sikh):
+Sach aur pavitrata
+chhupayi nahi jaati.
+Jo maryada aur dharm par chal kar
+sach ka saamna karta hai,
+wahi sach-mein mahaan hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.96
     with st.expander("Chapter 7.96 – Sita appears before Rama"):
-        text1 = """ """
+        text1 = """ 
+        Raat beet chuki thi.
+Subah hui.
+
+Shri Rama
+yagya-sthal par aaye.
+Unhone sab rishiyon ko bulaya tha.
+
+Vashishtha, Vishvamitra,
+Vamadeva, Kashyapa,
+Narada, Bharadvaja,
+Durvasa aur kai anya tapasvi rishi
+wahan ikattha ho gaye."""
         create_image_text_layout("attached_assets/chapter7/7.96.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Vanar, Rakshas,
+raja, yoddha,
+vyapari aur sadharan log bhi aaye.
+Har varg ke log maujood the.
+
+Sabka mann ek hi baat par tha—
+aaj Sita
+apna vachan dene wali thi.
+
+Sab log sthir khade the.
+Jaise samay ruk gaya ho.
+
+Tab achanak
+sabse aage Valmiki aaye.
+Unke peeche Sita chal rahi thi.
+
+Sita ka sir jhuka hua tha.
+Haath jode hue the.
+Aankhon mein aansu the.
+Mann poora Rama mein laga hua tha.
+
+Sita ko dekh kar
+log ro pade.
+Koi bola—
+“Haay, haay!”
+Koi bola—
+“Jai Rama!”
+Koi bola—
+“Jai Sita!”
+Aur kai log
+dono ko naman karne lage.
+
+Valmiki aage badhe.
+Aur Rama se bole—
+
+“Hey Dasarathi,
+main Valmiki hoon.
+Yeh Sita hai—
+pavitra aur nirdosh.
+
+Logon ki baaton ke darr se
+aapne ise mere aashram ke paas chhod diya tha.
+Par yeh bilkul nirmal hai.
+
+Yeh apni pavitrata
+aaj sabke saamne pramaanit karegi.
+Aadesh aap dijiye.
+
+Aur sun lijiye—
+yeh dono balak,
+Kusha aur Lava,
+aapke hi putra hain.
+Main satya keh raha hoon.
+
+Main kabhi jhooth nahi bolta.
+Agar Sita doshi ho,
+toh meri tapasya ka phal
+mujhe kabhi na mile.
+
+Van mein dhyaan karte hue
+mujhe iska satya dikhai diya.
+Sita ka acharan shuddh hai.
+Apne pati ko woh devta maanti hai.
+
+Hey purush-shreshtha,
+yeh wahi Sita hai
+jise aap jaante the,
+par logon ke bhay se
+aapne tyag diya.
+
+Aaj main ghoshna karta hoon—
+yeh stri nirdosh hai.
+Bilkul pavitra hai.”
+
+Sari sabha shaant thi.
+Sab ki nazar
+Sita par thi.
+
+✨ Moral (Sikh):
+Sach chahe jitna daba diya jaaye,
+ek din woh prakash ban kar
+samne aa hi jaata hai.
+Aur jo pavitra hota hai,
+uska saath
+samay aur dharm
+hamesha dete hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.97
     with st.expander("Chapter 7.97 – Sita enters the Earth"):
-        text1 = """ """
+        text1 = """ 
+        Maharshi Valmiki ke shabd sun kar,
+Shri Rama ne sabha ke saamne kaha—
+
+“Hey pavitra rishi,
+aapke shabd bilkul satya hain.
+Main Sita ki pavitrata jaanta hoon.
+
+Pehle bhi usne devtaon ke saamne
+apni shuddhata ka vachan diya tha.
+Main us par vishwas karta hoon."""
         create_image_text_layout("attached_assets/chapter7/7.97.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Par logon ki ninda bahut bhari thi.
+Isi bhay se
+maine Maithili ko van mein bhej diya.
+Yeh meri kamzori thi.
+Mujhe kshama karein.
+
+Main maanta hoon—
+Kusha aur Lava
+mere hi putra hain.
+Aur main chahta hoon
+ki sabha ke saamne
+Sita se punah milan ho.”
+
+Rama ke yeh shabd sun kar
+sab devta wahan aa gaye.
+Brahma aage the.
+Rishigan aur divya shaktiyaan bhi aayiं.
+Sab Sita ke satya ko
+dekhna chahte the.
+
+Rama ne phir kaha—
+
+“Main Valmiki ke shabdon se sahmat hoon.
+Main pavitra Sita
+ko phir se sweekar karta hoon.”
+
+Us samay
+sabke mann bhar aaye.
+Achaanak
+ek shital aur sugandhit hawa chali.
+Jaise satyug ka sparsh ho.
+
+Tab Sita aage badhi.
+Peela vastra pehne thi.
+Haath jode hue the.
+Sir jhuka hua tha.
+Aankhen neeche thi.
+
+Usne shaant swar mein kaha—
+
+“Agar maine mann, vachan aur karm se
+sirf Rama ko hi apna maana ho,
+toh Dharani maa
+mujhe apni godh mein le lein.”
+
+Itna kehte hi
+adbhut chamatkar hua.
+
+Dharti phat gayi.
+Nagon ke siron par tiki
+ek divya sinhasan utra.
+Ratnon se chamakta hua.
+
+Dharti Maa Dharani ne
+Sita ko apni baahon mein bhar liya.
+Aur us divya sinhasan par bitha diya.
+
+Aakash se phoolon ki varsha hone lagi.
+Devta pukaar uthe—
+
+“Sadhu! Sadhu!
+Hey Sita,
+tumhari pavitrata anupam hai!”
+
+Sita dharti mein sama gayi.
+Sab dekhte reh gaye.
+Koi bol na saka.
+
+Aakash, prithvi aur paatal—
+teenon lok kaanp uthe.
+Yeh drishya
+kabhi na bhoolne wala tha.
+
+Sab log
+ya toh stambh ho gaye,
+ya Rama aur Sita ko dekh kar
+gehri soch mein doob gaye.
+
+✨ Moral (Sikh):
+Sach aur pavitrata
+kisi pramaan ki mohtaaj nahi hoti.
+Jab duniya sawal karti hai,
+tab bhi dharm apna raasta khud bana leta hai.
+Aur kabhi-kabhi,
+sabse pavitra aatma
+is duniya se chup-chaap
+vidaa le leti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.98
     with st.expander("Chapter 7.98 – Rama’s grief and Brahma’s words"):
-        text1 = """ """
+        text1 = """ 
+        Jab Sita
+dharti mein sama gayi,
+toh vanar aur rishi
+“Sadhu! Sadhu!” keh uthe.
+
+Par Shri Rama
+bilkul shaant na rahe.
+Unke netron se aansu beh rahe the.
+Sir jhuka hua tha.
+Yagya ke daand ka sahara liye
+woh khade the."""
         create_image_text_layout("attached_assets/chapter7/7.98.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Unka hriday
+dukh aur krodh se bhar gaya.
+Woh bole—
+
+“Meri aankhon ke saamne
+Shri-svaroop Sita chali gayi.
+Aisa dukh
+maine kabhi nahi jaana.
+
+Lanka se toh
+main use le aaya tha.
+Phir dharti se
+use laana kaunsa mushkil hai?
+
+Hey Dharti Maa,
+meri Sita mujhe lauta do.
+Warna mera krodh dekho.
+
+Tum meri sas ho.
+Sita tum se hi utri thi
+jab Janaka hal chala rahe the.
+
+Ya toh Sita ko lauta do,
+ya mujhe apne andar sama lo.
+Main uske bina
+jeevit nahi reh sakta.
+
+Agar tumne use wapas na kiya,
+toh main tumhe
+parvaton aur vanon ke saath
+ulट-palट kar dunga!”
+
+Rama ka krodh bhayankar tha.
+Unka dukh aur gehra ho gaya.
+
+Tab achanak
+Brahma
+sab devtaon ke saath prakat hue.
+Unhone Rama se kaha—
+
+“Hey Rama,
+shant ho jao.
+Apni divyata yaad karo.
+
+Tum Vishnu ho.
+Tum sabse shaktishaali ho.
+
+Sita pavitra hai.
+Apni tapasya ke bal par
+woh Nagon ke lok mein
+sukh se pahunch chuki hai.
+
+Tum dono ka milan
+swarg lok mein hoga.
+Ismein sandeh mat karo.
+
+Ab meri baat suno.
+Valmiki ka jo mahakavya hai,
+usmein tumhara poora jeevan likha hai—
+bhavishya bhi.
+
+Yeh kavya divya hai.
+Agyan ko door karta hai.
+
+Iska antim bhaag—
+Uttara Kanda—
+sirf tum sun sakte ho.
+
+Kal rishi-samuh ke saath
+isko poora sunna.”
+
+Itna keh kar
+Brahma devtaon ke saath
+apne lok chale gaye.
+
+Brahmalok ke rishi
+wahin ruk gaye.
+Woh Uttara Kanda sunna chahte the.
+
+Brahma ke shabd sun kar
+Rama ne Valmiki se kaha—
+
+“Kal aap
+Uttara Kanda sunaiye.
+Sabko bataiye
+mere jeevan ka aage ka bhaag.”
+
+Phir Rama ne
+Kusha aur Lava ko bulaya.
+Sabha visarit ki.
+
+Raat ko
+Valmiki ke aashram mein
+Rama ruk gaye.
+Patti se bani kutiya mein
+woh Sita ko yaad karte rahe.
+Unka mann
+virah se bhara hua tha.
+
+✨ Moral (Sikh):
+Sabse mahaan purush bhi
+dukh se nahi bach paate.
+Par jab smaran ho
+apne kartavya aur satya ka,
+toh krodh shaant hota hai
+aur dharm ka maarg
+phir se dikhne lagta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.99
     with st.expander("Chapter 7.99 – Death of the queens"):
-        text1 = """ """
+        text1 = """ 
+        Raat beet gayi.
+Subah hui.
+
+Shri Rama ne
+sab bade rishiyon ko bulaya.
+Phir apne dono putron se kaha—
+
+“Ab bina chinta ke gao.”
+
+Rishi apni jagah baith gaye.
+Kusha aur
+Lava ne
+Ramayana ka antim bhaag (Uttara Kanda) gaana shuru kiya."""
         create_image_text_layout("attached_assets/chapter7/7.99.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Sita
+dharti mein sama chuki thi.
+Apni pavitrata siddh ho chuki thi.
+Yagya bhi poora ho chuka tha.
+
+Par Rama ka mann
+bahut dukhi tha.
+Sita ke bina
+unhe poori duniya
+sooni lagti thi.
+
+Unhone sab rajaon,
+vanaron, bhaluon,
+rakshason aur brahmanon ko
+samman aur dhan dekar
+vida kiya.
+
+Phir kamal-netra Rama
+Ayodhya laut aaye.
+Unka mann
+hamesha Sita mein laga raha.
+
+Rama ne
+kabhi doosra vivaah nahi kiya.
+Har yagya mein
+Sita ki jagah
+Janaki ki swarn-murti rakhte the.
+
+Hazaaron saalon tak
+Rama ne
+bahut se yagya kiye.
+Vajamedha, Vajapeya,
+Agnishtoma, Atiratra—
+sab dharm ke saath.
+
+Unhone khul kar daan diya.
+Sona, ratna, vastra—
+sab baante.
+
+Bahut samay tak
+Rama rajya karte rahe.
+Unka hriday
+hamesha kartavya mein laga raha.
+
+Vanar, bhalu aur rakshas
+unke adheen the.
+Door-door ke raja
+roz unka samman karne aate the.
+
+Barish samay par hoti thi.
+Dharti hari-bhari thi.
+Log sukhi the.
+Koi bhookha nahi tha.
+Koi beemar nahi padta tha.
+Kisi ki akal mrityu nahi hoti thi.
+
+Kuch saalon baad,
+Rama ki vriddh mata
+is lok se chali gayi.
+Unke baad
+Sumitra aur
+Kaikeyi bhi
+swarg lok chali gayin.
+
+Swarg mein
+un sabka milan
+Raja Dasaratha se hua.
+Sabne apne punyon ka phal paaya.
+
+Rama apni maaon ko
+kabhi nahi bhoole.
+Samay-samay par
+brahmanon ko daan diya.
+Pitron ke liye
+shraddh aur tapasya ki.
+
+Is prakar
+hazaaron varsh
+shanti aur dharm mein beet gaye.
+Rama ne
+yagyon aur kartavya ke maadhyam se
+sansaar ko
+maryada ka maarg dikhaya.
+
+✨ Moral (Sikh):
+Sachcha prem
+kabhi khatam nahi hota.
+Jo dharm aur kartavya par jeeta hai,
+uska shok bhi
+seva aur daya mein
+badal jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.100
     with st.expander("Chapter 7.100 – Bharata sent to conquer Gandharvas"):
-        text1 = """ """
+        text1 = """ 
+        Ek din Yudhajita,
+jo Kaikeya desh ke raja the,
+apne guru Gargya ko
+Shri Rama ke paas bheja.
+
+Guru Gargya ke saath
+das hazaar ghode the.
+Sone-jaise kaaleen,
+ratna, sundar vastra
+aur chamakte abhushan bhi the.
+Yeh sab prem ka chinh tha."""
         create_image_text_layout("attached_assets/chapter7/7.100.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Jab Rama ko pata chala
+ki mahan rishi Gargya aaye hain,
+toh woh khud unse milne gaye.
+Rama ne unka
+bahut samman kiya.
+Jaise Indra
+Brihaspati ka karta hai.
+
+Rama ne rishi ko pranam kiya.
+Upahaar sweekar kiye.
+Aur apne mama
+Yudhajita ka kushal-mangal poocha.
+
+Mahal mein aakar
+Rama ne vinamrata se kaha—
+
+“Guruji,
+mere mama ne
+aapke saath
+kya sandesh bheja hai?”
+
+Tab Rishi Gargya bole—
+
+“Hey veer Rama,
+tumhare mama
+tumse ek nivedan karte hain.
+
+Sindhu nadi ke kinaare
+Gandharvon ka desh hai.
+Woh bahut upjaau hai.
+Phal aur kand-mool se bhara hai.
+
+Gandharva veer aur shastra-dhaari hain.
+Unke majboot kile hain.
+Tum unhe jeet lo.
+Unke nagar apne adheen kar lo.
+
+Yeh kaarya
+sirf tum hi kar sakte ho.
+Yeh tumhare hit mein hoga.”
+
+Rama ko yeh baat
+achhi lagi.
+Unhone kaha—
+
+“Yahi hoga.”
+
+Phir Rama ne
+Bharata ki taraf dekha.
+
+Rama bole—
+
+“Hey Brahmarishi,
+Bharata is kaarya ke liye jaayenge.
+Unke do putra hain—
+Taksha aur Pushkala.
+
+Bharata unke saath
+Gandharvon ke desh jaayenge.
+Unke nagaron par vijay paayenge.
+Phir apne putron ko
+wahan raja bana kar
+wapas laut aayenge.”
+
+Yeh keh kar
+Rama ne Bharata ko
+sena ke saath chalne ka aadesh diya.
+
+Shubh nakshatra mein,
+Guru Gargya ke aage-aage,
+Bharata apni sena aur
+dono putron ke saath nikle.
+
+Ayodhya se nikalti hui
+woh sena itni balwaan thi
+ki devta bhi
+uske paas na aa saken.
+
+Jungle ke prani,
+bhayanak rakshas,
+aur bade-bade jaanwar
+sena ke aage-chalte dikh rahe the.
+Jaise prakriti bhi
+is yatra ki sakshi ho.
+
+Ek maheene se thoda adhik samay mein,
+Bharata ki sena
+Kaikeya desh pahunch gayi.
+Sab yoddha
+swasth aur utsahit the.
+
+✨ Moral (Sikh):
+Jo raja
+kartavya aur dharm se kaam leta hai,
+woh apne parivaar ko bhi
+seva aur zimmedaari ka paath sikhaata hai.
+Sachchi shakti
+sirf vijay mein nahi,
+balki sahi haath ko
+sahi samay par
+aage badhane mein hoti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
