@@ -13828,87 +13828,1255 @@ aage badhane mein hoti hai."""
 
     # Chapter 7.101
     with st.expander("Chapter 7.101 – Gandharvas defeated"):
-        text1 = """ """
+        text1 = """ 
+        Jab Bharata
+badi sena ke saath pahunche,
+aur unke saath Guru Gargya the,
+toh Yudhajita
+bahut prasann hue.
+
+Yudhajita turant
+apni sena ke saath nikle.
+Unhone Bharata ka saath diya.
+Dono senaein mil gayin."""
         create_image_text_layout("attached_assets/chapter7/7.101.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Phir woh
+Gandharvon ke nagar ke paas pahunche.
+Shatru ko jaise hi pata chala,
+woh bhi yudh ke liye
+taiyaar ho gaye.
+Har taraf yudh-nad ghoonj uthi.
+
+Bhayanak yudh shuru hua.
+Saat din tak chala.
+Kisi ko bhi
+poori jeet nahi mili.
+
+Maidaan laal ho gaya.
+Yudh bahut kathor tha.
+
+Ant mein Bharata ka krodh jaaga.
+Unhone mantron se yukt
+ek bhayanak astr chhoda.
+Us astr ka naam Samvarta tha.
+
+Pal bhar mein
+bahut se Gandharva nasht ho gaye.
+Aisa yudh
+devta bhi pehle kabhi
+yaad nahi kar paaye the.
+
+Shatru ka vinaash ho gaya.
+Phir Bharata
+unke sundar aur samriddh nagaron mein gaye.
+
+Unhone
+apne putron ko raja banaya.
+Taksha ko
+Takshashila ka raja banaya.
+Pushkala ko
+Pushkalavati ka raja banaya.
+
+Woh desh
+Gandhara kshetra mein tha.
+Nagar bahut sundar the.
+Ratna, van, baag aur bazaar se bhare hue.
+
+Paanch varsh tak
+Bharata ne wahan raj kiya.
+Log shant aur shisht the.
+
+Phir Bharata
+Ayodhya laut aaye.
+
+Ayodhya pahunch kar
+unhone Shri Rama ko pranam kiya.
+Jaise Indra, Brahma ko karta hai.
+
+Bharata ne
+poori ghatna sunaayi—
+yudh, vijay
+aur rajya sthapana.
+
+Rama ne
+santosh ke saath suna.
+Unka mann
+dharm aur kartavya se prasann hua.
+
+✨ Moral (Sikh):
+Shakti ka sahi upyog
+anyay ko rokne ke liye hota hai.
+Aur jab vijay ke baad
+zimmedaari aur nyay ho,
+toh rajya bhi
+sukh aur shanti se phoolta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.102
     with st.expander("Chapter 7.102 – Kingdoms given to Lakshmana’s sons"):
-        text1 = """ """
+        text1 = """ 
+        Yeh sab sun kar
+Shri Rama
+apne bhaiyon ke saath prasann hue.
+Unhone sabke saamne kaha—
+
+“Lakshmana,
+tumhare dono putra—
+Angada
+aur Candraketu—
+rajya karne ke yogya hain."""
         create_image_text_layout("attached_assets/chapter7/7.102.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Woh shaktishaali hain.
+Utsahi hain.
+Main dono ko raja banaunga.
+
+Unke liye
+ek aisa kshetra dhoondo
+jo khula aur surakshit ho.
+Jahan shatru ka bhay na ho.
+Jahan tapasviyon ke aashram ko
+koi nuksaan na ho.
+Aur bina kisi ko kasht diye
+woh sukh se rajya kar saken.”
+
+Rama ke shabd sun kar
+Bharata bole—
+
+“Ek sundar aur swasth kshetra hai—
+Karupatta.
+Wahan do nagar basaye ja sakte hain.
+
+Angada ke liye
+Angadiya.
+Aur Candraketu ke liye
+Candrakanta.”
+
+Rama ko yeh baat
+bahut achhi lagi.
+Unhone us desh ko
+apne adheen kiya.
+
+Angada ke liye
+Angadiya
+basaya gaya.
+Woh nagar sundar aur surakshit tha.
+
+Candraketu ke liye
+Candrakanta
+banaya gaya.
+Woh Malla desh mein tha.
+Aur Amaravati jaisa bhavya tha.
+
+Phir bade anand ke saath
+Rama, Lakshmana aur Bharata
+dono yuva rajkumaron ke
+rajyabhishek mein aaye.
+
+Abhishek ke baad
+dono ne apna kartavya sweekara.
+Desh ko do bhaagon mein baanta gaya.
+
+Angada ko
+pashchim ka kshetra mila.
+Candraketu ko
+uttar ka kshetra.
+
+Angada ke saath
+Shatrughna rahe.
+Candraketu ke saath
+Lakshmana aur Bharata gaye.
+
+Ek saal baad
+Lakshmana
+Ayodhya laut aaye.
+Bharata ek saal aur ruke.
+Phir woh bhi
+Rama ke charnon mein
+wapas aa gaye.
+
+Rama ke prem mein
+aur dharm ke kaaryon mein
+samay ka pata hi nahi chala.
+Is prakar
+hazaaron varsh beet gaye.
+
+Ayodhya dharm se chamakti rahi.
+Sab milkar
+rajya chalate rahe.
+Jaise yagya ki teen pavitra agni
+ek saath prajwalit hoti hain.
+
+✨ Moral (Sikh):
+Sahi neta
+shakti ko baantta hai,
+sirf apne paas nahi rakhta.
+Aur jab rajya
+nyay aur dharm se diya jaata hai,
+toh peedhi dar peedhi
+shanti bani rehti hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.103
     with st.expander("Chapter 7.103 – Death comes for Rama"):
-        text1 = """ """
+        text1 = """ 
+        Bahut samay beet chuka tha.
+Ek din Mrityu,
+ek tapasvi sadhu ke roop mein,
+Shri Rama ke dwar par aaye.
+
+Unhone kaha—
+
+“Main ek mahan rishi ka sandeshvahak hoon.
+Rama se milna bahut zaroori hai.”
+
+Yeh sun kar
+Lakshmana
+turant Rama ke paas gaye.
+Aur bole—"""
         create_image_text_layout("attached_assets/chapter7/7.103.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        “Hey Prabhu,
+ek tapasvi aaye hain.
+Unka tej suraj jaisa hai.
+Woh aapse milna chahte hain.”
+
+Rama ne shaant swar mein kaha—
+
+“Lakshmana,
+us mahan tapasvi ko
+andar le aao.”
+
+Lakshmana ne
+sadhu ko andar bulaya.
+Unke charon taraf
+tej ki aabha thi.
+
+Sadhu aage badhe.
+Aur Rama se bole—
+
+“Tumhara kalyan ho.”
+
+Rama ne
+vidhi ke anusar
+unhe arghya diya.
+Unka kushal-mangal poocha.
+
+Sadhu ne kaha—
+“Main kushal hoon.”
+
+Phir woh
+sone ke sinhasan par baith gaye.
+
+Rama ne poocha—
+
+“Hey Mahatma,
+aap kaunsa sandesh
+lekar aaye hain?”
+
+Sadhu ne gambhir swar mein kaha—
+
+“Yeh baat
+sirf hum dono ke beech honi chahiye.
+Agar koi aur sun le,
+toh uska vadh karna hoga.
+
+Devtaon ke aadesh
+gupt hote hain.
+Unka maan rakhna
+aapka kartavya hai.”
+
+Rama ne bina hichkichaye kaha—
+
+“Yahi hoga.”
+
+Phir Rama ne
+Lakshmana ko bulaya aur bole—
+
+“Tum dwar par khade raho.
+Koi bhi andar na aaye.
+
+Agar koi
+humari baat sun le,
+toh uska vadh
+mujhe karna padega.”
+
+Lakshmana ne
+aadesh maana.
+Aur dwar par jaakar khade ho gaye.
+
+Ab Rama ne sadhu se kaha—
+
+“Hey Tapasvi,
+ab nishchint ho kar bolo.
+Jo sandesh tum laaye ho,
+main use hriday mein basaa lunga.”
+
+✨ Moral (Sikh):
+Jab samay apna sandesh bhejta hai,
+toh woh aam roop mein nahi aata.
+Dharm ke marg par chalne wale ko
+kathin nirnay bhi
+shaant mann se lena padta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.104
     with st.expander("Chapter 7.104 – Message of Death"):
-        text1 = """ """
+        text1 = """ 
+        Tapasvi ne kaha—
+
+“Hey mahaan Raja,
+ab mere aane ka uddeshya suno.
+Mujhe Brahma ne bheja hai.
+
+Pichhle janm mein
+main unka putra tha.
+Main Mrityu hoon.
+Sabka ant karne wala.”
+
+Usne aage kaha—
+
+“Brahma dev
+tumse yeh kehte hain—"""
         create_image_text_layout("attached_assets/chapter7/7.104.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        ‘Hey Rama,
+tumhara kaarya poora ho chuka hai.
+Tum sansaar ke rakshak ho.
+
+Pehle tumne
+Maya ke saath
+jal mein shayan karke
+sansaar ki rachna ki.
+Ananta naag ko janam diya.
+Madhu aur Kaitabha ko nasht kiya.
+Tumhari naabhi se kamal nikla,
+jisse main paida hua.
+
+Tumne mujhe
+sansaar rachne ka kaam diya.
+Isliye meri shakti bhi
+tum hi ho.
+
+Tum Vishnu ho.
+Aditi ke putra ho.
+Tumne apne bhaiyon ki sahayata ki.
+Aur unke kaaryon ko poora kiya.
+
+Jab Ravana ne
+sab praniyon ko peedit kiya,
+tab tum manushya roop mein aaye.
+
+Tumne nishchay kiya
+ki gyarah hazaar varsh
+prithvi par rahoge.
+Ab tumhara samay poora hua.
+
+Ab wapas aane ka samay hai.
+Yadi tum aur rukna chaho,
+toh woh bhi tumhari ichchha hai.’
+
+Brahma ka sandesh yahi hai—
+
+‘Yadi tum devlok wapas aao,
+toh sab devta
+nischint ho jaayenge.
+Kyonki Vishnu
+unke beech honge.’”
+
+Mrityu ki baat sun kar
+Shri Rama
+muskuraye.
+
+Unhone shaant swar mein kaha—
+
+“Brahma dev ke shabd
+mere hriday ko prasann karte hain.
+Aur tumhara aana bhi.
+
+Main sansaar ke kalyan ke liye
+yahaan aaya tha.
+Wahi mera uddeshya tha.
+
+Ab samay aa gaya hai.
+Main bina vilamb
+apna kartavya poora karunga.
+
+Brahma ne jo kaha,
+woh satya hai.
+Mujhe devtaon ke kaaryon par
+dhyaan dena hoga.
+
+Hey Mrityu,
+tum bhi prasann raho.”
+
+✨ Moral (Sikh):
+Jab jeevan ka uddeshya poora ho jaata hai,
+toh vidai bhi dharm ka hi ek roop hoti hai.
+Mahan log
+apne kaam se bandhe nahi rehte,
+balki samay ke aadesh ko
+vinamrata se sweekar karte hain."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.105
     with st.expander("Chapter 7.105 – Visit of Sage Durvasa"):
-        text1 = """ """
+        text1 = """ 
+        Rama aur Mrityu
+abhi baat kar hi rahe the.
+
+Tab Durvasa
+Rama ke mahal ke dwar par aaye.
+Woh Rama se milna chahte the.
+
+Durvasa ne
+Lakshmana se kaha—
+
+“Mujhe turant
+Rama ke paas le chalo.
+Baat bahut zaroori hai!”"""
         create_image_text_layout("attached_assets/chapter7/7.105.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Lakshmana ne
+vinamrta se pranam kiya.
+Aur bole—
+
+“Hey Maharshi,
+kripya batayein
+kaunsa kaam hai?
+Rama is samay
+ek mahatvapurn baat mein vyast hain.
+Thodi pratiksha karein.”
+
+Yeh sun kar
+Durvasa ko bahut krodh aa gaya.
+Unki aankhon se
+agni si nikalne lagi.
+
+Woh bole—
+
+“Agar abhi mera sandesh
+Rama tak na pahunchaya,
+toh main shraap de dunga—
+rajya ko, nagar ko,
+tumhe, Rama ko,
+Bharata ko
+aur poore vansh ko!”
+
+Lakshmana yeh sun kar
+gehri soch mein pad gaye.
+Unhone mann hi mann kaha—
+
+“Sab ka vinaash hone se achha hai
+main hi apna kartavya nibhaun.”
+
+Yeh soch kar
+Lakshmana ne
+Durvasa ke aane ki soochna
+Rama ko de di.
+
+Jaise hi Rama ne suna,
+unhone Mrityu se
+vidaa li.
+Aur turant
+Durvasa ke paas aaye.
+
+Rama ne
+haath jod kar pranam kiya.
+Aur bole—
+
+“Hey Maharshi,
+aapka kya aadesh hai?”
+
+Durvasa bole—
+
+“Rama,
+maine aaj
+hazaar varsh ka upvaas
+poora kiya hai.
+Ab mujhe
+bhojan chahiye.”
+
+Rama ka mann
+prasann ho gaya.
+Unhone turant
+jo bhojan tayaar tha,
+Durvasa ko arpan kiya.
+
+Durvasa ne
+amrit ke samaan bhojan kiya.
+Aur bole—
+
+“Sab theek hai.”
+
+Phir woh
+apne aashram laut gaye.
+
+Durvasa ke jaate hi
+Rama ko
+Mrityu ke shabd yaad aa gaye.
+Unka sir jhuk gaya.
+Hriday bhar aaya.
+
+Woh kuch bole nahi.
+Bas mann hi mann socha—
+
+“Ab sab poora ho chuka hai.”
+
+Aur Rama
+gehri chuppi mein
+doob gaye.
+
+✨ Moral (Sikh):
+Kabhi-kabhi
+dharm ke raaste par
+aise nirnay lene padte hain
+jo bahut kathin hote hain.
+Par jo apna kartavya
+dusron ke kalyan ke liye chunta hai,
+wahi sachcha veer hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.106
     with st.expander("Chapter 7.106 – Lakshmana is banished"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ne
+Shri Rama ko dekha.
+Rama ka sir jhuka hua tha.
+Chehra udaas tha.
+Jaise chand par grahan lag gaya ho.
+
+Lakshmana ne
+pyaar aur shaanti se kaha—
+
+“Bhaiya,
+mere liye shok mat kijiye.
+Yeh pehle se hi likha tha.
+Iska kaaran purane karm mein hai."""
         create_image_text_layout("attached_assets/chapter7/7.106.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Aap apna vachan nibhaiye.
+Bina hichkichaye
+mujhe dand dijiye.
+
+Jo apna vachan todta hai,
+woh narak ko jaata hai.
+
+Agar aap mujhse prem karte hain,
+aur mujh mein kuch gun dekhte hain,
+toh dharm ka paalan kijiye.
+Mujhe dand dekar
+niyam poora kijiye.”
+
+Lakshmana ke shabd
+Rama ke hriday ko cheer gaye.
+Rama ne
+apne mantri aur purohit bulaye.
+Aur sab baat bata di—
+Durvasa ka aana,
+aur diya hua vachan.
+
+Sab chup ho gaye.
+Tab Vasishtha bole—
+
+“Rama,
+Lakshmana se bichhadna
+aapke liye maha-dukh hai.
+Par vachan todna
+aur bhi bhayankar hai.
+
+Agar dharm toot gaya,
+toh teenon lok nasht ho jaayenge.
+Isliye,
+sansaar ki raksha ke liye,
+Lakshmana ko tyagna hi hoga.”
+
+Yeh baat
+sab ne sweekar ki.
+
+Rama ne
+bhari sabha mein kaha—
+
+“Dharm ki raksha ke liye,
+hey Saumitri,
+main tumhe vanvaas deta hoon.
+Mahaan purush ke liye
+mrityu aur vanvaas
+ek saman hote hain.”
+
+Yeh sun kar
+Lakshmana ro pade.
+Bina ghar gaye,
+bina peeche dekhe,
+woh turant chal diye.
+
+Woh Sarayu River ke kinaare pahunche.
+Snan kiya.
+Haath jod kar dhyaan mein baith gaye.
+
+Unhone
+indriyon ke dwaar band kar liye.
+Shwaas bhi rok li.
+Unka mann
+sirf dhyaan mein tha.
+
+Tab devta prakat hue.
+Apsaraein aayiं.
+Rishiyon ne
+phoolon ki varsha ki.
+
+Lakshmana
+manushyon ki drishti se
+adrishya ho gaye.
+Indra
+unhe apne saath
+swarg lok le gaye.
+
+Devtaon ne dekha—
+Vishnu ka chautha ansh
+swarg mein pravesh kar raha hai.
+Sab ne milkar
+Raghu-vansh ke veer ko
+naman kiya.
+
+✨ Moral (Sikh):
+Dharm ka maarg
+kabhi-kabhi sabse pyaari cheez
+chhodne ko majboor karta hai.
+Par jo vachan aur kartavya ke liye
+apna sukh tyaag deta hai,
+wahi sachcha mahaan hota hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.107
     with st.expander("Chapter 7.107 – Lava-Kusha crowned"):
-        text1 = """ """
+        text1 = """ 
+        Lakshmana ko vanvaas dene ke baad,
+Shri Rama
+gehre dukh mein doob gaye.
+
+Unhone apne
+purohiton, mantriyon
+aur nagarvaasiyon se kaha—
+
+“Aaj main
+Bharata ka
+rajyabhishek karunga.
+Aur phir main bhi
+van ki or chal padunga."""
         create_image_text_layout("attached_assets/chapter7/7.107.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Aaj hi
+main usi maarg par jaunga
+jis par Lakshmana gaye hain.
+Koi vilamb na ho.”
+
+Yeh sun kar
+sab log toot se gaye.
+Sir jhuk gaye.
+Jaise jeevan hi nikal gaya ho.
+
+Bharata yeh sun kar
+vyakul ho gaye.
+Unhone spasht kaha—
+
+“Bhaiya,
+main aapke bina
+na prithvi par
+na swarg mein
+raj karna chahta hoon.
+
+Aap apne putron
+Kusha
+aur Lava
+ko raja bana dijiye.
+
+Dakshin Kosala
+Kusha ko dijiye.
+Uttar kshetra
+Lava ko.
+
+Shatrughna ko
+turant sandesh bheja jaaye.”
+
+Nagarvaasi bhi
+aansoon mein the.
+Sabka mann bhara hua tha.
+
+Tab Vasishtha bole—
+
+“Rama,
+dekhiye in logon ka prem.
+Yeh jo chahte hain,
+use poora kijiye.
+Inhe aur dukh na dijiye.”
+
+Rama ne
+sab logon ko uthaaya
+aur poocha—
+
+“Tum kya chahte ho?”
+
+Sab ek saath bole—
+
+“Agar aap ja rahe hain,
+toh hum bhi saath chalenge.
+Apni patniyon,
+bachchon ke saath.
+
+Jahan aap jaayenge,
+wahin hum jaayenge.
+Van ho, nadi ho,
+samudra ho—
+humein aapke saath rehna hai.
+
+Humein akela mat chhodiye.
+Yahi hamari
+sabse badi ichchha hai.”
+
+Rama ne unka prem dekha.
+Aur kaha—
+
+“Yahi hoga.”
+
+Phir Rama ne
+antim nirnay liya.
+
+Dakshin Kosala
+Kusha ko diya.
+Uttar ka rajya
+Lava ko diya.
+
+Dono putron ko
+apni godh mein baithaaya.
+Ayodhya mein
+unhe rajya par baithaaya.
+
+Unhe
+hazaaron rath,
+haathiyon aur ghodon se sampann kiya.
+Ratna aur dhan diya.
+Sukhi aur swasth praja saunpi.
+
+Phir
+Kusha aur Lava ko
+apne-apne rajdhaniyon
+ki or bhej diya.
+
+Jab dono rajkumar
+apne-apne rajya mein
+sthāpit ho gaye,
+toh Rama ne
+Shatrughna ke paas bhi
+sandesh bheja.
+
+✨ Moral (Sikh):
+Sachcha raja
+sirf rajya nahi deta,
+apna hriday bhi deta hai.
+Aur jab praja ka prem
+itna gehra ho,
+toh rajya se bada
+rishta janm leta hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.108
     with st.expander("Chapter 7.108 – Rama’s final orders"):
-        text1 = """ """
+        text1 = """ 
+        Shri Rama ke aadesh par
+doot tezi se chale.
+Bina ruke
+Mathura pahunch gaye.
+
+Teen raaton ke baad
+unhone sab baat
+Shatrughna ko bata di—
+
+Lakshmana ka vanvaas.
+Rama ka kathor vachan.
+Kusha aur Lava ka rajyabhishek.
+Ayodhya ki praja ka
+Rama ke saath chalne ka sankalp."""
         create_image_text_layout("attached_assets/chapter7/7.108.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Unhone yeh bhi kaha—
+Vindhya parvat par
+Kushavati basai gayi hai
+Kusha ke liye.
+Aur Shravasti
+Lava ki rajdhani hai.
+
+Aur yeh bhi—
+Rama aur Bharata
+poori Ayodhya ke saath
+svarg jaane ki taiyaari mein hain.
+
+Yeh sun kar
+Shatrughna ka mann hil gaya.
+Unhone turant
+apni praja aur purohit
+Kancana ko bulaya.
+
+Phir Shatrughna ne
+apne dono putron ko raja banaya.
+Subahu ko Mathura di.
+Shatrughatin ko Vaidisha.
+Dhan barabar baanta.
+
+Sab kaam poora karke
+Shatrughna ek rath par
+Ayodhya chal pade.
+
+Ayodhya mein
+unhone Rama ko dekha.
+Rama agni jaise tejasvi the.
+Rishiyon ke beech khade the.
+
+Shatrughna ne pranam kiya
+aur bole—
+
+“Bhaiya,
+maine apna kartavya poora kar liya hai.
+Ab main bhi
+aapke saath chalna chahta hoon.
+Mujhe mat rokiye.”
+
+Rama ne unka dridh sankalp dekha.
+Aur shaant swar mein kaha—
+
+“Yahi hoga.”
+
+Isi samay
+Sugriva
+vanaron ke saath aaye.
+Bhalu aur anya prani bhi aaye.
+
+Devta, rishi, gandharva—
+sab jama ho gaye.
+Sab bole—
+
+“Hey Rama,
+hum bhi aapke saath chalenge.
+Humein chhod kar jaana
+mrityu ke saman hoga.”
+
+Sugriva ne jhuk kar kaha—
+
+“Angada ko raja bana kar
+main bhi
+aapke saath chalne aaya hoon.”
+
+Rama muskuraye—
+
+“So be it.”
+
+Phir Rama ne
+Vibhishana se kaha—
+
+“Jab tak prithvi par log hain,
+jab tak suraj aur chandra hain,
+tum Lanka par raj karo.
+
+Nyay se shasan karna.
+Aur Jagannath
+—Ikshvaku vansh ke dev—
+unka sada smaran karna.”
+
+Vibhishana ne kaha—
+
+“Main aisa hi karunga.”
+
+Phir Rama ne
+Hanuman se kaha—
+
+“Tum prithvi par hi raho.
+Jab tak meri katha
+sansaar mein kahi jaati rahe,
+tum yahin rehna.”
+
+Hanuman ne anand se kaha—
+
+“Jab tak
+Ram-katha jeevit hai,
+main bhi prithvi par rahunga.”
+
+Phir Rama ne
+Jambavan se kaha—
+
+“Kali Yug aane tak
+tum bhi prithvi par hi rehna.”
+
+Aur sab vanaron aur bhaluon se bole—
+
+“Jo mere saath chalna chahen,
+woh aa sakte hain.”
+
+Yeh Rama ke
+antim aadesh the.
+
+✨ Moral (Sikh):
+Sachcha neta
+jaate hue bhi
+vyavastha aur dharm chhod kar nahi jaata.
+Aur jo apne logon ko
+yaad rakhne layak marg de jaata hai,
+woh sharir se nahi,
+katha aur maryada se
+amar ho jaata hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.109
     with st.expander("Chapter 7.109 – Rama’s Mahaprasthana"):
-        text1 = """ """
+        text1 = """ 
+        Subah hui.
+Ujala phail gaya.
+
+Shri Rama
+kamal-jaise netron wale,
+tejasvi aur shaant the.
+Unhone apne guru
+Vasishtha se kaha—
+
+“Agnihotra ko aage le chaliye.
+Yagya ka mandap bhi saath rahe.
+Hey Gurudev,
+aap is pavitra yatra ka netritva kijiye.”"""
         create_image_text_layout("attached_assets/chapter7/7.109.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Vasishtha ne
+Mahaprasthana ke
+saare vidhi-vidhaan poore kiye.
+Koi bhi niyam chhoota nahi.
+
+Phir Rama
+reshmi vastron mein,
+Vedic mantron ka jaap karte hue,
+dono haathon mein
+kush ghas pakad kar,
+Sarayu River
+ki or chal pade.
+
+Woh nange paanv the.
+Chalte hue
+kabhi rukte,
+kabhi shaant aage badhte.
+
+Unke daahine
+Lakshmi
+kamal ke saath chal rahi thi.
+Baayen taraf
+Dharti Maa thi.
+
+Unke shastra—
+dhanush, baan,
+sab manushya roop mein
+saath chal rahe the.
+
+Brahmanon ke roop mein
+Ved saath the.
+Gayatri,
+“Om”,
+“Vashat”—
+sab pavitra shabd
+unke peechhe the.
+
+Rishi,
+devta,
+sab prithvi ke lokpal
+Rama ke saath chal pade.
+Jaise swarg ke dwar
+khul rahe hon.
+
+Mahal ki striyaan,
+buzurg,
+bachche,
+sevadar—
+sab saath the.
+
+Bharata
+apni patniyon ke saath.
+Shatrughna bhi saath the.
+Yagya ki agni bhi
+chal rahi thi.
+
+Rishi apni patniyon aur putron ke saath aaye.
+Mantri,
+sevakon ke parivaar,
+sab khushi se
+Rama ke peechhe chale.
+
+Ayodhya ke nagarvaasi—
+swasth, prasann,
+gunon se bhare hue—
+sab nikal pade.
+
+Purush, striyaan,
+pakshi, pashu—
+sab paap-mukt jaise
+aage badh rahe the.
+
+Vanar snan karke aaye.
+Anand se chillaaye—
+“Kilakila! Kilakila!”
+
+Us bheed mein
+koi dukhi nahi tha.
+Koi udaas nahi tha.
+Sabke mann mein
+anokhi shanti thi.
+
+Jahan-jahan se
+Rama guzre,
+wahan ke log bhi
+saath judte gaye.
+
+Bhalu, vanar,
+rakshas, nagarvaasi—
+sab shaant aur bhakti se
+unke peechhe the.
+
+Yahan tak ki
+adrishya jeev bhi
+is yatra ka hissa bane.
+
+Ayodhya khaali ho gayi.
+Ek bhi prani peeche nahi raha.
+Janwar tak
+Rama ke saath chal pade.
+
+✨ Moral (Sikh):
+Jab koi jeevan bhar
+dharm aur prem ka marg dikhata hai,
+toh uski vidai
+sirf ek yatra nahi hoti—
+woh sabko
+uchchai ki or le jaane wali
+ek pavitra prerna ban jaati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.110
     with st.expander("Chapter 7.110 – Rama ascends to heaven"):
-        text1 = """ """
+        text1 = """ 
+        Lagbhag chhe kos chalne ke baad
+Shri Rama ne
+Sarayu River
+ke pavitra jal dekhe.
+Paani dheere-dheere
+pashchim ki or beh raha tha.
+Lehren chamak rahi thi.
+
+Rama
+Goprataraka Ghat par pahunche.
+Unke charon taraf
+unki praja thi."""
         create_image_text_layout("attached_assets/chapter7/7.110.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Jaise hi Rama
+swarg jaane ko taiyaar hue,
+tab aakash se
+Brahma
+devtaon aur rishiyon ke saath prakat hue.
+Sab vimanon mein the.
+Aakash adbhut prakash se bhar gaya.
+
+Sugandhit hawa behne lagi.
+Devtaon ne phoolon ki varsha ki.
+Gandharv aur apsara
+gaayan aur sangeet karne lage.
+
+Us madhur dhvani ke beech
+Rama ne
+Sarayu ke jal mein pravesh kiya.
+
+Tab Brahma bole—
+
+“Jai ho Vishnu!
+Jai ho Raghava!
+
+Apne bhaiyon ke saath
+apne shashvat dham mein aaiye.
+
+Agar aap chahen,
+toh apne divya roop mein
+pravesh kijiye.
+
+Aap hi sansaar ka aadhaar hain.
+Aap ajeya, avinashi
+aur anant hain.”
+
+Yeh sun kar
+Rama ne apna nishchay kiya.
+Aur apne bhaiyon ke saath
+Vishnu lok mein pravesh kiya.
+
+Us kshan
+sab devta anand se bhar gaye.
+Indra, Agni, Marut,
+rishi, gandharv, apsara—
+sab ne milkar
+“Jai! Jai!” ka ghosh kiya.
+
+Tab Vishnu bole—
+
+“Hey Brahma,
+mere sab bhakton ko
+uchit sthaan do.
+Inhone mere liye
+sab kuch tyaag diya hai.”
+
+Brahma ne uttar diya—
+
+“Yeh sab
+Santanaka lok ko prapt karenge.
+Jo jeev
+aapke charnon ka smaran karte hue
+yahaan aaye,
+woh bhi
+Brahmalok ke nikat rahenge.
+
+Vanar aur bhalu
+pehle hi devlok se aaye the.
+Ab woh wapas
+apne divya lokon mein ja rahe hain.
+Sugriva
+Surya mandal mein sama gaye hain.”
+
+Isi samay
+vanar aur bhalu
+apne divya roop mein
+sabke saamne prakat hue.
+
+Jo bhi
+Sarayu ke jal mein pravesh karta,
+woh anand se
+apna sharir tyag deta.
+Aankhon mein
+anand ke aansu hote.
+
+Pashu-pakshi bhi
+divya sharir paakar
+swarg ko prapt hue.
+Koi bhi jeev—
+chhota ya bada—
+peeche nahi raha.
+
+Ant mein
+sab ko swarg ka sthaan dekar,
+Brahma devtaon ke saath
+apne param dham
+laut gaye.
+
+✨ Antim Moral (Sikh):
+Jo jeevan bhar
+dharm, prem aur satya ka marg dikhata hai,
+uske saath chalne wale
+kabhi akela nahi jaate.
+Sachchi bhakti
+sirf mukti nahi deti,
+sab ko saath le jaati hai."""
         create_image_text_layout(text_content=text2, layout="full")
 
 
     # Chapter 7.111
     with st.expander("Chapter 7.111 – Supreme message of Ramayana"):
-        text1 = """ """
+        text1 = """ 
+        Yeh thi
+poori Ramayana.
+Iska rachayita tha
+Valmiki.
+Aur is katha ko
+Brahma
+khud naman karte hain.
+
+Vishnu
+apne divya lok
+Svargalok mein
+wapas chale gaye.
+Woh teenon lokon mein
+vyapt hain—
+chalne wale aur
+sthavar sab mein."""
         create_image_text_layout("attached_assets/chapter7/7.111.jpg", text1, layout="side", image_position="left")
-        text2 = """ """
+        text2 = """ 
+        Swarg mein
+devta, gandharv,
+siddh aur rishi
+aaj bhi Ramayana
+prem se sunte hain.
+
+Yeh katha
+lambi aayu deti hai.
+Sukh aur samriddhi deti hai.
+Paapon ko nasht karti hai.
+Isliye yeh
+Ved ke samaan pavitra hai.
+
+Jo shraddha se
+Ramayana sunta hai—
+uske jeevan mein
+kalyan hota hai.
+
+Jiske putra nahi hote,
+use putra prapt hota hai.
+Jo nirdhan hai,
+use dhan milta hai.
+
+Sirf ek charan padhne se
+bhi paap dhul jaate hain.
+Roz paap karne wala bhi
+ek shlok se
+shuddh ho jaata hai.
+
+Jo Ramayana ka paath karta hai,
+use vastra, gau aur
+sone se samman dena chahiye.
+Kyonki jab paath karne wala
+prasann hota hai,
+tab sab devta
+prasann hote hain.
+
+Jo bhakti se
+Ramayana ka path karta hai—
+subah, dopahar
+ya sandhya kaal mein—
+uske jeevan mein
+kabhi durbhagya nahi aata.
+
+Uske putra
+aur potra
+is lok mein bhi
+sukh paate hain.
+Aur paralok mein bhi
+use uttam gati milti hai.
+
+Kabhi khaali hui
+Ayodhya
+bhi ek din
+phir se basai jaayegi.
+Ek raja aayega—
+Rishabha naam ka.
+
+Yeh katha—
+Bhavishya aur
+Uttara kanda ke saath—
+Brahma ke anumodan se
+lok-kalyan ke liye rachit hai.
+
+✨ Antim Sikh (Final Moral):
+Ramayana sirf ek kahani nahi hai.
+Yeh jeevan jeene ka marg hai.
+Jo ise shraddha se apnaata hai,
+woh dharm, prem aur
+satya ke saath
+apna jeevan safal banata hai."""
         create_image_text_layout(text_content=text2, layout="full")
